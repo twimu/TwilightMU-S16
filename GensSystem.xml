@@ -92,7 +92,7 @@
 -->
 
 <GensSystem BlueMuMode="0" InitialContributePoint="10" AbusingPenaltyWarning="3" AbusingPenaltyLimit="6" AbusingResetTime="60" PkPenaltyAddNeedZenMapMove="2" DamageReduction="100">
-	<General CanSeeOppositeGensChat="0" CanJoinPartyWhileOppositeGens="0" CanJoinGuildWhileOppositeGens="0" CanJoinUnionWhileOppositeGens="0" CanCreatePartyOnBattleZone="0" />
+	<General CanSeeOppositeGensChat="0" CanJoinPartyWhileOppositeGens="1" CanJoinGuildWhileOppositeGens="1" CanJoinUnionWhileOppositeGens="0" CanCreatePartyOnBattleZone="0" />
 	<RewardSettings StartDay="1" EndDay="7" MinRankToGainReward="300" />
 	
 	<RankingSettings>
