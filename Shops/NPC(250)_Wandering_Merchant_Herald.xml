@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Dragon Knight Helm-->
+	<Item Cat="7" Index="29" Level="3" Durability="93" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Knight Pants-->
+	<Item Cat="9" Index="29" Level="3" Durability="93" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Knight Gloves-->
+	<Item Cat="10" Index="29" Level="3" Durability="93" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Knight Boots-->
+	<Item Cat="11" Index="29" Level="3" Durability="93" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Knight Armor-->
+	<Item Cat="8" Index="29" Level="3" Durability="93" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Piercing Groove Helm-->
+	<Item Cat="7" Index="61" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Piercing Groove Armor-->
+	<Item Cat="8" Index="61" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Piercing Groove Pants-->
+	<Item Cat="9" Index="61" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Piercing Groove Boots-->
+	<Item Cat="11" Index="61" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bone Blade-->
+	<Item Cat="0" Index="22" Level="3" Durability="98" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Piercing Blade Glove-->
+	<Item Cat="0" Index="34" Level="3" Durability="89" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Daybreak-->
+	<Item Cat="0" Index="24" Level="3" Durability="93" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Shield-->
+	<Item Cat="6" Index="13" Level="3" Durability="63" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+</Shop>

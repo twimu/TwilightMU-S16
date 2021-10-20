@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<CashItemPackage>
+	<Package GUID="0" ID="9" ItemSequence="0" UniqueID1="535" UniqueID2="622" Description="" />
+	<Package GUID="1" ID="9" ItemSequence="1" UniqueID1="541" UniqueID2="628" Description="" />
+	<Package GUID="2" ID="9" ItemSequence="2" UniqueID1="542" UniqueID2="629" Description="" />
+	<Package GUID="3" ID="9" ItemSequence="3" UniqueID1="543" UniqueID2="630" Description="" />
+	<Package GUID="4" ID="9" ItemSequence="4" UniqueID1="544" UniqueID2="631" Description="" />
+	<Package GUID="5" ID="9" ItemSequence="5" UniqueID1="545" UniqueID2="632" Description="" />
+	<Package GUID="0" ID="10" ItemSequence="0" UniqueID1="530" UniqueID2="612" Description="" />
+	<Package GUID="1" ID="10" ItemSequence="1" UniqueID1="534" UniqueID2="621" Description="" />
+	<Package GUID="2" ID="10" ItemSequence="2" UniqueID1="535" UniqueID2="622" Description="" />
+	<Package GUID="3" ID="10" ItemSequence="3" UniqueID1="536" UniqueID2="623" Description="" />
+	<Package GUID="4" ID="10" ItemSequence="4" UniqueID1="537" UniqueID2="624" Description="" />
+	<Package GUID="5" ID="10" ItemSequence="5" UniqueID1="538" UniqueID2="625" Description="" />
+	<Package GUID="6" ID="10" ItemSequence="6" UniqueID1="539" UniqueID2="626" Description="" />
+	<Package GUID="7" ID="10" ItemSequence="7" UniqueID1="540" UniqueID2="627" Description="" />
+	<Package GUID="8" ID="10" ItemSequence="8" UniqueID1="541" UniqueID2="628" Description="" />
+	<Package GUID="9" ID="10" ItemSequence="9" UniqueID1="542" UniqueID2="629" Description="" />
+	<Package GUID="10" ID="10" ItemSequence="10" UniqueID1="543" UniqueID2="630" Description="" />
+	<Package GUID="11" ID="10" ItemSequence="11" UniqueID1="544" UniqueID2="631" Description="" />
+	<Package GUID="12" ID="10" ItemSequence="12" UniqueID1="545" UniqueID2="632" Description="" />
+	<Package GUID="0" ID="11" ItemSequence="0" UniqueID1="548" UniqueID2="635" Description="" />
+	<Package GUID="1" ID="11" ItemSequence="1" UniqueID1="554" UniqueID2="641" Description="" />
+	<Package GUID="2" ID="11" ItemSequence="2" UniqueID1="555" UniqueID2="642" Description="" />
+	<Package GUID="3" ID="11" ItemSequence="3" UniqueID1="556" UniqueID2="643" Description="" />
+	<Package GUID="4" ID="11" ItemSequence="4" UniqueID1="557" UniqueID2="644" Description="" />
+	<Package GUID="5" ID="11" ItemSequence="5" UniqueID1="558" UniqueID2="645" Description="" />
+	<Package GUID="0" ID="12" ItemSequence="0" UniqueID1="546" UniqueID2="633" Description="" />
+	<Package GUID="1" ID="12" ItemSequence="1" UniqueID1="547" UniqueID2="634" Description="" />
+	<Package GUID="2" ID="12" ItemSequence="2" UniqueID1="548" UniqueID2="635" Description="" />
+	<Package GUID="3" ID="12" ItemSequence="3" UniqueID1="549" UniqueID2="636" Description="" />
+	<Package GUID="4" ID="12" ItemSequence="4" UniqueID1="550" UniqueID2="637" Description="" />
+	<Package GUID="5" ID="12" ItemSequence="5" UniqueID1="551" UniqueID2="638" Description="" />
+	<Package GUID="6" ID="12" ItemSequence="6" UniqueID1="552" UniqueID2="639" Description="" />
+	<Package GUID="7" ID="12" ItemSequence="7" UniqueID1="553" UniqueID2="640" Description="" />
+	<Package GUID="8" ID="12" ItemSequence="8" UniqueID1="554" UniqueID2="641" Description="" />
+	<Package GUID="9" ID="12" ItemSequence="9" UniqueID1="555" UniqueID2="642" Description="" />
+	<Package GUID="10" ID="12" ItemSequence="10" UniqueID1="556" UniqueID2="643" Description="" />
+	<Package GUID="11" ID="12" ItemSequence="11" UniqueID1="557" UniqueID2="644" Description="" />
+	<Package GUID="12" ID="12" ItemSequence="12" UniqueID1="558" UniqueID2="645" Description="" />
+</CashItemPackage>

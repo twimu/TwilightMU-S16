@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Leather Helm-->
+	<Item Cat="7" Index="5" Level="3" Durability="33" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Leather Armor-->
+	<Item Cat="8" Index="5" Level="3" Durability="33" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Leather Pants-->
+	<Item Cat="9" Index="5" Level="3" Durability="33" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Leather Gloves-->
+	<Item Cat="10" Index="5" Level="3" Durability="33" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Leather Boots-->
+	<Item Cat="11" Index="5" Level="3" Durability="33" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Bronze Helm-->
+	<Item Cat="7" Index="0" Level="3" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bronze Armor-->
+	<Item Cat="8" Index="0" Level="3" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bronze Pants-->
+	<Item Cat="9" Index="0" Level="3" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bronze Gloves-->
+	<Item Cat="10" Index="0" Level="3" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bronze Boots-->
+	<Item Cat="11" Index="0" Level="3" Durability="37" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Robust Helmet-->
+	<Item Cat="7" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Robust Armor-->
+	<Item Cat="8" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Robust Pants-->
+	<Item Cat="9" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Robust Gloves-->
+	<Item Cat="10" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Robust Boots-->
+	<Item Cat="11" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Slayer Red Wing Helm-->
+	<Item Cat="7" Index="174" Level="3" Durability="33" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Red Wing Armor-->
+	<Item Cat="8" Index="174" Level="3" Durability="33" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Red Wing Pants-->
+	<Item Cat="9" Index="174" Level="3" Durability="33" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Red Wing Gloves-->
+	<Item Cat="10" Index="174" Level="3" Durability="33" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Red Wing Boots-->
+	<Item Cat="11" Index="174" Level="3" Durability="33" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Slayer Helm (A)-->
+	<Item Cat="7" Index="175" Level="3" Durability="43" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Armor (A)-->
+	<Item Cat="8" Index="175" Level="3" Durability="43" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Pants (A)-->
+	<Item Cat="9" Index="175" Level="3" Durability="43" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Gloves (A)-->
+	<Item Cat="10" Index="175" Level="3" Durability="43" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Slayer Boots (A)-->
+	<Item Cat="11" Index="175" Level="3" Durability="43" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+</Shop>

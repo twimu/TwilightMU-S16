@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Violent Wind Helm-->
+	<Item Cat="7" Index="39" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Violent Wind Armor-->
+	<Item Cat="8" Index="39" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Violent Wind Pants-->
+	<Item Cat="9" Index="39" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Violent Wind Gloves-->
+	<Item Cat="10" Index="39" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Violent Wind Boots-->
+	<Item Cat="11" Index="39" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Helm-->
+	<Item Cat="7" Index="40" Level="3" Durability="45" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Armor-->
+	<Item Cat="8" Index="40" Level="3" Durability="45" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Pants-->
+	<Item Cat="9" Index="40" Level="3" Durability="45" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Gloves-->
+	<Item Cat="10" Index="40" Level="3" Durability="45" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Boots-->
+	<Item Cat="11" Index="40" Level="3" Durability="45" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Drain Life Parchment-->
+	<Item Cat="15" Index="20" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sleep Parchment-->
+	<Item Cat="15" Index="24" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Chain Lightning Parchment-->
+	<Item Cat="15" Index="19" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Damage Reflection Parchment-->
+	<Item Cat="15" Index="22" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Weakness Parchment-->
+	<Item Cat="15" Index="26" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Innovation Parchment-->
+	<Item Cat="15" Index="27" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Lightning Shock Parchment-->
+	<Item Cat="15" Index="21" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Berserker Parchment-->
+	<Item Cat="15" Index="23" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Book of Shamut-->
+	<Item Cat="5" Index="21" Level="3" Durability="3" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Book of Neil-->
+	<Item Cat="5" Index="22" Level="3" Durability="3" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Violent Wind Stick-->
+	<Item Cat="5" Index="15" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Red Wing Stick-->
+	<Item Cat="5" Index="16" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Ancient Stick-->
+	<Item Cat="5" Index="17" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+</Shop>

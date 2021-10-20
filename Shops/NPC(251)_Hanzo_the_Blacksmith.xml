@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Small Shield-->
+	<Item Cat="6" Index="0" Level="0" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Buckler-->
+	<Item Cat="6" Index="4" Level="1" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Horn Shield-->
+	<Item Cat="6" Index="1" Level="2" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Kite Shield-->
+	<Item Cat="6" Index="2" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Skull Shield-->
+	<Item Cat="6" Index="6" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Large Round Shield-->
+	<Item Cat="6" Index="10" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Plate Shield-->
+	<Item Cat="6" Index="9" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spiked Shield-->
+	<Item Cat="6" Index="7" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dragon Slayer Shield-->
+	<Item Cat="6" Index="5" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Tower Shield-->
+	<Item Cat="6" Index="8" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Serpent Shield-->
+	<Item Cat="6" Index="11" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bronze Shield-->
+	<Item Cat="6" Index="12" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Lapid Shield-->
+	<Item Cat="6" Index="29" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Alacran Shield-->
+	<Item Cat="6" Index="31" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Lapid Lance-->
+	<Item Cat="3" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Short Sword-->
+	<Item Cat="0" Index="1" Level="0" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Hand Axe-->
+	<Item Cat="1" Index="1" Level="1" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Mace-->
+	<Item Cat="2" Index="0" Level="2" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rapier-->
+	<Item Cat="0" Index="2" Level="2" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Double Axe-->
+	<Item Cat="1" Index="2" Level="2" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sword of Assassin-->
+	<Item Cat="0" Index="4" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Morning Star-->
+	<Item Cat="2" Index="1" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Tomahawk-->
+	<Item Cat="1" Index="3" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Kris-->
+	<Item Cat="0" Index="0" Level="2" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Gladius-->
+	<Item Cat="0" Index="6" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Falchion-->
+	<Item Cat="0" Index="7" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Serpent Sword-->
+	<Item Cat="0" Index="8" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Blade-->
+	<Item Cat="0" Index="5" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	
+	<!-- Flat Short Sword-->
+	<Item Cat="0" Index="66" Level="3" Durability="23" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Dacia Short Sword-->
+	<Item Cat="0" Index="67" Level="3" Durability="48" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Cookery Short Sword-->
+	<Item Cat="0" Index="68" Level="3" Durability="83" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+</Shop>

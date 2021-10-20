@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Spirit Helm-->
+	<Item Cat="7" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spirit Armor-->
+	<Item Cat="8" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spirit Pants-->
+	<Item Cat="9" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spirit Gloves-->
+	<Item Cat="10" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spirit Boots-->
+	<Item Cat="11" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Guardian Helm-->
+	<Item Cat="7" Index="14" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Guardian Armor-->
+	<Item Cat="8" Index="14" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Guardian Pants-->
+	<Item Cat="9" Index="14" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Guardian Gloves-->
+	<Item Cat="10" Index="14" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Guardian Boots-->
+	<Item Cat="11" Index="14" Level="3" Durability="0" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Crossbow-->
+	<Item Cat="4" Index="8" Level="1" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Golden Crossbow-->
+	<Item Cat="4" Index="9" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Short Bow-->
+	<Item Cat="4" Index="0" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Bow-->
+	<Item Cat="4" Index="1" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Elven Bow-->
+	<Item Cat="4" Index="2" Level="2" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Battle Bow-->
+	<Item Cat="4" Index="3" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Light Crossbow-->
+	<Item Cat="4" Index="11" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Tiger Bow-->
+	<Item Cat="4" Index="4" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Arquebus-->
+	<Item Cat="4" Index="10" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Combat Quiver-->
+	<Item Cat="4" Index="32" Level="0" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Elven Shield-->
+	<Item Cat="6" Index="3" Level="3" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Pad Helm-->
+	<Item Cat="7" Index="116" Level="3" Durability="31" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Pad Armor-->
+	<Item Cat="8" Index="116" Level="3" Durability="31" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Pad Pants-->
+	<Item Cat="9" Index="116" Level="3" Durability="31" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Pads Gloves-->
+	<Item Cat="10" Index="116" Level="3" Durability="31" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Pad Boots-->
+	<Item Cat="11" Index="116" Level="3" Durability="31" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Spink Mask-->
+	<Item Cat="7" Index="117" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Spink Armor-->
+	<Item Cat="8" Index="117" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Spink Pants-->
+	<Item Cat="9" Index="117" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Spink Gloves-->
+	<Item Cat="10" Index="117" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Rune Spink Boots-->
+	<Item Cat="11" Index="117" Level="3" Durability="39" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+</Shop>

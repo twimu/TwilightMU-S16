@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010 - 2018 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<Shop>
+	<!-- Volcano Armor-->
+	<Item Cat="8" Index="32" Level="3" Durability="98" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Volcano Pants-->
+	<Item Cat="9" Index="32" Level="3" Durability="98" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Volcano Gloves-->
+	<Item Cat="10" Index="32" Level="3" Durability="98" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Volcano Boots-->
+	<Item Cat="11" Index="32" Level="3" Durability="98" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sunlight Mask-->
+	<Item Cat="7" Index="33" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sunlight Armor-->
+	<Item Cat="8" Index="33" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sunlight Pants-->
+	<Item Cat="9" Index="33" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sunlight Gloves-->
+	<Item Cat="10" Index="33" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sunlight Boots-->
+	<Item Cat="11" Index="33" Level="3" Durability="85" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Explosion Blade-->
+	<Item Cat="0" Index="23" Level="3" Durability="113" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Sword of Destruction-->
+	<Item Cat="0" Index="16" Level="3" Durability="87" Skill="1" Luck="0" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Soleil Scepter-->
+	<Item Cat="2" Index="14" Level="3" Durability="98" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Serpent Shield-->
+	<Item Cat="6" Index="11" Level="3" Durability="51" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+</Shop>
