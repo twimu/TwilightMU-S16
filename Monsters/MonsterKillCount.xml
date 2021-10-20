@@ -22,5 +22,5 @@
 -->
 
 <MonsterKillCount>
-	<Monster Index="1" Enable="0" />
+	<Monster Index="275" Enable="1" /> <!-- Kundun7 -->
 </MonsterKillCount>
