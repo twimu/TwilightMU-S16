@@ -38,11 +38,10 @@
 
 <InvasionManager Enable="1">
 	<Invasion Type="0" Name="Red Dragon Invasion">
-		<Start DayOfWeek="-1" Hour="1"  Minute="0" />
-		<Start DayOfWeek="-1" Hour="3"  Minute="0" />
-		<Start DayOfWeek="-1" Hour="13" Minute="0" />
-		<Start DayOfWeek="-1" Hour="15" Minute="0" />
-		<Start DayOfWeek="-1" Hour="23" Minute="0" />
+		<Start DayOfWeek="-1" Hour="4"  Minute="30" />
+		<Start DayOfWeek="-1" Hour="10"  Minute="30" />
+		<Start DayOfWeek="-1" Hour="16" Minute="30" />
+		<Start DayOfWeek="-1" Hour="22" Minute="30" />
 	</Invasion>
 
 	<Invasion Type="1" Name="Skeleton King Invasion">
@@ -59,13 +58,13 @@
 	</Invasion>
 
 	<Invasion Type="3" Name="White Wizard Invasion">
-		<Start DayOfWeek="-1" Hour="3"  Minute="30" />
-		<Start DayOfWeek="-1" Hour="5"  Minute="30" />
-		<Start DayOfWeek="-1" Hour="7"  Minute="30" />
-		<Start DayOfWeek="-1" Hour="11" Minute="30" />
-		<Start DayOfWeek="-1" Hour="15" Minute="30" />
-		<Start DayOfWeek="-1" Hour="19" Minute="30" />
-		<Start DayOfWeek="-1" Hour="23" Minute="30" />
+		<Start DayOfWeek="-1" Hour="3"  Minute="0" />
+		<Start DayOfWeek="-1" Hour="5"  Minute="0" />
+		<Start DayOfWeek="-1" Hour="7"  Minute="0" />
+		<Start DayOfWeek="-1" Hour="11" Minute="0" />
+		<Start DayOfWeek="-1" Hour="15" Minute="0" />
+		<Start DayOfWeek="-1" Hour="19" Minute="0" />
+		<Start DayOfWeek="-1" Hour="23" Minute="0" />
 	</Invasion>
 
 	<Invasion Type="4" Name="Santa Event">
