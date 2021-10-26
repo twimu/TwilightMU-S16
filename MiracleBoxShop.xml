@@ -116,7 +116,7 @@
 				<Item Cat="0" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Double Blade --> 
 				<!--Talismans-->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->	
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->	
 			</Reward>
 		</Section>
 		<Section ID="1" Active="1" Name="Moss Staff Box">
@@ -137,7 +137,7 @@
 				<Item Cat="5" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Platina Staff -->
 				<!--Talismans-->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->	
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->	
 			</Reward>
 		</Section>	
 		<Section ID="2" Active="1" Name="Moss Bow Box">
@@ -158,7 +158,7 @@
 				<Item Cat="4" Index="43" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Frere Magic Gun -->									
 				<!--Talismans-->>
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->	
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->	
 				
 			</Reward>
 		</Section>			
@@ -178,7 +178,7 @@
 				<Item Cat="2" Index="12" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Great Lord Scepter -->
 				<!--Talismans-->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->
 			</Reward>
 		</Section>				
 		<Section ID="4" Active="1" Name="Moss Stick Box">
@@ -199,7 +199,7 @@
 				<Item Cat="5" Index="23" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Book of Lagle -->				
 				<!--Talismans-->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->
 			</Reward>
 		</Section>	
 		<Section ID="5" Active="1" Name="Bless Jewelry Box">
@@ -229,7 +229,7 @@
 				<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Cherry Blossom Rice Cake -->
 				<Item Cat="14" Index="400" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Ruud Box (50) -->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->
 				<!--Random Jewels-->
 				<Item Cat="14" Index="14" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Jewel of Soul -->
 				<Item Cat="14" Index="16" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Jewel of Life -->
@@ -268,7 +268,7 @@
 				<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Cherry Blossom Rice Cake -->
 				<Item Cat="14" Index="352" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Ruud Box (10) -->
 				<Item Cat="14" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Luck -->
-				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Talisman of Chaos Assembly -->
+				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Talisman of Chaos Assembly -->
 				<!--Random Jewels-->
 				<Item Cat="14" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Jewel of Bless -->
 				<Item Cat="14" Index="16" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Jewel of Life -->
