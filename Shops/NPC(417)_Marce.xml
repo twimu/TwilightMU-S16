@@ -48,14 +48,14 @@
 	<!-- Berserker Parchment-->
 	<Item Cat="15" Index="23" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Book of Shamut-->
-	<Item Cat="5" Index="21" Level="3" Durability="3" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="21" Level="3" Durability="63" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Book of Neil-->
-	<Item Cat="5" Index="22" Level="3" Durability="3" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="22" Level="3" Durability="68" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Violent Wind Stick-->
-	<Item Cat="5" Index="15" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="15" Level="3" Durability="68" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Red Wing Stick-->
-	<Item Cat="5" Index="16" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="16" Level="3" Durability="63" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Ancient Stick-->
-	<Item Cat="5" Index="17" Level="3" Durability="3" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="17" Level="3" Durability="84" Skill="0" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	
 </Shop>

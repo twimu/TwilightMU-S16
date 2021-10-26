@@ -52,18 +52,18 @@
 <Time ToOpen="5" PlayDuration="15" ToClose="1" />
 
 	<Schedule>
-		<Start Hour="0" Minute="40" />
-		<Start Hour="2" Minute="40" />
-		<Start Hour="4" Minute="40" />
-		<Start Hour="6" Minute="40" />
-		<Start Hour="8" Minute="40" />
-		<Start Hour="10" Minute="40" />
-		<Start Hour="12" Minute="40" />
-		<Start Hour="14" Minute="40" />
-		<Start Hour="16" Minute="40" />
-		<Start Hour="18" Minute="40" />
-		<Start Hour="20" Minute="40" />
-		<Start Hour="22" Minute="40" />
+		<Start Hour="0" Minute="45" />
+		<Start Hour="2" Minute="45" />
+		<Start Hour="4" Minute="45" />
+		<Start Hour="6" Minute="45" />
+		<Start Hour="8" Minute="45" />
+		<Start Hour="10" Minute="45" />
+		<Start Hour="12" Minute="45" />
+		<Start Hour="14" Minute="45" />
+		<Start Hour="16" Minute="45" />
+		<Start Hour="18" Minute="45" />
+		<Start Hour="20" Minute="45" />
+		<Start Hour="22" Minute="45" />
 	</Schedule>
 
 	<EntryLevel>
