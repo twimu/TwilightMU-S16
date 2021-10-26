@@ -19,61 +19,61 @@
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="8000" Count="1"> <!-- Weapons -->
-		<Item Cat="1" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Elven Axe -->
-		<Item Cat="1" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Battle Axe -->
-		<Item Cat="4" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Crossbow -->
-		<Item Cat="0" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Serpent Sword -->
-		<Item Cat="0" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sword of Salamander -->
-		<Item Cat="0" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Blade -->
-		<Item Cat="0" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Saber -->
-		<Item Cat="3" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spear -->
-		<Item Cat="3" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Giant Trident -->
-		<Item Cat="3" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Lapid Lance -->
-		<Item Cat="5" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Staff -->
-		<Item Cat="5" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Gorgon Staff -->
-		<Item Cat="5" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Stick -->
-		<Item Cat="2" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Battle Scepter -->
+		<Item Cat="1" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Elven Axe -->
+		<Item Cat="1" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Battle Axe -->
+		<Item Cat="4" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Crossbow -->
+		<Item Cat="0" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Serpent Sword -->
+		<Item Cat="0" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sword of Salamander -->
+		<Item Cat="0" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Blade -->
+		<Item Cat="0" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Saber -->
+		<Item Cat="3" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spear -->
+		<Item Cat="3" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Giant Trident -->
+		<Item Cat="3" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Lapid Lance -->
+		<Item Cat="5" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Staff -->
+		<Item Cat="5" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Gorgon Staff -->
+		<Item Cat="5" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Stick -->
+		<Item Cat="2" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Battle Scepter -->
 	</Drop>
 	<Drop Rate="6000" Count="1"> <!-- Shields -->
-		<Item Cat="6" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Shield -->
-		<Item Cat="6" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spiked Shield -->
+		<Item Cat="6" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Shield -->
+		<Item Cat="6" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spiked Shield -->
 	</Drop>
 	<Drop Rate="4000" Count="1"> <!-- Armors -->
-		<Item Cat="7" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Helm -->
-		<Item Cat="8" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Armor -->
-		<Item Cat="9" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Pants -->
-		<Item Cat="10" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Gloves -->
-		<Item Cat="11" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Boots -->
-		<Item Cat="7" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Helm -->
-		<Item Cat="8" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Armor -->
-		<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Pants -->
-		<Item Cat="10" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Gloves -->
-		<Item Cat="11" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Boots -->
-		<Item Cat="7" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Helm -->
-		<Item Cat="8" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Armor -->
-		<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Pants -->
-		<Item Cat="10" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Gloves -->
-		<Item Cat="11" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Boots -->
-		<Item Cat="7" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Helm -->
-		<Item Cat="8" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Armor -->
-		<Item Cat="9" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Pants -->
-		<Item Cat="10" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Gloves -->
-		<Item Cat="11" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Boots -->
-		<Item Cat="7" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Helm -->
-		<Item Cat="8" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Armor -->
-		<Item Cat="9" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Pants -->
-		<Item Cat="10" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Gloves -->
-		<Item Cat="11" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Boots -->
-		<Item Cat="7" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Helm -->
-		<Item Cat="8" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Armor -->
-		<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Pants -->
-		<Item Cat="10" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Gloves -->
-		<Item Cat="11" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Boots -->
-		<Item Cat="7" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Helm -->
-		<Item Cat="8" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Armor -->
-		<Item Cat="9" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Pants -->
-		<Item Cat="10" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Gloves -->
-		<Item Cat="11" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Boots -->
+		<Item Cat="7" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Helm -->
+		<Item Cat="8" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Armor -->
+		<Item Cat="9" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Pants -->
+		<Item Cat="10" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Gloves -->
+		<Item Cat="11" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Brass Boots -->
+		<Item Cat="7" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Helm -->
+		<Item Cat="8" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Armor -->
+		<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Pants -->
+		<Item Cat="10" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Gloves -->
+		<Item Cat="11" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Boots -->
+		<Item Cat="7" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Helm -->
+		<Item Cat="8" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Armor -->
+		<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Pants -->
+		<Item Cat="10" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Gloves -->
+		<Item Cat="11" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Boots -->
+		<Item Cat="7" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Helm -->
+		<Item Cat="8" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Armor -->
+		<Item Cat="9" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Pants -->
+		<Item Cat="10" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Gloves -->
+		<Item Cat="11" Index="70" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Red Wing Boots -->
+		<Item Cat="7" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Helm -->
+		<Item Cat="8" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Armor -->
+		<Item Cat="9" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Pants -->
+		<Item Cat="10" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Gloves -->
+		<Item Cat="11" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Spirit Boots -->
+		<Item Cat="7" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Helm -->
+		<Item Cat="8" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Armor -->
+		<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Pants -->
+		<Item Cat="10" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Gloves -->
+		<Item Cat="11" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Boots -->
+		<Item Cat="7" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Helm -->
+		<Item Cat="8" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Armor -->
+		<Item Cat="9" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Pants -->
+		<Item Cat="10" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Gloves -->
+		<Item Cat="11" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Robust Boots -->
 	</Drop>
 </DropAllow>
 </ItemBag>
