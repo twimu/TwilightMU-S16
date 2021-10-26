@@ -3268,14 +3268,14 @@
 			<Spawn Index="407" Distance="0" StartX="62" StartY="239" Dir="1" /> <!-- Werewolf Quarel -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
-			<!--(204) Wolf Status [Lv.2]-->
-			<Spawn Index="204" Distance="6" StartX="169" StartY="96" EndX="174" EndY="100" Dir="-1" Count="8" />
-			<!--(204) Wolf Status [Lv.2]-->
-			<Spawn Index="204" Distance="6" StartX="176" StartY="147" EndX="181" EndY="152" Dir="-1" Count="8" />
-			<!--(204) Wolf Status [Lv.2]-->
-			<Spawn Index="204" Distance="6" StartX="152" StartY="54" EndX="157" EndY="58" Dir="-1" Count="8" />
-			<!--(204) Wolf Status [Lv.2]-->
-			<Spawn Index="204" Distance="6" StartX="140" StartY="70" EndX="144" EndY="75" Dir="-1" Count="8" />
+			<!--(315) Werewolf(Hero) [Lv.127]-->
+			<Spawn Index="315" Distance="6" StartX="169" StartY="96" EndX="174" EndY="100" Dir="-1" Count="8" />
+			<!--(315) Werewolf(Hero) [Lv.127]-->
+			<Spawn Index="315" Distance="6" StartX="176" StartY="147" EndX="181" EndY="152" Dir="-1" Count="8" />
+			<!--(316) Balram [Lv.132]-->
+			<Spawn Index="316" Distance="6" StartX="152" StartY="54" EndX="157" EndY="58" Dir="-1" Count="8" />
+			<!--(316) Balram [Lv.132]-->
+			<Spawn Index="316" Distance="6" StartX="140" StartY="70" EndX="144" EndY="75" Dir="-1" Count="8" />
 			<!--(311) Lance Scout [Lv.97]-->
 			<Spawn Index="311" Distance="6" StartX="207" StartY="76" EndX="212" EndY="80" Dir="-1" Count="8" />
 			<!--(311) Lance Scout [Lv.97]-->
