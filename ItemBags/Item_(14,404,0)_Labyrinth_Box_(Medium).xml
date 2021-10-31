@@ -12,14 +12,42 @@
 -->
 
 <ItemBag>
-<BagConfig Name="Item_(14,404,0)_Labyrinth_Box_(Medium)" ItemRate="10000" SetItemRate="0" MasterySetItemInclude="0" MoneyDrop="1000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
+<BagConfig Name="Item_(14,404,0)_Labyrinth_Box_(Medium)" ItemRate="10000" SetItemRate="500" MasterySetItemInclude="0" MoneyDrop="1000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
-<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+<AddCoin Enable="1" CoinType="1" CoinValue="25" />
 <Ruud GainRate="0" MinValue="0" MaxValue="0" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
-	<Drop Rate="10000" Count="1">
-		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+	<Drop Rate="1000" Count="1">
+		<!--Bless of Light (Middle Grade)-->
+		<Item Cat="14" Index="264" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+	</Drop>
+	<Drop Rate="1500" Count="1">
+		<!--Stack of Talismans of Luck-->
+		<Item Cat="14" Index="53" ItemMinLevel="0" ItemMaxLevel="0" Durability="3" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+	</Drop>	
+	<Drop Rate="500" Count="1">
+		<!--Talisman of Chaos-->
+		<Item Cat="14" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+	</Drop>	
+	<Drop Rate="500" Count="1">
+		<!--Ruud Box-->
+		<Item Cat="14" Index="401" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+	</Drop>		
+	<Drop Rate="5500" Count="1">
+		<!--Stack of Random Jewels (Chaos/Bless/Soul/JoL)-->
+		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Durability="8" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />		
+		<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Durability="8" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="8" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Durability="8" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />				
+	</Drop>
+	<Drop Rate="900" Count="1">
+		<!--Elena's Letter-->
+		<Item Cat="14" Index="430" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />	
+	</Drop>	
+	<Drop Rate="100" Count="1">
+		<!--Jewel of Luck-->
+		<Item Cat="20" Index="504" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />	
 	</Drop>
 </DropAllow>
 </ItemBag>
