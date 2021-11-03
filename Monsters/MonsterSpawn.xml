@@ -6343,12 +6343,50 @@
 			<Spawn Index="730" Distance="6" StartX="134" StartY="167" EndX="137" EndY="170" Dir="-1" Count="6" />
 			<!--(730) Ferea Knight [Lv.121]-->
 			<Spawn Index="730" Distance="6" StartX="117" StartY="16" EndX="120" EndY="20" Dir="-1" Count="6" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="59" StartY="238" EndX="62" EndY="240" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="30" StartY="179" EndX="32" EndY="182" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="96" StartY="167" EndX="99" EndY="170" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="57" StartY="52" EndX="60" EndY="55" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="24" StartY="55" EndX="27" EndY="58" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="83" StartY="13" EndX="86" EndY="16" Dir="-1" Count="6" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="156" StartY="13" EndX="159" EndY="15" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="211" StartY="9" EndX="215" EndY="12" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="141" StartY="139" EndX="144" EndY="143" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="154" StartY="169" EndX="157" EndY="172" Dir="-1" Count="2" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="239" StartY="50" EndX="242" EndY="53" Dir="-1" Count="6" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="215" StartY="38" EndX="218" EndY="41" Dir="-1" Count="6" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="125" StartY="68" EndX="128" EndY="72" Dir="-1" Count="6" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="61" StartY="167" EndX="63" EndY="170" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="17" StartY="161" EndX="21" EndY="164" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="36" StartY="12" EndX="39" EndY="14" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="46" StartY="34" EndX="49" EndY="37" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="79" StartY="47" EndX="81" EndY="50" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="141" StartY="17" EndX="144" EndY="19" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="212" StartY="59" EndX="215" EndY="62" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="166" StartY="152" EndX="169" EndY="154" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="182" StartY="216" EndX="185" EndY="219" Dir="-1" Count="2" />
 			<!--(732) Ferea Fighter [Lv.123]-->
 			<Spawn Index="732" Distance="6" StartX="195" StartY="99" EndX="198" EndY="102" Dir="-1" Count="6" />
 			<!--(732) Ferea Fighter [Lv.123]-->
@@ -6373,6 +6411,26 @@
 			<Spawn Index="732" Distance="6" StartX="108" StartY="230" EndX="112" EndY="233" Dir="-1" Count="6" />
 			<!--(732) Ferea Fighter [Lv.123]-->
 			<Spawn Index="732" Distance="6" StartX="97" StartY="41" EndX="100" EndY="44" Dir="-1" Count="6" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="34" StartY="239" EndX="36" EndY="242" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="14" StartY="235" EndX="16" EndY="238" Dir="-1" Count="2" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="14" StartY="200" EndX="17" EndY="203" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="36" StartY="215" EndX="39" EndY="218" Dir="-1" Count="6" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="81" StartY="162" EndX="84" EndY="165" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="71" StartY="67" EndX="74" EndY="70" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="47" StartY="55" EndX="50" EndY="58" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="194" StartY="31" EndX="197" EndY="34" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="184" StartY="72" EndX="187" EndY="75" Dir="-1" Count="2" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="76" StartY="189" EndX="80" EndY="192" Dir="-1" Count="6" />
 			<!--(733) Ferea General [Lv.130]-->
 			<Spawn Index="733" Distance="6" StartX="86" StartY="87" EndX="90" EndY="90" Dir="-1" Count="8" />
 			<!--(733) Ferea General [Lv.130]-->
