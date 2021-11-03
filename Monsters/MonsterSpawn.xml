@@ -4647,11 +4647,9 @@
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<!--(454) Ice Walker [Lv.102]-->
-			<Spawn Index="454" Distance="5" StartX="177" StartY="198" EndX="177" EndY="198" Dir="-1" Count="3" />
+			<Spawn Index="454" Distance="6" StartX="176" StartY="196" EndX="179" EndY="199" Dir="-1" Count="6" />
 			<!--(454) Ice Walker [Lv.102]-->
-			<Spawn Index="454" Distance="6" StartX="176" StartY="196" EndX="179" EndY="199" Dir="-1" Count="8" />
-			<!--(454) Ice Walker [Lv.102]-->
-			<Spawn Index="454" Distance="6" StartX="171" StartY="182" EndX="174" EndY="185" Dir="-1" Count="8" />
+			<Spawn Index="454" Distance="6" StartX="171" StartY="182" EndX="174" EndY="185" Dir="-1" Count="6" />
 			<!--(454) Ice Walker [Lv.102]-->
 			<Spawn Index="454" Distance="6" StartX="155" StartY="177" EndX="158" EndY="180" Dir="-1" Count="6" />
 			<!--(454) Ice Walker [Lv.102]-->
@@ -4659,11 +4657,9 @@
 			<!--(454) Ice Walker [Lv.102]-->
 			<Spawn Index="454" Distance="6" StartX="144" StartY="212" EndX="147" EndY="215" Dir="-1" Count="6" />
 			<!--(455) Giant Mammoth [Lv.112]-->
-			<Spawn Index="455" Distance="5" StartX="179" StartY="204" EndX="179" EndY="204" Dir="-1" Count="3" />
-			<!--(455) Giant Mammoth [Lv.112]-->
 			<Spawn Index="455" Distance="6" StartX="157" StartY="216" EndX="160" EndY="219" Dir="-1" Count="6" />
 			<!--(455) Giant Mammoth [Lv.112]-->
-			<Spawn Index="455" Distance="6" StartX="147" StartY="194" EndX="150" EndY="197" Dir="-1" Count="8" />
+			<Spawn Index="455" Distance="6" StartX="147" StartY="194" EndX="150" EndY="197" Dir="-1" Count="6" />
 			<!--(455) Giant Mammoth [Lv.112]-->
 			<Spawn Index="455" Distance="6" StartX="106" StartY="217" EndX="108" EndY="220" Dir="-1" Count="6" />
 			<!--(455) Giant Mammoth [Lv.112]-->
@@ -4671,37 +4667,31 @@
 			<!--(455) Giant Mammoth [Lv.112]-->
 			<Spawn Index="455" Distance="6" StartX="95" StartY="180" EndX="98" EndY="183" Dir="-1" Count="6" />
 			<!--(455) Giant Mammoth [Lv.112]-->
-			<Spawn Index="455" Distance="6" StartX="122" StartY="93" EndX="125" EndY="96" Dir="-1" Count="8" />
+			<Spawn Index="455" Distance="6" StartX="122" StartY="93" EndX="125" EndY="96" Dir="-1" Count="6" />
 			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="5" StartX="122" StartY="181" EndX="122" EndY="181" Dir="-1" Count="5" />
+			<Spawn Index="456" Distance="6" StartX="136" StartY="181" EndX="139" EndY="184" Dir="-1" Count="6" />
 			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="6" StartX="136" StartY="181" EndX="139" EndY="184" Dir="-1" Count="8" />
+			<Spawn Index="456" Distance="6" StartX="121" StartY="175" EndX="123" EndY="178" Dir="-1" Count="6" />
 			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="6" StartX="121" StartY="175" EndX="123" EndY="178" Dir="-1" Count="8" />
+			<Spawn Index="456" Distance="6" StartX="90" StartY="193" EndX="93" EndY="196" Dir="-1" Count="6" />
 			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="6" StartX="90" StartY="193" EndX="93" EndY="196" Dir="-1" Count="8" />
+			<Spawn Index="456" Distance="6" StartX="114" StartY="153" EndX="117" EndY="156" Dir="-1" Count="6" />
 			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="6" StartX="114" StartY="153" EndX="117" EndY="156" Dir="-1" Count="8" />
-			<!--(456) Ice Giant [Lv.122]-->
-			<Spawn Index="456" Distance="6" StartX="131" StartY="134" EndX="134" EndY="137" Dir="-1" Count="8" />
+			<Spawn Index="456" Distance="6" StartX="131" StartY="134" EndX="134" EndY="137" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
-			<Spawn Index="457" Distance="5" StartX="191" StartY="137" EndX="191" EndY="137" Dir="-1" Count="3" />
+			<Spawn Index="457" Distance="6" StartX="156" StartY="132" EndX="159" EndY="134" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
-			<Spawn Index="457" Distance="6" StartX="156" StartY="132" EndX="159" EndY="134" Dir="-1" Count="8" />
+			<Spawn Index="457" Distance="6" StartX="177" StartY="135" EndX="180" EndY="138" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
-			<Spawn Index="457" Distance="6" StartX="177" StartY="135" EndX="180" EndY="138" Dir="-1" Count="8" />
+			<Spawn Index="457" Distance="6" StartX="229" StartY="142" EndX="231" EndY="145" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
-			<Spawn Index="457" Distance="6" StartX="229" StartY="142" EndX="231" EndY="145" Dir="-1" Count="8" />
-			<!--(457) Coolutin [Lv.132]-->
-			<Spawn Index="457" Distance="6" StartX="230" StartY="116" EndX="233" EndY="119" Dir="-1" Count="8" />
+			<Spawn Index="457" Distance="6" StartX="230" StartY="116" EndX="233" EndY="119" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
 			<Spawn Index="457" Distance="6" StartX="215" StartY="107" EndX="218" EndY="110" Dir="-1" Count="6" />
 			<!--(457) Coolutin [Lv.132]-->
 			<Spawn Index="457" Distance="6" StartX="207" StartY="38" EndX="210" EndY="40" Dir="-1" Count="6" />
 			<!--(458) Iron Knight [Lv.142]-->
-			<Spawn Index="458" Distance="5" StartX="191" StartY="137" EndX="191" EndY="137" Dir="-1" Count="3" />
-			<!--(458) Iron Knight [Lv.142]-->
-			<Spawn Index="458" Distance="6" StartX="194" StartY="124" EndX="197" EndY="127" Dir="-1" Count="8" />
+			<Spawn Index="458" Distance="6" StartX="194" StartY="124" EndX="197" EndY="127" Dir="-1" Count="6" />
 			<!--(458) Iron Knight [Lv.142]-->
 			<Spawn Index="458" Distance="6" StartX="209" StartY="159" EndX="212" EndY="162" Dir="-1" Count="6" />
 			<!--(458) Iron Knight [Lv.142]-->
@@ -4711,13 +4701,9 @@
 			<!--(458) Iron Knight [Lv.142]-->
 			<Spawn Index="458" Distance="6" StartX="173" StartY="64" EndX="175" EndY="67" Dir="-1" Count="6" />
 			<!--(562) Dark Mammoth [Lv.140]-->
-			<Spawn Index="562" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" />
-			<!--(562) Dark Mammoth [Lv.140]-->
 			<Spawn Index="562" Distance="6" StartX="51" StartY="192" EndX="54" EndY="195" Dir="-1" Count="6" />
 			<!--(562) Dark Mammoth [Lv.140]-->
 			<Spawn Index="562" Distance="6" StartX="39" StartY="224" EndX="42" EndY="227" Dir="-1" Count="6" />
-			<!--(563) Dark Giant [Lv.143]-->
-			<Spawn Index="563" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" />
 			<!--(563) Dark Giant [Lv.143]-->
 			<Spawn Index="563" Distance="6" StartX="65" StartY="154" EndX="68" EndY="157" Dir="-1" Count="6" />
 			<!--(563) Dark Giant [Lv.143]-->
@@ -4725,11 +4711,7 @@
 			<!--(563) Dark Giant [Lv.143]-->
 			<Spawn Index="563" Distance="6" StartX="29" StartY="195" EndX="32" EndY="198" Dir="-1" Count="6" />
 			<!--(564) Dark Coolutin [Lv.145]-->
-			<Spawn Index="564" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" />
-			<!--(564) Dark Coolutin [Lv.145]-->
 			<Spawn Index="564" Distance="6" StartX="28" StartY="46" EndX="32" EndY="48" Dir="-1" Count="6" />
-			<!--(565) Dark Iron Knight [Lv.148]-->
-			<Spawn Index="565" Distance="5" StartX="39" StartY="87" EndX="39" EndY="87" Dir="-1" Count="5" />
 			<!--(565) Dark Iron Knight [Lv.148]-->
 			<Spawn Index="565" Distance="6" StartX="73" StartY="84" EndX="76" EndY="87" Dir="-1" Count="6" />
 			<!--(565) Dark Iron Knight [Lv.148]-->
