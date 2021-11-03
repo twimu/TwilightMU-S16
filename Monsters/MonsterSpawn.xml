@@ -4016,24 +4016,24 @@
 			<Spawn Index="582" Distance="0" StartX="37" StartY="215" Dir="3" /> <!-- Adniel -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
-			<Spawn Index="3" Distance="30" StartX="13" StartY="125" EndX="56" EndY="168" Dir="-1" Count="15" /> <!-- Spider -->
-			<Spawn Index="3" Distance="30" StartX="102" StartY="194" EndX="142" EndY="238" Dir="-1" Count="15" />
-			<Spawn Index="418" Distance="30" StartX="54" StartY="131" EndX="88" EndY="180" Dir="-1" Count="10" /> <!-- Strange Rabbit -->
-			<Spawn Index="418" Distance="30" StartX="84" StartY="178" EndX="142" EndY="212" Dir="-1" Count="10" />
-			<Spawn Index="421" Distance="30" StartX="87" StartY="90" EndX="125" EndY="170" Dir="-1" Count="10" /> <!-- Polluted Butterfly -->
-			<Spawn Index="421" Distance="30" StartX="118" StartY="130" EndX="164" EndY="172" Dir="-1" Count="10" />
-			<Spawn Index="419" Distance="30" StartX="118" StartY="87" EndX="160" EndY="141" Dir="-1" Count="20" /> <!-- Hideous Rabbit -->
+			<Spawn Index="3" Distance="30" StartX="13" StartY="125" EndX="56" EndY="168" Dir="-1" Count="30" /> <!-- Spider -->
+			<Spawn Index="3" Distance="30" StartX="102" StartY="194" EndX="142" EndY="238" Dir="-1" Count="30" />
+			<Spawn Index="418" Distance="30" StartX="54" StartY="131" EndX="88" EndY="180" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="418" Distance="30" StartX="84" StartY="178" EndX="142" EndY="212" Dir="-1" Count="30" />
+			<Spawn Index="421" Distance="30" StartX="87" StartY="90" EndX="125" EndY="170" Dir="-1" Count="30" /> <!-- Polluted Butterfly -->
+			<Spawn Index="421" Distance="30" StartX="118" StartY="130" EndX="164" EndY="172" Dir="-1" Count="30" />
+			<Spawn Index="419" Distance="30" StartX="118" StartY="87" EndX="160" EndY="141" Dir="-1" Count="30" /> <!-- Hideous Rabbit -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn"> <!-- Auto Quest -->
-			<Spawn Index="3" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="3" /> <!-- Spider -->
-			<Spawn Index="418" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="5" /> <!-- Strange Rabbit -->
-			<Spawn Index="421" Distance="5" StartX="132" StartY="212" EndX="132" EndY="212" Dir="-1" Count="5" /> <!-- Polluted Butterfly -->
-			<Spawn Index="418" Distance="5" StartX="126" StartY="192" EndX="126" EndY="192" Dir="-1" Count="5" /> <!-- Strange Rabbit -->
-			<Spawn Index="419" Distance="5" StartX="142" StartY="144" EndX="142" EndY="144" Dir="-1" Count="5" /> <!-- Hideous Rabbit -->
-			<Spawn Index="420" Distance="5" StartX="78" StartY="58" EndX="78" EndY="58" Dir="-1" Count="5" /> <!-- Werewolf -->
-			<Spawn Index="422" Distance="5" StartX="79" StartY="58" EndX="79" EndY="58" Dir="-1" Count="5" /> <!-- Cursed Lich -->
-			<Spawn Index="423" Distance="5" StartX="190" StartY="145" EndX="192" EndY="147" Dir="-1" Count="5" /> <!-- Totem Golem -->
-			<Spawn Index="425" Distance="5" StartX="215" StartY="43" EndX="215" EndY="43" Dir="-1" Count="5" /> <!-- Captain Grizzly -->
+			<Spawn Index="3" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="30" /> <!-- Spider -->
+			<Spawn Index="418" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="421" Distance="5" StartX="132" StartY="212" EndX="132" EndY="212" Dir="-1" Count="30" /> <!-- Polluted Butterfly -->
+			<Spawn Index="418" Distance="5" StartX="126" StartY="192" EndX="126" EndY="192" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="419" Distance="5" StartX="142" StartY="144" EndX="142" EndY="144" Dir="-1" Count="30" /> <!-- Hideous Rabbit -->
+			<Spawn Index="420" Distance="5" StartX="78" StartY="58" EndX="78" EndY="58" Dir="-1" Count="30" /> <!-- Werewolf -->
+			<Spawn Index="422" Distance="5" StartX="79" StartY="58" EndX="79" EndY="58" Dir="-1" Count="30" /> <!-- Cursed Lich -->
+			<Spawn Index="423" Distance="5" StartX="190" StartY="145" EndX="192" EndY="147" Dir="-1" Count="30" /> <!-- Totem Golem -->
+			<Spawn Index="425" Distance="5" StartX="215" StartY="43" EndX="215" EndY="43" Dir="-1" Count="30" /> <!-- Captain Grizzly -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="425" Distance="30" StartX="205" StartY="16" Dir="-1" /> <!-- Captain Grizzly -->
