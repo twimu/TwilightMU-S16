@@ -4192,6 +4192,106 @@
 		</Spot>
 	</Map>
 	<Map Number="56" Name="Swamp of Calmness">
+		<Spot Type="1" Description="Multi-Spawn">
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="173" StartY="217" EndX="176" EndY="220" Dir="-1" Count="4" />
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="228" StartY="205" EndX="231" EndY="208" Dir="-1" Count="4" />
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="201" StartY="194" EndX="204" EndY="197" Dir="-1" Count="4" />
+			<!--(442) Sapi-Duo [Lv.96]-->
+			<Spawn Index="442" Distance="6" StartX="197" StartY="223" EndX="200" EndY="226" Dir="-1" Count="6" />
+			<!--(442) Sapi-Duo [Lv.96]-->
+			<Spawn Index="442" Distance="6" StartX="229" StartY="192" EndX="232" EndY="195" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="65" StartY="236" EndX="68" EndY="240" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="66" StartY="195" EndX="69" EndY="198" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="44" StartY="198" EndX="48" EndY="201" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="44" StartY="228" EndX="47" EndY="231" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="10" StartY="45" EndX="12" EndY="49" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="36" StartY="46" EndX="39" EndY="48" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="50" StartY="23" EndX="53" EndY="25" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="233" StartY="70" EndX="237" EndY="72" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="207" StartY="30" EndX="210" EndY="33" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="233" StartY="11" EndX="236" EndY="14" Dir="-1" Count="4" />
+			<!--(445) Shadow Knight [Lv.100]-->
+			<Spawn Index="445" Distance="6" StartX="233" StartY="87" EndX="236" EndY="89" Dir="-1" Count="4" />
+			<!--(445) Shadow Knight [Lv.100]-->
+			<Spawn Index="445" Distance="6" StartX="223" StartY="24" EndX="226" EndY="27" Dir="-1" Count="6" />
+			<!--(446) Shadow Look [Lv.104]-->
+			<Spawn Index="446" Distance="6" StartX="21" StartY="11" EndX="24" EndY="14" Dir="-1" Count="6" />
+			<!--(447) Thunder Napin [Lv.97]-->
+			<Spawn Index="447" Distance="6" StartX="233" StartY="233" EndX="236" EndY="236" Dir="-1" Count="4" />
+			<!--(447) Thunder Napin [Lv.97]-->
+			<Spawn Index="447" Distance="6" StartX="187" StartY="191" EndX="190" EndY="194" Dir="-1" Count="8" />
+			<!--(448) Ghost Napin [Lv.106]-->
+			<Spawn Index="448" Distance="6" StartX="82" StartY="220" EndX="85" EndY="223" Dir="-1" Count="4" />
+			<!--(448) Ghost Napin [Lv.106]-->
+			<Spawn Index="448" Distance="6" StartX="28" StartY="231" EndX="32" EndY="234" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="21" StartY="208" EndX="24" EndY="210" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="26" StartY="184" EndX="29" EndY="187" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="66" StartY="175" EndX="69" EndY="179" Dir="-1" Count="8" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="130" StartY="166" EndX="133" EndY="169" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="110" StartY="167" EndX="113" EndY="169" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="97" StartY="167" EndX="100" EndY="170" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="109" StartY="187" EndX="112" EndY="189" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="105" StartY="232" EndX="108" EndY="235" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="132" StartY="184" EndX="135" EndY="187" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="215" StartY="145" EndX="218" EndY="148" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="54" StartY="106" EndX="56" EndY="109" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="39" StartY="119" EndX="43" EndY="122" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="11" StartY="88" EndX="14" EndY="91" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="131" StartY="227" EndX="134" EndY="230" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="176" StartY="125" EndX="179" EndY="128" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="178" StartY="139" EndX="181" EndY="143" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="23" StartY="123" EndX="26" EndY="126" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="22" StartY="97" EndX="25" EndY="100" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="163" StartY="26" EndX="167" EndY="28" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="155" StartY="39" EndX="158" EndY="42" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="108" StartY="213" EndX="111" EndY="215" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="200" StartY="109" EndX="202" EndY="112" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="52" StartY="76" EndX="56" EndY="78" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="153" StartY="15" EndX="156" EndY="17" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="142" StartY="46" EndX="144" EndY="48" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="131" StartY="29" EndX="134" EndY="32" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="200" StartY="10" EndX="204" EndY="13" Dir="-1" Count="8" />
+		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 		<!-- 5 O'Clock Island -->
 			<Spawn Index="441" Distance="5" StartX="198" StartY="198" Dir="-1" /> <!-- Sapi-Unus -->
