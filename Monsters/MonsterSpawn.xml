@@ -4016,24 +4016,24 @@
 			<Spawn Index="582" Distance="0" StartX="37" StartY="215" Dir="3" /> <!-- Adniel -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
-			<Spawn Index="3" Distance="30" StartX="13" StartY="125" EndX="56" EndY="168" Dir="-1" Count="15" /> <!-- Spider -->
-			<Spawn Index="3" Distance="30" StartX="102" StartY="194" EndX="142" EndY="238" Dir="-1" Count="15" />
-			<Spawn Index="418" Distance="30" StartX="54" StartY="131" EndX="88" EndY="180" Dir="-1" Count="10" /> <!-- Strange Rabbit -->
-			<Spawn Index="418" Distance="30" StartX="84" StartY="178" EndX="142" EndY="212" Dir="-1" Count="10" />
-			<Spawn Index="421" Distance="30" StartX="87" StartY="90" EndX="125" EndY="170" Dir="-1" Count="10" /> <!-- Polluted Butterfly -->
-			<Spawn Index="421" Distance="30" StartX="118" StartY="130" EndX="164" EndY="172" Dir="-1" Count="10" />
-			<Spawn Index="419" Distance="30" StartX="118" StartY="87" EndX="160" EndY="141" Dir="-1" Count="20" /> <!-- Hideous Rabbit -->
+			<Spawn Index="3" Distance="30" StartX="13" StartY="125" EndX="56" EndY="168" Dir="-1" Count="30" /> <!-- Spider -->
+			<Spawn Index="3" Distance="30" StartX="102" StartY="194" EndX="142" EndY="238" Dir="-1" Count="30" />
+			<Spawn Index="418" Distance="30" StartX="54" StartY="131" EndX="88" EndY="180" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="418" Distance="30" StartX="84" StartY="178" EndX="142" EndY="212" Dir="-1" Count="30" />
+			<Spawn Index="421" Distance="30" StartX="87" StartY="90" EndX="125" EndY="170" Dir="-1" Count="30" /> <!-- Polluted Butterfly -->
+			<Spawn Index="421" Distance="30" StartX="118" StartY="130" EndX="164" EndY="172" Dir="-1" Count="30" />
+			<Spawn Index="419" Distance="30" StartX="118" StartY="87" EndX="160" EndY="141" Dir="-1" Count="30" /> <!-- Hideous Rabbit -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn"> <!-- Auto Quest -->
-			<Spawn Index="3" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="3" /> <!-- Spider -->
-			<Spawn Index="418" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="5" /> <!-- Strange Rabbit -->
-			<Spawn Index="421" Distance="5" StartX="132" StartY="212" EndX="132" EndY="212" Dir="-1" Count="5" /> <!-- Polluted Butterfly -->
-			<Spawn Index="418" Distance="5" StartX="126" StartY="192" EndX="126" EndY="192" Dir="-1" Count="5" /> <!-- Strange Rabbit -->
-			<Spawn Index="419" Distance="5" StartX="142" StartY="144" EndX="142" EndY="144" Dir="-1" Count="5" /> <!-- Hideous Rabbit -->
-			<Spawn Index="420" Distance="5" StartX="78" StartY="58" EndX="78" EndY="58" Dir="-1" Count="5" /> <!-- Werewolf -->
-			<Spawn Index="422" Distance="5" StartX="79" StartY="58" EndX="79" EndY="58" Dir="-1" Count="5" /> <!-- Cursed Lich -->
-			<Spawn Index="423" Distance="5" StartX="190" StartY="145" EndX="192" EndY="147" Dir="-1" Count="5" /> <!-- Totem Golem -->
-			<Spawn Index="425" Distance="5" StartX="215" StartY="43" EndX="215" EndY="43" Dir="-1" Count="5" /> <!-- Captain Grizzly -->
+			<Spawn Index="3" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="30" /> <!-- Spider -->
+			<Spawn Index="418" Distance="5" StartX="29" StartY="155" EndX="29" EndY="155" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="421" Distance="5" StartX="132" StartY="212" EndX="132" EndY="212" Dir="-1" Count="30" /> <!-- Polluted Butterfly -->
+			<Spawn Index="418" Distance="5" StartX="126" StartY="192" EndX="126" EndY="192" Dir="-1" Count="30" /> <!-- Strange Rabbit -->
+			<Spawn Index="419" Distance="5" StartX="142" StartY="144" EndX="142" EndY="144" Dir="-1" Count="30" /> <!-- Hideous Rabbit -->
+			<Spawn Index="420" Distance="5" StartX="78" StartY="58" EndX="78" EndY="58" Dir="-1" Count="30" /> <!-- Werewolf -->
+			<Spawn Index="422" Distance="5" StartX="79" StartY="58" EndX="79" EndY="58" Dir="-1" Count="30" /> <!-- Cursed Lich -->
+			<Spawn Index="423" Distance="5" StartX="190" StartY="145" EndX="192" EndY="147" Dir="-1" Count="30" /> <!-- Totem Golem -->
+			<Spawn Index="425" Distance="5" StartX="215" StartY="43" EndX="215" EndY="43" Dir="-1" Count="30" /> <!-- Captain Grizzly -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="425" Distance="30" StartX="205" StartY="16" Dir="-1" /> <!-- Captain Grizzly -->
@@ -4192,6 +4192,106 @@
 		</Spot>
 	</Map>
 	<Map Number="56" Name="Swamp of Calmness">
+		<Spot Type="1" Description="Multi-Spawn">
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="173" StartY="217" EndX="176" EndY="220" Dir="-1" Count="4" />
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="228" StartY="205" EndX="231" EndY="208" Dir="-1" Count="4" />
+			<!--(441) Sapi-Unus [Lv.95]-->
+			<Spawn Index="441" Distance="6" StartX="201" StartY="194" EndX="204" EndY="197" Dir="-1" Count="4" />
+			<!--(442) Sapi-Duo [Lv.96]-->
+			<Spawn Index="442" Distance="6" StartX="197" StartY="223" EndX="200" EndY="226" Dir="-1" Count="6" />
+			<!--(442) Sapi-Duo [Lv.96]-->
+			<Spawn Index="442" Distance="6" StartX="229" StartY="192" EndX="232" EndY="195" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="65" StartY="236" EndX="68" EndY="240" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="66" StartY="195" EndX="69" EndY="198" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="44" StartY="198" EndX="48" EndY="201" Dir="-1" Count="6" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="44" StartY="228" EndX="47" EndY="231" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="10" StartY="45" EndX="12" EndY="49" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="36" StartY="46" EndX="39" EndY="48" Dir="-1" Count="4" />
+			<!--(443) Sapi-Tres [Lv.102]-->
+			<Spawn Index="443" Distance="6" StartX="50" StartY="23" EndX="53" EndY="25" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="233" StartY="70" EndX="237" EndY="72" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="207" StartY="30" EndX="210" EndY="33" Dir="-1" Count="4" />
+			<!--(444) Shadow Pawn [Lv.98]-->
+			<Spawn Index="444" Distance="6" StartX="233" StartY="11" EndX="236" EndY="14" Dir="-1" Count="4" />
+			<!--(445) Shadow Knight [Lv.100]-->
+			<Spawn Index="445" Distance="6" StartX="233" StartY="87" EndX="236" EndY="89" Dir="-1" Count="4" />
+			<!--(445) Shadow Knight [Lv.100]-->
+			<Spawn Index="445" Distance="6" StartX="223" StartY="24" EndX="226" EndY="27" Dir="-1" Count="6" />
+			<!--(446) Shadow Look [Lv.104]-->
+			<Spawn Index="446" Distance="6" StartX="21" StartY="11" EndX="24" EndY="14" Dir="-1" Count="6" />
+			<!--(447) Thunder Napin [Lv.97]-->
+			<Spawn Index="447" Distance="6" StartX="233" StartY="233" EndX="236" EndY="236" Dir="-1" Count="4" />
+			<!--(447) Thunder Napin [Lv.97]-->
+			<Spawn Index="447" Distance="6" StartX="187" StartY="191" EndX="190" EndY="194" Dir="-1" Count="8" />
+			<!--(448) Ghost Napin [Lv.106]-->
+			<Spawn Index="448" Distance="6" StartX="82" StartY="220" EndX="85" EndY="223" Dir="-1" Count="4" />
+			<!--(448) Ghost Napin [Lv.106]-->
+			<Spawn Index="448" Distance="6" StartX="28" StartY="231" EndX="32" EndY="234" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="21" StartY="208" EndX="24" EndY="210" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="26" StartY="184" EndX="29" EndY="187" Dir="-1" Count="4" />
+			<!--(449) Blaze Napin [Lv.107]-->
+			<Spawn Index="449" Distance="6" StartX="66" StartY="175" EndX="69" EndY="179" Dir="-1" Count="8" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="130" StartY="166" EndX="133" EndY="169" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="110" StartY="167" EndX="113" EndY="169" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="97" StartY="167" EndX="100" EndY="170" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="109" StartY="187" EndX="112" EndY="189" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="105" StartY="232" EndX="108" EndY="235" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="132" StartY="184" EndX="135" EndY="187" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="215" StartY="145" EndX="218" EndY="148" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="54" StartY="106" EndX="56" EndY="109" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="39" StartY="119" EndX="43" EndY="122" Dir="-1" Count="4" />
+			<!--(557) Sapi Queen [Lv.131]-->
+			<Spawn Index="557" Distance="6" StartX="11" StartY="88" EndX="14" EndY="91" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="131" StartY="227" EndX="134" EndY="230" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="176" StartY="125" EndX="179" EndY="128" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="178" StartY="139" EndX="181" EndY="143" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="23" StartY="123" EndX="26" EndY="126" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="22" StartY="97" EndX="25" EndY="100" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="163" StartY="26" EndX="167" EndY="28" Dir="-1" Count="4" />
+			<!--(558) Ice Napin [Lv.135]-->
+			<Spawn Index="558" Distance="6" StartX="155" StartY="39" EndX="158" EndY="42" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="108" StartY="213" EndX="111" EndY="215" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="200" StartY="109" EndX="202" EndY="112" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="52" StartY="76" EndX="56" EndY="78" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="153" StartY="15" EndX="156" EndY="17" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="142" StartY="46" EndX="144" EndY="48" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="131" StartY="29" EndX="134" EndY="32" Dir="-1" Count="4" />
+			<!--(559) Shadow Master [Lv.137]-->
+			<Spawn Index="559" Distance="6" StartX="200" StartY="10" EndX="204" EndY="13" Dir="-1" Count="8" />
+		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 		<!-- 5 O'Clock Island -->
 			<Spawn Index="441" Distance="5" StartX="198" StartY="198" Dir="-1" /> <!-- Sapi-Unus -->
@@ -4645,17 +4745,82 @@
 			<Spawn Index="565" Distance="30" StartX="92" StartY="34" Dir="-1" /> <!-- Dark Iron Knight -->
 			<Spawn Index="563" Distance="30" StartX="48" StartY="156" Dir="-1" /> <!-- Dark Giant -->
 		</Spot>
-		<Spot Type="1" Description="Multi-Spawn"> <!-- Auto Quest -->
-			<Spawn Index="454" Distance="5" StartX="179" StartY="204" EndX="179" EndY="204" Dir="-1" Count="3" /> <!-- Ice Walker -->
-			<Spawn Index="455" Distance="5" StartX="179" StartY="204" EndX="179" EndY="204" Dir="-1" Count="3" /> <!-- Giant Mammoth -->
-			<Spawn Index="456" Distance="5" StartX="122" StartY="181" EndX="122" EndY="181" Dir="-1" Count="5" /> <!-- Ice Giant -->
-			<Spawn Index="458" Distance="5" StartX="191" StartY="137" EndX="191" EndY="137" Dir="-1" Count="3" /> <!-- Iron Knight -->
-			<Spawn Index="457" Distance="5" StartX="191" StartY="137" EndX="191" EndY="137" Dir="-1" Count="3" /> <!-- Coolutin -->
-			<Spawn Index="564" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" /> <!-- Dark Coolutin -->
-			<Spawn Index="562" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" /> <!-- Dark Mammoth -->
-			<Spawn Index="563" Distance="5" StartX="83" StartY="116" EndX="83" EndY="116" Dir="-1" Count="2" /> <!-- Dark Giant -->
-			<Spawn Index="565" Distance="5" StartX="39" StartY="87" EndX="39" EndY="87" Dir="-1" Count="5" /> <!-- Dark Iron Knight -->
-		</Spot>	
+		<Spot Type="1" Description="Multi-Spawn">
+			<!--(454) Ice Walker [Lv.102]-->
+			<Spawn Index="454" Distance="6" StartX="176" StartY="196" EndX="179" EndY="199" Dir="-1" Count="6" />
+			<!--(454) Ice Walker [Lv.102]-->
+			<Spawn Index="454" Distance="6" StartX="171" StartY="182" EndX="174" EndY="185" Dir="-1" Count="6" />
+			<!--(454) Ice Walker [Lv.102]-->
+			<Spawn Index="454" Distance="6" StartX="155" StartY="177" EndX="158" EndY="180" Dir="-1" Count="6" />
+			<!--(454) Ice Walker [Lv.102]-->
+			<Spawn Index="454" Distance="6" StartX="172" StartY="219" EndX="175" EndY="222" Dir="-1" Count="6" />
+			<!--(454) Ice Walker [Lv.102]-->
+			<Spawn Index="454" Distance="6" StartX="144" StartY="212" EndX="147" EndY="215" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="157" StartY="216" EndX="160" EndY="219" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="147" StartY="194" EndX="150" EndY="197" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="106" StartY="217" EndX="108" EndY="220" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="86" StartY="211" EndX="88" EndY="214" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="95" StartY="180" EndX="98" EndY="183" Dir="-1" Count="6" />
+			<!--(455) Giant Mammoth [Lv.112]-->
+			<Spawn Index="455" Distance="6" StartX="122" StartY="93" EndX="125" EndY="96" Dir="-1" Count="6" />
+			<!--(456) Ice Giant [Lv.122]-->
+			<Spawn Index="456" Distance="6" StartX="136" StartY="181" EndX="139" EndY="184" Dir="-1" Count="6" />
+			<!--(456) Ice Giant [Lv.122]-->
+			<Spawn Index="456" Distance="6" StartX="121" StartY="175" EndX="123" EndY="178" Dir="-1" Count="6" />
+			<!--(456) Ice Giant [Lv.122]-->
+			<Spawn Index="456" Distance="6" StartX="90" StartY="193" EndX="93" EndY="196" Dir="-1" Count="6" />
+			<!--(456) Ice Giant [Lv.122]-->
+			<Spawn Index="456" Distance="6" StartX="114" StartY="153" EndX="117" EndY="156" Dir="-1" Count="6" />
+			<!--(456) Ice Giant [Lv.122]-->
+			<Spawn Index="456" Distance="6" StartX="131" StartY="134" EndX="134" EndY="137" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="156" StartY="132" EndX="159" EndY="134" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="177" StartY="135" EndX="180" EndY="138" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="229" StartY="142" EndX="231" EndY="145" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="230" StartY="116" EndX="233" EndY="119" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="215" StartY="107" EndX="218" EndY="110" Dir="-1" Count="6" />
+			<!--(457) Coolutin [Lv.132]-->
+			<Spawn Index="457" Distance="6" StartX="207" StartY="38" EndX="210" EndY="40" Dir="-1" Count="6" />
+			<!--(458) Iron Knight [Lv.142]-->
+			<Spawn Index="458" Distance="6" StartX="194" StartY="124" EndX="197" EndY="127" Dir="-1" Count="6" />
+			<!--(458) Iron Knight [Lv.142]-->
+			<Spawn Index="458" Distance="6" StartX="209" StartY="159" EndX="212" EndY="162" Dir="-1" Count="6" />
+			<!--(458) Iron Knight [Lv.142]-->
+			<Spawn Index="458" Distance="6" StartX="220" StartY="84" EndX="223" EndY="87" Dir="-1" Count="6" />
+			<!--(458) Iron Knight [Lv.142]-->
+			<Spawn Index="458" Distance="6" StartX="190" StartY="101" EndX="193" EndY="104" Dir="-1" Count="6" />
+			<!--(458) Iron Knight [Lv.142]-->
+			<Spawn Index="458" Distance="6" StartX="173" StartY="64" EndX="175" EndY="67" Dir="-1" Count="6" />
+			<!--(562) Dark Mammoth [Lv.140]-->
+			<Spawn Index="562" Distance="6" StartX="51" StartY="192" EndX="54" EndY="195" Dir="-1" Count="6" />
+			<!--(562) Dark Mammoth [Lv.140]-->
+			<Spawn Index="562" Distance="6" StartX="39" StartY="224" EndX="42" EndY="227" Dir="-1" Count="6" />
+			<!--(563) Dark Giant [Lv.143]-->
+			<Spawn Index="563" Distance="6" StartX="65" StartY="154" EndX="68" EndY="157" Dir="-1" Count="6" />
+			<!--(563) Dark Giant [Lv.143]-->
+			<Spawn Index="563" Distance="6" StartX="32" StartY="155" EndX="34" EndY="157" Dir="-1" Count="6" />
+			<!--(563) Dark Giant [Lv.143]-->
+			<Spawn Index="563" Distance="6" StartX="29" StartY="195" EndX="32" EndY="198" Dir="-1" Count="6" />
+			<!--(564) Dark Coolutin [Lv.145]-->
+			<Spawn Index="564" Distance="6" StartX="28" StartY="46" EndX="32" EndY="48" Dir="-1" Count="6" />
+			<!--(565) Dark Iron Knight [Lv.148]-->
+			<Spawn Index="565" Distance="6" StartX="73" StartY="84" EndX="76" EndY="87" Dir="-1" Count="6" />
+			<!--(565) Dark Iron Knight [Lv.148]-->
+			<Spawn Index="565" Distance="6" StartX="135" StartY="47" EndX="138" EndY="50" Dir="-1" Count="6" />
+			<!--(565) Dark Iron Knight [Lv.148]-->
+			<Spawn Index="565" Distance="6" StartX="138" StartY="19" EndX="141" EndY="22" Dir="-1" Count="4" />
+			<!--(565) Dark Iron Knight [Lv.148]-->
+			<Spawn Index="565" Distance="6" StartX="103" StartY="20" EndX="106" EndY="23" Dir="-1" Count="6" />
+		</Spot>
 	</Map>
 	<Map Number="62" Name="Santa Village">
 		<Spot Type="0" Description="NPC/Traps">
@@ -6178,12 +6343,50 @@
 			<Spawn Index="730" Distance="6" StartX="134" StartY="167" EndX="137" EndY="170" Dir="-1" Count="6" />
 			<!--(730) Ferea Knight [Lv.121]-->
 			<Spawn Index="730" Distance="6" StartX="117" StartY="16" EndX="120" EndY="20" Dir="-1" Count="6" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="59" StartY="238" EndX="62" EndY="240" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="30" StartY="179" EndX="32" EndY="182" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="96" StartY="167" EndX="99" EndY="170" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="57" StartY="52" EndX="60" EndY="55" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="24" StartY="55" EndX="27" EndY="58" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="83" StartY="13" EndX="86" EndY="16" Dir="-1" Count="6" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="156" StartY="13" EndX="159" EndY="15" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="211" StartY="9" EndX="215" EndY="12" Dir="-1" Count="4" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="141" StartY="139" EndX="144" EndY="143" Dir="-1" Count="2" />
+			<!--(730) Ferea Knight [Lv.121]-->
+			<Spawn Index="730" Distance="6" StartX="154" StartY="169" EndX="157" EndY="172" Dir="-1" Count="2" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="239" StartY="50" EndX="242" EndY="53" Dir="-1" Count="6" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="215" StartY="38" EndX="218" EndY="41" Dir="-1" Count="6" />
 			<!--(731) Ferea Archer [Lv.122]-->
 			<Spawn Index="731" Distance="6" StartX="125" StartY="68" EndX="128" EndY="72" Dir="-1" Count="6" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="61" StartY="167" EndX="63" EndY="170" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="17" StartY="161" EndX="21" EndY="164" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="36" StartY="12" EndX="39" EndY="14" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="46" StartY="34" EndX="49" EndY="37" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="79" StartY="47" EndX="81" EndY="50" Dir="-1" Count="4" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="141" StartY="17" EndX="144" EndY="19" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="212" StartY="59" EndX="215" EndY="62" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="166" StartY="152" EndX="169" EndY="154" Dir="-1" Count="2" />
+			<!--(731) Ferea Archer [Lv.122]-->
+			<Spawn Index="731" Distance="6" StartX="182" StartY="216" EndX="185" EndY="219" Dir="-1" Count="2" />
 			<!--(732) Ferea Fighter [Lv.123]-->
 			<Spawn Index="732" Distance="6" StartX="195" StartY="99" EndX="198" EndY="102" Dir="-1" Count="6" />
 			<!--(732) Ferea Fighter [Lv.123]-->
@@ -6208,6 +6411,26 @@
 			<Spawn Index="732" Distance="6" StartX="108" StartY="230" EndX="112" EndY="233" Dir="-1" Count="6" />
 			<!--(732) Ferea Fighter [Lv.123]-->
 			<Spawn Index="732" Distance="6" StartX="97" StartY="41" EndX="100" EndY="44" Dir="-1" Count="6" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="34" StartY="239" EndX="36" EndY="242" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="14" StartY="235" EndX="16" EndY="238" Dir="-1" Count="2" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="14" StartY="200" EndX="17" EndY="203" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="36" StartY="215" EndX="39" EndY="218" Dir="-1" Count="6" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="81" StartY="162" EndX="84" EndY="165" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="71" StartY="67" EndX="74" EndY="70" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="47" StartY="55" EndX="50" EndY="58" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="194" StartY="31" EndX="197" EndY="34" Dir="-1" Count="4" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="184" StartY="72" EndX="187" EndY="75" Dir="-1" Count="2" />
+			<!--(732) Ferea Fighter [Lv.123]-->
+			<Spawn Index="732" Distance="6" StartX="76" StartY="189" EndX="80" EndY="192" Dir="-1" Count="6" />
 			<!--(733) Ferea General [Lv.130]-->
 			<Spawn Index="733" Distance="6" StartX="86" StartY="87" EndX="90" EndY="90" Dir="-1" Count="8" />
 			<!--(733) Ferea General [Lv.130]-->

@@ -91,7 +91,6 @@
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="49"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="139" MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="123" MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
-		<Assault Type="1" MonsterGroup="3" MonsterIndex="59"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="74"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="63"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="1" MonsterGroup="3" MonsterIndex="293" MonsterCount="50" StartX="60" StartY="58" EndX="132" EndY="101" />
@@ -121,10 +120,8 @@
 		<Assault Type="2" MonsterGroup="2" MonsterIndex="127" MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="2" MonsterIndex="302" MonsterCount="1"  StartX="60" StartY="58" EndX="132" EndY="101" />
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-		<Assault Type="2" MonsterGroup="3" MonsterIndex="49"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="139" MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="123" MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
-		<Assault Type="2" MonsterGroup="3" MonsterIndex="59"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="74"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="63"  MonsterCount="30" StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="293" MonsterCount="50" StartX="60" StartY="58" EndX="132" EndY="101" />

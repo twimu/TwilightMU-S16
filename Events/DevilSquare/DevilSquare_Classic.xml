@@ -61,7 +61,7 @@
 -->
 
 <DevilSquare_Classic Enable="1" MaxPlayerPerRoom="15">
-	<Time Close="35" ToOpen="1" PlayDuration="20" />
+	<Time Close="35" ToOpen="5" PlayDuration="20" />
 
 	<Schedule>
 		<Start Hour="1" Minute="45" />
