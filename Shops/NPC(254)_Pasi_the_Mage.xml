@@ -121,20 +121,16 @@
 	<Item Cat="12" Index="46" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Crystal of Flame Strike-->
 	<Item Cat="12" Index="47" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<!-- Orb of Anger Blow-->
-	<Item Cat="12" Index="12" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Swordsman's Wrath -->
+	<Item Cat="12" Index="485" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Strong Belief Bead-->
 	<Item Cat="12" Index="487" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Solid Protection Bead-->
-	<Item Cat="12" Index="488" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />	
+	<Item Cat="12" Index="488" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Sword Inertia Bead-->
 	<Item Cat="12" Index="476" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Bat Flock Bead-->
 	<Item Cat="12" Index="477" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<!-- Pierce Attack Bead-->
-	<Item Cat="12" Index="479" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Detection Bead-->
 	<Item Cat="12" Index="478" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<!-- Demolish Bead-->
-	<Item Cat="12" Index="482" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 </Shop>
