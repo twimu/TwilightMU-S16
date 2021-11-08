@@ -15,7 +15,7 @@
 <BagConfig Name="Item_(14,480,0)_[Lvl 1]_Soul_Converter_Box" ItemRate="10000" SetItemRate="0" MasterySetItemInclude="0" MoneyDrop="0" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
-<Ruud GainRate="1000" MinValue="200" MaxValue="4000" />
+<Ruud GainRate="1200" MinValue="8" MaxValue="40" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="7000" Count="1">
