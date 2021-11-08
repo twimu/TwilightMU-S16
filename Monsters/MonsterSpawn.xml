@@ -296,7 +296,6 @@
 			<Spawn Index="8" Distance="5" StartX="11" StartY="60" EndX="11" EndY="60" Dir="-1" Count="5" /> <!-- Poison Bull Fighter -->
 			<Spawn Index="36" Distance="5" StartX="211" StartY="96" EndX="211" EndY="96" Dir="-1" Count="5" /> <!-- Shadow -->
 			<Spawn Index="39" Distance="5" StartX="201" StartY="35" EndX="201" EndY="35" Dir="-1" Count="5" /> <!-- Poison Shadow -->
-			<Spawn Index="34" Distance="5" StartX="212" StartY="138" EndX="212" EndY="138" Dir="-1" Count="5" /> <!-- Cursed Wizard -->
 			<Spawn Index="41" Distance="5" StartX="162" StartY="129" EndX="162" EndY="129" Dir="-1" Count="5" /> <!-- Death Cow -->
 			<Spawn Index="37" Distance="5" StartX="162" StartY="106" EndX="162" EndY="106" Dir="-1" Count="5" /> <!-- Devil -->
 			<Spawn Index="40" Distance="5" StartX="162" StartY="28" EndX="162" EndY="28" Dir="-1" Count="5" /> <!-- Death Knight -->
