@@ -219,6 +219,8 @@
 			<Item Cat="10" Index="95" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" SocketInfo="-1" ElementalItem="0" />
 			<!--Sate Boots-->
 			<Item Cat="11" Index="95" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" SocketInfo="-1" ElementalItem="0" />
+			<!--Kenaz Hood-->
+			<Item Cat="7" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" SocketInfo="-1" ElementalItem="0" />			
 			<!--Kanaz Armor-->
 			<Item Cat="8" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" SocketInfo="-1" ElementalItem="0" />
 			<!--Kanaz Pants-->
