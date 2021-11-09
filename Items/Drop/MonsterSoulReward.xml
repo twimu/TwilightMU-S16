@@ -8,10 +8,10 @@
 	<Converter Level="1">
 		<Category Number="1">
 			<RewardKind Number="0">
-				<Reward Type="2" CountMin="400" CountMax="400" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
+				<Reward Type="2" CountMin="16" CountMax="16" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
 			</RewardKind>
 			<RewardKind Number="1">
-				<Reward Type="2" CountMin="200" CountMax="4000" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
+				<Reward Type="2" CountMin="8" CountMax="160" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 				<Reward Type="0" CountMin="1" CountMax="1" ItemCat="14" ItemIndex="371" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 			</RewardKind>
 		</Category>
@@ -66,10 +66,10 @@
 	<Converter Level="2">
 		<Category Number="1">
 			<RewardKind Number="0">
-				<Reward Type="2" CountMin="400" CountMax="400" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
+				<Reward Type="2" CountMin="16" CountMax="16" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
 			</RewardKind>
 			<RewardKind Number="1">
-				<Reward Type="2" CountMin="200" CountMax="4000" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
+				<Reward Type="2" CountMin="8" CountMax="160" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 				<Reward Type="0" CountMin="1" CountMax="1" ItemCat="14" ItemIndex="371" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 			</RewardKind>
 		</Category>
@@ -124,10 +124,10 @@
 	<Converter Level="3">
 		<Category Number="1">
 			<RewardKind Number="0">
-				<Reward Type="2" CountMin="400" CountMax="400" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
+				<Reward Type="2" CountMin="16" CountMax="16" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
 			</RewardKind>
 			<RewardKind Number="1">
-				<Reward Type="2" CountMin="200" CountMax="4000" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
+				<Reward Type="2" CountMin="8" CountMax="160" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 				<Reward Type="0" CountMin="1" CountMax="1" ItemCat="14" ItemIndex="372" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 			</RewardKind>
 		</Category>
@@ -182,10 +182,10 @@
 	<Converter Level="4">
 		<Category Number="1">
 			<RewardKind Number="0">
-				<Reward Type="2" CountMin="400" CountMax="400" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
+				<Reward Type="2" CountMin="16" CountMax="16" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
 			</RewardKind>
 			<RewardKind Number="1">
-				<Reward Type="2" CountMin="200" CountMax="4000" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
+				<Reward Type="2" CountMin="8" CountMax="160" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 				<Reward Type="0" CountMin="1" CountMax="1" ItemCat="14" ItemIndex="372" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 			</RewardKind>
 		</Category>
@@ -240,10 +240,10 @@
 	<Converter Level="5">
 		<Category Number="1">
 			<RewardKind Number="0">
-				<Reward Type="2" CountMin="400" CountMax="400" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
+				<Reward Type="2" CountMin="16" CountMax="16" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" />
 			</RewardKind>
 			<RewardKind Number="1">
-				<Reward Type="2" CountMin="200" CountMax="4000" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
+				<Reward Type="2" CountMin="8" CountMax="160" ItemCat="-1" ItemIndex="-1" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 				<Reward Type="0" CountMin="1" CountMax="1" ItemCat="14" ItemIndex="372" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500000" />
 			</RewardKind>
 		</Category>
