@@ -19,34 +19,34 @@
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="9990" Count="1">
-			<Item Cat="7"  Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Helm -->
-			<Item Cat="7"  Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Helm -->
-			<Item Cat="7"  Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Helm -->
-			<Item Cat="7"  Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Helm -->
-			<Item Cat="7"  Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Helm -->
-			<Item Cat="7"  Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Helm -->
-			<Item Cat="7"  Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Helm -->
-			<Item Cat="7"  Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Helm -->
-			<Item Cat="8"  Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Armor -->
-			<Item Cat="8"  Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Armor -->
-			<Item Cat="8"  Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Armor -->
-			<Item Cat="8"  Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Armor -->
-			<Item Cat="8"  Index="154" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Attack Armor -->
-			<Item Cat="8"  Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Armor -->
-			<Item Cat="8"  Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Armor -->
-			<Item Cat="8"  Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Armor -->
-			<Item Cat="8"  Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Armor -->
-			<Item Cat="8"  Index="163" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Magic Armor -->
-			<Item Cat="9"  Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Pants -->
-			<Item Cat="9"  Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Pants -->
-			<Item Cat="9"  Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Pants -->
-			<Item Cat="9"  Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Pants -->
-			<Item Cat="9"  Index="154" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Attack Pants -->
-			<Item Cat="9"  Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Pants -->
-			<Item Cat="9"  Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Pants -->
-			<Item Cat="9"  Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Pants -->
-			<Item Cat="8"  Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Pants -->
-			<Item Cat="8"  Index="163" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Magic Pants -->
+			<Item Cat="7" Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Helm -->
+			<Item Cat="7" Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Helm -->
+			<Item Cat="7" Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Helm -->
+			<Item Cat="7" Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Helm -->
+			<Item Cat="7" Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Helm -->
+			<Item Cat="7" Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Helm -->
+			<Item Cat="7" Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Helm -->
+			<Item Cat="7" Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Helm -->
+			<Item Cat="8" Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Armor -->
+			<Item Cat="8" Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Armor -->
+			<Item Cat="8" Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Armor -->
+			<Item Cat="8" Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Armor -->
+			<Item Cat="8" Index="154" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Attack Armor -->
+			<Item Cat="8" Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Armor -->
+			<Item Cat="8" Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Armor -->
+			<Item Cat="8" Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Armor -->
+			<Item Cat="8" Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Armor -->
+			<Item Cat="8" Index="163" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Magic Armor -->
+			<Item Cat="9" Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Pants -->
+			<Item Cat="9" Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Pants -->
+			<Item Cat="9" Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Pants -->
+			<Item Cat="9" Index="153" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Summoner Pants -->
+			<Item Cat="9" Index="154" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Attack Pants -->
+			<Item Cat="9" Index="155" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lord Pants -->
+			<Item Cat="9" Index="156" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Fighter Pants -->
+			<Item Cat="9" Index="157" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Lancer Pants -->
+			<Item Cat="8" Index="160" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Support Pants -->
+			<Item Cat="8" Index="163" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Gladiator Magic Pants -->
 			<Item Cat="10" Index="150" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Knight Gloves -->
 			<Item Cat="10" Index="151" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Wizard Gloves -->
 			<Item Cat="10" Index="152" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />  <!-- Holyangel Elf Attack Gloves -->
