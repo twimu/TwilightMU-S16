@@ -27,6 +27,7 @@
 		<Item Cat="4" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Silver Bow -->
 		<Item Cat="0" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Legendary Sword -->
 		<Item Cat="0" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Double Blade -->
+		<Item Cat="0" Index="67" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dacia Short Sword -->
 		<Item Cat="0" Index="32" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sacred Glove -->
 		<Item Cat="3" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Berdysh -->
 		<Item Cat="3" Index="0" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Spear -->
@@ -56,6 +57,11 @@
 		<Item Cat="9" Index="41" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Ancient Pants -->
 		<Item Cat="10" Index="41" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Ancient Gloves -->
 		<Item Cat="11" Index="41" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Ancient Boots -->
+		<Item Cat="7" Index="176" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Slayer Demonic Helm (A) -->
+		<Item Cat="8" Index="176" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Slayer Demonic Armor (A) -->
+		<Item Cat="9" Index="176" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Slayer Demonic Pants (A) -->
+		<Item Cat="10" Index="176" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Slayer Demonic Gloves (A) -->
+		<Item Cat="11" Index="176" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Slayer Demonic Boots (A) -->
 		<Item Cat="7" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Legendary Helm -->
 		<Item Cat="8" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Legendary Armor -->
 		<Item Cat="9" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Legendary Pants -->

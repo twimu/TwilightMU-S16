@@ -30,6 +30,7 @@
 		<Item Cat="4" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="4" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="4" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="4" Index="43" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="5" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="5" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="5" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -119,6 +120,11 @@
 		<Item Cat="9" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="10" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="11" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="7" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="7" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="8" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="9" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
@@ -134,6 +140,11 @@
 		<Item Cat="9" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="10" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="11" Index="42" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="7" Index="177" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="8" Index="177" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="9" Index="177" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="10" Index="177" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
+		<Item Cat="11" Index="177" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="8" Index="23" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="9" Index="23" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />
 		<Item Cat="10" Index="23" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="1" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" />

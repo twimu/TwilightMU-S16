@@ -49,6 +49,11 @@
 		<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Pants -->
 		<Item Cat="10" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Gloves -->
 		<Item Cat="11" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Plate Boots -->
+		<Item Cat="7" Index="208" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Round Gunner Helmet -->
+		<Item Cat="8" Index="208" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Round Gunner Armor -->
+		<Item Cat="9" Index="208" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Round Gunner Pants -->
+		<Item Cat="10" Index="208" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Round Gunner Gloves -->
+		<Item Cat="11" Index="208" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Round Gunner Boots -->
 		<Item Cat="7" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Helm -->
 		<Item Cat="8" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Armor -->
 		<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Light Plate Pants -->

@@ -20,14 +20,18 @@
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="7000" Count="1"> <!-- Weapons -->
 		<Item Cat="2" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Elemental Mace -->
+		<Item Cat="7" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Elemental Rune Mace -->
 		<Item Cat="4" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Saint Crossbow -->
+		<Item Cat="7" Index="28" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- El Hazard Mace -->
 		<Item Cat="4" Index="17" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Celestial Bow -->
 		<Item Cat="0" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sword of Destruction -->
+		<Item Cat="0" Index="68" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Cookery Short Sword -->
 		<Item Cat="0" Index="17" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Breaker -->
 		<Item Cat="0" Index="18" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Blade -->
 		<Item Cat="3" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Pluma Lance -->
 		<Item Cat="3" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Vis Lance -->
 		<Item Cat="8" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Staff of Destruction -->
+		<Item Cat="8" Index="206" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Leather Gunner Armor -->
 		<Item Cat="2" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Lord Scepter -->
 	</Drop>
 	<Drop Rate="5000" Count="1"> <!-- Shields -->
@@ -52,6 +56,11 @@
 		<Item Cat="9" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Holy Spirit Pants -->
 		<Item Cat="10" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Holy Spirit Gloves -->
 		<Item Cat="11" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Holy Spirit Boots -->
+		<Item Cat="7" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Kenaz Hood -->
+		<Item Cat="8" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Kanaz Armor -->
+		<Item Cat="9" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Kanaz Pants -->
+		<Item Cat="10" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Kanaz Gloves -->
+		<Item Cat="11" Index="119" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Kanaz Boots -->
 		<Item Cat="7" Index="27" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Steel Helm -->
 		<Item Cat="8" Index="27" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Steel Armor -->
 		<Item Cat="9" Index="27" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Steel Pants -->
