@@ -56,6 +56,11 @@
 		<Item Cat="9" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Pants -->
 		<Item Cat="10" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Gloves -->
 		<Item Cat="11" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Boots -->
+		<Item Cat="7" Index="207" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Helm-->
+		<Item Cat="8" Index="207" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Gunner Armor -->
+		<Item Cat="9" Index="207" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Gunner Pants -->
+		<Item Cat="10" Index="207" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Gunner Gloves -->
+		<Item Cat="11" Index="207" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Scale Gunner Boots -->
 		<Item Cat="7" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Helm -->
 		<Item Cat="8" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Armor -->
 		<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Sphinx Pants -->

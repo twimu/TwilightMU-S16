@@ -21,6 +21,7 @@
 	<Drop Rate="6000" Count="1"> <!-- Weapons -->
 		<Item Cat="4" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Great Reign Crossbow -->
 		<Item Cat="4" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Albatross Bow -->
+		<Item Cat="4" Index="43" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Magic Gun -->
 		<Item Cat="5" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- DDragon Soul Staff -->
 		<Item Cat="5" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Staff of Kundun -->
 		<Item Cat="2" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Shining Scepter -->
@@ -33,6 +34,11 @@
 		<Item Cat="9" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Soul Pants -->
 		<Item Cat="10" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Soul Gloves -->
 		<Item Cat="11" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Dark Soul Boots -->
+		<Item Cat="7" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Helmet -->
+		<Item Cat="8" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Armor -->
+		<Item Cat="9" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Pants -->
+		<Item Cat="10" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Gloves -->
+		<Item Cat="11" Index="209" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Frere Boots -->
 		<Item Cat="8" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Hawk Armor -->
 		<Item Cat="9" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Hawk Pants -->
 		<Item Cat="10" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Thunder Hawk Gloves -->

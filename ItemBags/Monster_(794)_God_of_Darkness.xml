@@ -19,47 +19,62 @@
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" GrowLancer="1" RuneWizard="1" Slayer="1" GunCrusher="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="9900" Count="1">
-			<Item Cat="7" Index="106"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Helm -->
-			<Item Cat="7" Index="107"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Helm -->
-			<Item Cat="7" Index="108"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Helm -->
-			<Item Cat="7" Index="109"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Helm -->
-			<Item Cat="7" Index="111"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Helm -->
-			<Item Cat="7" Index="112"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Helm -->
-			<Item Cat="7" Index="113"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Helm -->
-			<Item Cat="7" Index="114"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Helm -->
-			<Item Cat="8" Index="106"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Armor -->
-			<Item Cat="8" Index="107"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Armor -->
-			<Item Cat="8" Index="108"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Armor -->
-			<Item Cat="8" Index="109"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Armor -->
-			<Item Cat="8" Index="110"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Armor -->
-			<Item Cat="8" Index="111"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Armor -->
-			<Item Cat="8" Index="112"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Armor -->
-			<Item Cat="8" Index="113"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Armor -->
-			<Item Cat="8" Index="114"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Armor -->
-			<Item Cat="8" Index="115"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Ene) Armor -->
-			<Item Cat="9" Index="106"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Pants -->
-			<Item Cat="9" Index="107"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Pants -->
-			<Item Cat="9" Index="108"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Pants -->
-			<Item Cat="9" Index="109"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Pants -->
-			<Item Cat="9" Index="110"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Pants -->
-			<Item Cat="9" Index="111"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Pants -->
-			<Item Cat="9" Index="112"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Pants -->
-			<Item Cat="9" Index="113"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Pants -->
-			<Item Cat="9" Index="114"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Pants -->
-			<Item Cat="9" Index="115"  ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Ene) Pants -->
+			<Item Cat="7" Index="106" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Helm -->
+			<Item Cat="7" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Gun Crusher Helmet -->
+			<Item Cat="7" Index="107" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Helm -->
+			<Item Cat="7" Index="108" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Helm -->
+			<Item Cat="7" Index="109" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Helm -->
+			<Item Cat="7" Index="183" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Slayer Helm -->
+			<Item Cat="7" Index="128" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Runist Helm -->
+			<Item Cat="7" Index="111" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Helm -->
+			<Item Cat="7" Index="112" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Helm -->
+			<Item Cat="7" Index="113" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Helm -->
+			<Item Cat="7" Index="114" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Helm -->
+			<Item Cat="8" Index="106" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Armor -->
+			<Item Cat="8" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Gun Crusher Armor -->
+			<Item Cat="8" Index="107" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Armor -->
+			<Item Cat="8" Index="108" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Armor -->
+			<Item Cat="8" Index="109" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Armor -->
+			<Item Cat="8" Index="183" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Slayer Armor -->
+			<Item Cat="8" Index="128" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Runist Armor -->
+			<Item Cat="8" Index="110" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Armor -->
+			<Item Cat="8" Index="111" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Armor -->
+			<Item Cat="8" Index="112" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Armor -->
+			<Item Cat="8" Index="113" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Armor -->
+			<Item Cat="8" Index="114" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Armor -->
+			<Item Cat="8" Index="115" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Ene) Armor -->
+			<Item Cat="9" Index="106" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Pants -->
+			<Item Cat="9" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Gun Crusher Pants -->
+			<Item Cat="9" Index="107" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Pants -->
+			<Item Cat="9" Index="108" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Pants -->
+			<Item Cat="9" Index="109" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Pants -->
+			<Item Cat="9" Index="183" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Slayer Pants -->
+			<Item Cat="9" Index="128" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Runist Pants -->
+			<Item Cat="9" Index="110" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Pants -->
+			<Item Cat="9" Index="111" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Pants -->
+			<Item Cat="9" Index="112" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Pants -->
+			<Item Cat="9" Index="113" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Pants -->
+			<Item Cat="9" Index="114" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Pants -->
+			<Item Cat="9" Index="115" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Ene) Pants -->
 			<Item Cat="10" Index="106" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Gloves -->
+			<Item Cat="10" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Gun Crusher Gloves -->
 			<Item Cat="10" Index="107" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Gloves -->
 			<Item Cat="10" Index="108" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Gloves -->
 			<Item Cat="10" Index="109" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Gloves -->
+			<Item Cat="10" Index="183" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Slayer Gloves -->
+			<Item Cat="10" Index="128" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Runist Gloves -->
 			<Item Cat="10" Index="110" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Gloves -->
 			<Item Cat="10" Index="111" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Gloves -->
 			<Item Cat="10" Index="113" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lancer Gloves -->
 			<Item Cat="10" Index="114" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Ene) Gloves -->
 			<Item Cat="10" Index="115" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Ene) Gloves -->
 			<Item Cat="11" Index="106" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Knight Boots -->
+			<Item Cat="11" Index="215" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Gun Crusher Boots -->
 			<Item Cat="11" Index="107" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Wizard Boots -->
 			<Item Cat="11" Index="108" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Elf (Agi) Boots -->
 			<Item Cat="11" Index="109" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Summoner Boots -->
+			<Item Cat="11" Index="183" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Soul Slayer Boots -->
+			<Item Cat="11" Index="128" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Runist Boots -->
 			<Item Cat="11" Index="110" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Magic (Str) Boots -->
 			<Item Cat="11" Index="111" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Lord Boots -->
 			<Item Cat="11" Index="112" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Awakening Soul Fighter Boots -->
