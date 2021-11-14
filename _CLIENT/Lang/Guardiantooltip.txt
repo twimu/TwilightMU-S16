@@ -1,0 +1,57 @@
+// 0번 테이블 - 가디언 일반옵션 인덱스 설정							
+0							
+//일반 옵션 인덱스	OptionName						
+0	"Elemental Damage Increase +%d"						
+1	"Elemental Defense Increase +%d"						
+2	"(up to %d Lvl) Defense increase by %0.1f every 20 Lv"						
+3	"(up to %d Lvl) Attack/Wizardry/Curse damage increase by %0.1f every 20 Lv"						
+4	"A 3%% chance of health recovery by %d"						
+end							
+// 1번 테이블 - 일반옵션 공식 및 기타 설정값 등록							
+1							
+//가디언 스크립트 레벨	일반 옵션 인덱스	formuladata	옵션값타입	옵션상한 조건			
+1	0	0	0	-1			
+1	1	1	0	-1			
+1	2	2	0	1100			
+1	3	3	0	1100			
+1	4	4	0	-1			
+2	0	10	0	-1				
+2	1	11	0	-1				
+2	2	12	0	1100				
+2	3	13	0	1100				
+2	4	14	0	-1	
+3	0	20	0	-1				
+3	1	21	0	-1				
+3	2	22	0	1100				
+3	3	23	0	1100				
+3	4	24	0	-1	
+end							
+// 2번 테이블 - 가디언 정예옵션 인덱스 설정 							
+2							
+//정예옵션 인덱스	OptionName						
+0	"Bleeding Damage Resistance +%d"						
+1	"Poison Damage Resistance +%d"						
+2	"Attack Reduction Resistance +%d"						
+3	"Attack Speed Reduction Resistance +%d"						
+4	"Defense Reduction Resistance +%d"						
+end							
+// 3번 테이블-  정예옵션 그룹별 구성, 적용공식(formuladata) 설정							
+3							
+//가디언 스크립트 레벨	옵션 그룹	옵션인덱스(1)	formuladata(1)	옵션값 타입(1)	옵션인덱스(2)	formuladata(2)	옵션값 타입(2)
+1	0	0	5	0	2	7	0
+1	1	1	6	0	2	7	0
+1	2	0	5	0	3	8	0
+1	3	1	6	0	4	9	0
+1	4	0	5	0	4	9	0
+2	0	0	15	0	2	17	0	
+2	1	1	16	0	2	17	0	
+2	2	0	15	0	3	18	0	
+2	3	1	16	0	4	19	0	
+2	4	0	15	0	4	19	0	
+3	0	0	25	0	2	27	0	
+3	1	1	26	0	2	27	0	
+3	2	0	25	0	3	28	0	
+3	3	1	26	0	4	29	0	
+3	4	0	25	0	4	29	0
+end
+

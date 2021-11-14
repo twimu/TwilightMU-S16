@@ -1,0 +1,46 @@
+////////////////////////////////////////////////////////////////////////////////		
+//	[ 버          전 ]	0.0.0.3_1
+//	[ 최종 작업자 ]	노영호
+//	[ 최종 작업일 ]	2014-11-04-11:39:00 AM
+//	[ 내          용 ]	귀걸이용 추가
+//	[ 참          조 ]	클라이언트 전용 스크립트
+////////////////////////////////////////////////////////////////////////////////		
+		
+//SetOption Index	SetOption Name	Operator
+0	"Strength Increase"	1
+1	"Agility Increase"	1
+2	"Energy Increase"	1
+3	"Vitality Increase"	1
+4	"Command Increase"	1
+5	"Min Damage Power Increase"	1
+6	"Max Damage Power Increase"	1
+7	"Wizardry Increase"	2
+8	"Damage Increase"	2
+9	"Attack Speed Increase"	1
+10	"Defense Increase"	1
+11	"Maximum Life Increase"	1
+12	"Maximum Mana Increase"	1
+13	"AG Automatic Recover Increase"	1
+14	"AG Automatic Recovery Increase"	1
+15	"Critical Damage Probability Increase"	2
+16	"Critical Damage Power Increase"	1
+17	"Excellent Damage Probability Increase"	2
+18	"Excellent Damage Power Increase"	1
+19	"Skill Damage Increases"	1
+20	"Double Damage probability Increase"	2
+21	"Ignore Enemy Defense"	2
+22	"Defense Increased when equipping Shield"	2
+23	"ATK / HP"	1
+//24	"Healing Power Increase"	0
+//25	"Increased interpersonal defense rate of allies near 6"	0
+//26	"Min Damage Power Increase"	0
+//27	"Triple Damage Chance Increase"	0
+24	"All Stats Increase"	1
+//25	"Base Defense Increase"	1
+26	"Damage Increase"	1
+27	"Wizardry Power Increase"	1
+28	"Mastery attack power and wizardry increase"	1
+29	"Mastery Excellent Damage Increase"	1
+30	"Mastery Critical Damage Increase"	1
+31	"Mastery Damage Increase"	1
+end		

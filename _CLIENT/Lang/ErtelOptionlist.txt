@@ -1,0 +1,11 @@
+0	"Increase elemental attack power"	0
+1	"Increase %s target elemental attack power "	0
+2	"Increase attack power (PvP)"	0
+3	"Increase attack power (MvP)"	0
+4	"Increase Elemental Defense"	0
+5	"Increase %s target elemental defense "	0
+6	"Increase elemental defense (PvP)"	0
+7	"Increase elemental defense (MvP)"	0
+8	"Increase elemental attack success rate"	0
+9	"Increase elemental defense success rate "	0
+end		

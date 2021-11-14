@@ -1,0 +1,1789 @@
+//가이드와 스페셜 퀘스트의 챕터, 제목, 받을때, 진행중, 완료 대사를 입력하며 공통으로 받을 때 에러용 대사가 준비되어야 한다.			
+//QuestStringIndex	eng	StringType	Quest Index
+1	For system maintenance (disabled)	1	1
+2	Welcome to the world of Mu.	1	2
+3	Oh, I haven't introduced myself yet. My name is Olga. My fellow comrades from the Shadow Phantom Guardians and I serve Erin Gustiv, the queen of Noria.	2	2
+4	We have been waiting for a hero like you to arrive and put a stop to the chaos brought on to the Mu realm by Kundun.	2	2
+5	If you wish, we can provide you with a simple tutorial. It won't take up too much of your time. I'll simply explain basic controls and hunting techniques.	2	2
+6	We aren't difficult to find. Simply look for and talk to the Shadow Phantom Soldier in any of the towns.	2	2
+7	Well done. Here's your reward.	4	2
+8	Listen to the Shadow Phantom Soldier's guide for MU game play.	5	2
+9	Tutorial - Press C	1	3
+10	Let's start with something simple.;Close your quest window and either press C or click on the Character (C) button located on the bottom right of your screen to launch the Character Stats window.	2	3
+11	Did you launch the Character Stats window?;That window contains the character's name and level, the name of the current server, and character statuses.	2	3
+12	Gain EXP points to level up.You can find out how many more points you need to reach the next level by checking your Character Stats window or the EXP bar located at the bottom of your screen.The bar is divided into ten segments, and filling them up will elevate you to the next level.	2	3
+13	The Character Stats window will tell you the name of your character, the name of the current server, and your character's class. It's possible to connect to different channels within a single server using the same character.	2	3
+14	There is six basic character classes: the Elf, the Dark Knight, the Dark Wizard, Summoner, Rune Wizard and Slayer. Reach level 220 with any of these basic characters to unlock the Magic Gladiator, and level 250 to unlock the Dark Lord.	2	3
+15	Here's your reward.	4	3
+16	Listen to the Shadow Phantom Soldier's guide for MU game play.	5	3
+17	Tutorial - Press I	1	4
+18	Leveling up will earn you points. These points can be used to enhance your strength, agility, stamina, and energy and thereby affect your damage, defense, HP, and MP levels, respectively.Carefully use these points, for how you develop your character will determine its combat characteristics and the types of weapons and skills it can use.	2	4
+19	Press the I or V button to open your Inventory window.	2	4
+20	The Inventory window will display the items you have and the equipments you are wearing.;Click on an item to change its position or, if it's a consumable, right-click on it to use it.	2	4
+21	Here's your reward.	4	4
+22	Listen to the Shadow Phantom Soldier's guide for MU game play.	5	4
+23	Bring Apples	1	5
+24	Let's try adding an item to your inventory. Take the Zen I just gave you and purchase 5 apples from a merchant.	2	5
+25	Apples can be purchased from potion merchants. In Lorencia, look for Potion Girl Amy, who is located across the bridge (128,85). In Elveland, look for Silvia, who is in the 1 o'clock direction from the center of the square (45,227). In Noria, look for Elf Lala, who is slightly to the north from the town's center (172,124).	2	5
+26	Coordinates of the character location are displayed in numbers on the upper left corner of the game screen. The position coordinate changes when moving left and right.	2	5
+27	Go find the merchant in town and bring back 5 apples.The NPC's name will be shown in light blue, and the point symbol will turn into a tooth symbol when you scroll over it with your mouse.	3	5
+28	Here's your reward.	4	5
+29	Go find the merchant in town and bring back 5 apples. You can also complete the quest with apples obtained from hunting monsters.	5	5
+30	Hunt Noria Chain Scorpion	1	6
+31	Go beyond the walls of Noria and hunt down 3 Chain Scorpions.If you find yourself in trouble, press the Q button to recover your HP. I'm sure this hunt is well within your abilities.	2	6
+32	Also, if you find yourself far away from a town or cornered while on a hunt, the Town Portal Scroll can come in really handy.	2	6
+33	Town Portal Scrolls can be purchased from potion merchants in towns. They are single-use items that will bring you back to the last town you visited.	2	6
+34	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	6
+35	Return to receive the reward after you finish hunting.	3	6
+36	Well done. Here's your reward.	4	6
+37	Hunt Noria Chain Scorpion and come back. You can press Move button to go to the monsters' location automatically.	5	6
+38	Hunt Lorencia Budge Dragon	1	7
+39	Go beyond the walls of Lorencia and hunt down 3 Budge Dragons.If you find yourself in trouble, press the Q button to recover your HP. I'm sure this hunt is well within your abilities.	2	7
+40	Also, if you find yourself far away from a town or cornered while on a hunt, the Town Portal Scroll can come in really handy.	2	7
+41	Town Portal Scrolls can be purchased from potion merchants in towns. They are single-use items that will bring you back to the last town you visited.	2	7
+42	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	7
+43	Return to receive the reward after you finish hunting.	3	7
+44	Well done. Here's your reward.	4	7
+45	Hunt Noria Lorencia Budge Dragon and come back. You can press Move button to go to the monsters' location automatically.	5	7
+46	Hunt Elbeland Strange Rabbit	1	8
+47	Go beyond the walls of Elveland and hunt down 3 Strange Rabbits.If you find yourself in trouble, press the Q button to recover your HP. I'm sure this hunt is well within your abilities.	2	8
+48	Also, if you find yourself far away from a town or cornered while on a hunt, the Town Portal Scroll can come in really handy.	2	8
+49	Town Portal Scrolls can be purchased from potion merchants in towns. They are single-use items that will bring you back to the last town you visited.	2	8
+50	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	8
+51	Return to receive the reward after you finish hunting.	3	8
+52	Well done. Here's your reward.	4	8
+53	Hunt Elbeland Strange Rabbit and come back. You can press Move button to go to the monsters' location automatically.	5	8
+54	Hunt Noria Beetle Monster	1	9
+55	Go beyond the walls of Noria and hunt down 30 Beetle Monsters. I'm sure this hunt is well within your abilities.	2	9
+56	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	9
+57	Return to receive the reward after you finish hunting.	3	9
+58	Well done. Here's your reward.	4	9
+59	Hunt Noria Beetle Monster and come back. You can press Move button to go to the monsters' location automatically.	5	9
+60	Hunt Lorencia Hound	1	10
+61	Go beyond the walls of Lorencia and hunt down 30 Hounds. I'm sure this hunt is well within your abilities.	2	10
+62	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	10
+63	Return to receive the reward after you finish hunting.	3	10
+64	Well done. Here's your reward.	4	10
+65	Hunt Lorencia Hound and come back. You can press Move button to go to the monsters' location automatically.	5	10
+66	Hunt Elbeland Polluted Butterfly	1	11
+67	Go beyond the walls of Elveland and hunt down 30 Polluted Butterflies. I'm sure this hunt is well within your abilities.	2	11
+68	Close the Quest window and click on me again. After that, select 'Receive damage and defense increase buff.' This buff is available to anyone under level 220. After receiving the buff, you will see an icon on the top left corner of the screen, a blue light effect surrounding the character, and have one hour of enhanced damage and defense.	2	11
+69	Return to receive the reward after you finish hunting.	3	11
+70	Well done. Here's your reward.	4	11
+71	Hunt Elbeland Polluted Butterfly and come back. You can press Move button to go to the monsters' location automatically.	5	11
+72	Tutorial - Learn Skill [Elf]	1	12
+73	I see you've now mastered hunting. When you hunt monsters, you can employ normal attacks by left-clicking or use skill attacks by right-clicking.	2	12
+74	If you are an Agility Elf, whose priority is defense, you can equip a weapon and use its skills. If you are an Energy Elf, whose priority is wizardry, you can purchase orbs to learn skills.	2	12
+75	Elves can learn additional skills by going to Noria and purchasing orbs from Elf Lala (173,124) or weapons from Eo the Craftsman (195,123).	2	12
+76	Let me give you a weapon to use so that you can understand better.	2	12
+77	Well done. Here's your reward.	4	12
+78	Listen to the basic knowledge.	5	12
+79	Tutorial - Learn Skill [Dark Knight]	1	13
+80	I see you've now mastered hunting. When you hunt monsters, you can employ normal attacks by left-clicking or use skill attacks by right-clicking.	2	13
+81	Dark Knights are unique in that they are powerful swordsmen who rely on both weapons and orbs.	2	13
+82	Dark Knights can learn additional skills by going to Lorencia and purchasing orbs from Pasi the Mage (119,112). After purchasing an orb, right-click on it to learn the skill.	2	13
+83	Let me give you a weapon to use so that you can understand better.	2	13
+84	Well done. Here's your reward.	4	13
+85	Listen to the basic knowledge.	5	13
+86	Tutorial - Learn Skill [Dark Wizard]	1	14
+87	I see you've now mastered hunting. When you hunt monsters, you can employ normal attacks by left-clicking or use skill attacks by right-clicking.	2	14
+88	Dark Wizards are unique in that they are capable of mastering various magic spells from scrolls and parchments.	2	14
+89	Dark Wizards can learn additional skills by going to Lorencia and purchasing scrolls from Pasi the Mage (119,112) or weapons from Hanzo the Blacksmith (116,142).	2	14
+90	Let me give you a scroll as a gift so that you can understand what I mean.	2	14
+91	Well done. Here's your reward.	4	14
+92	Listen to the basic knowledge.	5	14
+93	Tutorial - Learn Skill [Summoner]	1	15
+94	I see you've now mastered hunting. When you hunt monsters, you can employ normal attacks by left-clicking or use skill attacks by right-clicking.	2	15
+95	Summoners are unique in that they are capable of mastering various magic spells from scrolls and parchments.	2	15
+96	Summoners can learn additional skills by going to Elveland and purchasing scrolls from Marce (36,218). After purchasing a scroll, right-click on it to learn the skill.	2	15
+97	Let me give you a scroll as a gift so that you can understand what I mean.	2	15
+98	Well done. Here's your reward.	4	15
+99	Listen to the basic knowledge.	5	15
+100	Reach Lv. 25 and meet Shadow Phantom Soldier	1	16
+101	We're nearing the end of our tutorial. Now that you have a skill, it'll make sense for you to build more combat experience. Come back when you reach a certain level, and I will give you a Uniria as a reward.	2	16
+102	Uniria is a mount item you can use out in the battle field. Equip it to the top left corner of your Inventory window for faster travel throughout the battle field.	2	16
+103	Come back once you've reached level 25. I will then reward you with a Uniria as a gift.	2	16
+104	Return to receive the reward after reaching Lv. 25.	3	16
+105	Well done. Here's your reward.	4	16
+106	Reach Lv. 25 and come back to the Shadow Phantom Soldier.	5	16
+107	Tutorial - Learn Skill [All]	1	17
+108	You've truly become a fine warrior. I'm sure the queen herself will be proud of you. Truth be told, she has arranged a few items for warriors such as you.	2	17
+109	I will give you a little more basic knowledge to travel throughout the MU realm and finally give you the queen's gifts.	2	17
+110	Pressing D will give you access to various commands, including Trade, Party, Buy, and Follow. Use these commands well.	2	17
+111	When you want to talk to a friend and you know his or her ID, or if you want to pass on private messages, send whispers by using Tab from the Chat window.	2	17
+112	From Level 1, you can easily repair your equipment using the Repair button in the inventory window. But be careful because it is more expensive than repairing with NPC.	2	17
+113	In the MU world, you can use the M button to travel with ease, provided that your level is high enough and you have enough money for the destination. Discovering areas that are right for your level and hunting there can also be very fun.	2	17
+114	Next time we meet, I sincerely hope to see a mightier warrior before me. Go now and build your experience and strength and free this world from Kundun's grasp! (You've completed the tutorial.)	2	17
+115	Well done. Here's your reward.	4	17
+116	Listen to the basic knowledge.	5	17
+117	Request from Lorencia Shadow Phantom Sholdier	1	18
+118	Reach Lv. 50 and come back to the Shadow Phantom Soldier.	5	18
+119	Listen to the explanation of the Chaos Castle quest (50~399).	1	19
+120	Would you like to visit Chaos Castle, the arena of the gods? There is no better place to prove your strength. Why don't you listen to what I have to say and then decide? (Level 50-399)	2	19
+121	Chaos Castle is a battle field created by Lugard, the god of the heaven world, and Secrarium, the god of the underworld, for the balance of good and evil in this world. However, travelers started going to Chaos Castle and fighting on the side of Lugard, tipping the balance in disfavor of Secrarium.	2	19
+122	To restore balance to the battle event, Secrarium made Lugard an offer and suggested implementation of a new rule. This rule was for everyone participating in the event to wear guardsman's armor. Lugard, believing the offer to be fair, accepted.	2	19
+123	Unfortunately, Secrarium was betting that darkness in the hearts of the travelers would ultimately lead to hostility and discord among them. Lugard was also aware of the travelers' dark side, but his trust in them didn't waver. Ultimately, the travelers did begin to feud with one another like the dark god had anticipated, and Chaos Castle became ever more... chaotic.	2	19
+124	It's very easy to enter Chaos Castle. Simply right-click on your Armor of Guardsman at the appropriate times (12:00am, 14:00pm, 16:00pm, 18:00pm, 20:00pm, and 22:00pm) to enter. Players in designated locations, such as a PC cafe, will have more opportunities to enter.	2	19
+125	You will stand by for about a minute before actually entering. The event starts once this standby time passes. Once it does start, travelers and corrupt guardsmen will fight each other to the death in a no-holds-barred melee. 	2	19
+126	It doesn't matter with the travelers, but you have to be careful when you kill a corrupt guardsman. Corrupt guardsmen will explode and may even push you off the arena. If this happens, you will be disqualified.	2	19
+127	If you want to find out when you can enter, simply move your mouse over the Armor of Guardsman. If you want to enter, simply right-click on the armor at a designated time. Come see me when you have time, and I will give you a quest that will earn you the item needed to enter the event.	2	19
+128	If you understand everything, receive the reward.	4	19
+129	Listen to the explanation of the Chaos Castle.	5	19
+130	Get the supplies for Chaos Castle	1	20
+131	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 50-399)	2	20
+132	It appears Larvae are causing quite a headache for novice travelers to the Dungeon these days. If you defeat 40 Larvae, I will offer you a choice of two rewards from 10 Healing Potions, 10 Mana Potions, and 1 Small SD Potions. When you claim you rewards, make sure you have at least 20 empty slots in your Inventory. Remember that.	2	20
+133	Defeat Larvae in Dungeon and return.	3	20
+134	Well done. Here's the supplies.	4	20
+135	Defeat Larvae in Dungeon and receive supplies.	5	20
+136	Defeat 1 monster in Chaos Castle!	1	21
+137	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 50-399)	2	21
+138	Try your hand at Chaos Castle Level 1. Come back to me after defeating 1 Guardsman, and I will give you 100,000 Zens as a reward. However, this applies only to Chaos Castle Level 1.	2	21
+139	Go to the Event Map to hunt monster x1 in Chaos Castle and return.	3	21
+140	Well done.	4	21
+141	Hunt Mosnter x1 in Chaos Castle and return.	5	21
+142	Clear Chaos Castle 1 time!	1	22
+143	Surviving Chaos Castle is proof of how well you've trained. (Level 50-399)	2	22
+144	Survive through Chaos Castle Level 1. Come back to me after that, and I will give you 100,000 EXP points and 200,000 Zens as a reward. However, this applies only to Chaos Castle Level 1.	2	22
+145	Clear Chaos Castle and return.	3	22
+146	Well done.	4	22
+147	Clear Chaos Castle 1 time and return.	5	22
+148	Listen to the explanation of the Chaos Castle quest (400~599).	1	23
+149	Would you like to visit Chaos Castle, the arena of the gods? There is no better place to prove your strength. Why don't you listen to what I have to say and then decide? (Level 400-599)	2	23
+150	Chaos Castle is a battle field created by Lugard, the god of the heaven world, and Secrarium, the god of the underworld, for the balance of good and evil in this world. However, travelers started going to Chaos Castle and fighting on the side of Lugard, tipping the balance in disfavor of Secrarium.	2	23
+151	To restore balance to the battle event, Secrarium made Lugard an offer and suggested implementation of a new rule. This rule was for everyone participating in the event to wear guardsman's armor. Lugard, believing the offer to be fair, accepted.	2	23
+152	Unfortunately, Secrarium was betting that darkness in the hearts of the travelers would ultimately lead to hostility and discord among them. Lugard was also aware of the travelers' dark side, but his trust in them didn't waver. Ultimately, the travelers did begin to feud with one another like the dark god had anticipated, and Chaos Castle became ever more... chaotic.	2	23
+153	It's very easy to enter Chaos Castle. Simply right-click on your Armor of Guardsman at the appropriate times (12:00am, 14:00pm, 16:00pm, 18:00pm, 20:00pm, and 22:00pm) to enter. Players in designated locations, such as a PC cafe, will have more opportunities to enter.	2	23
+154	You will stand by for about a minute before actually entering. The event starts once this standby time passes. Once it does start, travelers and corrupt guardsmen will fight each other to the death in a no-holds-barred melee. 	2	23
+155	It doesn't matter with the travelers, but you have to be careful when you kill a corrupt guardsman. Corrupt guardsmen will explode and may even push you off the arena. If this happens, you will be disqualified.	2	23
+156	If you want to find out when you can enter, simply move your mouse over the Armor of Guardsman. If you want to enter, simply right-click on the armor at a designated time. Come see me when you have time, and I will give you a quest that will earn you the item needed to enter the event.	2	23
+157	If you understand everything, receive the reward.	4	23
+158	Listen to the explanation of the Chaos Castle.	5	23
+159	Get the supplies for Chaos Castle	1	24
+160	Welcome. I will earn you the item you need to enter the event. (Level 400-599)	2	24
+161	It appears Hell Spiders are causing quite a headache for novice travelers to the Dungeon these days. If you defeat 60 Hell Spiders, I will offer you a choice of two rewards from 5 Large Healing Potions, 5 Large Mana Potions, and 2 Small SD Potions. When you claim your rewards, make sure you have at least 13 empty slots in your Inventory. Remember that.	2	24
+162	Defeat Hell Spiders in Dungeon and return.	3	24
+163	Well done. Here's the supplies.	4	24
+164	Defeat Hell Spiders in Dungeon and receive supplies.	5	24
+165	Defeat 3 monsters in Chaos Castle!	1	25
+166	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 400-599)	2	25
+167	Try your hand at Chaos Castle Level 2. Come back to me after defeating 3 Guardsman, and I will give you 200,000 Zens as a reward. However, this applies only to Chaos Castle Level 2.	2	25
+168	Go to the Event Map to hunt monsters x3 in Chaos Castle and return.	3	25
+169	Well done.	4	25
+170	Hunt monsters x3 in Chaos Castle and return.	5	25
+171	Clear Chaos Castle 1 time!	1	26
+172	Surviving Chaos Castle is proof of how well you've trained. (Level 400-599)	2	26
+173	Survive through Chaos Castle Level 2. Come back to me after that, and I will give you 400,000 EXP points and 300,000 Zens as a reward. However, this applies only to Chaos Castle Level 2.	2	26
+174	Clear Chaos Castle and return.	3	26
+175	Well done.	4	26
+176	Clear Chaos Castle 1 time and return.	5	26
+177	Get the supplies for Chaos Castle	1	27
+178	Welcome. I will earn you the item you need to enter the event. (Level 600-699)	2	27
+179	There's a rumor about Dark Knights and Gorgons from the lowest level of the Dungeon planning something sinister. Go to Dungeon Level 3 and defeat 80 Dark Knights. Do this, and I will give you a choice of two rewards from 10 Large Healing Potions, 10 Large Mana Potions, and 5 Small Complex Potions. When you claim your rewards, make sure you have at least 20 empty slots in your Inventory. Remember that.	2	27
+180	Defeat Dark Knights in Dungeon and return.	3	27
+181	Well done. Here's the supplies.	4	27
+182	Defeat Dark Knights in Dungeon and receive supplies.	5	27
+183	Defeat 5 monsters in Chaos Castle!	1	28
+184	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 600-699)	2	28
+185	Try your hand at Chaos Castle Level 3. Come back to me after defeating 5 Guardsmen, and I will give you 800,000 EXP points and 500,000 Zens as a reward. However, this applies only to Chaos Castle Level 3.	2	28
+186	Go to the Event Map to hunt monsters x5 in Chaos Castle and return.	3	28
+187	Well done.	4	28
+188	Hunt monsters x5 in Chaos Castle and return.	5	28
+189	Clear Chaos Castle 1 time!	1	29
+190	Surviving Chaos Castle is proof of how well you've trained. (Level 600-699)	2	29
+191	Survive through Chaos Castle Level 3. Come back to me after that, and I will give you 1,000,000 EXP points and 1 Jewel of Chaos as a reward. However, this applies only to Chaos Castle Level 3.	2	29
+192	Clear Chaos Castle and return.	3	29
+193	Well done.	4	29
+194	Clear Chaos Castle 1 time and return.	5	29
+195	Get the supplies for Chaos Castle	1	30
+196	Welcome. I will earn you the item you need to enter the event. (Level 700-799)	2	30
+197	Devils located on Levels 4 through 6 of the Lost Tower should suffice. Go to the Lost Tower and defeat 100 Devils. Come see me after that, and I will give you a choice between 5 SD Potions and 5 Complex Potions as your reward. When you claim your rewards, make sure you have at least 15 empty slots in your Inventory. Remember that.	2	30
+198	Defeat Devils in Lost Tower Lv. 4-6 and return.	3	30
+199	Well done. Here's the supplies.	4	30
+200	Defeat Devils in Lost Tower Level 4-6 and receive supplies.	5	30
+201	Defeat 1 player in Chaos Castle!	1	31
+202	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 700-799)	2	31
+203	Try your hand at Chaos Castle Level 4. Come back to me after defeating 1 traveler wearing the Armor of Guardsman, and I will give you 300,000 Zens and 1 Jewel of Chaos as a reward. However, this applies only to Chaos Castle Level 4.	2	31
+204	Go to the Event Map to defeat player x1 in Chaos Castle and return.	3	31
+205	Well done.	4	31
+206	Defeat player x1 in Chaos Castle and return.	5	31
+207	Clear Chaos Castle 1 time!	1	32
+208	Surviving Chaos Castle is proof of how well you've trained. (Level 700-799)	2	32
+209	Survive through Chaos Castle Level 4. I will give you 1 Jewel of Soul as a reward when you return. However, this applies only to Chaos Castle Level 4.	2	32
+210	Clear Chaos Castle and return.	3	32
+211	Well done.	4	32
+212	Clear Chaos Castle 1 time and return.	5	32
+213	Get the supplies for Chaos Castle	1	33
+214	Welcome. I will earn you the item you need to enter the event. (Level 800-899)	2	33
+215	Queen Rainiers in Icarus should suffice. Go to Icarus and defeat 100 Queen Rainiers. Come see me after that, and I will give you a choice between 3 Large SD Potions and 10 Complex Potions as your reward. When you claim you rewards, make sure you have at least 10 empty slots in your Inventory. Remember that.	2	33
+216	Defeat Queen Rainiers in Icarus and return.	3	33
+217	Well done. Here's the supplies.	4	33
+218	Defeat Queen Rainers in Icarus and receive supplies.	5	33
+219	Defeat 3 players in Chaos Castle!	1	34
+220	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 800-899)	2	34
+221	Try your hand at Chaos Castle Level 5. Come back to me after defeating 3 travelers wearing the Armor of Guardsman, and I will give you 1 Jewel of Soul as a reward. However, this applies only to Chaos Castle Level 5.	2	34
+222	Go to the Event Map to defeat players x3 in Chaos Castle and return.	3	34
+223	Well done.	4	34
+224	Defeat players x3 in Chaos Castle and return.	5	34
+225	Clear Chaos Castle 1 time!	1	35
+226	Surviving Chaos Castle is proof of how well you've trained. (Level 800-899)	2	35
+227	Survive through Chaos Castle Level 5. I will give you 1 Jewel of Bless as a reward when you return. However, this applies only to Chaos Castle Level 5.	2	35
+228	Clear Chaos Castle and return.	3	35
+229	Well done.	4	35
+230	Clear Chaos Castle 1 time and return.	5	35
+231	Get the supplies for Chaos Castle	1	36
+232	Welcome. I will earn you the item you need to enter the event. (Level 900-999)	2	36
+233	Beam Knights in Tarkan Level 2 should suffice. Go to Tarkan Level 2 and defeat 100 Beam Knightss. Come see me after that, and I will give you a choice between 7 Large SD Potions and 10 Complex Potions as your reward. When you claim you rewards, make sure you have at least 20 empty slots in your Inventory. Remember that.	2	36
+234	Defeat Beam Knights in Tarkan 2 and return.	3	36
+235	Well done. Here's the supplies.	4	36
+236	Defeat Beam Knights in Tarkan 2 and receive supplies.	5	36
+237	Defeat 5 players in Chaos Castle!	1	37
+238	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 900-999)	2	37
+239	Try your hand at Chaos Castle Level 6. Come back to me after defeating 5 travelers wearing the Armor of Guardsman, and I will give you 1 Jewel of Harmony as a reward. However, this applies only to Chaos Castle Level 6.	2	37
+240	Go to the Event Map to defeat players x5 in Chaos Castle and return.	3	37
+241	Well done.	4	37
+242	Defeat players x5 in Chaos Castle and return.	5	37
+243	Clear Chaos Castle 1 time!	1	38
+244	Surviving Chaos Castle is proof of how well you've trained. (Level  900-999)	2	38
+245	Survive through Chaos Castle Level 6. I will give you 1 Jewel of Life as a reward when you return. However, this applies only to Chaos Castle Level 6.	2	38
+246	Clear Chaos Castle and return.	3	38
+247	Well done.	4	38
+248	Clear Chaos Castle 1 time and return.	5	38
+249	Get the supplies for Chaos Castle	1	39
+250	Welcome. I will earn you the item you need to enter the event. (Level 1000-1350)	2	39
+251	Shadow Pawns from the Swamp of Peace should suffice. Go to the Swamp of Peace and defeat 100 Shadow Pawns. Come see me after that, and I will give you a choice between 10 Large SD Potions and 15 Large Complex Potions as your reward. When you claim your reward, make sure you have at least 30 empty slots in your Inventory. Remember that.	2	39
+252	Defeat Shadow Pawns in Swamp of Peace and return.	3	39
+253	Well done. Here's the supplies.	4	39
+254	Defeat Shadow Pawns in Swamp of Peace and receive supplies.	5	39
+255	Defeat 7 players in Chaos Castle!	1	40
+256	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 1000-1350)	2	40
+257	Try your hand at Chaos Castle Level 7. Come back to me after defeating 10 travelers wearing the Armor of Guardsman, and I will give you 2 Jewels of Soul as a reward. However, this applies only to Chaos Castle Level 7.	2	40
+258	Go to the Event Map to defeat players x7 in Chaos Castle and return.	3	40
+259	Well done.	4	40
+260	Defeat players x7 in Chaos Castle and return.	5	40
+261	Clear Chaos Castle 1 time!	1	41
+262	Surviving Chaos Castle is proof of how well you've trained. (Level 1000-1350)	2	41
+263	Survive through Chaos Castle Level 7. I will give you 2 Jewels of Bless as a reward when you return. However, this applies only to Chaos Castle Level 7.	2	41
+264	Clear Chaos Castle and return.	3	41
+265	Well done.	4	41
+266	Clear Chaos Castle 1 time and return.	5	41
+267	Listen to the explanation of the Blood Castle quest (50~399).	1	42
+268	Have you ever heard of Blood Castle's barrier? Would you like to hear Archangel's request to help defend Blood Castle's barrier and join in the fight for the castle? (Level 50-399)	2	42
+269	I will tell you then. Devildom's royal guards, who were summoned when Kundun succumbed to Secrarium, posed a great threat to the heaven world. To protect their base, the Twelve Saints formed a barrier around Blood Castle. 	2	42
+270	Kundun, however, must've anticipated such a move. He hid beyond the range of the barrier and eliminated the Twelve Saints as soon as the barrier was formed. Luckily, Archangel evaded that peril and sacrificed himself for the barrier. 	2	42
+271	It's easy to join Blood Castle. It will be held every 2 hours from 00:30. 5 minutes before the Blood Castle takes place, take an Invisibility Cloak that fits the your level and go to the event map square. Find 'Archangel's Spirit' and apply for the Blood Castle. Archangel's Spirit will send you to the Blood Castle. 	2	42
+272	You will stand by for about a minute before actually entering. You'll enter Blood Castle after this standby time has elapsed. Once inside Blood Castle, you can buy some time by defeating 40 monsters summoned by a necromancer named Red Skull.	2	42
+273	Go past the castle gate and defeat two Red Skulls who have hidden the Absolute Weapon. This will buy you some more time and reveal a casket containing the weapon. Destroy the casket, defeat more monsters, and return the Absolute Weapon to Archangel to successfully complete the Blood Castle quest.	2	42
+274	To find out when you can enter, simply press the F1 key. If you want to enter, take an Invisibility Cloak that's right for your level to the Messenger of Archangel before the scheduled start time. Come see me when you have time, and I will give you a quest that will earn you the Invisibility Cloak so that you can enter Blood Castle.	2	42
+275	If you understand everything, receive the reward.	4	42
+276	Listen to the explanation of the Blood Castle.	5	42
+277	Get the supplies for Blood Castle	1	43
+278	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 50-399)	2	43
+279	It appears Hell Hounds are causing quite a headache for novice travelers to the Dungeon these days. Hunt down 40 Hell Hounds, and I'll give you an Invisibility Cloak + 1 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	43
+280	Defeat Hell Hounds in Dungeon and return.	3	43
+281	Well done. Here's the supplies.	4	43
+282	Defeat Hell Hounds in Dungeon and receive supplies.	5	43
+283	Destroy the gate in Blood Castle!	1	44
+284	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 50-399)	2	44
+285	Try your hand at Blood Castle Level 1. Destroy the castle gate at least, and I'll give you 100,000 Zens as a reward. However, this applies only to Blood Castle Level 1.	2	44
+286	Enter Blood Castle to destroy the gate and return.	3	44
+287	Well done.	4	44
+288	Destroy the gate in Blood Castle 1 time and return.	5	44
+289	Clear Blood Castle!	1	45
+290	Surviving Blood Castle is proof of how well you've trained. (Level 50-399)	2	45
+291	Try your hand at Blood Castle Level 1 and complete Archangel's quest. Come back afterwards, and I'll give you 100,000 EXP points and 200,000 Zens as a reward. However, this applies only to Blood Castle Level 1.	2	45
+292	Clear Blood Castle and return.	3	45
+293	Well done.	4	45
+294	Clear Blood Castle 1 time and return.	5	45
+295	Listen to the explanation of the Blood Castle quest (400~599).	1	46
+296	Have you ever heard of Blood Castle's barrier? Would you like to hear Archangel's request to help defend Blood Castle's barrier and join in the fight for the castle? (Level 50-199)	2	46
+297	I will tell you then. Devildom's royal guards, who were summoned when Kundun succumbed to Secrarium, posed a great threat to the heaven world. To protect their base, the Twelve Saints formed a barrier around Blood Castle. 	2	46
+298	Kundun, however, must've anticipated such a move. He hid beyond the range of the barrier and eliminated the Twelve Saints as soon as the barrier was formed. Luckily, Archangel evaded that peril and sacrificed himself for the barrier. 	2	46
+299	It's easy to join Blood Castle. It will be held every 2 hours from 00:30. 5 minutes before the Blood Castle takes place, take an Invisibility Cloak that fits the your level and go to the event map square. Find 'Archangel's Spirit' and apply for the Blood Castle. Archangel's Spirit will send you to the Blood Castle. 	2	46
+300	You will stand by for about a minute before actually entering. You'll enter Blood Castle after this standby time has elapsed. Once inside Blood Castle, you can buy some time by defeating 40 monsters summoned by a necromancer named Red Skull.	2	46
+301	Go past the castle gate and defeat two Red Skulls who have hidden the Absolute Weapon. This will buy you some more time and reveal a casket containing the weapon. Destroy the casket, defeat more monsters, and return the Absolute Weapon to Archangel to successfully complete the Blood Castle quest.	2	46
+302	To find out when you can enter, simply press the F1 key. If you want to enter, take an Invisibility Cloak that's right for your level to the Messenger of Archangel before the scheduled start time. Come see me when you have time, and I will give you a quest that will earn you the Invisibility Cloak so that you can enter Blood Castle.	2	46
+303	If you understand everything, receive the reward.	4	46
+304	Listen to the explanation of the Blood Castle.	5	46
+305	Get the supplies for Blood Castle	1	47
+306	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 400-599)	2	47
+307	It appears Poison Bull Fighters are causing quite a headache for novice travelers to the Dungeon these days. Hunt down 60 Poison Bull Fighters, and I'll give you an Invisibility Cloak + 2 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	47
+308	Defeat Poison Bull Fighters in Dungeon and return.	3	47
+309	Well done. Here's the supplies.	4	47
+310	Defeat Poison Bull Fighters in Dungeon and receive supplies.	5	47
+311	Destroy the gate in Blood Castle!	1	48
+312	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 400-599)	2	48
+313	Try your hand at Blood Castle Level 2 and complete Archangel's quest. Come back afterwards, and I'll give you 200,000 Zens as a reward. However, this applies only to Blood Castle Level 1.	2	48
+314	Enter Blood Castle to destroy the gate and return.	3	48
+315	Well done.	4	48
+316	Destroy the gate in Blood Castle 1 time and return.	5	48
+317	Clear Blood Castle!	1	49
+318	Surviving Blood Castle is proof of how well you've trained. (Level 400-599)	2	49
+319	Try your hand at Blood Castle Level 2 and complete Archangel's quest. Come back afterwards, and I'll give you 400,000 EXP points and 300,000 Zens as a reward. However, this applies only to Blood Castle Level 2.	2	49
+320	Clear Blood Castle and return.	3	49
+321	Well done.	4	49
+322	Clear Blood Castle 1 time and return.	5	49
+323	Get the supplies for Blood Castle	1	50
+324	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 600-699)	2	50
+325	Death Knights from the Lost Tower Levels 5 through 7 are causing great harm to travelers there. Go to the Lost Tower and defeat 80 Death Knights. Come see me when that's done to receive an Invisibility Cloak + 3 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	50
+326	Defeat Death Knights in Lost Tower Level 5-7 and return.	3	50
+327	Well done. Here's the supplies.	4	50
+328	Defeat Death Knights in Lost Tower Level 5-7 and receive supplies.	5	50
+329	Destroy the gate in Blood Castle!	1	51
+330	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 600-699)	2	51
+331	Try your hand at Blood Castle Level 3 and complete Archangel's quest. Come back afterwards, and I'll give you 800,000 EXP points and 500,000 Zens as a reward. However, this applies only to Blood Castle Level 3.	2	51
+332	Enter Blood Castle to destroy the gate and return.	3	51
+333	Well done.	4	51
+334	Destroy the gate in Blood Castle 1 time and return.	5	51
+335	Clear Blood Castle!	1	52
+336	Surviving Blood Castle is proof of how well you've trained. (Level 600-699)	2	52
+337	Try your hand at Blood Castle Level 3 and complete Archangel's quest. Come back afterwards, and I'll give you 1,000,000 EXP points and 1 Jewel of Chaos as a reward. However, this applies only to Blood Castle Level 3.	2	52
+338	Clear Blood Castle and return.	3	52
+339	Well done.	4	52
+340	Clear Blood Castle 1 time and return.	5	52
+341	Get the supplies for Blood Castle	1	53
+342	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 700-799)	2	53
+343	Mega Crusts in Icarus are causing great harm to travelers. Go to Icarus and defeat 80 Mega Crusts. Come see me when that's done to receive an Invisibility Cloak + 4 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	53
+344	Defeat Mega Crusts in Icarus and return.	3	53
+345	Well done. Here's the supplies.	4	53
+346	Defeat Mega Crusts in Icarus and receive supplies.	5	53
+347	Destroy the gate in Blood Castle!	1	54
+348	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 700-799)	2	54
+349	Try your hand at Blood Castle Level 4. Destroy the castle gate, and I'll give you 1 Jewel of Chaos and 500,000 Zens as a reward. However, this applies only to Blood Castle Level 4.	2	54
+350	Enter Blood Castle to destroy the gate and return.	3	54
+351	Well done.	4	54
+352	Destroy the gate in Blood Castle 1 time and return.	5	54
+353	Clear Blood Castle!	1	55
+354	Surviving Blood Castle is proof of how well you've trained. (Level 700-799)	2	55
+355	Try your hand at Blood Castle Level 4 and complete Archangel's quest. I'll give you 1 Jewel of Soul as a reward when you return. However, this applies only to Blood Castle Level 4.	2	55
+356	Clear Blood Castle and return.	3	55
+357	Well done.	4	55
+358	Clear Blood Castle 1 time and return.	5	55
+359	Get the supplies for Blood Castle	1	56
+360	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 800-899)	2	56
+361	Tantaloses from Tarkan Level 2 are causing great harm to travelers there. Go to Tarkan Level 2 and hunt down 100 Tantaloses. Come see me when that's done to receive an Invisibility Cloak + 5 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	56
+362	Defeat Tantaloses in Tarkan 2 and return.	3	56
+363	Well done. Here's the supplies.	4	56
+364	Defeat Tantaloses in Tarkan 2 and receive supplies.	5	56
+365	Destroy the gate in Blood Castle!	1	57
+366	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 800-899)	2	57
+367	A wise decision. Try your hand at Blood Castle Level 5. Destroy the castle gate, and I'll give you 1 Jewel of Soul as a reward. However, this applies only to Blood Castle Level 5.	2	57
+368	Enter Blood Castle to destroy the gate and return.	3	57
+369	Well done.	4	57
+370	Destroy the gate in Blood Castle 1 time and return.	5	57
+371	Clear Blood Castle!	1	58
+372	Surviving Blood Castle is proof of how well you've trained. (Level 800-899)	2	58
+373	Try your hand at Blood Castle Level 5 and complete Archangel's quest. I'll give you 1 Jewel of Bless as a reward when you return. However, this applies only to Blood Castle Level 5.	2	58
+374	Clear Blood Castle and return.	3	58
+375	Well done.	4	58
+376	Clear Blood Castle 1 time and return.	5	58
+377	Get the supplies for Blood Castle	1	59
+378	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 900-999)	2	59
+379	Phantom Knights in Icarus are causing great harm to travelers there. Go to Icarus and hunt down 100 Phantom Knights. Come see me when that's done to receive an Invisibility Cloak + 6 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	59
+380	Defeat Phantom Knights in Icarus and return.	3	59
+381	Well done. Here's the supplies.	4	59
+382	Defeat Phantom Knights in Icarus and receive supplies.	5	59
+383	Destroy the gate in Blood Castle!	1	60
+384	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 900-999)	2	60
+385	Try your hand at Blood Castle Level 6. Destroy the castle gate at least, and I'll give you 1 Jewel of Bless as a reward. However, this applies only to Blood Castle Level 6.	2	60
+386	Enter Blood Castle to destroy the gate and return.	3	60
+387	Well done.	4	60
+388	Destroy the gate in Blood Castle 1 time and return.	5	60
+389	Clear Blood Castle!	1	61
+390	Surviving Blood Castle is proof of how well you've trained. (Level  900-999)	2	61
+391	Try your hand at Blood Castle Level 6 and complete Archangel's quest. I'll give you 1 Jewel of Life as a reward when you return. However, this applies only to Blood Castle Level 6.	2	61
+392	Clear Blood Castle and return.	3	61
+393	Well done.	4	61
+394	Clear Blood Castle 1 time and return.	5	61
+395	Get the supplies for Blood Castle	1	62
+396	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1350)	2	62
+397	Twin Tails in Kanturu Relics are causing great harm to travelers. Go to Kanturu Relics and hunt down 100 Twin Tails. Come see me when that's done to receive an Invisibility Cloak + 7 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	62
+398	Defeat Twin Tails in Kanturu Ruins and return.	3	62
+399	Well done. Here's the supplies.	4	62
+400	Defeat Twin Tails in Kanturu Ruins and receive supplies.	5	62
+401	Destroy the gate in Blood Castle!	1	63
+402	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 1000-1350)	2	63
+403	Try your hand at Blood Castle Level 7. Destroy the castle gate at least, and I'll give you 2 Jewels of Soul as a reward. However, this applies only to Blood Castle Level 7.	2	63
+404	Enter Blood Castle to destroy the gate and return.	3	63
+405	Well done.	4	63
+406	Destroy the gate in Blood Castle 1 time and return.	5	63
+407	Clear Blood Castle!	1	64
+408	Surviving Blood Castle is proof of how well you've trained. (Level 1000-1350)	2	64
+409	Try your hand at Blood Castle Level 7 and complete Archangel's quest. I'll give you 2 Jewels of Bless as a reward when you return. However, this applies only to Blood Castle Level 7.	2	64
+410	Clear Blood Castle and return.	3	64
+411	Well done.	4	64
+412	Clear Blood Castle 1 time and return.	5	64
+413	Listen to the explanation of the Devil Square quest (50~399).	1	65
+414	Are you familiar with a hidden training ground known as Devil Square? It's an opportune place to develop your skills. Why don't you listen to what I have to say and then decide? (Level 50-199)	2	65
+415	Devil Square is the place where the Elf Tree once stood. The Elf Tree was created by the mother of all Elves, an underground Elf known as Aria. This tree had the ability to produce Elves regularly. Then Secrarium tricked Lugard and appeared in Noria, at the location of the Elf Tree.	2	65
+416	Having set his eyes on the tree's power of birth, Secrarium corrupted the Elf Tree and transformed it into an Immoral Tree that gave birth to monsters.  The monsters horde grew to astronomical proportions, and the kingdoms of the MU continent combined their forces to entrap the immoral tree in a space of nothingness. 	2	65
+417	Monsters, however, continued to spawn at regular intervals from the spot where the tree once stood. After careful consideration, the queen of the Elves decided to make a training arena of this place for travelers.	2	65
+418	It's very easy to enter Devil Square. It can be entered every four hours from 3:00 a.m. and on (3:00 a.m., 7:00 a.m., 11:00 a.m., 3:00 p.m., 7:00 p.m., and 11:00 p.m.). To enter, take a Devil's Invitation that's right for your level to Charon in Noria five minutes before a scheduled entry time and ask to join. Charon will then send you to Devil Square. 	2	65
+419	You'll stand by for about a minute before actually entering. Once this standby time passes, monsters will start to appear. The monsters will continue to attack for ten minutes, and killing them will earn you points. If you score high enough, you might even receive a reward. 	2	65
+420	You'll face a steady stream of powerful monsters at Devil Square. Forming a party with other travelers before entering will give you a better chance of survival. 	2	65
+421	Thank you for listening. Here's your reward.	4	65
+422	Listen to the explanation of the Devil Square.	5	65
+423	Get the supplies for Devil Square	1	66
+424	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 50-399)	2	66
+425	It seems Cursed Liches are tormenting the residents of Elveland with their dark spells and curses. Hunt down 40 of those Cursed Liches, and I'll give you a Devil's Invitation +1 as a reward. I suggest you work with others for faster results.	2	66
+426	Defeat Cursed Liches, tormenting the residents of Elveland with their dark spells and curses, in Elbeland and return.	3	66
+427	Well done. Here's the supplies.	4	66
+428	Hunt Cursed Liches, tormenting the residents of Elveland with their dark spells and curses, in Elbeland and receive supplies.	5	66
+429	Gain 50 points in Devil Square!	1	67
+430	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 50-399)	2	67
+431	Try your hand at Devil Square Level 1. If you achieve 50 points, I'll give you 100,000 Zens as a reward. However, this applies only to Devil Square Level 1. You will earn 2 points for every monster you hunt.	2	67
+432	Enter the Event Map Devil Square to achieve 50 Points and return.	3	67
+433	Well done.	4	67
+434	Gain 50 points in Devil Square and return.	5	67
+435	Clear Devil Square!	1	68
+436	Surviving Devil Square is proof of how well you've trained. (Level 50-399)	2	68
+437	Enter Devil Square Level 1, defeat the monsters that appear, and survive to the bitter end. Come back afterwards, and I'll give you 100,000 EXP points and 200,000 Zens as a reward. However, this applies only to Devil Square Level 1.	2	68
+438	Clear Devil Square and return.	3	68
+439	Well done.	4	68
+440	Clear Devil Square 1 time and return.	5	68
+441	Listen to the explanation of the Devil Square quest (400~599).	1	69
+442	Are you familiar with a hidden training ground known as Devil Square? It's an opportune place to develop your skills. Why don't you listen to what I have to say and then decide? (Level 50-199)	2	69
+443	Devil Square is the place where the Elf Tree once stood. The Elf Tree was created by the mother of all Elves, an underground Elf known as Aria. This tree had the ability to produce Elves regularly. Then Secrarium tricked Lugard and appeared in Noria, at the location of the Elf Tree.	2	69
+444	Having set his eyes on the tree's power of birth, Secrarium corrupted the Elf Tree and transformed it into an Immoral Tree that gave birth to monsters.  The monsters horde grew to astronomical proportions, and the kingdoms of the MU continent combined their forces to entrap the immoral tree in a space of nothingness. 	2	69
+445	Monsters, however, continued to spawn at regular intervals from the spot where the tree once stood. After careful consideration, the queen of the Elves decided to make a training arena of this place for travelers.	2	69
+446	It's very easy to enter Devil Square. It can be entered every four hours from 3:00 a.m. and on (3:00 a.m., 7:00 a.m., 11:00 a.m., 3:00 p.m., 7:00 p.m., and 11:00 p.m.). To enter, take a Devil's Invitation that's right for your level to Charon in Noria five minutes before a scheduled entry time and ask to join. Charon will then send you to Devil Square. 	2	69
+447	You'll stand by for about a minute before actually entering. Once this standby time passes, monsters will start to appear. The monsters will continue to attack for ten minutes, and killing them will earn you points. If you score high enough, you might even receive a reward. 	2	69
+448	You'll face a steady stream of powerful monsters at Devil Square. Forming a party with other travelers before entering will give you a better chance of survival. 	2	69
+449	Thank you for listening. Here's your reward.	4	69
+450	Listen to the explanation of the Devil Square.	5	69
+451	Get the supplies for Devil Square	1	70
+452	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 400-599)	2	70
+453	They say Death Cows, driven by an evil energy, are up to something suspicious in the Lost Tower. Hunt down 60 Death Cows, and I'll give you a Devil's Invitation + 2 as a reward. It'd be wise to take on this quest together with others you can trust.	2	70
+454	Defeat Death Cows, driven by an evil energy, in Lost Tower and return.	3	70
+455	Well done. Here's the supplies.	4	70
+456	Hunt Death Cows, driven by an evil energy, in Lost Tower and receive supplies.	5	70
+457	Gain 100 points in Devil Square!	1	71
+458	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 400-599)	2	71
+459	The test I have in mind is for you to enter Devil Square Level 2 and achieve 100 points. Do this, and I'll give you 200,000 Zens as a reward. However, this applies only to Devil Square Level 2. You will earn 2 points for every monster you hunt.	2	71
+460	Enter the Event Map Devil Square to achieve 100 Points and return.	3	71
+461	Well done.	4	71
+462	Gain 100 points in Devil Square and return.	5	71
+463	Clear Devil Square!	1	72
+464	Surviving Devil Square is proof of how well you've trained. (Level 400-599)	2	72
+465	Enter Devil Square Level 2, defeat the monsters that appear, and survive to the bitter end. Come back afterwards, and I'll give you 400,000 EXP points and 300,000 Zens as a reward. However, this applies only to Devil Square Level 2.	2	72
+466	Clear Devil Square and return.	3	72
+467	Well done.	4	72
+468	Clear Devil Square 1 time and return.	5	72
+469	Get the supplies for Devil Square	1	73
+470	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 600-699)	2	73
+471	They say the number of Alquamoses in Icarus is increasing and causing quite a headache for travelers. Go to Icarus and hunt down 80 Alquamoses. Come see me once that's done to receive a Devil's Invitation + 3 as a reward. They are strong foes, and you should hunt them with the help of others.	2	73
+472	Defeat Alquamoses in Icarus and return.	3	73
+473	Well done. Here's the supplies.	4	73
+474	Hunt Alquamoses in Icarus and receive supplies.	5	73
+475	Gain 130 points in Devil Square!	1	74
+476	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 600-699)	2	74
+477	The test I have in mind is for you to enter Devil Square Level 3 and achieve 130 points. Do this successfully and I'll give you 800,000 EXP points and 500,000 Zens as a reward. However, this applies only to Devil Square Level 3. You will earn 2 points for every monster you hunt.	2	74
+478	Enter the Event Map Devil Square to achieve 130 Points and return.	3	74
+479	Well done.	4	74
+480	Gain 130 points in Devil Square and return.	5	74
+481	Clear Devil Square!	1	75
+482	Surviving Devil Square is proof of how well you've trained. (Level 600-699)	2	75
+483	Enter Devil Square Level 3, defeat the monsters that appear, and survive to the bitter end. Come back to me afterwards, and I'll give you 1,000,000 EXP points and 1 Jewel of Chaos as a reward. However, this applies only to Devil Square Level 3.	2	75
+484	Clear Devil Square and return.	3	75
+485	Well done.	4	75
+486	Clear Devil Square 1 time and return.	5	75
+487	Get the supplies for Devil Square	1	76
+488	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 700-799)	2	76
+489	Packs of Iron Wheels often attack travelers in Tarkan. Go to Tarkan and hunt down 100 Iron Wheels. Come see me afterwards to receive a Devil's Invitation + 4 as a reward. They are strong foes, and you should hunt them with the help of others.	2	76
+490	Defeat Iron Wheels in Tarkan and return.	3	76
+491	Well done. Here's the supplies.	4	76
+492	Hunt Iron Wheels in Tarkan and receive supplies.	5	76
+493	Gain 160 points in Devil Square!	1	77
+494	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 700-799)	2	77
+495	The test I have in mind is for you to enter Devil Square Level 4 and achieve 160 points. Do this successfully and I'll give you 1 Jewel of Chaos and 500,000 Zens as a reward. However, this applies only to Devil Square Level 4. You will earn 2 points for every monster you hunt.	2	77
+496	Enter the Event Map Devil Square to achieve 160 Points and return.	3	77
+497	Well done.	4	77
+498	Gain 160 points in Devil Square and return.	5	77
+499	Clear Devil Square!	1	78
+500	Surviving Devil Square is proof of how well you've trained. (Level 700-799)	2	78
+501	Enter Devil Square Level 4, defeat the monsters that appear, and survive to the bitter end. I'll give you 1 Jewel of Soul as a reward when you return. However, this applies only to Devil Square Level 4.	2	78
+502	Clear Devil Square and return.	3	78
+503	Well done.	4	78
+504	Clear Devil Square 1 time and return.	5	78
+505	Get the supplies for Devil Square	1	79
+506	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 800-899)	2	79
+507	Beam Knights seem to be up to something in Tarkan. Go to Tarkan level 2 and hunt down 100 Beam Knights. Come see me once that's done to receive a Devil's Invitation + 5 as a reward. They are strong foes, and you should hunt them with the help of others.	2	79
+508	Defeat Beam Knights in Tarkan and return.	3	79
+509	Well done. Here's the supplies.	4	79
+510	Hunt Beam Knights in Tarkan and receive supplies.	5	79
+511	Gain 190 points in Devil Square!	1	80
+512	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 800-899)	2	80
+513	The test I have in mind is for you to enter Devil Square Level 5 and achieve 190 points. Do this successfully and I'll give you 1 Jewel of Soul as a reward. However, this applies only to Devil Square Level 5. You will earn 2 points for every monster you hunt.	2	80
+514	Enter the Event Map Devil Square to achieve 190 Points and return.	3	80
+515	Well done.	4	80
+516	Gain 190 points in Devil Square and return.	5	80
+517	Clear Devil Square!	1	81
+518	Surviving Devil Square is proof of how well you've trained. (Level 800-899)	2	81
+519	Enter Devil Square Level 5, defeat the monsters that appear, and survive to the bitter end. I'll give you 1 Jewel of Bless as a reward when you return. However, this applies only to Devil Square Level 5.	2	81
+520	Clear Devil Square and return.	3	81
+521	Well done.	4	81
+522	Clear Devil Square 1 time and return.	5	81
+523	Get the supplies for Devil Square	1	82
+524	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 900-999)	2	82
+525	Ice Walkers are attacking and weakening the barrier that was formed to separate Raklion and Devias from one another. Go to Raklion and defeat 120 Ice Walkers. Come see me once that's done to receive a Devil's Invitation + 6 as a reward. They are strong foes, and you should hunt them with the help of others.	2	82
+526	Defeat Ice Walkers in Raklion and return.	3	82
+527	Well done. Here's the supplies.	4	82
+528	Hunt Ice Walkers in Raklion and receive supplies.	5	82
+529	Gain 210 points in Devil Square!	1	83
+530	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 900-999)	2	83
+531	The test I have in mind is for you to enter Devil Square Level 6 and achieve 210 points. Do this successfully and I'll give you 1 Jewel of Bless as a reward. However, this applies only to Devil Square Level 6. You will earn 2 points for every monster you hunt.	2	83
+532	Enter the Event Map Devil Square to achieve 210 Points and return.	3	83
+533	Well done.	4	83
+534	Gain 210 points in Devil Square and return.	5	83
+535	Clear Devil Square!	1	84
+536	Surviving Devil Square is proof of how well you've trained. (Level  900-999)	2	84
+537	Enter Devil Square Level 6, defeat the monsters that appear, and survive to the bitter end. I'll give you 1 Jewel of Life as a reward when you return. However, this applies only to Devil Square Level 6.	2	84
+538	Clear Devil Square and return.	3	84
+539	Well done.	4	84
+540	Clear Devil Square 1 time and return.	5	84
+541	Get the supplies for Devil Square	1	85
+542	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1350)	2	85
+543	Many travelers are disappearing from the Swamp of Peace because of Shadow Knights. Go to the Swamp of Peace and defeat 140 Shadow Knights. Come see me once that's done to receive a Devil's Invitation + 7 as a reward. They are strong foes, and you should hunt them with the help of others.	2	85
+544	Defeat Shadow Knights in Swamp of Peace and return.	3	85
+545	Well done. Here's the supplies.	4	85
+546	Hunt Shadow Knights in Swamp of Peace and receive supplies.	5	85
+547	Gain 240 points in Devil Square!	1	86
+548	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 1000-1350)	2	86
+549	The test I have in mind is for you to enter Devil Square Level 7 and achieve 240 points. Do this successfully and I'll give you 2 Jewels of Soul as a reward. However, this applies only to Devil Square Level 7. You will earn 2 points for every monster you hunt.	2	86
+550	Enter the Event Map Devil Square to achieve 240 Points and return.	3	86
+551	Well done.	4	86
+552	Gain 240 points in Devil Square and return.	5	86
+553	Clear Devil Square!	1	87
+554	Surviving Devil Square is proof of how well you've trained. (Level 1000-1350)	2	87
+555	Enter Devil Square Level 7, defeat the monsters that appear, and survive to the bitter end. I'll give you 2 Jewels of Bless as a reward when you return. However, this applies only to Devil Square Level 7.	2	87
+556	Clear Devil Square and return.	3	87
+557	Well done.	4	87
+558	Clear Devil Square 1 time and return.	5	87
+559	The call from Acheron	1	88
+560	Talk to Deruvish in Acheron.	5	88
+561	The Only Survivor of the Adventurers	1	89
+562	No, no way! How... How did you get here? First, take cover here. I don't know how you got to Acheron, but scary monsters come out here that you cannot see anywhere else. Oh! I forgot to introduce myself. I'm Deruvish. I came after Vanert in search of Secromicon Fragment. I'm the only one left now.	2	89
+563	Hmm... As soon as we got to the island, we were attacked by element monsters. We lost a lot of adventurers from that. Even the survivors left the island with Vanert. I was left behind with a few others to save the other members.	2	89
+564	From what I have found out, I think this island was a peaceful place with spirits. Something must have happened to transform the spirits to monsters. However, when they transformed into monsters, they still had the abilities from when they were spirits. They are still dangerous.	2	89
+565	Thank you for listening.	4	89
+566	Listen to the Only Survivor of the Adventurers	5	89
+567	Acheron's Mysterious Power, Element	1	90
+568	I don't know why they have transformed into monsters. However, when you see monsters here, you must have an elemental item called Pentagram to fight them. If you want to continue adventuring, you can get Muren's Book of Magic Pentagram item. Please hunt down monsters in Atlans and Acheron Alkmar,  Ubaid area to find Muren's Book of Magic. 	2	90
+569	You cannot fight against elemental monsters without Pentagram items. Please reconsider.	2	90
+570	You must have Pentagram items to fight against elemental monsters.	3	90
+571	Well done.	4	90
+572	Get the Pentagram	5	90
+573	Errtel Item	1	91
+574	You brought Pentagram items? Now you can fight against elemental monsters much better. Let me explain the elements and Pentagram items to you. Please check the Pentagram items that you have already. It must have an element.	2	91
+575	There are 5 elements in total. Fire, water, earth, wind, and darkness. The 5 elements have strengths and weaknesses. Fire is weak against water. But it is strong against darkness. Similarly, water is strong against fire and weak against earth. Other elements have weaknesses and strengths shown in order. Once you have Pentagram in your inventory, you will have an element. Additional damage will be added depending on the type. 	2	91
+576	You can use the spirit's power. Let's try to kill the monsters by using the elements. Kill 20 Devil Fairies.	2	91
+577	Defeat 20 Devil Fairies, the elemental monsters, and return.	3	91
+578	Well done.	4	91
+579	Defeat 20 Devil Fairies	5	91
+580	Create Errtels	1	92
+581	You can enhance Pentagram items by using Errtel. Oh! Of course, you can enhance the Pentagram itself and strengthen the elemental power. But if you use Errtel, you can add even more powerful options. 	2	92
+582	If you Alt + Right-click an unequipped Pentagram item, the attribute window will open. You can use the Errtel in an empty socket. But there are limitations to the types of jewels that you can equip in sockets.	2	92
+583	Socket 1 is for Anger, Socket 2 is for Blessing, Socket 3 is for Integrity, Socket 4 is for Divinity, and Socket 5 is for Radiance. You can unequip jewels, but sometimes they disappear.	2	92
+584	You can make an Errtel by combining Mithril and Jewel of Bless. Ok! Shall we go and get the Mithril? If you bring Mithril, I will teach you how to make an Errtel.	2	92
+585	Hunt down monsters to get a Mithril.	3	92
+586	Well done.	4	92
+587	Get Mithril	5	92
+588	Spirit Survivor Adniel	1	93
+589	When you collect 50 Elemental Powders, they're transformed into Elemental Capsule automatically. You can obtain Elemental Powders by disassembling Set Item or Errtel in the inventory. You can get a variety of elemental items from Elemental Capsule.	2	93
+590	Once you have all the ingredients, try making an Errtel. You can make an Errtel from Spirit Adniel. She's one of the few spirits that haven't turned into a monster.	2	93
+591	You must have elemental powder to make an elemental capsule.	3	93
+592	Well done.	4	93
+593	Get elemental powder	5	93
+594	Secrets of the Acheron Monsters	1	94
+595	Let me explain to you how an Errtel upgrade works. There are level up and rank up for Errtels. For level up, you need the Elemental Rune. For rank up, you need 2 Errtels + 7 with the same rank.	2	94
+596	Level up enhances the current rank of the Errtel option. Rank up is an upgrade that adds an option to the jewel. You could say that rank up is better. You can level up to Level 10. You can rank up to Rank 3.	2	94
+597	The Errtel of Anger you have right now only has the option of adding attack damage. But if you rank it up and make it Rank 2, it gets an additional option. When it's Rank 3, it will have maximum of 3 options.  Also...	2	94
+598	If you collect similar options, you can even gain a Set Effect.  Now, if you go and kill 20 Elemental Beasts, I will show you a second Errtel.	2	94
+599	Defeat 20 Elemental Beasts and return.	3	94
+600	Well done.	4	94
+601	Defeat 20 Elemental Beasts.	5	94
+602	Change of Acheron Island	1	95
+603	All of the monsters in Acheron were spirits before they became monsters. There must be a reason for the transformation. If we can't find that out, all life on this island will become monsters. Please investigate the Devilfairies, who have gone through the least amount of change. 	2	95
+604	You must find out about the secrets of the island to find Secromicon. Please kill 30 Devilfairies. 	2	95
+605	Defeat 30 Devil Fairies and return.	3	95
+606	Well done.	4	95
+607	Defeat 30 Devil Fairies.	5	95
+608	Ubaid's Gatekeeper	1	96
+609	I have looked in many places in Acheron while you were gone. The island has two faces. It has a beautiful one and a fearsome one. The beautiful side is the side that certainly hasn't changed yet. The fearsome side is the place that has undergone change. Elemental Beasts are especially scary stalkers. In order to safely escape the island, first kill 30 Elemental Beasts.	2	96
+610	You must take out all of the stalkers in order to explore every corner of the island safely.	3	96
+611	Well done.	4	96
+612	Defeat 30 Elemental Beasts.	5	96
+613	Discovery of new clue	1	97
+614	Are you familiar with using elements now? If you go to the right side of the island, there is a place Spirit Adniel calls Ubaid. At the beginning of the area, there are Elemental Knights. They are different from other spirit monsters. They don't seem to have come from spirits. I think you will have to go to Ubaid area to look into it. Please kill 30 Elemental Knights. 	2	97
+615	You must take out all of the stalkers in order to explore every corner of the island safely.	3	97
+616	Well done.	4	97
+617	Defeat 30 Elemental Knights.	5	97
+618	Devil Fairy Elimination Order (Repeatable)	1	98
+619	We're in trouble. Powerful monsters in Ubaid have moved to Alkmar. The monsters in Alkmar area have become even more fierce.	2	98
+620	Currently, the number of monsters in Acheron have increased significantly. They are attacking the base camp more often. If you kill 50 Devilfairies and come back, I will give you a suitable reward.	2	98
+621	Defeat 50 Devil Fairies and return.	3	98
+622	Well done.	4	98
+623	Defeat 50 Devil Fairies.	5	98
+624	Elemental Beast Elimination Order (Repeatable)	1	99
+625	Currently, the number of monsters in Acheron have increased significantly. They are attacking the base camp more often. If you kill 50 Elemental Beasts and come back, I will give you a suitable reward.	2	99
+626	We are running our of time. Please eliminate Elemental Beasts.	3	99
+627	Well done.	4	99
+628	Defeat 50 Elemental Beasts.	5	99
+629	Elemental Knight Elimination Order (Repeatable)	1	100
+630	I'm sure the elemental monsters were spirits. But in order to explore the island, we must protect the base camp. Please kill 50 Elemental Knights. 	2	100
+631	You must take out all of the stalkers in order to explore every corner of the island safely.	3	100
+632	Well done.	4	100
+633	Defeat 50 Elemental Knights.	5	100
+634	Eliminate Ubaid Devil Fairy	1	101
+635	Have you been to Ubaid? Ubaid elemental monsters have become more fiercer than the elemental monsters in Alkmar. The power that made the spirits change seemed to have influenced the place even more. Won't we know the reason when we look into Ubaid Devilfairies? Please kill 30 Ubaid Devilfairies. 	2	101
+636	We have to find out the reason why spirits have changed. Please look into the Ubaid Devilfairies. 	3	101
+637	Well done.	4	101
+638	Defeat 30 Ubaid Devil Fairies.	5	101
+639	Eliminate Ubaid Elemental Beasts	1	102
+640	On the way back from Ubaid, I was stalked by Ubaid Elemental Beasts. If they found out about our hideout, not only us, but the spirits will fall in danger as well. Please kill 30 Ubaid Elemental Beasts.	2	102
+641	We're running out of time. Please hurry up and get rid of the Ubaid Elemental Beasts.	3	102
+642	Well done.	4	102
+643	Defeat 30 Ubaid Elemental Beasts.	5	102
+644	Attack of Ubaid Elemental Knights	1	103
+645	We're in trouble. Powerful monsters in Ubaid have moved to Alkmar. The monsters in Alkmar area have become even more fierce. You have to kill the Ubaid Elemental Knights to prevent other monsters in Alkmar from becoming more monster-like.	2	103
+646	We're running out of time. Please hurry up and get rid of the Ubaid Elemental Knights.	3	103
+647	Well done.	4	103
+648	Defeat 30 Ubaid Elemental Knights.	5	103
+649	Ubaid Devil Fairy Elimination Order (Repeatable)	1	104
+650	Currently, the number of monsters in Acheron have increased significantly. They are attacking the base camp more often. If you kill 50 Ubaid Devilfairies and come back, I will give you a suitable reward.	2	104
+651	Defeat 50 Ubaid Devil Fairies and return.	3	104
+652	Well done.	4	104
+653	Defeat 50 Ubaid Devil Fairies.	5	104
+654	Ubaid Elemental Beast Elimination Order (Repeatable)	1	105
+655	Currently, the number of monsters in Acheron have increased significantly. They are attacking the base camp more often. If you kill 50 Elemental Beasts and come back, I will give you a suitable reward.	2	105
+656	Defeat 50 Ubaid Elemental Beasts and return.	3	105
+657	Well done.	4	105
+658	Defeat 50 Ubaid Elemental Beasts.	5	105
+659	Ubaid Elemental Knight Elimination Order (Repeatable)	1	106
+660	Currently, the number of monsters in Acheron have increased significantly. They are attacking the base camp more often. If you kill 50 Elemental Knights and come back, I will give you a suitable reward.	2	106
+661	Defeat 50 Ubaid Elemental Knights and return.	3	106
+662	Well done.	4	106
+663	Defeat 50 Ubaid Elemental Knights.	5	106
+//001~199 선점 튜토리얼 퀘스트			
+664	Wandering Merchant Zyro (1)	1	200
+665	Find the location of Wandering Merchant Zyro in Lorencia.	5	200
+666	Wandering Merchant Zyro (2)	1	201
+667	Find to the location of Wandering Merchant Zyro in Noria.	5	201
+668	Wandering Merchant Zyro (3)	1	202
+669	Find to the location of Wandering Merchant Zyro in Elbeland.	5	202
+670	Wandering Merchant Zyro (4)	1	203
+671	Find to the location of Wandering Merchant Zyro in Devias.	5	203
+672	Expanding Bussiness with Merchant Guild	1	204
+673	Managing the warehouses is always important. Payment for the Safety Guardian, shipping to other towns, tons of abandoned warehouses... I need new warehouse! I already have a solution.	2	204
+674	you have to take advantage of the rich. They are stones that do not have values for the adventurers, but do have artistic value for the rich! Ah... The rich... That's why I make money though.. If you help me, I'll also help you so that you can use storage.	2	204
+675	If you bring me Ancient Statue,  I will give you a new warehouse. (Level 50+)	2	204
+676	You can get the ancient statues from the Death Knight at the top of the Lost Tower. If you bring that ancient statue, I will give you a new warehouse.	2	204
+677	You can find Death Knight at the top of the Lost Tower.	3	204
+678	Thank you. The new warehouse will be available after reconnection.	4	204
+679	Get Ancient Statue from Death Knight at the top of the Lost Tower.	5	204
+680	The Magical Cloth	1	205
+681	Do you know what your backpack is made of? It's a Magical Cloth. So it's okay for every adventurer to carry a lot of heavy equipment. It is very precious even though everyone is carrying it. Actually, I have a deal that I'd like to offer.	2	205
+682	With more Magical Cloth, you can expand the capacity of your backpack. If you get me Magical Cloth, I promise that I will use the leftover fabrics to expand your backpack. You will be able to carry more items in your backpack.	2	205
+683	So, can you bring me the Magical Cloth? (Level 150+)	2	205
+684	It's not easy, but it will worth the effort if you can get more magic backpack. Please bring Magical Cloth.	2	205
+685	You can find Magic Cloth from Silver Valkyries at Atlans 3.	3	205
+686	You can check the new magic backpack after reconnection.	4	205
+687	Get Magical Cloth from Silver Valyries in Atlans 3.	5	205
+688	The Rune Cloth	1	206
+689	You want to make your magic backpack bigger? It's not easy, but there's a way. Some wizards say they can expand wasted space using Rune Cloth.	2	206
+690	If you bring me Rune Cloth, I'll give it a try.	2	206
+691	You can find Rune Cloth from Alquamoses at Icarus 1.	3	206
+692	You can check the expanded backpack after reconnection.	4	206
+693	Get Rune Cloth from Alquamoses in Icarus 1.	5	206
+694	Deleting Memory, first (1)	1	207
+695	The Berserker Warrior's blood in Kanturu Ruins has special powers. The blood can cause hallucinations to humans. But if you use them carefully, you can even delete a certain part in a memory. First, get 10 Green Ink made from blue blood of Berserker Warriors. It's normally used to delete the muscle memory of people. (First quest of first reset of Master Skill Tree)	2	207
+696	Get 10 Green Ink from Berserker Warriors at Kanturu Ruins.	2	207
+697	You have not completed the quest yet.	3	207
+698	Here's your reward.	4	207
+699	Get 10 Green Ink from Berserker Warriors at Kanturu Ruins.	5	207
+700	Deleting Memory, first (2)	1	208
+701	Along with the Green Ink that you have obtained, you will need a Parchment of Soul. Go get the Parchment of Soul from Dark Mammoths that are deep in Raklion. It's normally used to delete the muscle memory. (Last quest to reset Protection, Peace, Blessing, Guardian, Durability, Resolution, Tenacity, Divinity, Vengeance, Punishment Tree)	2	208
+702	Go get the Parchment of Soul made from the special rock powder of Dark Mammoth herds located in Raklion.	2	208
+703	You have not completed the quest yet.	3	208
+704	Here's your reward.	4	208
+705	Get 1 Parchment of Soul from the Dark Mammoths in Raklion area.	5	208
+706	Deleting Memory, second (1)	1	209
+707	Experienced warriors like yourselves must have gone to the Swamp of Peace. If you go deep into the Swamp of Peace, you can get 10 Blue Ink made of blue blood of Sapi Queen. Also, if you go deep into Raklion and get the Parchment of Soul from Dark Mammoths, I can delete some of your memory. First, go get 10 Blue Ink made of blue blood of Sapi Queen. How about it? Would you like to try it? (First quest of second reset of Master Skill Tree.)	2	209
+708	Get 10 Blue Ink from Sapi Queens at Swamp of Peace.	2	209
+709	You have not completed the quest yet.	3	209
+710	Here's your reward.	4	209
+711	Get 10 Blue Ink from Sapi Queens at Swamp of Peace.	5	209
+712	Deleting Memory, second (2)	1	210
+713	Along with the Blue Ink that you have obtained, you need the Parchment of Soul. If you go and get the Parchment of Soul from the Dark Mammoths deep in Raklion, I can delete a part of your memory. How about it? Would you like to try it? (Last quest to reset Courage, Wisdom, Redemption, Chaos, Determination, Justice, Will, Retribution, Severity, Harsh Tree)	2	210
+714	Go get 1 Parchment of Soul made from the special rock powder of Dark Mammoth herds located in Raklion.	2	210
+715	You have not completed the quest yet.	3	210
+716	Here's your reward.	4	210
+717	Get 1 Parchment of Soul from the Dark Mammoths in Raklion area.	5	210
+718	Deleting Memory, third (1)	1	211
+719	Experienced warriors like yourselves must have gone to Aida. If you go deep in Aida, you can get 10 Red Ink made from the Bloody Orcs. Then, I can delete a part of your memory. How about it? Would you like to try it? (First quest of third reset of Master Skill Tree.)	2	211
+720	Get 10 Red Ink from Bloody Orcs at Aida.	2	211
+721	You have not completed the quest yet.	3	211
+722	Here's your reward.	4	211
+723	Get 10 Red Ink from Bloody Orcs at Aida.	5	211
+724	Deleting Memory, third (2)	1	212
+725	Along with the Red Ink that you have obtained, you will need a Parchment of Soul. Go get the Parchment of Soul from Dark Mammoths that are deep in Raklion. It's normally used to delete the muscle memory. (Last quest to reset Fury, Transcendence, Flurry, Honor, Extremity, Conquest, Destruction, Tenacity, Cold-bloodedness, Hearthless Tree)	2	212
+726	Go get 1 Parchment of Soul made from the special rock powder of Dark Mammoth herds located in Raklion.	2	212
+727	You have not completed the quest yet.	3	212
+728	Here's your reward.	4	212
+729	Get 1 Parchment of Soul from the Dark Mammoths in Raklion area.	5	212
+730	Last Chance (1)	1	213
+731	Please think again before using your last chance. I can delete all of the memory of master skills you have. But it's your last chance so please choose wisely. (First quest of resetting all Master Skill Trees)	2	213
+732	Get 20 Green Ink from Berserker Warriors at Kanturu Ruins.	2	213
+733	You have not completed the quest yet.	3	213
+734	Here's your reward.	4	213
+735	Get 20 Green Inks from Berserker Warriors at Kanturu Ruins.	5	213
+736	Last Chance (2)	1	214
+737	Please think again before using your last chance. I can delete all of the memory of master skills you have. But it's your last chance so please choose wisely. (Second quest of resetting all Master Skill Trees)	2	214
+738	Get 20 Blue Ink from Sapi Queens at Swamp of Peace.	2	214
+739	You have not completed the quest yet.	3	214
+740	Here's your reward.	4	214
+741	Get 20 Blue Ink from Sapi Queens at Swamp of Peace.	5	214
+742	Last Chance (3)	1	215
+743	Please think again before using your last chance. I can delete all of the memory of master skills you have. But it's your last chance so please choose wisely. (Third quest of resetting all Master Skill Trees)	2	215
+744	Get 20 Red Ink from Bloody Orcs at Aida.	2	215
+745	You have not completed the quest yet.	3	215
+746	Here's your reward.	4	215
+747	Get 20 Red Ink from Bloody Orcs at Aida.	5	215
+748	Last Chance (4)	1	216
+749	Please think again before using your last chance. I can delete all of the memory of master skills you have. But it's your last chance so please choose wisely. (Last quest of resetting all Master Skill Trees)	2	216
+750	Go get 5 Parchments of Soul made from the special rock powder of Dark Mammoth herds located in Raklion.	2	216
+751	You have not completed the quest yet.	3	216
+752	Here's your reward.	4	216
+753	Get 5 Parchments of Soul from the Dark Mammoths in Raklion area.	5	216
+754	Request from Shadow Phantom Soldier	1	217
+755	Reach Lv. 91 and meet Shadow Phantom Soldier	5	217
+756	The Beginning of the request!	1	218
+757	You'll now find it increasingly difficult to find suitable hunting ground. How about discovering hunting grounds by accepting quests from Shadow Phantom Soldiers? Come see me when you reach a new level to receive quests that will earn you prized equipment. 	2	218
+758	First of all, it seems that a request for a dungeon, which is a a big trouble of Lorencia, is suitable for you. Please wipe out the monsters in Dungeon.	2	218
+759	From now on, I will send you quests even if you do not come to me.	2	218
+760	Please check out the rewarding quest list in the Quest Window.	4	218
+761	Receive a quest that can help game play from Shadow Phantom Soldier.	5	218
+762	Conquer the Dungeon (1)	1	219
+763	Hunt 80 monsters in Dungeon.	5	219
+764	Conquer the Dungeon (1)	1	220
+765	Hunt 80 monsters in Dungeon.	5	220
+766	Conquer the Dungeon (1)	1	221
+767	Hunt 80 monsters in Dungeon.	5	221
+768	Conquer the Dungeon (1)	1	222
+769	Hunt 80 monsters in Dungeon.	5	222
+770	Conquer the Dungeon (2)	1	223
+771	Hunt 80 monsters in Dungeon.	5	223
+772	Conquer the Dungeon (2)	1	224
+773	Hunt 80 monsters in Dungeon.	5	224
+774	Conquer the Dungeon (2)	1	225
+775	Hunt 80 monsters in Dungeon.	5	225
+776	Conquer the Dungeon (2)	1	226
+777	Hunt 80 monsters in Dungeon.	5	226
+778	Conquer the Dungeon (3)	1	227
+779	Hunt 80 monsters in Dungeon.	5	227
+780	Conquer the Dungeon (3)	1	228
+781	Hunt 80 monsters in Dungeon.	5	228
+782	Conquer the Dungeon (3)	1	229
+783	Hunt 80 monsters in Dungeon.	5	229
+784	Conquer the Dungeon (3)	1	230
+785	Hunt 80 monsters in Dungeon.	5	230
+786	Conquer the Dungeon (4)	1	231
+787	Hunt 80 monsters in Dungeon.	5	231
+788	Conquer the Dungeon (4)	1	232
+789	Hunt 80 monsters in Dungeon.	5	232
+790	Conquer the Dungeon (4)	1	233
+791	Hunt 80 monsters in Dungeon.	5	233
+792	Conquer the Dungeon (4)	1	234
+793	Hunt 80 monsters in Dungeon.	5	234
+794	Conquer the Dungeon (5)	1	235
+795	Hunt 80 monsters in Dungeon.	5	235
+796	Conquer the Dungeon (5)	1	236
+797	Hunt 80 monsters in Dungeon.	5	236
+798	Conquer the Dungeon (5)	1	237
+799	Hunt 80 monsters in Dungeon.	5	237
+800	Conquer the Dungeon (5)	1	238
+801	Hunt 80 monsters in Dungeon.	5	238
+802	Conquer the Dungeon (6)	1	239
+803	Hunt 80 monsters in Dungeon.	5	239
+804	Conquer the Dungeon (6)	1	240
+805	Hunt 80 monsters in Dungeon.	5	240
+806	Conquer the Dungeon (6)	1	241
+807	Hunt 80 monsters in Dungeon.	5	241
+808	Conquer the Dungeon (6)	1	242
+809	Hunt 80 monsters in Dungeon.	5	242
+810	Reconnaissance Party's Mission (1)	1	243
+811	Hunt 80 monsters in Lost Tower.	5	243
+812	Reconnaissance Party's Mission (1)	1	244
+813	Hunt 80 monsters in Lost Tower.	5	244
+814	Reconnaissance Party's Mission (1)	1	245
+815	Hunt 80 monsters in Lost Tower.	5	245
+816	Reconnaissance Party's Mission (1)	1	246
+817	Hunt 80 monsters in Lost Tower.	5	246
+818	Reconnaissance Party's Mission (2)	1	247
+819	Hunt 80 monsters in Lost Tower.	5	247
+820	Reconnaissance Party's Mission (2)	1	248
+821	Hunt 80 monsters in Lost Tower.	5	248
+822	Reconnaissance Party's Mission (2)	1	249
+823	Hunt 80 monsters in Lost Tower.	5	249
+824	Reconnaissance Party's Mission (2)	1	250
+825	Hunt 80 monsters in Lost Tower.	5	250
+826	Reconnaissance Party's Mission (3)	1	251
+827	Hunt 80 monsters in Lost Tower.	5	251
+828	Reconnaissance Party's Mission (3)	1	252
+829	Hunt 80 monsters in Lost Tower.	5	252
+830	Reconnaissance Party's Mission (3)	1	253
+831	Hunt 80 monsters in Lost Tower.	5	253
+832	Reconnaissance Party's Mission (3)	1	254
+833	Hunt 80 monsters in Lost Tower.	5	254
+834	Reconnaissance Party's Mission (4)	1	255
+835	Hunt 80 monsters in Lost Tower.	5	255
+836	Reconnaissance Party's Mission (4)	1	256
+837	Hunt 80 monsters in Lost Tower.	5	256
+838	Reconnaissance Party's Mission (4)	1	257
+839	Hunt 80 monsters in Lost Tower.	5	257
+840	Reconnaissance Party's Mission (4)	1	258
+841	Hunt 80 monsters in Lost Tower.	5	258
+842	Conquer Atlans (1)	1	259
+843	Hunt 80 monsters in Atlans.	5	259
+844	Conquer Atlans (1)	1	260
+845	Hunt 80 monsters in Atlans.	5	260
+846	Conquer Atlans (1)	1	261
+847	Hunt 80 monsters in Atlans.	5	261
+848	Conquer Atlans (1)	1	262
+849	Hunt 80 monsters in Atlans.	5	262
+850	Conquer Atlans (2)	1	263
+851	Hunt 80 monsters in Atlans.	5	263
+852	Conquer Atlans (2)	1	264
+853	Hunt 80 monsters in Atlans.	5	264
+854	Conquer Atlans (2)	1	265
+855	Hunt 80 monsters in Atlans.	5	265
+856	Conquer Atlans (2)	1	266
+857	Hunt 80 monsters in Atlans.	5	266
+858	Conquer Atlans (3)	1	267
+859	Hunt 80 monsters in Atlans.	5	267
+860	Conquer Atlans (3)	1	268
+861	Hunt 80 monsters in Atlans.	5	268
+862	Conquer Atlans (3)	1	269
+863	Hunt 80 monsters in Atlans.	5	269
+864	Conquer Atlans (3)	1	270
+865	Hunt 80 monsters in Atlans.	5	270
+866	Conquer Atlans (4)	1	271
+867	Hunt 80 monsters in Atlans.	5	271
+868	Conquer Atlans (4)	1	272
+869	Hunt 80 monsters in Atlans.	5	272
+870	Conquer Atlans (4)	1	273
+871	Hunt 80 monsters in Atlans.	5	273
+872	Conquer Atlans (4)	1	274
+873	Hunt 80 monsters in Atlans.	5	274
+874	Conquer Atlans (5)	1	275
+875	Hunt 80 monsters in Atlans.	5	275
+876	Conquer Atlans (5)	1	276
+877	Hunt 80 monsters in Atlans.	5	276
+878	Conquer Atlans (5)	1	277
+879	Hunt 80 monsters in Atlans.	5	277
+880	Conquer Atlans (5)	1	278
+881	Hunt 80 monsters in Atlans.	5	278
+882	Conquer Atlans (6)	1	279
+883	Hunt 80 monsters in Atlans.	5	279
+884	Conquer Atlans (6)	1	280
+885	Hunt 80 monsters in Atlans.	5	280
+886	Conquer Atlans (6)	1	281
+887	Hunt 80 monsters in Atlans.	5	281
+888	Conquer Atlans (6)	1	282
+889	Hunt 80 monsters in Atlans.	5	282
+1720	Conquer the Dungeon!  (1)	1	283	//15
+1721	Hunt 80 Monsters in the Dungeon Map	5	283	//15
+1722	Conquer the Dungeon! (2)	1	284	//15
+1723	Hunt 80 Monsters in the Dungeon Map	5	284	//15
+1724	Conquer the Dungeon!(3)	1	285	//15
+1725	Hunt 80 Monsters in the Dungeon Map	5	285	//15
+1726	Conquer the Dungeon! (4)	1	286	//15
+1727	Hunt 80 Monsters in the Dungeon Map	5	286	//15
+1728	Conquer the Dungeon! (5)	1	287	//15
+1729	Hunt 80 Monsters in the Dungeon Map	5	287	//15
+1730	Conquer the Dungeon! (6)	1	288	//15
+1731	Hunt 80 Monsters in the Dungeon Map	5	288	//15
+1732	Squadron's Mission (1)	1	289	//15
+1733	Hunt 80 Monsters in the Lost Tower Map	5	289	//15
+1734	Squadron's Mission (2)	1	290	//15
+1735	Hunt 80 Monsters in the Lost Tower Map	5	290	//15
+1736	Squadron's Mission (3)	1	291	//15
+1737	Hunt 80 Monsters in the Lost Tower Map	5	291	//15
+1738	Squadron's Mission (4)	1	292	//15
+1739	Hunt 80 Monsters in the Lost Tower Map	5	292	//15
+1740	Conquer Atlas! (1)	1	293	//15
+1741	Hunt 80 Monsters in the Atlas Map	5	293	//15
+1742	Conquer Atlas! (2)	1	294	//15
+1743	Hunt 80 Monsters in the Atlas Map	5	294	//15
+1744	Conquer Atlas! (3)	1	295	//15
+1745	Hunt 80 Monsters in the Atlas Map	5	295	//15
+1746	Conquer Atlas! (4)	1	296	//15
+1747	Hunt 80 Monsters in the Atlas Map	5	296	//15
+1748	Conquer Atlas! (5)	1	297	//15
+1749	Hunt 80 Monsters in the Atlas Map	5	297	//15
+1750	Conquer Atlas! (6)	1	298	//15
+1751	Hunt 80 Monsters in the Atlas Map	5	298	//1
+1752	Conquer the dungeon! (1)	1	299	
+1753	Hunt 80 Monsters in the Dungeon Map	5	299	
+1754	Conquer the dungeon!  (2)	1	300	
+1755	Hunt 80 Monsters in the Dungeon Map	5	300	
+1756	Conquer the dungeon!  (3)	1	301	
+1757	Hunt 80 Monsters in the Dungeon Map	5	301	
+1758	Conquer the dungeon!  (4)	1	302	
+1759	Hunt 80 Monsters in the Dungeon Map	5	302	
+1760	Conquer the dungeon!  (5)	1	303	
+1761	Hunt 80 Monsters in the Dungeon Map	5	303	
+1762	Conquer the dungeon!  (6)	1	304	
+1763	Hunt 80 Monsters in the Dungeon Map	5	304	
+1764	The scout's mission (1)	1	305	
+1765	Hunt 80 Monsters in the Lost Tower Map	5	305	
+1766	The scout's mission (2)	1	306	
+1767	Hunt 80 Monsters in the Lost Tower Map	5	306	
+1768	The scout's mission (3)	1	307	
+1769	Hunt 80 Monsters in the Lost Tower Map	5	307	
+1770	The scout's mission (4)	1	308	
+1771	Hunt 80 Monsters in the Lost Tower Map	5	308	
+1772	Conquer the Atlans! (1)	1	309	
+1773	Hunt 80 Monsters on the Atlans Map	5	309	
+1774	Conquer the Atlans! (2)	1	310	
+1775	Hunt 80 Monsters on the Atlans Map	5	310	
+1776	Conquer the Atlans! (3)	1	311	
+1777	Hunt 80 Monsters on the Atlans Map	5	311	
+1778	Conquer the Atlans! (4)	1	312	
+1779	Hunt 80 Monsters on the Atlans Map	5	312	
+1780	Conquer the Atlans! (5)	1	313	
+1781	Hunt 80 Monsters on the Atlans Map	5	313	
+1782	Conquer the Atlans! (6)	1	314	
+1783	Hunt 80 Monsters on the Atlans Map	5	314	
+//200~399 선점 보상 퀘스트			
+890	Request from Gens Duprian	1	400
+891	Move to Gens Duprian	5	400
+892	Rage of Vepar	1	401
+893	The Atlans expedition party reports that the chief commander of the Evil Army is using Vepars to go after Gens members searching for the sealed stone. Please banish these Vepars and protect the Gens members.	2	401
+894	Prevent the Vepars from interrupting with the expedition. Defeat 50 of them, and I'll give you a reward.	2	401
+895	The target is 50 Vepars in Atlans.	3	401
+896	You've been a great help to Gens. Thank you.	4	401
+897	Defeat Vepars at Atlans and return to the Gens NPC.	5	401
+898	Eliminate Plundering Silver Valkyries	1	402
+899	Silver Valkyries are regularly plundering supplies for our search party at Atlans.	2	402
+900	Would you mind getting rid of these Silver Valkyries for us? 	2	402
+901	Put a stop to the plundering by eliminating 50 Silver Valkyries. After that, return to me for a reward.	3	402
+902	You've been a great help to Gens. Thank you.	4	402
+903	Defeat Silver Valyries at Atlans and return to the Gens NPC.	5	402
+904	End the Spread of Death Trees	1	403
+905	A search party that has been dispatched to Aida reports that the number of Death Trees is rapidly increasing.	2	403
+906	Go to Aida and eliminate 50 Death Trees.	2	403
+907	The target is 50 Death Trees in Aida.	3	403
+908	You've been a great help to Gens. Thank you.	4	403
+909	Defeat Death Trees at Aida and return to the Gens NPC.	5	403
+910	Rebel of the Forest	1	404
+911	Something strange is happening. Death Riders, who serve as Arca's Aida protectors, are frequently and indiscriminately attacking our gens members exploring the Aida region. Lemuria must be behind it all.  Please eliminate these Death Riders and protect our gens members.	2	404
+912	Go to Aida and eliminate 50 Death Trees.	2	404
+913	Eliminate 50 Death Riders and return to me for a reward.	3	404
+914	You've been a great help to Gens. Thank you.	4	404
+915	Defeat Death Riders at Aida and return to the Gens NPC.	5	404
+916	Eliminate Splinter Wolves	1	405
+917	A band going after the sealed stone is using mechanical warriors to attack our forces in Kanturu Ruins.	2	405
+918	Please defeat Splinter Wolves, which are proving to be most troublesome.	2	405
+919	Eliminate 50 Splinter Wolves and return to me for a reward.	3	405
+920	You've been a great help to Gens. Thank you.	4	405
+921	Defeat Splinter Wolves at Kanturu Ruins and return to the Gens NPC.	5	405
+922	Wipe Out the Elusive Iron Riders	1	406
+923	Iron Riders have been launching guerilla attacks against our forces stationed throughout Kanturu Ruins. Eliminate these Iron Riders and relieve the stress of our gens members.	2	406
+924	Eliminate 50 Iron Riders to put a stop to their guerilla attacks, and I'll give you a reward.	2	406
+925	Eliminate 50 Iron Riders and return to me for a reward.	3	406
+926	You've been a great help to Gens. Thank you.	4	406
+927	Defeat Iron Riders at Kanturu Ruins and return to the Gens NPC.	5	406
+928	Eliminate Blood Assassins	1	407
+929	According to the latest intelligence, Blood Assassins have been dispatched to assassinate key figures of the Gens.	2	407
+930	Eliminate 50 Blood Assassins and protect the key Gens figures.	2	407
+931	Go to Vulcanus and eliminate 50 Blood Assassins, and I'll give you a reward.	3	407
+932	You've been a great help to Gens. Thank you.	4	407
+933	Defeat Blood Assassin at Vulcanus and return to the Gens NPC.	5	407
+934	Attack of Burning Lava Giant	1	408
+935	Burning Lava Giants have infested the lava fields of Vulcanus and caused our gens members to disperse. Make haste and exterminate these Burning Lava Giants in Vulcanus.	2	408
+936	Stop the attacks on the gens members by eliminating 50 Burning Lava Giants, and I'll give you a reward.	2	408
+937	Go to Vulcanus and eliminate 50 Burning Lava Giants, and I'll give you a reward.	3	408
+938	You've been a great help to Gens. Thank you.	4	408
+939	Defeat Burning Lava Giants at Vulcanus and return to the Gens NPC.	5	408
+940	Eliminate Sapi-Duos	1	409
+941	The conflict between the genses over the sealed stone is growing fiercer. Cornered, the opposing gens forces are attacking our side using Sapi-Duos.	2	409
+942	Please eliminate these Sapi-Duos.	2	409
+943	Eliminate 50 Sapi-Duos to stop the attacks against our gens members, and I'll give you a reward.	3	409
+944	You've been a great help to Gens. Thank you.	4	409
+945	Eliminate Sapi-Duos to stop the attacks against the gens members, and return to the Gens NPC.	5	409
+946	Moving in the Dark	1	410
+947	A rumor has it that a group of monsters is chasing after the sealed stone. The rumor also says these monsters are likely to be Ghost Napins, but no one has actually seen them in person.	2	410
+948	Eliminate these Ghost Napins and protect the sealed stone.	2	410
+949	Eliminate Ghost Napins and return to me for a reward.	3	410
+950	You've been a great help to Gens. Thank you.	4	410
+951	Eliminate Ghost Napins to stop the attacks against the gens members, and return to the Gens NPC.	5	410
+952	Request from Gens Vanert	1	411
+953	Move to Gens Vanert	5	411
+954	Rampage of Vepar	1	412
+955	The Atlans expedition party reports that the chief commander of the Evil Army is using Vepars to go after Gens members searching for the sealed stone. Please banish these Vepars and protect the Gens members.	2	412
+956	Prevent the Vepars from interrupting with the expedition. Defeat 50 of them, and I'll give you a reward.	2	412
+957	The target is 50 Vepars in Atlans.	3	412
+958	You've been a great help to Gens. Thank you.	4	412
+959	Defeat Vepars at Atlans and return to the Gens NPC.	5	412
+960	Eliminate Plundering Silver Valkyries	1	413
+961	Silver Valkyries are regularly plundering supplies for our search party at Atlans.	2	413
+962	Would you mind getting rid of these Silver Valkyries for us? 	2	413
+963	Put a stop to the plundering by eliminating 50 Silver Valkyries. After that, return to me for a reward.	3	413
+964	You've been a great help to Gens. Thank you.	4	413
+965	Defeat Silver Valyries at Atlans and return to the Gens NPC.	5	413
+966	End the Spread of Death Trees	1	414
+967	A search party that has been dispatched to Aida reports that the number of Death Trees is rapidly increasing.	2	414
+968	Go to Aida and eliminate 50 Death Trees.	2	414
+969	The target is 50 Death Trees in Aida.	3	414
+970	You've been a great help to Gens. Thank you.	4	414
+971	Defeat Death Trees at Aida and return to the Gens NPC.	5	414
+972	Rebel of the Forest	1	415
+973	Something strange is happening. Death Riders, who serve as Arca's Aida protectors, are frequently and indiscriminately attacking our gens members exploring the Aida region. Lemuria must be behind it all.  Please eliminate these Death Riders and protect our gens members.	2	415
+974	Go to Aida and eliminate 50 Death Trees.	2	415
+975	Eliminate 50 Death Riders and return to me for a reward.	3	415
+976	You've been a great help to Gens. Thank you.	4	415
+977	Defeat Death Riders at Aida and return to the Gens NPC.	5	415
+978	Eliminate Splinter Wolves	1	416
+979	A band going after the sealed stone is using mechanical warriors to attack our forces in Kanturu Ruins.	2	416
+980	Please defeat Splinter Wolves, which are proving to be most troublesome.	2	416
+981	Eliminate 50 Splinter Wolves and return to me for a reward.	3	416
+982	You've been a great help to Gens. Thank you.	4	416
+983	Defeat Splinter Wolves at Kanturu Ruins and return to the Gens NPC.	5	416
+984	Wipe Out the Elusive Iron Riders	1	417
+985	Iron Riders have been launching guerilla attacks against our forces stationed throughout Kanturu Ruins. Eliminate these Iron Riders and relieve the stress of our gens members.	2	417
+986	Eliminate 50 Iron Riders to put a stop to their guerilla attacks, and I'll give you a reward.	2	417
+987	Eliminate 50 Iron Riders and return to me for a reward.	3	417
+988	You've been a great help to Gens. Thank you.	4	417
+989	Defeat Iron Riders at Kanturu Ruins and return to the Gens NPC.	5	417
+990	Eliminate Blood Assassins	1	418
+991	According to the latest intelligence, Blood Assassins have been dispatched to assassinate key figures of the Gens.	2	418
+992	Eliminate 50 Blood Assassins and protect the key Gens figures.	2	418
+993	Go to Vulcanus and eliminate 50 Blood Assassins, and I'll give you a reward.	3	418
+994	You've been a great help to Gens. Thank you.	4	418
+995	Defeat Blood Assassin at Vulcanus and return to the Gens NPC.	5	418
+996	Attack of Burning Lava Giant	1	419
+997	Burning Lava Giants have infested the lava fields of Vulcanus and caused our gens members to disperse. Make haste and exterminate these Burning Lava Giants in Vulcanus.	2	419
+998	Stop the attacks on the gens members by eliminating 50 Burning Lava Giants, and I'll give you a reward.	2	419
+999	Go to Vulcanus and eliminate 50 Burning Lava Giants, and I'll give you a reward.	3	419
+1000	You've been a great help to Gens. Thank you.	4	419
+1001	Defeat Burning Lava Giants at Vulcanus and return to the Gens NPC.	5	419
+1002	Eliminate Sapi-Duos	1	420
+1003	The conflict between the genses over the sealed stone is growing fiercer. Cornered, the opposing gens forces are attacking our side using Sapi-Duos.	2	420
+1004	Please eliminate these Sapi-Duos.	2	420
+1005	Eliminate 50 Sapi-Duos to stop the attacks against our gens members, and I'll give you a reward.	3	420
+1006	You've been a great help to Gens. Thank you.	4	420
+1007	Eliminate Sapi-Duos to stop the attacks against the gens members, and return to the Gens NPC.	5	420
+1008	Moving in the Dark	1	421
+1009	A rumor has it that a group of monsters is chasing after the sealed stone. The rumor also says these monsters are likely to be Ghost Napins, but no one has actually seen them in person.	2	421
+1010	Eliminate these Ghost Napins and protect the sealed stone.	2	421
+1011	Eliminate Ghost Napins and return to me for a reward.	3	421
+1012	You've been a great help to Gens. Thank you.	4	421
+1013	Eliminate Ghost Napins to stop the attacks against the gens members, and return to the Gens NPC.	5	421
+1014	The qualities of the hero (first)	1	422
+1015	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	422
+1016	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	422
+1017	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	422
+1018	Defeat 5 Guardsmen at Chaos Castle and return.	3	422
+1019	You are stepping forward as a hero.	4	422
+1020	Defeat 5 Guardsmen at Chaos Castle and return. I will give you the next quest when you return.	5	422
+1021	The qualities of the hero (second)	1	423
+1022	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	423
+1023	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	423
+1024	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	423
+1025	Now deliver Archangel's weapon in Blood Castle.	3	423
+1026	You are stepping forward again as a hero.	4	423
+1027	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	423
+1028	The qualities of the hero (last)	1	424
+1029	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	424
+1030	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	424
+1031	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	424
+1032	Lastly, survive till the end in Devil Square.	3	424
+1033	You are stepping forward again as a true hero.	4	424
+1034	Survive till the end in Devil Square and return, and you'll be rewarded.	5	424
+1035	The courage of the hero (first)	1	425
+1036	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	425
+1037	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	425
+1038	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	425
+1039	Defeat 10 Guardsmen at Chaos Castle and return.	3	425
+1040	You are stepping forward as a hero.	4	425
+1041	Defeat 10 Guardsmen at Chaos Castle and return. I will give you the next quest when you return.	5	425
+1042	The courage of the hero (second)	1	426
+1043	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	426
+1044	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	426
+1045	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	426
+1046	Now deliver Archangel's weapon in Blood Castle.	3	426
+1047	You are stepping forward again as a hero.	4	426
+1048	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	426
+1049	The courage of the hero (last)	1	427
+1050	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	427
+1051	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	427
+1052	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	427
+1053	Lastly, survive till the end in Devil Square.	3	427
+1054	You are stepping forward again as a true hero.	4	427
+1055	Survive till the end in Devil Square and return, and you'll be rewarded.	5	427
+1056	The fighting spirit of the hero (first)	1	428
+1057	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	428
+1058	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	428
+1059	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	428
+1060	Defeat 20 Guardsmen at Chaos Castle and return.	3	428
+1061	You are stepping forward as a hero.	4	428
+1062	Defeat 20 Guardsmen at Chaos Castle and return. I will give you the next quest when you return.	5	428
+1063	The fighting spirit of the hero (second)	1	429
+1064	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	429
+1065	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	429
+1066	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	429
+1067	Now deliver Archangel's weapon in Blood Castle.	3	429
+1068	You are stepping forward again as a hero.	4	429
+1069	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	429
+1070	The fighting spirit of the hero (last)	1	430
+1071	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	430
+1072	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	430
+1073	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	430
+1074	Lastly, survive till the end in Devil Square.	3	430
+1075	You are stepping forward again as a true hero.	4	430
+1076	Survive till the end in Devil Square and return, and you'll be rewarded.	5	430
+1077	The mentality of the hero (first)	1	431
+1078	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	431
+1079	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	431
+1080	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	431
+1081	Defeat 30 Guardsmen at Chaos Castle and return.	3	431
+1082	You are stepping forward as a hero.	4	431
+1083	Defeat 30 Guardsmen at Chaos Castle and return. I will give you the next quest when you return.	5	431
+1084	The mentality of the hero (second)	1	432
+1085	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	432
+1086	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	432
+1087	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	432
+1088	Now deliver Archangel's weapon in Blood Castle.	3	432
+1089	You are stepping forward again as a hero.	4	432
+1090	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	432
+1091	The mentality of the hero (last)	1	433
+1092	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	433
+1093	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	433
+1094	I want you to prove your combat prowess by defeating 5 Guardsmen in Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	433
+1095	Lastly, survive till the end in Devil Square.	3	433
+1096	You are stepping forward again as a true hero.	4	433
+1097	Survive till the end in Devil Square and return, and you'll be rewarded.	5	433
+1098	The tenacity of the hero (first)	1	434
+1099	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	434
+1100	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	434
+1101	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	434
+1102	Survive in Chaos Castle.	3	434
+1103	You are stepping forward as a hero.	4	434
+1104	Survive till the end in Chaos Castle. I will give you the next quest when you return.	5	434
+1105	The tenacity of the hero (second)	1	435
+1106	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	435
+1107	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	435
+1108	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	435
+1109	Now deliver Archangel's weapon in Blood Castle.	3	435
+1110	You are stepping forward again as a hero.	4	435
+1111	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	435
+1112	The tenacity of the hero (last)	1	436
+1113	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	436
+1114	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	436
+1115	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	436
+1116	Lastly, survive till the end in Devil Square.	3	436
+1117	You are stepping forward again as a true hero.	4	436
+1118	Survive till the end in Devil Square and return, and you'll be rewarded.	5	436
+1119	The last trial of the hero (first)	1	437
+1120	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	437
+1121	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	437
+1122	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	437
+1123	Survive in Chaos Castle.	3	437
+1124	You are stepping forward as a hero.	4	437
+1125	Survive till the end in Chaos Castle. I will give you the next quest when you return.	5	437
+1126	The last trial of the hero (second)	1	438
+1127	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	438
+1128	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	438
+1129	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	438
+1130	Now deliver Archangel's weapon in Blood Castle.	3	438
+1131	You are stepping forward again as a hero.	4	438
+1132	Now go to Blood Castle and deliver Archangel's weapon. I will give you the next quest when you return.	5	438
+1133	The last trial of the hero (last)	1	439
+1134	There are a number of ways you can prove your worth on the continent of MU. You can try to be the last one standing in Chaos Castle, or work with your comrades to battle through Blood Castle, Devil Square, or Illusion Temple. Travelers regard such feats as some of the worthiest accomplishments one can achieve.	2	439
+1135	That's right. You do need good equipment and a high level to test your mettle against other travelers, yes. But just that isn't enough for you to become a hero of MU. I will help you receive recognition as a hero by giving you a series of missions. You may repeat these missions as often as desired.	2	439
+1136	I want you to prove your combat prowess by clearing Chaos Castle, delivering Archangel's weapon in Blood Castle, and surviving till the end in Devil Square. Complete the mission and you'll be rewarded.	2	439
+1137	Lastly, survive till the end in Devil Square.	3	439
+1138	You are stepping forward again as a true hero.	4	439
+1139	Survive till the end in Devil Square and return, and you'll be rewarded.	5	439
+1140	Spider Hunt!	1	440
+1141	The elder says Spiders are spinning webs on the outer walls of the town and has asked us to take care of them. Although the request was made to the Shadow Phantom Guardians, I believe the job is suitable for travelers who are just starting out on their journey. Will you accept this quest? (Level 1-14)	2	440
+1142	Hunt down 10 Spiders from around town, and I'll give you a reward.	3	440
+1143	You are stepping forward again as a true hero.	4	440
+1144	Hunt down 10 Spiders from around town, and I'll give you a reward.	5	440
+1145	Spider Hunt!	1	441
+1146	The elder says Spiders are spinning webs on the outer walls of the town and has asked us to take care of them. Although the request was made to the Shadow Phantom Guardians, I believe the job is suitable for travelers who are just starting out on their journey. Will you accept this quest? (Level 1-14)	2	441
+1147	Hunt down 10 Spiders from around town, and I'll give you a reward.	3	441
+1148	You are stepping forward again as a true hero.	4	441
+1149	Hunt down 10 Spiders from around town, and I'll give you a reward.	5	441
+1150	Spider Hunt!	1	442
+1151	The elder says Spiders are spinning webs on the outer walls of the town and has asked us to take care of them. Although the request was made to the Shadow Phantom Guardians, I believe the job is suitable for travelers who are just starting out on their journey. Will you accept this quest? (Level 1-14)	2	442
+1152	Hunt down 10 Spiders from around town, and I'll give you a reward.	3	442
+1153	You are stepping forward again as a true hero.	4	442
+1154	Hunt down 10 Spiders from around town, and I'll give you a reward.	5	442
+1155	Dispose of the Town Plunderers!	1	443
+1156	I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)	2	443
+1157	Defeat 15 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	3	443
+1158	You are stepping forward again as a true hero.	4	443
+1159	Defeat 15 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	5	443
+1160	Dispose of the Town Plunderers!	1	444
+1161	I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)	2	444
+1162	Defeat 15 Liches from near the Dungeon entrance (159, 205) on the southwest side of town and return to me for a reward.	3	444
+1163	You are stepping forward again as a true hero.	4	444
+1164	Defeat 15 Liches from near the Dungeon entrance (159, 205) on the southwest side of town and return to me for a reward.	5	444
+1165	Dispose of the Town Plunderers!	1	445
+1166	I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)	2	445
+1167	Defeat 15 Agons from near the south side (173, 222) of town and return to me for a reward.	3	445
+1168	You are stepping forward again as a true hero.	4	445
+1169	Defeat 15 Agons from near the south side (173, 222) of town and return to me for a reward.	5	445
+1170	Dispose of the Town Plunderers!	1	446
+1171	I'm sure you are well aware of Kundun. The weakest and most disorganized monsters of Kundun's army are frequently attacking and plundering civilians just outside of town. I wanted to ask you to eliminate these plundering monsters.... Will you accept this quest? (Level 15-25)	2	446
+1172	Defeat 15 Polluted Butterflies from near the tombstone (121, 156) on the north side of town and return to me for a reward.	3	446
+1173	You are stepping forward again as a true hero.	4	446
+1174	Defeat 15 Polluted Butterflies from near the tombstone (121, 156) on the north side of town and return to me for a reward.	5	446
+1175	Dispose of the Plunderers' Leader!	1	447
+1176	Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)	2	447
+1177	Defeat 20 Skeleton Warriors from near the Dungeon entrance (123, 227) on the southwest side of town and return to me for a reward.	3	447
+1178	You are stepping forward again as a true hero.	4	447
+1179	Defeat 20 Skeleton Warriors from near the Dungeon entrance (123, 227) on the southwest side of town and return to me for a reward.	5	447
+1180	Dispose of the Plunderers' Leader!	1	448
+1181	Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)	2	448
+1182	Defeat 20 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	3	448
+1183	You are stepping forward again as a true hero.	4	448
+1184	Defeat 20 Giants from near the Devias entrance (22, 45) on the east side of town and return to me for a reward.	5	448
+1185	Dispose of the Plunderers' Leader!	1	449
+1186	Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)	2	449
+1187	Defeat 20 Stone Golems from near the southwest side (30, 214) of town and return to me for a reward.	3	449
+1188	You are stepping forward again as a true hero.	4	449
+1189	Defeat 20 Stone Golems from near the southwest side (30, 214) of town and return to me for a reward.	5	449
+1190	Dispose of the Plunderers' Leader!	1	450
+1191	Our reconnaissance party reports that stolen supplies are being sent to Kundun's army. Please defeat the monsters controlling these plunderers while we ascertain the location of the supply route. Will you accept this quest? (Level 26-35)	2	450
+1192	Defeat 20 Hideous Rabbits from near the face sculpture on the north side (151, 146) of town and return to me for a reward.	3	450
+1193	You are stepping forward again as a true hero.	4	450
+1194	Defeat 20 Hideous Rabbits from near the face sculpture on the north side (151, 146) of town and return to me for a reward.	5	450
+1195	Monster Supply Route in Devias!	1	451
+1196	The reconnaissance party reports that the stolen supplies are being delivered to the Lost Tower by way of Devias. Severing the Kundun's supply route in Devias will be a devastating blow to the enemy. Will you accept this quest? (Level 36-45)	2	451
+1197	At Devias 2, you'll encounter semi-transparent Ice Monsters. Defeat 25 Ice Monsters and return to me for a reward.	3	451
+1198	You are stepping forward again as a true hero.	4	451
+1199	At Devias 2, you'll encounter semi-transparent Ice Monsters. Defeat 25 Ice Monsters and return to me for a reward.	5	451
+1200	Monster Supply Route in Devias!	1	452
+1201	The reconnaissance party reports that the stolen supplies are being delivered to the Lost Tower by way of Devias. Severing the Kundun's supply route in Devias will be a devastating blow to the enemy. Will you accept this quest? (Level 36-45)	2	452
+1202	Outside Devias, you'll encounter white monsters known as Worms. Defeat 25 Worms and return to me for a reward.	3	452
+1203	You are stepping forward again as a true hero.	4	452
+1204	Outside Devias, you'll encounter white monsters known as Worms. Defeat 25 Worms and return to me for a reward.	5	452
+1205	Attack on the Supply Corps!	1	453
+1206	Now that the defense of the supply route has weakened, it's time to stir up the enemy's command structure a bit more. I'd like to ask you to defeat the high-ranking monsters that control those in charge of the supply route. Will you accept this quest? (Level 46-55)	2	453
+1207	At Devias 2, you'll encounter blade-wielding Assassins. Defeat 30 Assassins and return to me for a reward.	3	453
+1208	You are stepping forward again as a true hero.	4	453
+1209	At Devias 2, you'll encounter blade-wielding Assassins. Defeat 30 Assassins and return to me for a reward.	5	453
+1210	Attack on the Supply Corps!	1	454
+1211	Now that the defense of the supply route has weakened, it's time to stir up the enemy's command structure a bit more. I'd like to ask you to defeat the high-ranking monsters that control those in charge of the supply route. Will you accept this quest? (Level 46-55)	2	454
+1212	At Devias 2, you'll encounter semi-transparent Ice Monsters. Defeat 30 Ice Monsters and return to me for a reward.	3	454
+1213	You are stepping forward again as a true hero.	4	454
+1214	At Devias 2, you'll encounter semi-transparent Ice Monsters. Defeat 30 Ice Monsters and return to me for a reward.	5	454
+1215	Inland Supply Corps!	1	455
+1216	Before attacking the supply warehouse, we plan to defeat the monsters guarding it first. Once those monsters have been dealt with, the reconnaissance party will handle the assault on the warehouse. Will you accept this quest? (Level 56-65)	2	455
+1217	At Devias 2, you'll encounter Yetis covered in white fur. Defeat 30 Yetis and return to me for a reward.	3	455
+1218	You are stepping forward again as a true hero.	4	455
+1219	At Devias 2, you'll encounter Yetis covered in white fur. Defeat 30 Yetis and return to me for a reward.	5	455
+1220	Inland Supply Corps!	1	456
+1221	Before attacking the supply warehouse, we plan to defeat the monsters guarding it first. Once those monsters have been dealt with, the reconnaissance party will handle the assault on the warehouse. Will you accept this quest? (Level 56-65)	2	456
+1222	At Devias 2, you'll encounter Hommerds roaming around and shrieking out foul laughs. Defeat 30 Hommerds and return to me for a reward.	3	456
+1223	You are stepping forward again as a true hero.	4	456
+1224	At Devias 2, you'll encounter Hommerds roaming around and shrieking out foul laughs. Defeat 30 Hommerds and return to me for a reward.	5	456
+1225	Dungeon Sweep!	1	457
+1226	We launched an investigation after communication with our reconnaissance party at the Dungeon started to grow sporadic and we found out that they were too tied up in dealing with a growing number of monsters. Will you go to the Dungeon and help eradicate these monsters? (Level 66-79)	2	457
+1227	At Dungeon Level 1, you'll encounter one-eyed giants that carry axes known as Cyclopses. Defeat 40 Cyclopses and return to me for a reward.	3	457
+1228	You are stepping forward again as a true hero.	4	457
+1229	At Dungeon Level 1, you'll encounter one-eyed giants that carry axes known as Cyclopses. Defeat 40 Cyclopses and return to me for a reward.	5	457
+1230	Dungeon Sweep!	1	458
+1231	We launched an investigation after communication with our reconnaissance party at the Dungeon started to grow sporadic and we found out that they were too tied up in dealing with a growing number of monsters. Will you go to the Dungeon and help eradicate these monsters? (Level 66-79)	2	458
+1232	At Dungeon Level 1, you'll encounter Larvae harassing travelers near the entrance. Defeat 40 Larvae and return to me for a reward.	3	458
+1233	You are stepping forward again as a true hero.	4	458
+1234	At Dungeon Level 1, you'll encounter Larvae harassing travelers near the entrance. Defeat 40 Larvae and return to me for a reward.	5	458
+1235	Request of Elveland's Elder!	1	459
+1236	The quest to eliminate Totem Golems and Cursed Liches in Elveland was actually set by the elder of Elveland. He says now a larger number of monsters have appeared and asks us to deal with them. Will you accept this quest? (Level 80-90)	2	459
+1237	At Elveland 3, you'll encounter Totem Golems born from totems. Defeat 50 Totem Golems and return to me for a reward.	3	459
+1238	You are stepping forward again as a true hero.	4	459
+1239	At Elveland 3, you'll encounter Totem Golems born from totems. Defeat 50 Totem Golems and return to me for a reward.	5	459
+1240	Request of Elveland's Elder!	1	460
+1241	The quest to eliminate Totem Golems and Cursed Liches in Elveland was actually set by the elder of Elveland. He says now a larger number of monsters have appeared and asks us to deal with them. Will you accept this quest? (Level 80-90)	2	460
+1242	At Elveland 2, you'll encounter Cursed Liches that carry around a burning staff. Defeat 50 Cursed Liches and return to me for a reward.	3	460
+1243	You are stepping forward again as a true hero.	4	460
+1244	At Elveland 2, you'll encounter Cursed Liches that carry around a burning staff. Defeat 50 Cursed Liches and return to me for a reward.	5	460
+1245	Situation at the Dungeon (1)	1	461
+1246	Monsters are taking over the Dungeon in Lorencia once again. Our reconnaissance party is too busy dealing with monsters and can't make prompt reports. I wish to ask for your help with this matter. Will you accept this quest? (Level 91-100)	2	461
+1247	At Dungeon Level 2, you'll encounter poison-drooling Hell Hounds. Defeat 50 Hell Hounds and return to me for a reward.	3	461
+1248	You are stepping forward again as a true hero.	4	461
+1249	At Dungeon Level 2, you'll encounter poison-drooling Hell Hounds. Defeat 50 Hell Hounds and return to me for a reward.	5	461
+1250	Situation at the Dungeon (1)	1	462
+1251	Monsters are taking over the Dungeon in Lorencia once again. Our reconnaissance party is too busy dealing with monsters and can't make prompt reports. I wish to ask for your help with this matter. Will you accept this quest? (Level 91-100)	2	462
+1252	At Dungeon Level 1, you'll encounter one-eyed giants that carry axes known as Cyclopses. Defeat 50 Cyclopses and return to me for a reward.	3	462
+1253	You are stepping forward again as a true hero.	4	462
+1254	At Dungeon Level 1, you'll encounter one-eyed giants that carry axes known as Cyclopses. Defeat 50 Cyclopses and return to me for a reward.	5	462
+1255	Situation at the Dungeon (2)	1	463
+1256	I have a monster hunt quest that will take you deeper into the Dungeon than before. Will you accept this quest? (Level 101-110)	2	463
+1257	At Dungeon Level 2, you'll encounter Hell Hounds that use sharp magic. Defeat 50 Hell Spiders and return to me for a reward.	3	463
+1258	You are stepping forward again as a true hero.	4	463
+1259	At Dungeon Level 2, you'll encounter Hell Hounds that use sharp magic. Defeat 50 Hell Spiders and return to me for a reward.	5	463
+1260	Situation at the Dungeon (2)	1	464
+1261	I have a monster hunt quest that will take you deeper into the Dungeon than before. Will you accept this quest? (Level 101-110)	2	464
+1262	At Dungeon Level 2, you'll encounter Skeleton Archers that hide and fire arrows. Defeat 50 Skeleton Archers and return to me for a reward.	3	464
+1263	You are stepping forward again as a true hero.	4	464
+1264	At Dungeon Level 2, you'll encounter Skeleton Archers that hide and fire arrows. Defeat 50 Skeleton Archers and return to me for a reward.	5	464
+1265	Situation at the Dungeon (3)	1	465
+1266	Our reconnaissance party reports of severe resistance from monsters at Dungeon Level 2. I'd like to ask you to do away with these monsters. Will you accept this quest? (Level 111-120)	2	465
+1267	At Dungeon Level 2, you'll encounter Thunder Liches that use thunder magic. Defeat 50 Thunder Liches and return to me for a reward.	3	465
+1268	You are stepping forward again as a true hero.	4	465
+1269	At Dungeon Level 2, you'll encounter Thunder Liches that use thunder magic. Defeat 50 Thunder Liches and return to me for a reward.	5	465
+1270	Situation at the Dungeon (3)	1	466
+1271	Our reconnaissance party reports of severe resistance from monsters at Dungeon Level 2. I'd like to ask you to do away with these monsters. Will you accept this quest? (Level 111-120)	2	466
+1272	At Dungeon Level 2, you'll encounter poison-drooling Hell Hounds. Defeat 50 Hell Hounds and return to me for a reward.	3	466
+1273	You are stepping forward again as a true hero.	4	466
+1274	At Dungeon Level 2, you'll encounter poison-drooling Hell Hounds. Defeat 50 Hell Hounds and return to me for a reward.	5	466
+1275	Situation at the Dungeon (4)	1	467
+1276	There are too many monsters guarding the path between Dungeon Level 2 and Level 3, preventing our reconnaissance party from reaching the third level. I'd like ask you to do away with these monsters. Will you accept this quest? (Level 121-130)	2	467
+1277	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	3	467
+1278	You are stepping forward again as a true hero.	4	467
+1279	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	5	467
+1280	Situation at the Dungeon (4)	1	468
+1281	There are too many monsters guarding the path between Dungeon Level 2 and Level 3, preventing our reconnaissance party from reaching the third level. I'd like ask you to do away with these monsters. Will you accept this quest? (Level 121-130)	2	468
+1282	At Dungeon Level 2, you'll encounter Hell Hounds that use sharp magic. Defeat 50 Hell Spiders and return to me for a reward.	3	468
+1283	You are stepping forward again as a true hero.	4	468
+1284	At Dungeon Level 2, you'll encounter Hell Hounds that use sharp magic. Defeat 50 Hell Spiders and return to me for a reward.	5	468
+1285	Situation at the Dungeon (5)	1	469
+1286	A group of monsters has appeared at Dungeon Levels 2 and 3 and is attacking our reconnaissance party. I'd like to ask you, traveler, to hunt down these monsters. Will you accept this quest? (Level 131-140)	2	469
+1287	At Dungeon Levels 2 and 3, you'll encounter Dark Knights casting darkness in their paths. Defeat 50 Dark Knights and return to me for a reward.	3	469
+1288	You are stepping forward again as a true hero.	4	469
+1289	At Dungeon Levels 2 and 3, you'll encounter Dark Knights casting darkness in their paths. Defeat 50 Dark Knights and return to me for a reward.	5	469
+1290	Situation at the Dungeon (5)	1	470
+1291	A group of monsters has appeared at Dungeon Levels 2 and 3 and is attacking our reconnaissance party. I'd like to ask you, traveler, to hunt down these monsters. Will you accept this quest? (Level 131-140)	2	470
+1292	At Dungeon Level 2, you'll encounter Thunder Liches that use thunder magic. Defeat 50 Thunder Liches and return to me for a reward.	3	470
+1293	You are stepping forward again as a true hero.	4	470
+1294	At Dungeon Level 2, you'll encounter Thunder Liches that use thunder magic. Defeat 50 Thunder Liches and return to me for a reward.	5	470
+1295	Situation at the Dungeon (6)	1	471
+1296	Our continued assault on the Dungeon has secured a somewhat secure entryway. However, there are still monsters hindering the efforts of our reconnaissance party. Will you accept this quest? (Level 141-160)	2	471
+1297	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	3	471
+1298	You are stepping forward again as a true hero.	4	471
+1299	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	5	471
+1300	Situation at the Dungeon (6)	1	472
+1301	Our continued assault on the Dungeon has secured a somewhat secure entryway. However, there are still monsters hindering the efforts of our reconnaissance party. Will you accept this quest? (Level 141-160)	2	472
+1302	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	3	472
+1303	You are stepping forward again as a true hero.	4	472
+1304	At Dungeon Level 2, you'll encounter poison-drooling Poison Bull Fighters. Defeat 50 Poison Bull Fighters and return to me for a reward.	5	472
+1305	Continuing Requests for Help (1)	1	473
+1306	Our reconnaissance party reports that some low-ranking monsters are causing quite a headache for them. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 161-165)	2	473
+1307	At the Lost Tower Level 1, you'll encounter Shadows, which are embodiments of evil intent. Defeat 50 Shadows and return to me for a reward.	3	473
+1308	You are stepping forward again as a true hero.	4	473
+1309	At the Lost Tower Level 1, you'll encounter Shadows, which are embodiments of evil intent. Defeat 50 Shadows and return to me for a reward.	5	473
+1310	Continuing Requests for Help (1)	1	474
+1311	Our reconnaissance party reports that some low-ranking monsters are causing quite a headache for them. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 161-165)	2	474
+1312	At Devias 4, you'll encounter Yetis' leaders. Defeat 50 Elite Yetis and return to me for a reward.	3	474
+1313	You are stepping forward again as a true hero.	4	474
+1314	At Devias 4, you'll encounter Yetis' leaders. Defeat 50 Elite Yetis and return to me for a reward.	5	474
+1315	Continuing Requests for Help (2)	1	475
+1316	The reconnaissance party has sent us a request. They say doing away with the higher ranking monsters that control the low-ranking ones will make their work much easier. Defeat these monsters. Will you accept this quest? (Level 166-170)	2	475
+1317	At the Lost Tower Levels 1 and 2, you'll encounter Poison Shadows, which are poison-spewing embodiments of evil intent. Defeat 50 Poison Shadows and return to me for a reward.	3	475
+1318	You are stepping forward again as a true hero.	4	475
+1319	At the Lost Tower Levels 1 and 2, you'll encounter Poison Shadows, which are poison-spewing embodiments of evil intent. Defeat 50 Poison Shadows and return to me for a reward.	5	475
+1320	Continuing Requests for Help (2)	1	476
+1321	The reconnaissance party has sent us a request. They say doing away with the higher ranking monsters that control the low-ranking ones will make their work much easier. Defeat these monsters. Will you accept this quest? (Level 166-170)	2	476
+1322	At Elveland 3 (179, 81), you'll encounter foul, furry creatures. Defeat 50 Grizzlies and return to me for a reward.	3	476
+1323	You are stepping forward again as a true hero.	4	476
+1324	At Elveland 3 (179, 81), you'll encounter foul, furry creatures. Defeat 50 Grizzlies and return to me for a reward.	5	476
+1325	Continuing Requests for Help (3)	1	477
+1326	The reconnaissance party reports the situation has much improved. I thank you on behalf of our captain. However, there are still monsters interfering with our scouting efforts. It seems these monsters are somewhat higher in rank than the ones before and are proving to be difficult to deal with. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 171-179)	2	477
+1327	At the Lost Tower Levels 2 and 3, you'll encounter corrupt beings known as Cursed Wizards. Defeat 50 Cursed Wizards and return to me for a reward.	3	477
+1328	You are stepping forward again as a true hero.	4	477
+1329	At the Lost Tower Levels 2 and 3, you'll encounter corrupt beings known as Cursed Wizards. Defeat 50 Cursed Wizards and return to me for a reward.	5	477
+1330	Continuing Requests for Help (3)	1	478
+1331	The reconnaissance party reports the situation has much improved. I thank you on behalf of our captain. However, there are still monsters interfering with our scouting efforts. It seems these monsters are somewhat higher in rank than the ones before and are proving to be difficult to deal with. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 171-179)	2	478
+1332	At Elveland 3 (203, 37), you'll encounter the captains of foul, furry creatures known as Grizzlies. Defeat 50 Captain Grizzlies and return to me for a reward.	3	478
+1333	You are stepping forward again as a true hero.	4	478
+1334	At Elveland 3 (203, 37), you'll encounter the captains of foul, furry creatures known as Grizzlies. Defeat 50 Captain Grizzlies and return to me for a reward.	5	478
+1335	Continuing Requests for Help (4)	1	479
+1336	The reconnaissance party is struggling with surprise attacks against them. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 180-189)	2	479
+1337	At the Lost Tower Levels 3 and 4, you'll encounter Death Cows and their cloud of evil energy. Defeat 50 Death Cows and return to me for a reward.	3	479
+1338	You are stepping forward again as a true hero.	4	479
+1339	At the Lost Tower Levels 3 and 4, you'll encounter Death Cows and their cloud of evil energy. Defeat 50 Death Cows and return to me for a reward.	5	479
+1340	Continuing Requests for Help (4)	1	480
+1341	The reconnaissance party is struggling with surprise attacks against them. I wish to ask for your help in eliminating these monsters. Will you accept this quest? (Level 180-189)	2	480
+1342	At the Lost Tower Level 1, you'll encounter Shadows, which are embodiments of evil intent. Defeat 50 Shadows and return to me for a reward.	3	480
+1343	You are stepping forward again as a true hero.	4	480
+1344	At the Lost Tower Level 1, you'll encounter Shadows, which are embodiments of evil intent. Defeat 50 Shadows and return to me for a reward.	5	480
+1345	Continuing Attacks on Barriers (1)	1	481
+1346	There is now a unit of monsters ceaselessly attacking our barrier that contains the energy of the Lost Tower. Devils and Cursed Wizards appear to be inflicting the most amount of damage on the barrier. Will you eliminate these monsters for us? (Level 191-199)	2	481
+1347	Go to the Lost Tower Levels 4 through 6, and you'll encounter Devils that use dark magic. Defeat 50 Devils and return to me for a reward.	3	481
+1348	You are stepping forward again as a true hero.	4	481
+1349	Go to the Lost Tower Levels 4 through 6, and you'll encounter Devils that use dark magic. Defeat 50 Devils and return to me for a reward.	5	481
+1350	Continuing Attacks on Barriers (1)	1	482
+1351	There is now a unit of monsters ceaselessly attacking our barrier that contains the energy of the Lost Tower. Devils and Cursed Wizards appear to be inflicting the most amount of damage on the barrier. Will you eliminate these monsters for us? (Level 191-199)	2	482
+1352	At the Lost Tower Levels 2 and 3, you'll encounter corrupt beings known as Cursed Wizards. Defeat 50 Cursed Wizards and return to me for a reward.	3	482
+1353	You are stepping forward again as a true hero.	4	482
+1354	At the Lost Tower Levels 2 and 3, you'll encounter corrupt beings known as Cursed Wizards. Defeat 50 Cursed Wizards and return to me for a reward.	5	482
+1355	Continuing Attacks on Barriers (2)	1	483
+1356	Many of the monsters that attacked our barrier have been dealt with, but their superiors are now physically attacking the barrier. Will you eliminate these monsters for us? (Level 200-209)	2	483
+1357	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 50 Death Knights and return to me for a reward.	3	483
+1358	You are stepping forward again as a true hero.	4	483
+1359	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 50 Death Knights and return to me for a reward.	5	483
+1360	Continuing Attacks on Barriers (2)	1	484
+1361	Many of the monsters that attacked our barrier have been dealt with, but their superiors are now physically attacking the barrier. Will you eliminate these monsters for us? (Level 200-209)	2	484
+1362	At the Lost Tower Levels 3 and 4, you'll encounter Death Cows and their cloud of evil energy. Defeat 50 Death Cows and return to me for a reward.	3	484
+1363	You are stepping forward again as a true hero.	4	484
+1364	At the Lost Tower Levels 3 and 4, you'll encounter Death Cows and their cloud of evil energy. Defeat 50 Death Cows and return to me for a reward.	5	484
+1365	Continuing Attacks on Barriers (3)	1	485
+1366	The barrier at the Lost Tower is now somewhat stable and secure. However, there are still high-ranking monsters looking to take advantage of any chance they can get. Will you eliminate these monsters for us? (Level 210-219)	2	485
+1367	At the Lost Tower Level 7, you'll encounter Death Gorgons that have become stronger through death. Defeat 60 Death Gorgons and return to me for a reward.	3	485
+1368	You are stepping forward again as a true hero.	4	485
+1369	At the Lost Tower Level 7, you'll encounter Death Gorgons that have become stronger through death. Defeat 60 Death Gorgons and return to me for a reward.	5	485
+1370	Continuing Attacks on Barriers (3)	1	486
+1371	The barrier at the Lost Tower is now somewhat stable and secure. However, there are still high-ranking monsters looking to take advantage of any chance they can get. Will you eliminate these monsters for us? (Level 210-219)	2	486
+1372	Go to the Lost Tower Levels 4 through 6, and you'll encounter Devils that use dark magic. Defeat 60 Devils and return to me for a reward.	3	486
+1373	You are stepping forward again as a true hero.	4	486
+1374	Go to the Lost Tower Levels 4 through 6, and you'll encounter Devils that use dark magic. Defeat 60 Devils and return to me for a reward.	5	486
+1375	Clearing a Path to Icarus - Unrepeatable	1	487
+1376	There is a place called Icarus, which is accessible through the topmost level of the Lost Tower. You can reach the level if you have the ability to fly. However, a group of monsters has emerged and is now blocking entry into Icarus. Will you eliminate these monsters for us? (Level 220-229)	2	487
+1377	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	3	487
+1378	You are stepping forward again as a true hero.	4	487
+1379	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	5	487
+1380	Clearing a Path to Icarus - Unrepeatable	1	488
+1381	There is a place called Icarus, which is accessible through the topmost level of the Lost Tower. You can reach the level if you have the ability to fly. However, a group of monsters has emerged and is now blocking entry into Icarus. Will you eliminate these monsters for us? (Level 220-229)	2	488
+1382	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	3	488
+1383	You are stepping forward again as a true hero.	4	488
+1384	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	5	488
+1385	Clearing a Path to Icarus	1	489
+1386	There is a place called Icarus, which is accessible through the topmost level of the Lost Tower. You can reach the level if you have the ability to fly. However, a group of monsters has emerged and is now blocking entry into Icarus. Will you eliminate these monsters for us? (Level 220-229)	2	489
+1387	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	3	489
+1388	You are stepping forward again as a true hero.	4	489
+1389	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	5	489
+1390	Clearing a Path to Icarus	1	490
+1391	There is a place called Icarus, which is accessible through the topmost level of the Lost Tower. You can reach the level if you have the ability to fly. However, a group of monsters has emerged and is now blocking entry into Icarus. Will you eliminate these monsters for us? (Level 220-229)	2	490
+1392	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	3	490
+1393	You are stepping forward again as a true hero.	4	490
+1394	At the Lost Tower Levels 5 and 6, you'll encounter Death Knights that were begotten from evil. Defeat 60 Death Knights and return to me for a reward.	5	490
+1395	Advancement of the Reconnaissance Party (1) - Unrepeatable	1	491
+1396	One of the places our reconnaissance party hasn't been able to reach is the Tarkan desert. The reasons behind their failure include the harsh environment and most importantly the monsters known as Mutants. Will you eliminate these Mutants to allow our reconnaissance party to advance? (Level 230-234)	2	491
+1397	At Tarkan 1, you'll encounter giant axe-wielding Mutants. Defeat 60 Mutants and return to me for a reward.	3	491
+1398	You are stepping forward again as a true hero.	4	491
+1399	At Tarkan 1, you'll encounter giant axe-wielding Mutants. Defeat 60 Mutants and return to me for a reward.	5	491
+1400	Advancement of the Reconnaissance Party (1)	1	492
+1401	One of the places our reconnaissance party hasn't been able to reach is the Tarkan desert. The reasons behind their failure include the harsh environment and most importantly the monsters known as Mutants. Will you eliminate these Mutants to allow our reconnaissance party to advance? (Level 230-234)	2	492
+1402	At Tarkan 1, you'll encounter giant axe-wielding Mutants. Defeat 60 Mutants and return to me for a reward.	3	492
+1403	You are stepping forward again as a true hero.	4	492
+1404	At Tarkan 1, you'll encounter giant axe-wielding Mutants. Defeat 60 Mutants and return to me for a reward.	5	492
+1405	Advancement of the Reconnaissance Party (2) - Unrepeatable	1	493
+1406	The reconnaissance party has successfully made their way into Tarkan, but are now forced to deal with Bloody Wolves. They are higher-ranking than monsters. I wish to ask for your help in eliminating these Bloody Wolves. Will you accept? (Level 235-239)	2	493
+1407	At Tarkan 1, you'll encounter Bloody Wolves and their scent of death. Defeat 60 Bloody Wolves and return to me for a reward.	3	493
+1408	You are stepping forward again as a true hero.	4	493
+1409	At Tarkan 1, you'll encounter Bloody Wolves and their scent of death. Defeat 60 Bloody Wolves and return to me for a reward.	5	493
+1410	Advancement of the Reconnaissance Party (2)	1	494
+1411	The reconnaissance party has successfully made their way into Tarkan, but are now forced to deal with Bloody Wolves. They are higher-ranking than monsters. I wish to ask for your help in eliminating these Bloody Wolves. Will you accept? (Level 235-239)	2	494
+1412	At Tarkan 1, you'll encounter Bloody Wolves and their scent of death. Defeat 60 Bloody Wolves and return to me for a reward.	3	494
+1413	You are stepping forward again as a true hero.	4	494
+1414	At Tarkan 1, you'll encounter Bloody Wolves and their scent of death. Defeat 60 Bloody Wolves and return to me for a reward.	5	494
+1415	Advancement of the Reconnaissance Party (3) - Unrepeatable	1	495
+1416	The monsters are behaving oddly. It seems Iron Wheels who rank higher than Bloody Wolves, are plotting something. I wish to ask for your help in eliminating these Iron Wheels. Will you accept? (Level 240-244)	2	495
+1417	Go to the area between Tarkan 1 and Tarkan 2, and you will see these assassins known as Iron Wheels. Defeat 60 Iron Wheels and return to me for a reward.	3	495
+1418	You are stepping forward again as a true hero.	4	495
+1419	Go to the area between Tarkan 1 and Tarkan 2, and you will see these assassins known as Iron Wheels. Defeat 60 Iron Wheels and return to me for a reward.	5	495
+1420	Advancement of the Reconnaissance Party (3)	1	496
+1421	The monsters are behaving oddly. It seems Iron Wheels who rank higher than Bloody Wolves, are plotting something. I wish to ask for your help in eliminating these Iron Wheels. Will you accept? (Level 240-244)	2	496
+1422	Go to the area between Tarkan 1 and Tarkan 2, and you will see these assassins known as Iron Wheels. Defeat 60 Iron Wheels and return to me for a reward.	3	496
+1423	You are stepping forward again as a true hero.	4	496
+1424	Go to the area between Tarkan 1 and Tarkan 2, and you will see these assassins known as Iron Wheels. Defeat 60 Iron Wheels and return to me for a reward.	5	496
+1425	Road to the Floating Castle (1) - Unrepeatable	1	497
+1426	Alquamoses are the most troublesome creatures in Icarus, the path that leads to the Floating Castle. Stardust used by Alquamoses is proving to be devastating to our reconnaissance party. Will you eliminate these Alquamoses to allow our reconnaissance party to advance? (Level 245-249)	2	497
+1427	At Icarus, you'll encounter stardust-carrying Alquamoses. Defeat 80 Alquamoses and return to me for a reward.	3	497
+1428	You are stepping forward again as a true hero.	4	497
+1429	At Icarus, you'll encounter stardust-carrying Alquamoses. Defeat 80 Alquamoses and return to me for a reward.	5	497
+1430	Road to the Floating Castle (1)	1	498
+1431	Alquamoses are the most troublesome creatures in Icarus, the path that leads to the Floating Castle. Stardust used by Alquamoses is proving to be devastating to our reconnaissance party. Will you eliminate these Alquamoses to allow our reconnaissance party to advance? (Level 245-249)	2	498
+1432	At Icarus, you'll encounter stardust-carrying Alquamoses. Defeat 80 Alquamoses and return to me for a reward.	3	498
+1433	You are stepping forward again as a true hero.	4	498
+1434	At Icarus, you'll encounter stardust-carrying Alquamoses. Defeat 80 Alquamoses and return to me for a reward.	5	498
+1435	Road to the Floating Castle (2) - Unrepeatable	1	499
+1436	Mega Crusts who rank higher than Alquamoses, are planning something in Icarus. Whatever they are planning, it will likely harm our reconnaissance party. Will you help eliminate more of these Mega Crusts? (Level 250-254)	2	499
+1437	The number of Mega Crusts has not diminished, and our reconnaissance party continues to take on losses. Will you help eliminate more of these Mega Crusts? (Level 250-254)	3	499
+1438	You are stepping forward again as a true hero.	4	499
+1439	The number of Mega Crusts has not diminished, and our reconnaissance party continues to take on losses. Will you help eliminate more of these Mega Crusts? (Level 250-254)	5	499
+1440	Road to the Floating Castle (2)	1	500
+1441	Mega Crusts who rank higher than Alquamoses, are planning something in Icarus. Whatever they are planning, it will likely harm our reconnaissance party. Will you help eliminate more of these Mega Crusts? (Level 250-254)	2	500
+1442	The number of Mega Crusts has not diminished, and our reconnaissance party continues to take on losses. Will you help eliminate more of these Mega Crusts? (Level 250-254)	3	500
+1443	You are stepping forward again as a true hero.	4	500
+1444	The number of Mega Crusts has not diminished, and our reconnaissance party continues to take on losses. Will you help eliminate more of these Mega Crusts? (Level 250-254)	5	500
+1445	Road to the Floating Castle (3) - Unrepeatable	1	501
+1446	Our entry into the Floating Castle has been hampered mostly by Queen Rainiers. It appears Queen Rainiers are controlling Mega Crusts and Alquamoses from behind the scenes. I wish to ask for your help in eliminating these Queen Rainiers. Will you accept? (Level 255-259)	2	501
+1447	At Icarus, you'll encounter Queen Rainiers, which disguise their deathly aura with beauty. Defeat 80 Queen Rainiers and return to me for a reward.	3	501
+1448	You are stepping forward again as a true hero.	4	501
+1449	At Icarus, you'll encounter Queen Rainiers, which disguise their deathly aura with beauty. Defeat 80 Queen Rainiers and return to me for a reward.	5	501
+1450	Road to the Floating Castle (3)	1	502
+1451	Our entry into the Floating Castle has been hampered mostly by Queen Rainiers. It appears Queen Rainiers are controlling Mega Crusts and Alquamoses from behind the scenes. I wish to ask for your help in eliminating these Queen Rainiers. Will you accept? (Level 255-259)	2	502
+1452	At Icarus, you'll encounter Queen Rainiers, which disguise their deathly aura with beauty. Defeat 80 Queen Rainiers and return to me for a reward.	3	502
+1453	You are stepping forward again as a true hero.	4	502
+1454	At Icarus, you'll encounter Queen Rainiers, which disguise their deathly aura with beauty. Defeat 80 Queen Rainiers and return to me for a reward.	5	502
+1455	Watchers of Kundun (1)	1	503
+1456	The Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 260-289)	2	503
+1457	Hold on, I will find a quest suitable for you. Wait a moment please.	2	503
+1458	Recently the Shadow Phantom unit in Tarkan Desert is frequently attacked. Go to Tarkan and kill 100 monsters. I will reward you when you come back and report me.	2	503
+1459	Defeat 100 monsters in Tarkan and come back. I will give you the next quest when you return.	3	503
+1460	Thank you for your help. Here's the next quest.	4	503
+1461	Defeat 100 monsters in Tarkan and come back. I will give you one of the random rewards.	5	503
+1462	Request from Shadow Phantom Unit (1)	1	504
+1463	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 260-289)	2	504
+1464	Hold on, I will find a quest suitable for you. Wait a moment please.	2	504
+1465	Shadow Phantom unit in Tarkan is currently short of weapons. Find 'Staff of Resurrection' and bring it to me. I will reward you when you come back.	2	504
+1466	Obtain 'Staff of Resurrection' and come back. I will give you one of the random rewards.	3	504
+1467	Thank you for your help. Here's the next quest.	4	504
+1468	Obtain 'Staff of Resurrection' and come back. I will give you one of the random rewards.	5	504
+1469	Request from Shadow Phantom Unit (Reward)	1	505
+1470	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 260-289)	2	505
+1471	Hold on, I will find a quest suitable for you. Wait a moment please.	2	505
+1472	Shadow Phantom unit in Tarkan is currently short of mounts. Find 'Horn of Uniria' and bring it to me. I will reward you when you come back.	2	505
+1473	Obtain 'Horn of Uniria' and come back. I will give you one of the random rewards.	3	505
+1474	Thank you for your help. Here's your reward.	4	505
+1475	Obtain 'Horn of Uniria' and come back. I will give you one of the random rewards.	5	505
+1476	Watchers of Kundun (1)	1	506
+1477	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 290-319)	2	506
+1478	Hold on, I will find a quest suitable for you. Wait a moment please.	2	506
+1479	Recently the Shadow Phantom unit in Icarus is frequently attacked. Go to Icarus  and hunt 100 monsters. I will give you the next quest when you return.	2	506
+1480	Defeat 100 monsters in Icarus and come back. I will give you the next quest when you return.	3	506
+1481	Thank you for your help. Here's the next quest.	4	506
+1482	Defeat 100 monsters in Icarus and come back. I will give you one of the random rewards.	5	506
+1483	Request from Shadow Phantom Unit (2)	1	507
+1484	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 290-319)	2	507
+1485	Hold on, I will find a quest suitable for you. Wait a moment please.	2	507
+1486	Shadow Phantom unit in Tarkan is currently short of weapons. Find 'Sword of Destruction' and bring it to me. I will give you the next quest when you return.	2	507
+1487	Obtain 'Sword of Destruction' and come back. I will give you the next quest when you return.	3	507
+1488	Thank you for your help. Here's the next quest.	4	507
+1489	Obtain 'Sword of Destruction' and come back. I will give you one of the random rewards.	5	507
+1490	Request from Shadow Phantom Unit (Reward)	1	508
+1491	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 290-319)	2	508
+1492	Hold on, I will find a quest suitable for you. Wait a moment please.	2	508
+1493	Shadow Phantom unit in Icarus is currently short of weapons. Find 'Crystal Sword' and bring it to me. I will reward you when you come back.	2	508
+1494	Obtain 'Crystal Sword' and come back. I will give you one of the random rewards.	3	508
+1495	Thank you for your help. Here's your reward.	4	508
+1496	Obtain 'Crystal Sword' and come back. I will give you one of the random rewards.	5	508
+1497	Watchers of Kundun (1)	1	509
+1498	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 320-349)	2	509
+1499	Hold on, I will find a quest suitable for you. Wait a moment please.	2	509
+1500	Recently the Shadow Phantom unit in Kanturu Ruins is frequently attacked. Go to Kanturu Ruins and hunt 100 monsters.  will give you the next quest when you return.	2	509
+1501	Go to Kanturu Ruins and kill 100 monsters. I will reward you when you come back and report me.	3	509
+1502	Thank you for your help. Here's the next quest.	4	509
+1503	Defeat 100 monsters in Kanturu Ruins and come back. I will give you one of the random rewards.	5	509
+1504	Request from Shadow Phantom Unit (Reward)	1	510
+1505	Shadow Phantom unit reported that the Watchers of Kundun are short of some important supplies. I'm giving a quest with a handsome reward to those who bring me the supply for the Watchers. Are you interested? (Level 320-349)	2	510
+1506	Hold on, I will find a quest suitable for you. Wait a moment please.	2	510
+1507	Shadow Phantom unit in Kanturu Ruins is currently short of weapons. Find 'Ancient Stick' and bring it to me. I will reward you when you come back.	2	510
+1508	Obtain 'Ancient Stick' and come back. I will give you one of the random rewards.	3	510
+1509	Thank you for your help. Here's your reward.	4	510
+1510	Obtain 'Ancient Stick' and come back. I will give you one of the random rewards.	5	510
+1511	The presence of the mercenary guild (Lv. 350+)	1	511
+1512	Talk to the Mercenary Guild Manager Tercia. (Lv. 350+)	5	511
+1513	Mercenary Guild Office?	1	512
+1514	Welcome to the newly founded Devias branch of the mercenary guild. We're the one who stopped Kundun's Army along with the 5 major clans but now most of the veterans have retired. So we decided to adopt the Free Mercenary system as we open this guild office.	2	512
+1515	Free mercenary doesn't really belong to the mercenary guild anybody can receive a request and get the reward only if he or she has certain sum of money for registration. We take the deposit for each request, but it's fully refundable as you finish the request. Don't you worry. We request you what you can handle.	2	512
+1516	1 million Zen for free mercenary registration and 500,000 Zen for deposit. Will you register as a free mercenary now? (Lv. 350+)	2	512
+1517	A wise decision. Give me 1 million Zen and I will sign you up right away.	4	512
+1518	Spend 1,000,000 Zen to join Mercenary Guild.	5	512
+1519	Request from the Priestess (Monday)	1	513
+1520	Talk to the Priestess Beina. (Monday)	5	513
+1521	Commission from the Priestess (Monday)	1	514
+1522	Hi, I'm Priestess Beina, protector of this Underwater Temple. This temple is Kundun's first target since Etramu keeps his body in the sealed stone. We're always short of fighters so I request help to the mercenary guild. Would you check the request? (Lv. 350-400)	2	514
+1523	Please come back later when you are ready.	4	514
+1524	Carry out the request of Priestess.	5	514
+1525	Peace of the Hero (Monday)	1	515
+1526	I'd like to ask you to eliminate Kundun's combatants who attack the temple entrance. Go to Kalima 7 and kill 100 monsters. I will reward you when you come back and report me.	2	515
+1527	Go to Kalima 7 and kill 100 monsters. I will reward you when you come back and report me.	3	515
+1528	Well done. Please come back every Monday.	4	515
+1529	Defeat 100 monsters in Kalima 7 and receive reward from the Priestess.	5	515
+1530	Call from Wandering Merchant Zyro -1 (Tuesday)	1	516
+1531	Find to the location of Wandering Merchant Zyro in Lorencia. (Tuesday)	5	516
+1532	Call from Wandering Merchant Zyro -2 (Tuesday)	1	517
+1533	Find to the location of Wandering Merchant Zyro in Noria. (Tuesday)	5	517
+1534	Call from Wandering Merchant Zyro -3 (Tuesday)	1	518
+1535	Find to the location of Wandering Merchant Zyro in Elbeland. (Tuesday)	5	518
+1536	Call from Wandering Merchant Zyro -4 (Tuesday)	1	519
+1537	Find to the location of Wandering Merchant Zyro in Devias. (Tuesday)	5	519
+1538	Find Zyro the General Goods Merchant (Tuesday)	1	520
+1539	What can I help you? Ah… you're the one from the mercenary guild! Speaking frankly, I would never have requested the mercenary guild if I had had any other option… Well, never mind.	2	520
+1540	Please come back later when you are ready.	4	520
+1541	Find Merchant Zyro and carry out his request.	5	520
+1542	Obtain Rare Jewels (Turesday)	1	521
+1543	There is a rare jewel Witch Queens in Aida carry on them. It's so beautiful as to captivate Witch Queens with such brilliance. Naturally, it's extremely expensive in the market. (Lv. 350 - 400)	2	521
+1544	The ladies in a queue threaten me so I had to ask the mercenary guild.	2	521
+1545	Obtain 10 'Kalt Stones' that Witch Queens from Aida  carry on. 	3	521
+1546	Well done. Please come back every Tuesday.	4	521
+1547	Obtain 10 'Kalt Stones' that Witch Queens from Aida  carry on. 	5	521
+1548	Request from Gens Duprian (Wednesday)	1	522
+1549	Talk to the Gens Duprian. (Wednesday)	5	522
+1550	Call from the Gens (Wednesday)	1	523
+1551	How have you been? On behalf of the master of our clan, I thank you for answering the call of the clan. I personally hate to let the wandering mercenaries do this job, so I requested to send someone of the clan. I hope this didn't offend you. (Lv. 350-400)	2	523
+1552	Please come back later when you are ready.	4	523
+1553	Find Gens Duprian and carry out his request.	5	523
+1554	Expanding Bussiness (Wednesday)	1	524
+1555	Recently things get in the way of the clan's business. Especially things in Vulcanus are the worst.	2	524
+1556	We did some investigation and our people got killed by the assassins. Please go to Vulcanus and eliminate monsters.	2	524
+1557	Defeat 100 monsters in Vulcanus and return.	3	524
+1558	Well done. Please come back every Wednsday	4	524
+1559	Defeat 100 monsters in Vulcanus and return.	5	524
+1560	Request from Gens Vanert (Wednesday)	1	525
+1561	Talk to the Gens Vanert. (Wednesday)	5	525
+1562	Call from the Gens (Wednesday)	1	526
+1563	How have you been? On behalf of the master of our clan, I thank you for answering the call of the clan. I personally hate to let the wandering mercenaries do this job, so I requested to send someone of the clan. I hope this didn't offend you. (Lv. 350-400)	2	526
+1564	Please come back later when you are ready.	4	526
+1565	Find Gens Vanert and carry out his request.	5	526
+1566	Expanding Bussiness (Wednesday)	1	527
+1567	Recently things get in the way of the clan's business. Especially things in Vulcanus are the worst.	2	527
+1568	We did some investigation and our people got killed by the assassins. Please go to Vulcanus and eliminate monsters.	2	527
+1569	Defeat 100 monsters in Vulcanus and return.	3	527
+1570	Well done. Please come back every Wednsday	4	527
+1571	Defeat 100 monsters in Vulcanus and return.	5	527
+1572	Request from the Priestess (Thursday)	1	528
+1573	Talk to the Priestess Beina. (Thursday)	5	528
+1574	Commission from the Priestess (Thursday)	1	529
+1575	Hi, I'm Priestess Beina, protector of this Underwater Temple. This temple is Kundun's first target since Etramu keeps his body in the sealed stone. We're always short of fighters so I request help to the mercenary guild. Would you check the request? (Lv. 350-400)	2	529
+1576	Please come back later when you are ready.	4	529
+1577	Carry out the request of Priestess.	5	529
+1578	The Hero's Madness (Thursday)	1	530
+1579	I'd like to ask you to eliminate Kundun's combatants who attack the temple entrance. Go to Kalima 7 and kill 100 monsters. I will reward you when you come back and report me.	2	530
+1580	Go to Kalima 7 and kill 100 monsters. I will reward you when you come back and report me.	3	530
+1581	Well done. Please come back every Thursday	4	530
+1582	Defeat 100 monsters in Kalima 7 and receive reward from the Priestess.	5	530
+1583	Call from Wandering Merchant Zyro -1 (Friday)	1	531
+1584	Find to the location of Wandering Merchant Zyro in Lorencia. (Friday)	5	531
+1585	Call from Wandering Merchant Zyro -2 (Friday)	1	532
+1586	Find to the location of Wandering Merchant Zyro in Noria. (Friday)	5	532
+1587	Call from Wandering Merchant Zyro -3 (Friday)	1	533
+1588	Find to the location of Wandering Merchant Zyro in Elbeland. (Friday)	5	533
+1589	Call from Wandering Merchant Zyro -4 (Friday)	1	534
+1590	Find to the location of Wandering Merchant Zyro in Devias. (Friday)	5	534
+1591	Request From Merchant Zyro (Friday)	1	535
+1592	Ah, you came at last. The task is to get me some equipment for the war supplies. There's no business more profitable than the war supplies delivery. It's not like the good old days, but enough for a stable income. Especially Burnt Murderer's Club is the expensive one. (Lv. 350-400)	2	535
+1593	Please come back later when you are ready.	4	535
+1594	Find Merchant Zyro and carry out his request.	5	535
+1595	Secure War Supplies (Friday)	1	536
+1596	10 clubs from the Burnt Murderers in Vulcanus will do. Please remember that the 'Heroes' in the Burnt Murderers don't drop the item.	2	536
+1597	Come back to me with 10 Burnt Murderer's Clubs to get the reward.	3	536
+1598	Well done. Please come back every Friday	4	536
+1599	Obtain 10 'Burnt Murderer's Clubs' from Burnt Murderers in Vulcanus and receive rewards from Zyro.	5	536
+1600	Request from Gens Duprian (Saterday)	1	537
+1601	Talk to the Gens Duprian. (Saturday)	5	537
+1602	Call of the Gens (Saturday)	1	538
+1603	How have you been? On behalf of the master of our clan, I thank you for answering the call of the clan. I personally hate to let the wandering mercenaries do this job, so I requested to send someone of the clan. I hope this didn't offend you. (Lv. 350-400)	2	538
+1604	Please come back later when you are ready.	4	538
+1605	Find Gens Vanert and carry out his request.	5	538
+1606	Developing Bussiness (Saturday)	1	539
+1607	Recently things get in the way of the clan's business. Especially things in Vulcanus are the worst.	2	539
+1608	We did some investigation and our people got killed by the assassins. Please go to Vulcanus and eliminate monsters.	2	539
+1609	Defeat 100 monsters in Vulcanus and return.	3	539
+1610	Well done. Please come back every Saturday	4	539
+1611	Defeat 100 monsters in Vulcanus and return.	5	539
+1612	Request from Gens Vanert (Saterday)	1	540
+1613	Talk to the Gens Vanert. (Saturday)	5	540
+1614	Call of the Gens (Saturday)	1	541
+1615	How have you been? On behalf of the master of our clan, I thank you for answering the call of the clan. I personally hate to let the wandering mercenaries do this job, so I requested to send someone of the clan. I hope this didn't offend you. (Lv. 350-400)	2	541
+1616	Please come back later when you are ready.	4	541
+1617	Find Gens Vanert and carry out his request.	5	541
+1618	Developing Bussiness (Saturday)	1	542
+1619	Recently things get in the way of the clan's business. Especially things in Vulcanus are the worst.	2	542
+1620	We did some investigation and our people got killed by the assassins. Please go to Vulcanus and eliminate monsters.	2	542
+1621	Defeat 100 monsters in Vulcanus and return.	3	542
+1622	Well done. Please come back every Saturday	4	542
+1623	Defeat 100 monsters in Vulcanus and return.	5	542
+1624	Request from the Mercenary Guild (Sunday)	1	543
+1625	Talk to the Mercenary Guild Manager Tercia. (Sunday)	5	543
+1626	Commission from the Mercenary Guild (Sunday)	1	544
+1627	What can I help you? Ah… you came for the request from us. (Level 350-400)	2	544
+1628	Please come back later when you are ready.	4	544
+1629	Find Tercia and carry out his request.	5	544
+1630	Hidden history of the rebellion (Sunday)	1	545
+1631	Experienced warriors like you must have gone to Aida.	2	545
+1632	Jerridon and Osbourne are still keeping their place under constant threat. Protect them from the monsters.	2	545
+1633	Defeat 100 monsters in Aida and return.	3	545
+1634	Well done. Please come back every Sunday	4	545
+1635	Defeat 100 monsters in Aida and return to Tercia.	5	545
+1636	Meet Deruvish (Monday)	1	546
+1637	Talk to Deruvish in Acheron (Monday)	5	546
+1638	Commission from the Mercenary Guild (Monday)	1	547
+1639	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	547
+1640	Please come back later when you are ready.	4	547
+1641	Find Deruvish and carry out his request.	5	547
+1642	Eliminate Salamander (Monday)	1	548
+1643	Experienced warriors like you must have gone to Acheron.	2	548
+1644	Please eliminate the monsters threatening adventurers.	2	548
+1645	Defeat 30 Salamanders in Acheron and return.	3	548
+1646	Well done. Please come back every Monday.	4	548
+1647	Defeat 30 Salamanders in Acheron and return.	5	548
+1648	Meet Deruvish (Tuesday)	1	549
+1649	Talk to Deruvish in Acheron (Tuesday)	5	549
+1650	Commission from the Mercenary Guild (Tuesday)	1	550
+1651	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	550
+1652	Please come back later when you are ready.	4	550
+1653	Find Deruvish and carry out his request.	5	550
+1654	Eliminate Undine (Tuesday)	1	551
+1655	Experienced warriors like you must have gone to Acheron.	2	551
+1656	Please eliminate the monsters threatening adventurers.	2	551
+1657	Defeat 30 Undines in Acheron and return.	3	551
+1658	Well done. Please come back every Monday.	4	551
+1659	Defeat 30 Undines in Acheron and return.	5	551
+1660	Meet Deruvish (Wednesday)	1	552
+1661	Talk to Deruvish in Acheron (Wednesday)	5	552
+1662	Commission from the Mercenary Guild (Wednesday)	1	553
+1663	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	553
+1664	Please come back later when you are ready.	4	553
+1665	Find Deruvish and carry out his request.	5	553
+1666	Eliminate Sylphid (Wednesday)	1	554
+1667	Experienced warriors like you must have gone to Acheron.	2	554
+1668	Please eliminate the monsters threatening adventurers.	2	554
+1669	Defeat 30 Sylphids in Acheron and return.	3	554
+1670	Well done. Please come back every Monday.	4	554
+1671	Defeat 30 Sylphids in Acheron and return.	5	554
+1672	Meet Deruvish (Thursday)	1	555
+1673	Talk to Deruvish in Acheron (Thursday)	5	555
+1674	Commission from the Mercenary Guild (Thursday)	1	556
+1675	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	556
+1676	Please come back later when you are ready.	4	556
+1677	Find Deruvish and carry out his request.	5	556
+1678	Eliminate Gnome (Thursday)	1	557
+1679	Experienced warriors like you must have gone to Acheron.	2	557
+1680	Please eliminate the monsters threatening adventurers.	2	557
+1681	Defeat 30 Gnomes in Acheron and return.	3	557
+1682	Well done. Please come back every Monday.	4	557
+1683	Defeat 30 Gnomes in Acheron and return.	5	557
+1684	Meet Deruvish (Friday)	1	558
+1685	Talk to Deruvish in Acheron (Friday)	5	558
+1686	Commission from the Mercenary Guild (Friday)	1	559
+1687	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	559
+1688	Please come back later when you are ready.	4	559
+1689	Find Deruvish and carry out his request.	5	559
+1690	Eliminate Hellraisers (Friday)	1	560
+1691	Experienced warriors like you must have gone to Acheron.	2	560
+1692	Please eliminate the monsters threatening adventurers.	2	560
+1693	Defeat 30 Hell Maines in Acheron and return.	3	560
+1694	Well done. Please come back every Monday.	4	560
+1695	Defeat 30 Hell Maines in Acheron and return.	5	560
+1696	Meet Deruvish (Saturday)	1	561
+1697	Talk to Deruvish in Acheron (Saturday)	5	561
+1698	Commission from the Mercenary Guild (Saterday)	1	562
+1699	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	562
+1700	Please come back later when you are ready.	4	562
+1701	Find Deruvish and carry out his request.	5	562
+1702	Acheron Suppression (Saturday)	1	563
+1703	Experienced warriors like you must have gone to Acheron.	2	563
+1704	Please eliminate the monsters threatening adventurers.	2	563
+1705	Defeat 300 monsters in Acheron and return.	3	563
+1706	Well done. Please come back every Saturday	4	563
+1707	Defeat 300 monsters in Acheron and return.	5	563
+1708	Meet Deruvish (Sunday)	1	564
+1709	Talk to Deruvish in Acheron (Sunday)	5	564
+1710	Commission from the Mercenary Guild (Sunday)	1	565
+1711	What can I help you? Ah… you came for the request from us. (Level 400-1350)	2	565
+1712	Please come back later when you are ready.	4	565
+1713	Find Deruvish and carry out his request.	5	565
+1714	Acheron Suppression (Sunday)	1	566
+1715	Experienced warriors like you must have gone to Acheron.	2	566
+1716	Please eliminate the monsters threatening adventurers.	2	566
+1717	Defeat 300 monsters in Acheron and return.	3	566
+1718	Well done. Please come back every Sunday	4	566
+1719	Defeat 300 monsters in Acheron and return.	5	566
+//400~599 선점 반복 퀘스트			
+end

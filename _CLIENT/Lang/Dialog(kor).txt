@@ -1,0 +1,189 @@
+////////////////////////////////////////////////////////////////////////////////////////////																	
+// Text Ver. 0.0.0.7		T 퀘스트 창 2번째 탭 전직관련 대사															
+// Version 0.0.0.3  - T서버		전직 퀘스트															
+// Version 0.0.0.3  - M서버		서버 패킷 (일본에서 사용중)		0xf3 0x40 (cmd 5) // 서버에서 오는 텍스트 번호이다.													
+// 최종 작업일: 2016-07-19 7:13 PM																	
+// 최종 작업자: 박혜진																	
+// 내용 : 클라이언트 패킹 작업으로 인한 스크립트 구조 수정																	
+////////////////////////////////////////////////////////////////////////////////////////////																	
+// 답변(클릭) 구문 형식 																	
+// 타겟구문번호/구분자																	
+// 구분자 분류																	
+// -1 : [대사진행] 대상 구분으로 넘어감. 서버에 알리지 않음																	
+// 1 : [수락] 대상 구문으로 넘어감. 수락 했음을 서버에 알림																	
+// 2 : [거절] 대상 구문 미지정(동일 구분 번호). 거절 했음을 서버에 알림																	
+// 3 : [완료] 대상 구문 미지정(동일 구분 번호). 완료 했음을 서버에 알림																	
+////////////////////////////////////////////////////////////////////////////////////////////																	
+//		구분자1			구분자2			구분자3			구분자4						
+//텍스트 번호	eng	링크 텍스트 번호	구분자	eng	링크 텍스트 번호	구분자	eng	링크 텍스트 번호	구분자	eng	링크 텍스트 번호	구분자	구분자 텍스트				
+101	This is not something you can accomplish with average skills. Come back once you've trained some more.	101	2	End conversation													
+1	Hi! I'm Mage Pasi. Hahaha. Well... The movements of the stars don't look good. Your future... Haha. I can't see your future clearly. I wonder why...?																
+2	Hello. I'm a warehouse keeper, and I take care of your stuff. My name is Baz. I can help you wherever you go. You can leave your stuff with me!																
+3	I hear that fatigued adventurers recover when they listen to the tunes of the wind harp. Do you need my help?																
+4	I'm a warehouse keeper, and I take care of your stuff. My name is Baz. I can help you wherever you go. You can leave your stuff with me!																
+5	Do you have enough Zen? I can't help you combine items if you don't have enough Zen. Zen is needed for research, you see. Hm? You want to know how much Zen you need?																
+// 일본 버전용																	
+6	Is it your first time in MU? Press the F1 key. You'll find helpful tips about traveling in MU.																
+7	Is it your first time in Lorencia? If it is, go through the southeast entrance near the fountain, and hunt some Budge Dragons or Spiders. The Skeleton Warriors in the northwest hunting zone are too dangerous.																
+8	Welcome to Noria. If it's your first time hunting here, go through the west entrance past the Warehouse Keeper, and hunt some Chain Scorpions or Goblins.																
+9	If you need a detailed guide about MU, check out www.muonline.jp.																
+//1차 전직 퀘스트 텍스트																	
+50	Have you heard of Muren Reksmilon, who became the first emperor of MU after he defeated Sekneum and unified the continent? There are rumors that the 'Scroll of the Emperor', where this story is recorded, has been found.	74	-1	Continue listening													
+74	The God of Light, Rugard, has given you the mission to find the 'Scroll of the Emperor'. However, it seems that you are not qualified yet. Please come back once you are stronger.	74	2	End conversation													
+51	You don't have enough money. You must offer 1 million Zen to Rugard if you want to receive this mission.	51	2	End conversation													
+52	Have you heard of Muren Reksmilon, who became the first emperor of MU after he defeated Sekneum and unified the continent? There are rumors that the 'Scroll of the Emperor', where this story is recorded, has been found.	75	-1	Continue listening													
+75	The 'Scroll of the Emperor' contains a record of the treasures left by the three heroes of the Divine War, including Muren himself. The God of Light, Rugard, has given you the mission to find the 'Scroll of Emperor'. 	53	-1	Continue listening													
+53	You must offer 1 million Zen to Rugard if you want to receive this mission. Would you like to accept the mission and find the 'Scroll of the Emperor'?                                                                                   	52	-1	Listen again	54	1	Accept	53	2	Reject							
+54	According to the rumors, the 'Scroll of the Emperor' can be found in the Dungeon, Lost Tower, or Atlans.  	54	2	End conversation													
+55	You have found the 'Scroll of the Emperor'. It should contain information about the treasures that the three heroes of the Divine War have left behind.	55	3	Take a look at the scroll.													
+56	(It contains historical records of the first emperor of the continent, Muren, as well as what happened during the Peace Festival commemorating the victory in the war and the unification of the continent. ) Muren Reksmilon unified the three countries of Lorencia, Noria, and Arca into one great empire.	57	-1	Continue listening													
+57	Muren ended the Divine War with Arca's Great Mage Etramu Renos and Noria's Elf Queen Lunedill Diochell, and was revered as a hero. 	56	-1	Back to previous story	80	-1	Continue listening										
+80	After the empire was established and peace achieved, everyone in the continent swore their loyalty to the emperor, and they offered treasures as a token.	57	-1	Back to previous story	58	-1	Continue listening										
+58	The 'Broken Sword', the 'Tear of Elf', and the 'Soul Shard of Wizard'. The 'Broken Sword' was offered by the Dark Knights of Lorencia as a symbol of their bravery and loyalty; wishing for the empire's prosperity. 	57	-1	Back to previous story	81	-1	Continue listening										
+81	The 'Tear of Elf' was offered by the Elf Queen Lunedill Diochell as a token of her vow to strengthen the unity between elves and humans.	58	-1	Back to previous story	59	-1	Continue listening										
+59	The 'Soul of the Mage' was offered by Great Mage Etramu as a symbol of his vow to dedicate his power for the peace and freedom of the empire.                                   From the records of the Peace Festival held in the 10th year of MU...	58	-1	Back to previous story	59	2	Stop reading										
+60	If you are done reading the 'Scroll of the Emperor', go find the 'Broken Sword' that was offered to Muren by the Dark Knights of Lorencia. Rumors say that it may be found around Atlans, Lost Tower, or Tarkan.	61	1	Accept	60	2	Reject										
+61	I know you are strong, but always be careful, because this task can be dangerous. Once you find the 'Broken Sword', please bring it back to me. 	61	2	End conversation													
+62	You have found the 'Broken Sword'. The 'Broken Sword' is said to have originated from Muren's sword, the 'Apocalypse', which Muren himself broke after he unified the continent, in the hopes that war would never happen again. 	76	-1	Continue listening													
+76	The Dark Knights of Lorencia also broke their swords and offered them to Muren, swearing that they would only use their swords when absolutely needed.	63	-1	Continue listening													
+63	Muren was greatly pleased and gave them the title of 'Blade Knight'. Since then, Dark Knights seeking to become Blade Knights break their swords to demonstrate their will. 	79	-1	Continue listening													
+79	Now that you have found the 'Broken Sword' and proven your strong will, you will be called a Blade Knight.	79	3	Become a Blade Knight													
+64	You have read the 'Scroll of the Emperor'. So now you know what the three treasures left by the heroes are?	77	-1	Continue listening													
+77	Go find the 'Tear of Elf' that is said to have been offered to Muren by Elf Queen Lunedill Diochell. Rumors say that it may be found around Atlans, Lost Tower, or Tarkan.	65	1	Accept	77	2	Reject										
+65	I know you are strong, but always be careful, because this task can be dangerous. Once you find the 'Tear of Elf', please bring it back to me. 	65	2	End conversation													
+66	You have found the 'Tear of Elf'. The 'Tear of Elf' is the crystallized tear of an elf, dropped during the coming-of-age ceremony. The one offered to Muren was the Tear of Elf Queen, Lunedill Diochell. 	78	-1	Continue listening													
+78	Now that you have the 'Tear of Elf' which symbolizes the pure heart, you'll be called a Muse Elf.	78	3	Become a Muse Elf													
+67	You have read the 'Scroll of the Emperor'. So now you know what the three treasures left by the heroes are?	82	-1	Continue listening													
+82	Go find the 'Soul of the Mage' that the Great Mage Etramu Renos offered to Muren. Rumors say that it may be found around Atlans, Lost Tower, or Tarkan.	68	1	Accept	82	2	Reject										
+68	I know you are strong, but always be careful, because this task can be dangerous. Once you find the 'Soul of the Mage', please bring it back to me.	68	2	End conversation													
+69	You have found the 'Soul of the Mage'. The 'Soul of the Mage' is a magic stone that symbolizes the strong mind of a Dark Mage, and it is said that Etramu offered it to Muren as a symbol of his vow.	70	-1	Please tell me more.													
+70	Now that you have the 'Soul of the Mage', that symbolizes the strong mind, you'll be called a Soul Master.	70	3	Become a Soul Master													
+71	Offer 2 million Zen to the God of Light, Rugard. He shall bless your path ahead.	71	2	End conversation													
+72	I respect your courage and I shall grant you a new power. May the blessing of Rugard, the God of Light, be with you... 	72	2	End conversation													
+73	You have been filled with the blessings of Rugard. May he always be with you even in the midst of trials.	73	2	End conversation													
+//캐릭터 마스터리 퀘스트 텍스트 (3,4차 전직)																	
+100	I have something to ask of you... But it looks like you don't have the ability to carry it out yet.	101	-1	Continue listening													
+101	This is not something you can accomplish with average skills. Come back once you've trained some more.	101	2	End conversation													
+102	I have something to ask of you. Would you lend me your ear?	103	-1	Continue listening													
+103	I would like to ask you to find the 'Ring of Glory' for me. The 'Ring of Glory' is the greatest relic of all; given by the God of Light, Rugard, to the heroes who were victorious in the war against Sekneum. 	104	-1	Continue listening													
+104	If we don't find the 'Ring of Glory', something bad may happen to the continent. You can work on this if you have 3 million Zen. Would you like to try?	102	-1	Listen again	105	1	Accept	104	2	Reject							
+105	From the information I've gathered, the 'Ring of Glory' seems to be closer than I thought. It might be around Atlans, Tarkan, or Icarus.	105	2	End conversation													
+108	You have found the 'Ring of Glory'! I knew you could do it.	109	-1	Continue listening													
+109	I told you this already, but the 'Ring of Glory' was given by the God of Light, Rugard, to the heroes of the Divine War. Other than the three heroes we already know, there was also Kundun Mephis - the Great Mage of Arca, and Gaion Kalein - the Vice Commander of the Alliance.	110	-1	Continue listening													
+110	But as you know, Great Mage Kundun Mephis and Vice Commander Gaion Kalein were stained with darkness, and their 'Rings of Glory' were lost.	111	-1	Continue listening													
+111	The 'Ring of Glory' contains the sacred power of Rugard, so if Kundun used it with evil intentions, it would be definitely catastrophic. That's why the empire's guards have been trying so hard to find the 'Ring of Glory'.	112	-1	Continue listening													
+112	We are very relieved and grateful to you for bringing back the 'Ring of Glory'. I've already submitted a report regarding your performance to the 'Twelve Disciples of Light', who serve Rugard.	112	3	Continue listening													
+113	You will be blessed with the power of Rugard, and every time you level up, you will obtain more stat points. Congratulations!	113	2	End conversation													
+114	Thank you for helping me. I'll see you again.	114	2	End conversation													
+115	It is said that the 'Dark Stone', that grants the true power of an emperor, has been found in MU. But it looks like you are still not skilled enough to use that power. Please wait until you are ready to use that power.	101	-1	I'll come back when I'm stronger.													
+130	You have found the 'Ring of Glory'! I knew you could do it!	131	-1	Continue listening													
+131	I told you this already, but the 'Ring of Glory' was given by the God of Light, Rugard, to the heroes of the Divine War. Other than the three heroes we already know, there was also Kundun Mephis - the Great Mage of Arca, and Gaion Kalein - the Vice Commander of the Alliance.	132	-1	Continue listening													
+132	But as you know, Great Mage Kundun Mephis and Vice Commander Gaion Kalein were stained with darkness, and their 'Rings of Glory' were lost.	133	-1	Continue listening													
+133	The 'Ring of Glory' contains the sacred power of Rugard, so if Kundun used it with evil intentions, it would be definitely catastrophic. That's why the empire's guards have been trying so hard to find the 'Ring of Glory'.	134	-1	Continue listening													
+134	We are very relieved and grateful to you for bringing back the 'Ring of Glory'. I've already submitted a report regarding your performance to the 'Twelve Disciples of Light', who serve Rugard.	134	3	Continue listening													
+135	There's this fighting method called 'Combo', that is passed on secretly within the empire's army. It's only taught to people who have trained for a long time as a Blade Knight. If you are interested, I can teach it to you.	136	-1	Continue listening													
+136	Alright. But in order to learn Combo, we need a special magic stone called the 'Dark Stone'. You have to use the magic stone to change the energy that flows within your body.	137	-1	Then what shall I do?													
+137	I heard that the Dark Stone can be found in Tarkan or Icarus. You can work on this if you have 2 million Zen. Would you like to try?	135	-1	Listen again	138	1	Accept	137	2	Reject							
+138	Since you found the 'Ring of Glory', I have no doubt you'll be able to find the 'Dark Stone'. Please come back to me once you find the 'Dark Stone'.	138	2	End conversation													
+139	You really found the 'Dark Stone'! Now, I will change the flow of the energy within your body.	140	-1	Continue listening													
+140	Well, that's done. Now I'll tell you more about Combos. Combo is a method that allows you to wield explosive power at once by coordinating various skills in a set pattern. 	141	-1	Continue listening													
+141	As for the order of the skills, you must activate a weapon skill first, and then activate two regular skills in order to create an explosive burst.	141	3	You have learned the Combo!													
+142	Thank you for finding the 'Ring of Glory'. As a token of gratitude, I would like to tell you useful information, since you have trained so hard as a Blade Knight...	143	-1	Continue listening													
+143	There's this fighting method that is passed on secretly within the empire's army. It's only taught to people who have trained for a long time as a Blade Knight. If you are interested, I can teach it to you.	143	2	Continue listening													
+116	In order for you to receive the full power, you must get qualified by reading the 'Scroll of the Emperor', that contains the historical records of the first emperor Muren. Go find 'Sebina' in Devias.	116	2	End conversation													
+117	You have not acquired the full qualifications as a 'Blade Knight'. Get the new power through the 'Ring of Glory' first.	117	2	End conversation													
+118	You don't have enough money. You can work on this if you have 3 million Zen.	118	2	End conversation													
+119	You don't have enough money. You can work on this if you have 2 million Zen.	119	2	End conversation													
+//3차 전직 퀘스트 텍스트 추가(07.08.06 이은관)																	
+166	You are not qualified yet. Go find Guard Marlon to get qualified.	166	2	End conversation													
+144	The God of Light, Rugard, has delivered a new mission. However, it seems that you are not qualified yet. Please come back once you are stronger.	144	2	I'll come back when I'm stronger.													
+145	The God of Light, Rugard, has delivered a new mission. However, it seems that you are not qualified yet. Please come back once you complete the previous quest.	145	2	I'll come back once I'm done.													
+146	You don't have enough money. You must offer 5 million Zen to Rugard if you want to receive this mission.	146	2	I'll come back when I'm ready.													
+147	The God of Light, Rugard, has delivered a new mission.	148	-1	What mission is it?													
+148	Rugard has told me to find heroes who will fight against the new threat in Balgass in his stead.	149	-1	Continue listening													
+149	We assume that the Balgass Army attempting the Crywolf Fortress may bring new threats to the continent... But we still don't know the details.	150	-1	Continue listening													
+150	We are doing our best to understand Rugard's request. But we are facing many difficulties due to our...inadequacy.	151	-1	Continue listening													
+151	I believe you have the ability to help us out. Would you please lend us a hand?	147	-1	Listen again	152	1	Accept	151	2	Reject							
+152	In order to help us, you must fight the Balgass Army... Before you face their power, we need to confirm that you are strong enough.	153	-1	Continue listening													
+153	Please defeat the Death Beam Knight, Hell Maine, and Dark Phoenix in Tarkan, Aida, and Icarus, and bring back 1 proof for each.	153	2	End conversation													
+154	Congratulations. You have completed the mission. I'll give you a small reward for your hard work.	155	3	Continue listening													
+155	Kundun made a bargain with Ereshkigal, the Queen of Pandemonium, and summoned Balgass on earth. Its mere existence is a threat.	156	-1	Continue listening													
+156	We are guessing that Balgass, who leads the Pandemonium Army, is bringing new threats to the continent.	156	2	End conversation													
+157	You don't have enough money. You must offer 7 million Zen to Rugard if you want to receive this mission.	157	2	I'll come back when I'm ready.													
+158	Welcome. You seem ready to help us now.	159	-1	What do you need?													
+159	According to the information we've gathered, Balgass has created a special place called the 'Barracks'. We, the Twelve Disciples of Rugard, believe that 'Balgass' Barracks' is our new threat.	160	-1	Continue listening													
+160	To find out more information about the 'Barracks', and to reduce the threat of the soldiers being trained by Balgass, we must infiltrate it.	161	-1	Continue listening													
+161	Thanks to Rugard's protection, we recently found a way to get into 'Balgass' Barracks'. Would you be willing to infiltrate the barracks, defeat the soldiers, and bring back more information about the place?	158	-1	Listen again	162	1	Accept	161	2	Reject							
+162	Go to the cemetery to the north of Crywolf, and you'll find a runaway soldier from Balgass' Barracks. He was blessed with intelligence thanks to Rugard. He calls himself 'Warewolf Quarrel'.	163	-1	Continue listening													
+163	He will take you there. Please identify the trainees at Balgass' Barracks, and kill 20 of each kind. 	163	2	End conversation													
+164	You have completed the mission safely. I praise your amazing skills and strong will to fight even in the toughest of situations.	165	3	Continue.													
+165	The information you brought back and the enemies you defeated will help bring peace to MU and Crywolf.	165	2	End conversation													
+167	You don't have enough money. You must offer 10 million Zen to Rugard if you want to receive this mission.	167	2	I'll come back when I'm ready.													
+168	Your courage has shown us that there is hope. 	169	-1	Continue listening													
+169	It looks like Balgass is currently hiding somewhere, recovering from battle. 	170	-1	Continue listening													
+170	In order to carry out Rugard's mission, we must find out Balgass' exact location and defeat the soldiers he's training.	171	-1	Continue listening													
+171	This last trial to carry out Rugard's mission will be a lot tougher than anything you have faced so far. Will you accept the last trial?	168	-1	Listen again	172	1	Accept	171	2	Reject							
+172	Go inside the castle gate to the north of Balgass' Barracks. We'll make the preparations so that you can enter.	172	2	End conversation													
+173	Congratulations! You have passed Rugard's last trial. Rugard's protection will be with you from now on.	174	3	Continue listening													
+174	Thanks to your efforts, MU and Crywolf will be safe from Balgass' threats for a while. I praise your skills.	174	2	End conversation													
+//소환술사 2차 퀘스트 대사 추가(07.11.20 이은관)																	
+90	You have read the 'Scroll of the Emperor'. Do you know about the secret agreement between Muren and Semeden, the leader of the Summoners? In return for not annexing Elbe into the empire, Semeden promised one thing to Muren.	91	-1	Continue listening													
+91	He promised that as long as MU existed, the Summoners would guard the Dimensional Gate. As a symbol of this promise, Semeden gave the 'Eye of the Abyss'. Please find the 'Eye of the Abyss', which is the proof of that promise.	92	1	Accept	91	2	Reject										
+92	I heard that the 'Eye of the Abyss' may be found around Atlans, Lost Tower, or Tarkan. Once you find the 'Eye of the Abyss', please bring it back to me.	92	2	End conversation													
+93	You have found the 'Eye of the Abyss'. The 'Eye of the Abyss' is a material that cannot be found in this world, created from the transformation of materials during dimensional transfer. It contains the memories of the era and the world before the dimensional transfer.	94	-1	Continue listening													
+94	To those who watch over the dimensions, the 'Eye of the Abyss' is an important symbol. You, who has brought the 'Eye of the Abyss'. In the name of Dimensional Watcher Semeden, I give you the title of Blood Summoner.	94	3	Become a Blood Summoner													
+// 그로우랜서 서클실드 퀘스트 대사 추가(2014-07-08 김의건)																	
+175	There's a fighting method called 'Circle Shield', that is passed on secretly to Temple Knight Royal Guards. It's a technique that only Grow Lancers can learn. If you are interested, I can teach it to you.	176	-1	Continue listening													
+176	Alright. In order to learn Circle Shield, we need a special magic stone called the 'Dark Stone'. The magic stone will boost your energy and create a new flow of energy in your body.	177	-1	Then what shall I do?													
+177	I heard that the Dark Stone can be found in Tarkan or Icarus. I'll help you if you pay 2 million Zen as a token of appreciation. Would you like to try?	175	-1	Listen again	178	1	Accept	177	2	Reject							
+178	Please come back to me once you find the 'Dark Stone'.	178	2	End conversation													
+179	You really have found the 'Dark Stone'! Well, I'll boost the energy within you now. You'll be able to feel a new flow of energy.	180	-1	Continue listening													
+180	Well, that's done. Now I'll tell you more about the Circle Shield. The Circle Shield reduces your opponent's AG. When your opponent hits you, your Circle Shield will be activated at a certain rate.	181	-1	Continue listening													
+181	If their AG is reduced, they won't be able to use some of their skills, so you'll be at an advantage. Keep in mind that the Circle Shield can only be used when you equip a shield.	181	3	You have learned the Circle Shield!													
+182	Keep in mind that the Circle Shield can only be used when you equip a shield. May the blessings of Rugard be with you...	182	2	End conversation													
+// 4차 - 1 전직 퀘스트 대사 추가																	
+183	You may meet the conditions to take the test but I need to check if you are strong enough to use the power.	184	-1	How can I prove it?													
+184	Firstly, try to win against me. Do not worry as I will be using only a portion of my power against you.	185	1	Okay. I will do it!	184	2	I refuse.										
+185	Sounds good. Please show your abilities in battle against me. Let's begin.	185	4	Finish the conversation													
+186	You have proved yourself in the first battle against me.	187	3	Keep Listening.													
+187	However, you are only prepared to be given the new power. It is now up to you to overcome any and all hardships during the test.	187	2	Finish the conversation													
+188	You are not ready to take the test. Please come back later.	188	2	I will come back again.													
+// 4차 - 2 전직 퀘스트 대사 추가																	
+189	Do you know? MU is no longer a safe place. Ferea has been discovered and Nixies are being reborn. Powerful monsters begin to appear across MU. You need to be prepared to deal with them.	190	-1	You are talking about Deep Dungeon.													
+190	Truth is, the deep dungeon is where I trained myself to become a guardian knight long ago. You will not be ready to face the upcoming battles unless you defeat the monsters here.	191	1	Go ahead and summon monsters!	190	2	Reject										
+191	I am about to summon the monsters from the deep dungeon. Defeat 5 Deep Dungeon Skeleton Warriors, 5 Larva, and 5 Cyclops. And you must survive for 5 minutes. I sincerely hope you survive and take the last test. Now, I will summon the monsters.	191	4	Finish the conversation													
+192	You did it. You survived against those terrible creatures from the deep dungeon.	193	3	Keep Listening.													
+193	You are now completely ready to take the last test.	193	2	Finish the conversation													
+194	You are not qualified yet. You need to win the first battle with me.	194	2	Alright.													
+// 4차 - 3 전직 퀘스트 대사 추가																	
+195	This is the last test I have for you. 	196	-1	So what should I do.													
+196	Once again, fight against me and win. This time, you have to fight with me while defeating the monsters from the deep dungeon as well.	197	1	Accept	196	2	Reject										
+197	Have you gathered your friends? If you are ready, let us begin.	197	4	Finish the conversation													
+198	You have completed all the tests. And showed your ability. I believe you could become a Lugard's guardian knight who can stand beside me someday.	199	3	Keep Listening.													
+199	You have passed all the tests and you are now ready to use the new power. I praise your skills. Please use the Hotkey [Ctrl+A] to check out your new power.	199	2	Finish the conversation													
+200	You are not qualified yet. You have to defeat the deep dungeon monsters to have the chance to fight with me in the last battle.	200	2	Alright. I will come back again when I'm ready for the last battle.													
+201	That's not enough money. You must offer 1 million Zen to Lugard if you want to receive this mission.	201	2	I will come back again when I'm ready.													
+//룬마법사 2차 전직 퀘스트 대사 추가		
+95	You've read the 'Scroll of the Emperor,' so you must know about the 3 treasures.	82	-1	Please go on.									
+96	I know you want revenge, but be careful as this would be very dangerous. If you find the 'Soul Shard of Wizard' safely, come back with it.	96	2	I will find it.									
+97	I knew you'd find the 'Soul Shard of Wizard'. The 'Soul Shard of Wizard' is a magic stone that symbolizes the strong will of wizard and is said to have been given to Muren by Etramu as a token of a firm determination.	98	-1	Tell me more.									
+98	With this 'Soul Shard of Wizard', now you will become "Rune Spell Master".	98	3	I've become a Rune Spell Master!									
+//슬레이어 2차 전직 퀘스트 대사 추가		
+99	If you are done reading the 'Scroll of the Emperor', go find the 'Broken Sword' that was offered to Muren by the Dark Knights of Lorencia. Rumors say that it may be found around Atlans, Lost Tower, or Tarkan. 	202	1	Accept																
+202	I know you are strong, but always be careful, because this task can be dangerous. Once you find the 'Broken Sword', please bring it back to me. 	202	2	End conversation.													
+203	You have found the 'Broken Sword'. The 'Broken Sword' is said to have originated from Muren's sword, the 'Apocalypse', which Muren himself broke after he unified the continent, in the hopes that war would never happen again. 	204	-1	Continue listening														
+204	Now that you have found the 'Broken Sword' and proven your strong will, you will be called a Royal Slayer.	204	3	Become a Royal Slayer													
+// 슬레이어 데스모두스 뮨 퀘스트 대사 추가																	
+205	The Desmodus who accompanies you. Do you know his secret? If you are interested, let me know.	206	-1	Keep Listening.															
+206	Okay. That's 'complex life' made with the technology of the Cantur Kingdom with you. What's special about it is that it is made of manastone 'Dark Stone'.	207	-1	Keep listening												
+207	Only Darkstone can make Desmodus. Would you like to make one if you want?	208	-1	If so, what do you need to do?													
+208	I heard that the Dark Stone can be found in Tarkan or Icarus. You can work on this if you have 2 million Zen. Would you like to try?	205	-1	Listen again.	209	1	Accept	208	2	Reject							
+209	Please come back to me once you find the 'Dark Stone'.	209	2	End conversation													
+210	You really have found the 'Dark Stone'! Now, let's make Desmodus.	211	-1	Keep listening													
+211	It is extracting 'darkness attribute' and 'powerful energy' of darkstone and manufacturing it in the form of life through reconstruction. Okay, now you're ready to take your newly created Desmodus.	211	3	I got Desmodus!												
+212	Desmodus can also evolve. You will find out over time. Blessed by Rugard.	212	2	End conversation													
+//건크래셔 2차 전직 퀘스트 대사 추가																	
+213	If you are done reading the 'Scroll of the Emperor', go find the 'Broken Sword' that was offered to Muren by the Dark Knights of Lorencia. Rumors say that it may be found around Atlans, Lost Tower, or Tarkan.	214	1	Accept													
+214	I know you are strong, but always be careful, because this task can be dangerous. Once you find the 'Broken Sword', please bring it back to me. 	214	2	End conversation														
+215	You have found the 'Broken Sword'. The 'Broken Sword' is said to have originated from Muren's sword, the 'Apocalypse', which Muren himself broke after he unified the continent, in the hopes that war would never happen again. 	216	-1	Keep listening													
+216	Now that you have found the 'Broken Sword' and proven your strong will, you will be called a Gun Breaker.	216	3	Become a Gun Breaker												

@@ -1,0 +1,11 @@
+0	"Elemental Attack Power Increase %d"	0
+1	"Elemental Defense Increase %d"	0
+2	"Maximum Attack Power Increase %d"	0
+3	"Defense Increase %d"	0
+4	"Elemental Base Defense Increase %d"	0
+5	"Elemental Damage Increase %d"	0
+6	"Attack Power Increase %d"	0
+7	"Wizardry Power Increase %d"	0
+8	"Attack/Wizardrty Power Increase %d"	0
+9	"Wizardry/Curse Attack Power Increase %d"	0
+end		
