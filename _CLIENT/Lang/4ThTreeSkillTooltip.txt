@@ -1,0 +1,221 @@
+///////////////////////////////////////////////////////////////////////////////////////////////					
+//	[ Text  Version ] 0.0.0.1				
+//	[File Name] 4ThTreeSkillTooltip.txt				
+//	[서버/클라] 클라이언트 전용				
+//	[ 최종 작업자 ] 사재일				
+//	[ 최종 작업일 ] Season12 P.2 시즌 업데?, 2017년 6월 3-0일				
+//	[ 작 업 내 용 ] Season12 P.2 시즌 업데이트				
+///////////////////////////////////////////////////////////////////////////////////////////////					
+// 					
+//Skill Id	Skilldesc (1) 	Skilldesc (2) - 다음등급	Skilldesc Type		
+1001	"Connected skill attacks increase the skill DMG by %d."	"Skill DMG increases by %d."	0	//
+1002	"Connected skill attacks add 1 skill DMG."	"null"	-1	//
+1003	"Connected skill attacks add 2 skill DMG."	"null"	-1	//
+1004	"Connected skill attacks add 3 skill DMG."	"null"	-1	//
+1005	"Connected skill attacks add 4 skill DMG."	"null"	-1	//
+1006	"Connected skill attacks add 2 skill DMG."	"null"	-1	//
+1007	"Connected skill attacks increase the Additional DMG Rate by %0.2f%%."	"The Additional DMG Rate increases by %0.2f%%."	1	//
+1008	"Increases the attack speed of the connected skill by %d."	"Increases the attack speed of the connected skill by %d."	0	//
+1009	"Increases the attack range of the connected skill by %d tile(s)."	"Increases the attack range of the connected skill by %d tile(s)."	0	//
+1010	"Adds Splash DMG to the connected skills."	"null"	-1	//
+1011	"The attack range of the connected skill increases by %d tile(s)."	"The attack range of the connected skill increases by %d tile(s)."	0	//
+1012	"Connected skill attacks increase the number of targets receiving the DMG by %d."	"Connected skill attacks increase the number of targets receiving the DMG by %d."	0	//
+1013	"Increases beneficial effects by %0.2f%%."	"Increases beneficial effects by %0.2f%%."	1	//
+1014	"Increases beneficial effects by %0.2f%%."	"Increases beneficial effects by %0.2f%%."	1	//
+1015	"Increases the duration of beneficial effects by %d second(s)."	"Increases the duration of beneficial effects by %d second(s)."	0	//
+1016	"Iron Defense can be learned."	"null"	-1	//
+1017	"Increases the DEF effect of Iron Defense by %d."	"Increases the DEF effect of Iron Defense by %d."	0	//
+1018	"Reduces the cooldown time by %d second(s)."	"Reduces the cooldown time by %d second(s)."	0	//
+1019	"Removes the cooldown time."	"null"	-1	//
+1020	"Increases the (Max/Min) DMG of the equipped weapon by %0.2f%%."	"Increases (Max/Min) DMG of the weapon by %0.2f%%."	1	//
+1021	"Increases Magical DMG of weapon by %0.2f%% when attacking with a chained skill."	"Increases the Magical DMG of weapon by %0.2f%%."	1	//
+1022	"Adds the Penetration Effect to the arrows of the connected skills."	"null"	-1	//
+1023	"Connected skill attacks increase the arrow count by %d."	"Connected skill attacks increase the arrow count by %d."	0	//
+1024	"When attacking with a chained skill, creates Poison Magic Circle with a %0.2f%% chance, inflicting poison DoT DMG on up to 7 targets (10 sec duration / 20 sec cooldown)"	"Increases the chance to create Poison Magic Circle by %0.2f%%."	1	//
+1025	"When attacking with a chained skill, created Chilling Magic Circle with a %0.2f%% chance, decreasing up to 7 targets movement speed and reducing its DEF (10 sec duration / 20 sec cooldown)"	"Increases the chance to create Chilling Magic Circle by %0.2f%%."	1	//
+1026	"When attacking with a chained skill, created Bleeding Magic Circle with a %0.2f%% chance, adding Bleeding DMG to all attacks on up to 7 targets (10 sec duration / 20 sec cooldown)"	"Increases the chance to create Bleeding Magic Circle by %0.2f%%."	1	//
+//1027	"When attacking with a chained skill, applies Shock debuff on the target with a %0.2f%% chance, putting it in a shocked state with 10%% chance for 10 seconds."	"Increases the chance to apply Shock debuff by %0.2f%%."	1	//
+1028	"Increases the poison DoT DMG of Poison Magic Circle by %d."	"Increases the poison DoT DMG of Poison Magic Circle by %d."	0	//
+1029	"Increases the DEF reduction effect of Chilling debuff by %d."	"Increases the DEF reduction effect of Chilling Magic Circle by %d."	0	//
+1030	"Increases the bleeding DMG of Bleeding debuff by %d."	"Increases the additional DMG of Bleeding Magic Circle by %d."	0	//
+//1031	"Increases the occurring chance of the Shock status of Shock debuff by %0.2f%%."	"Increases the chance to apply the Shock status of Shock debuff by %0.2f%%."	1	//
+1032	"Increases the duration of Poison Magic Circle by %d second(s)."	"Increases the duration of Poison Magic Circle by %d second(s)."	0	//
+1033	"Increases the duration of Chilling Magic Circle by %d second(s)."	"Increases the duration of Chilling Magic Circle by %d second(s)."	0	//
+1034	"Increases the duration of Bleeding Magic Circle by %d second(s)."	"Increases the duration of Bleeding Magic Circle by %d second(s)."	0	//
+//1035	"Increases the duration of Shock debuff by %d second(s)."	"Increases the duration of Shock debuff by %d second(s)."	0	//
+1036	"Increases the poison DoT DMG of Addiction Magic Circle by %d."	"Increases the poison DoT DMG of Addiction Magic Circle by %d."	0	//
+1037	"Increases the attack speed reduction effect of Freezing Magic Circle by %0.2f%%."	"Increases the attack speed reduction effect of Freezing Magic Circle by %0.2f%%."	1	//
+1038	"Increases the bleeding DoT DMG of Haemorrhage Magic Circle by %d."	"Increases the additional DMG of Haemorrhage Magic Circle by %d."	0	//
+//1039	"Increases the duration of Stun by %d."	"Increases the duration of Stun by %d."	0	//
+1040	"Attacking a target inflicted with Poison Magic Circle with a Poisonining chain skill has a chance to enhance to Addiction Magic Circle. A target inflicted with Addiction Magic Circle takes doubled poison DMG."	"Increases the chance to enhance to Addiction Magic Circle by %0.2f%%."	1	//
+1041	"Attacking a target inflicted with Ice Magic Circle with a Chilling chain skill has a chance to enhance to Freezing Magic Circle. A target inflicted with Freezing Magic Circle also suffers from attack speed reduction."	"Increases the chance to enhance to Freezing Magic Circle by %0.2f%%."	1	//
+1042	"Attacking a target inflicted with Bleeding Magic Circle with a Bleeding chain skill has a chance to enhance to Haemorrhage Magic Circle. A target inflicted with Haemorrhage Magic Circle takes doubled bleeding DMG."	"Increases the chance to enhance to Haemorrhage Magic Circle by %0.2f%%."	1	//
+//1043	"Attacking a target inflicted with Shock debuff with a Shock chain skill has a %0.2f%% chance to enhance the debuff to Stun. "	"Increases the chance to enhance to Stun debuff by %0.2f%%."	1	//
+//1044	"When the target gets a debuff, a maximum debuff effect can be applied with a %0.2f%% chance."	"When the target gets a debuff, a maximum effect can be applied with a %0.2f%% chance."	1	//
+//1045	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	1	//
+1046	"Additionally increases the chance to apply Addiction Magic Circle by %0.2f%%."	"Increases the chance to apply Addiction Magic Circle by %0.2f%%."	1	//
+1047	"Additionally increases the chance to apply Freezing Magic Circle by %0.2f%%."	"Increases the chance to apply Freezing Magic Circle by %0.2f%%."	1	//
+1048	"Additionally increases the chance to apply Haemorrhage Magic Circle by %0.2f%%."	"Increases the chance to apply Haemorrhage Magic Circle by %0.2f%%."	1	//
+//1049	"Additionally increases the chance to apply Shock by %0.2f%%."	"Increases the chance to apply Shock by %0.2f%%."	1	//
+1050	"Additionally increases the poison DoT DMG of Poison Magic Circle by %d."	"Increases the poison DoT DMG of Poison Magic Circle by %d."	0	//
+1051	"Additionally increases the DEF reduction effect of Chilling Magic Circle by %d."	"Increases the DEF reduction effect of Chilling Magic Circle %d."	0	//
+1052	"Additionally increases the bleeding DoT DMG of Bleeding Magic Circle by %d."	"Increases the bleeding DoT DMG of Bleeding Magic Circle by %d."	0	//
+//1053	"Additionally increases the occurring chance of the Shock status during Shock debuff by %0.2f%%."	"Increases the occurring chance of the Shock status during Shock debuff by %0.2f%%."	1	//
+1054	"Additionally increases the duration of Poison Magic Circle by %d second(s)."	"Increases the duration of Poison Magic Circle by %d second(s)."	0	//
+1055	"Additionally increases the duration of Ice Magic Circle by %d second(s)."	"Increases the duration of Ice Magic Circle by %d second(s)."	0	//
+1056	"Additionally increases the duration of Haemorrhage Magic Circle by %d second(s)."	"Increases the duration of Haemorrhage Magic Circle by %d second(s)."	0	//
+//1057	"Additionally increases the duration of Shock debuff by %d second(s)."	"Increases the duration of Shock debuff by %d second(s)."	0	//
+1058	"Additionally increases the poison DoT DMG of Addiction Magic Circle by %d."	"Increases the poison DoT DMG of Addiction Magic Circle by %d."	0	//
+1059	"Additionally increases the attack speed reduction effect of Freezing Magic Circle by %0.2f%%."	"Increases the attack speed reduction effect of Freezing Magic Circle by %0.2f%%."	1	//
+1060	"Additionally increases the bleeding DoT DMG of Haemorrhage Magic Circle by %d."	"Increases the additional DoT DMG of Haemorrhage Magic Circle by %d."	0	//
+//1061	"Additionally increases the duration of Stun by %d."	"Increases the duration of Stun by %d."	0	//
+1062	"Additionally increases the chance to enhance to Addiction Magic Circle by %0.2f%%."	"Increases the chance to enhance to Addiction Magic Circle by %0.2f%%."	1	//
+1063	"Additionally increases the chance to enhance to Freezing Magic Circle by %0.2f%%."	"Increases the chance to enhance to Freezing Magic Circle by %0.2f%%."	1	//
+1064	"Additionally increases the chance to enhance to Haemorrhage Magic Circle by %0.2f%%."	"Increases the chance to enhance to Haemorrhage Magic Circle by %0.2f%%."	1	//
+//1065	"Additionally increases the chance to enhance to Stun by %0.2f%%."	"Increases the chance to enhance to Stun by %0.2f%%."	1	//
+//1066	"When the target gets a debuff, a maximum effect can be applied with a %0.2f%% chance."	"When the target gets a debuff, a maximum effect can be applied with a %0.2f%% chance."	1	//
+//1067	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	1	//
+1068	"Increases the DMG of Strike of Destruction by %d."	"Increases the DMG of Strike of Destruction by %d."	0	//
+1069	"Increases the DMG of Anger Blow by %d."	"Increases the DMG of Anger Blow by %d."	0	//
+1070	"Increases the DMG of Blood Storm by %d."	"Increases the DMG of Blood Storm by %d."	0	//
+1071	"Increases the DMG of Blow by %d."	"Increases the DMG of Blow by %d."	0	//
+1072	"Increases the DMG of Fire Blow by %d."	"Increases the DMG of Fire Blow by %d."	0	//
+1073	"Increases Greater Fortitude HP Boost Effect by %d."	"Increases Greater Fortitude HP Boost Effect by %d."	0	//
+1074	"Increases the DMG of Flame by %d."	"Increases the DMG of Flame by %d."	0	//
+1075	"Increases the DMG of Meteor Strike by %d."	"Increases the DMG of Meteor Strike by %d."	0	//
+1076	"Increases the DMG of Meteor Storm by %d."	"Increases the DMG of Meteor Storm by %d."	0	//
+1077	"Increases the DMG of Nova by %d."	"Increases the DMG of Nova by %d."	0	//
+1078	"Increases the DMG of Evil Spirit by %d."	"Increases the DMG of Evil Spirit by %d."	0	//
+1079	"Increases the DMG of Soul Seeker by %d."	"Increases the DMG of Soul Seeker by %d."	0	//
+1080	"Increases the DMG reduction effect of Soul Barrier by %d."	"Increases the DMG reduction effect of Soul Barrier by %d."	0	//
+1081	"Increases the DMG of Triple Shot by %d."	"Increases the DMG of Triple Shot by %d."	0	//
+1082	"Increases the DMG of Poison Arrow by %d."	"Increases the DMG of Poison Arrow by %d."	0	//
+1083	"Increases the DMG of Multi-shot by %d."	"Increases the DMG of Multi-shot by %d."	0	//
+1084	"Increases the DMG of Ice Arrow by %d."	"Increases the DMG of Ice Arrow by %d."	0	//
+1085	"Increases the DMG of Focus Shot by %d."	"Increases the DMG of Focus Shot by %d."	0	//
+1086	"Increases the DMG of Inferno by %d."	"Increases the DMG of Inferno by %d."	0	//
+1087	"Increases the DMG of Gigantic Storm by %d."	"Increases the DMG of Gigantic Storm by %d."	0	//
+1088	"Increases the DMG of Evil Spirit by %d."	"Increases the DMG of Evil Spirit by %d."	0	//
+1089	"Increases the DMG of Dark Blast by %d."	"Increases the DMG of Dark Blast by %d."	0	//
+1090	"Increases the DMG of Meteor Strike by %d."	"Increases the DMG of Meteor Strike by %d."	0	//
+1091	"Increases the DMG of Power Slash by %d."	"Increases the DMG of Power Slash by %d."	0	//
+1092	"Increases the DMG of Fire Slash by %d."	"Increases the DMG of Fire Slash by %d."	0	//
+1093	"Increases the DMG of Flame Strike by %d."	"Increases the DMG of Flame Strike by %d."	0	//
+1094	"Increases the DMG of Fire Blood by %d."	"Increases the DMG of Fire Blood by %d."	0	//
+1095	"Increases the DMG of Ice Blood by %d."	"Increases the DMG of Ice Blood by %d."	0	//
+1096	"Increases the DMG of FireBurst by %d."	"Increases the DMG of FireBurst by %d."	0	//
+1097	"Increases the DMG of Fire Scream by %d."	"Increases the DMG of Fire Scream by %d."	0	//
+1098	"Increases the DMG of Chaotic Diseier by %d."	"Increases the DMG of Chaotic Diseier by %d."	0	//
+1099	"Increases the DMG of Wind Soul by %d."	"Increases the DMG of Wind Soul by %d."	0	//
+1100	"Increases the DMG of Electric Spark by %d."	"Increases the DMG of Electric Spark by %d."	0	//
+1101	"Increases the DMG of Drain Life by %d."	"Increases the DMG of Drain Life by %d."	0	//
+1102	"Increases the DMG of Fire Beast by %d."	"Increases the DMG of Fire Beast by %d."	0	//
+1103	"Increases the DMG of Lightning Shock by %d."	"Increases the DMG of Lightning Shock by %d."	0	//
+1104	"Increases the DMG of Chain Lightning by %d."	"Increases the DMG of Chain Lightning by %d."	0	//
+1105	"Increases the DMG of Aqua Beast by %d."	"Increases the DMG of Aqua Beast by %d."	0	//
+1106	"Increases the DMG boost of Berserker by additional %d."	"Increases the DMG boost of Berserker by additional %d."	0	//
+1107	"Decreases the DEF reduction of Berserker by %d."	"Decreases the DEF reduction of Berserker by %d."	0	//
+1108	"Increases the DMG of Dragon Slasher by %d."	"Increases the DMG of Dragon Slasher by %d."	0	//
+1109	"Increases the DMG of Phoenix Shot by %d."	"Increases the DMG of Phoenix Shot by %d."	0	//
+1110	"Increases the DMG of Dark Phoenix Shot by %d."	"Increases the DMG of Dark Phoenix Shot by %d."	0	//
+1111	"Increases the DMG of Dragon Roar by %d."	"Increases the DMG of Dragon Roar by %d."	0	//
+1112	"Increases the DMG of Chain Drive by %d."	"Increases the DMG of Chain Drive by %d."	0	//
+1113	"Increases the DMG of Dark Side by %d."	"Increases the DMG of Dark Side by %d."	0	//
+1114	"Increases Health Boost by additional %d."	"Increases Health Boost by additional %d."	0	//
+1115	"Increases the DMG of Spin Step by %d."	"Increases the DMG of Spin Step by %d."	0	//
+1116	"Increases the DMG of Harsh Strike by %d."	"Increases the DMG of Harsh Strike by %d."	0	//
+1117	"Increases the DMG of Magic Pin by %d."	"Increases the DMG of Magic Pin by %d."	0	//
+1118	"Increases the DMG of Breche by %d."	"Increases the DMG of Breche by %d."	0	//
+1119	"Increases the DMG of Shining Peak by %d."	"Increases the DMG of Shining Peak by %d."	0	//
+1120	"Increases the DMG of Wrath by %d."	"Increases the DMG of Wrath by %d."	0	//
+1121	"Decreases the DEF reduction of Wrath by %d."	"Decreases the DEF reduction of Wrath by %d."	0	//
+1122	"Decreases the target's SD ratio on attack by %0.2f%%."	"Decreases the SD ratio by %0.2f%%."	1	//
+1123	"Increases the SD by %d."	"Increases the SD by %d."	0	//
+1124	"Increases the SD reduction when receiving DMG."	"Increases the SD reduction by %d."	0	//
+1125	"Applies one step higher debuff to % targets while using Poison Storm on the target with Poison debuff (Normal > Poison, Poison > Addiction)"	"null"	-1	//
+1126	"Applies one step higher debuff to % targets whle using Frozen Slayer on the target with Ice debuff (Normal > Ice, Ice > Freezing)"	"null"	-1	//
+1127	"Applies one step higher debuff to %d targets while using Bloodying Hit on the target with Haemorrhage debuff (Normal > Haemorrhage, Haemorrhage > Extensive Haemorrhage"	"null"	-1	//
+//1128	"Using Stun Boom on the target with Stun applies the Stun explosion DMG and stuns the target for 2 seconds."	"null"	-1	//
+1129	"Increases the explosion DMG of Poison Storm by %d."	"Increases the DMG of Poison Storm by %d."	0	//
+1130	"Increases the explosion DMG of Frozen Slayer by %d."	"Increases the DMG of Frozen Slayer by %d."	0	//
+1131	"Increases the explosion DMG of Bloodying Hit by %d."	"Increases the DMG of Bloodying Hit by %d."	0	//
+//1132	"Increases the explosion DMG of Stun Boom by %d."	"Increases the DMG of Stun Boom by %d."	0	//
+1133	"Increases the number of the targets affected by Poison Storm by %d."	"null"	0	//
+1134	"Increases the splash DMG of Frozen Slayer by %0.2f%%."	"null"	1	//
+1135	"Increases the DEF reduction effect of Bloodying Hit by %0.2f%%."	"null"	1	//
+//1136	"Increases the duration of the stun effect of Stun Boom by %d."	"null"	0	//
+1137	"Increases the Max HP of the player by %d."	"Increases the Max HP of the player by %d."	0	//
+1138	"Gain %d Stat Point(s) upon enhancement which can be spent on a desired Stat. (Variable Stat)"	"Gain %d Stat Point(s) upon enhancement."	0	//
+1139	"Increases the basic DEF of the player by %d."	"Increases the basic DEF of the player by %d."	0	//
+1140	"Increases the wing DEF by %d when 4th wings are equipped."	"Increases the wing DEF by %d when 4th wings are equipped."	0	//
+1141	"Increases the player's DMG by %d."	"Increases the player's DMG by %d."	0	//
+1142	"Increases the player's Magic by %d."	"Increases the player's Magic by %d."	0	//
+1143	"Gain %d Stat Point(s) upon enhancement which can be spent on a desired Stat. (Variable Stat)"	"Gain %d Stat Point(s) upon enhancement."	0	//
+1144	"Skill DMG increases by %d."	"Skill DMG increases by %d."	0	//
+1145	"Increases the wing DMG by %d when 4th wings are equipped."	"Increases the wing DMG by %d when 4th wings are equipped."	0	//
+1146	"Increases the player's DMG and Magic by %d."	"Increases the player's DMG and Magic by %d."	0	//
+1147	"Increases the DMG of Spirit Hook by %d."	"Increases the DMG of Spirit Hook by %d."	0	//
+1148	"Increases the DMG of Magic Arrow by %d."	"Increases the DMG of Maggic Arrow by %d."	0	//
+1149	"Increases the DMG of Plasma Ball by %d."	"Increases the DMG of Plasma Ball by %d."	0	//
+1150	"Increases the DMG of Lightning Storm by %d."	"Increases the DMG of Lightning Storm by %d."	0	//
+1151	"Decreases the movement speed and distance of Plasma Ball. #(The duration of Plasma Ball remains the same.)"	"null"	-1	//
+1152	"Increases the attack speed of Plasma Ball."	"null"	-1	//
+1153	"Increases the damage area of Splash by %d tile(s)."	"null"	0	//
+1154	"Increases the number of Splash damage targets by %d."	"null"	0	//
+1155	"Death Scythe skill attack power is increased by %d."	"Increases Death Scythe skill damage by %d"	0	//
+1156	"Minimum attack power of equipped weapon is increased by %0.2f%%."	"Increases minimum attack power of equipped weapon by %0.2f%%."	1	//
+1157	"Wizardry/Curse attack power is increased by %d."	"Increases wizardry/curse damage by %d."	0	//
+1158	"Sword Ineria skill damage is increased by %d."	"Increases Sword Ineria skill damage by %d."	0
+1159	"Bat Flock D skill damage is increased by %d."	"Increases Bat Flock skill damage by %d."	0
+1160	"Pierce skill damage is increased by %d."	"Increases Pierce skill damage by %d."	0
+1166	"Number of targets affected by Poison Magic Circle is increased by %d"	"Increases number of targets affected by Poison Magic Circle by 2"	0	//	"맹독 디버프 타겟 증가"
+1167	"Number of targets affected by Addiction Magic Circle is increased by %d"	"Increases number of targets affected by Addiction Magic Circle by 2"	0	//	"중독 디버프 타겟 증가"
+1168	"Number of targets affected by Haemorrhage Magic Circle is increased by %d"	"Increases number of targets affected by Haemorrhage Magic Circle by 2"	0	//	"출혈 디버프 타겟 증가"
+1169	"Number of targets affected by Extensive Haemorrhage Magic Circle is increased by %d"	"Increases number of targets affected by Extensive Haemorrhage Magic Circle by 2"	0	//	"과다출혈 디버프 타겟 증가"
+1170	"Number of targets affected by Ice Magic Circle is increased by %d"	"Increases number of targets affected by Ice Magic Circle by 2"	0	//	"빙결 디버프 타겟 증가"
+1171	"Number of targets affected by Freezing Magic Circle is increased by %d"	"Increases number of targets affected by Freezing Magic Circle by 2"	0	//	"동결 디버프 타겟 증가"
+1172	"Poison Magic Circle range is increased by %d."	"Increases Poison Magic Circle range by 2."	0	//	"맹독 디버프 범위 증가"
+//1173	"Addiction Magic Circle range is increased by %d."	"Increases Addiction Magic Circle range by 2."	0	//	"중독 디버프 범위 증가"
+1174	"Haemorrhage Magic Circle range is increased by %d."	"Increases Haemorrhage Magic Circle range by 2."	0	//	"출혈 디버프 범위 증가"
+//1175	"Extensive Haemorrhage Magic Circle range is increased by %d."	"Increases Extensive Haemorrhage Magic Circle range by 2."	0	//	"과다출혈 디버프 범위 증가"
+1176	"Ice Magic Circle range is increased by %d."	"Increases Ice Magic Circle range by 2."	0	//	"빙결 디버프 범위 증가"
+//1177	"Freezing Magic Circle range is increased by %d."	"Increases Freezing Magic Circle range by 2."	0	//	"동결 디버프 범위 증가"
+1178	"Poison Debuff success rate is increased by %d"	"Increases Poison Debuff success rate by %d"	0	//	"맹독 디버프 성공율 증가"
+1179	"Addiction Debuff success rate is increased by %d"	"Increases Addiction Debuff success rate by %d"	0	//	"중독 디버프 성공율 증가"
+1180	"Haemorrhage Debuff success rate is increased by %d"	"Increases Haemorrhage Debuff success rate by %d"	0	//	"출혈 디버프 성공율 증가"
+1181	"Extensive Haemorrhage Debuff success rate is increased by %d."	"Increases Extensive Haemorrhage Debuff success rate by %d"	0	//	"과다출혈 디버프 성공율 증가"
+1182	"Ice Debuff success rate is increased by %d"	"Increases Ice Debuff success rate by %d"	0	//	"빙결 디버프 성공율 증가"
+1183	"Freezing Debuff success rate is increased by %d"	"Increases Freezing Debuff success rate by %d"	0	//	"동결 디버프 성공율 증가"
+1184	"Poison Debuff success rate is increased by %d"	"Increases Poison Debuff success rate by %d"	0	//	"맹독 디버프 성공율 추가 증가"
+1185	"Addiction Debuff success rate is increased by %d"	"Increases Addiction Debuff success rate by %d"	0	//	"중독 디버프 성공율 추가 증가"
+1186	"Haemorrhage Debuff success rate is increased by %d"	"Increases Haemorrhage Debuff success rate by %d"	0	//	"출혈 디버프 성공율 추가 증가"
+1187	"Extensive Haemorrhage Debuff success rate is increased by %d"	"Increases Extensive Haemorrhage Debuff success rate by %d"	0	//	"과다출혈 디버프 성공율 추가 증가"
+1188	"Ice Debuff success rate is increased by %d"	"Increases Ice Debuff success rate by %d"	0	//	"빙결 디버프 성공율 추가 증가"
+1189	"Freezing Debuff success rate is increased by %d"	"Increases Freezing Debuff success rate by %d"	0	//	"동결 디버프 성공율 추가 증가"
+1190	"Number of targets affected by Poison/Addiction debuff is increased by %d"	"Increases number of targets affected by Poison/Addiction Magic Circle by 2"	0	//	"맹독/중독 디버프 타겟 증가"
+1191	"Number of targets affected by Haemorrhage/Extensive Haemorrhage debuff is increased by %d"	"Increases number of targets affected by Haemorrhage/Extensive Haemorrhage Magic Circle by 2"	0	//	"출혈/과다출혈 디버프 타겟 증가"
+1192	"Number of targets affected by Ice/Freezing debuff is increased by %d"	"Increases number of targets affected by Ice/Freezing Magic Circle by 2"	0	//	"빙결/동결 디버프 타겟 증가"
+1193	"Magic damage is increased by %d while equipping 4th Wings or Cloak"	"Increases Magic damage by %d while equipping 4th Wings or Cloak"	0	//	"4차 날개/망토 마력 증가"
+1194	"ATK and Magic damage are increased by %d while equipping 4th Wings or Cloak"	"Increases ATK and Magic damage by %d while equipping 4th Wings or Cloak"	0	//	"4차 날개/망토 공격력/마력 증가"
+1195	"Magic and Curse damage are increased by %d while equipping 4th Wings or Cloak"	"Increases Magic and Curse damage by %d while equipping 4th Wings or Cloak"	0	//	"4차 날개/망토 마력/저주력 증가"
+1196	"Poison Storm explosion damage is increased by %d"	"Increases Poison Storm explosion damage by %d"	0	//	"포이즌스톰 데미지 추가 증가"
+1197	"Frozen Slayer explosion damage is increased by %d"	"Increases Frozen Slayer damage by %d"	0	//	"프로즌슬레어 데미지 추가 증가"
+1198	"Bloodying Hit explosion damage is increased by %d"	"Increases Bloodying Hit damage by %d"	0	//	"블러딩히트 데미지 추가 증가"
+1199	"Poison Storm explosion skill damage range is increased by %d"	"Increases Poison Storm skill damage range by 2"	0	//	"포이즌스톰 범위 효과"
+1200	"Frozen Slayer explosion skill damage range is increased by %d"	"Increases Frozen Slayer skill damage range by 2"	0	//	"프로즌슬레어 범위 효과"
+1201	"Bloodying Hit explosion skill damage range is increased by %d"	"Increases Bloodying Hit skill damage range by 2"	0	//	"블러딩히트 범위 효과"
+1202	"Strike of Destruction skill damage increased by %d."	"Increases Strike of Destruction skill damage by %d."	0
+1203	"Sword Blows skill damage increased by %d."	"Increases Sword Blows skill damage by %d."	0
+1204	"Base defense increased by %d when using solid protection skill."	"Increases Base defense by %d."	0
+1205	"Max HP increased by %d when using solid protection skill."	"Increases Max HP by %d."	0
+1206	"Party member's attack/power increased by %d when using solid protection skill."	"Increases party member's attack/power by %d."	0
+1207	"HP conversion increased by %0.2f%% when using solid protection skill."	"Increases HP conversion by%0.2f%."	1
+1208	"Damage conversion amount increased by %0.2f%% when using solid protection skill."	"Increases HP conversion amount by %0.2f%%."	1
+1209	"Party member's defense increasd by %d when using solid protection skill."	"Increases party member's defense by %d."	0
+1210	"Shield Defense increased by %d hen using solid protection skill."	"Increases Shield Defense by %d."	0
+1211	"Dark Plasma skill damage increased by %d."	"Increases Dark Plasma skill damage by %d."	0
+1212	"Ice Blast skill damage increased by %d."	"Increases Ice Blast skill damage by %d."	0
+1213	"Burst Flare skill damage is increased by %d."	"Increases Flare skill damage by %d."	0
+1214	"Chaos Blade skill damage is increased by %d."	"Increases Chaos Blade skill damage by %d."	0
+1215	"Havok Spear skill damage is increased by %d."	"Increases Havok Spear skill damage by %d."	0
+end			

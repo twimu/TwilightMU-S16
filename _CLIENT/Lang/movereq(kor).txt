@@ -1,0 +1,76 @@
+////////////////////////////////////////////////////////////////////////////////									
+// 	[Text Ver]	0.0.2.8							
+//	[작업자]	박혜진							
+//	[작업일]	2016-07-27 05:24 pm							
+//	[작업 내용]	닉시스 호수 이동명령창 추가							
+////////////////////////////////////////////////////////////////////////////////									
+// 서버용 파일은 로랜협곡 주석을 제외하고 클라이언트용 파일은 로랜협곡 주석처리 해야함									
+// 로랜협곡의 순서는 변경 불가능 (24번째 반드시 유지)									
+//MaxLevel 추가. MinLevel은 최소입장 가능 레벨, MaxLevel은 최대 입장 가능 레벨이다.									
+//index	Movename(kor)	Movename(eng)	Zen	MinLevel	MaxLevel	GateNumber	난이도정렬순서	가나다정렬순서	몬스터 구분
+99	"Arena"	"Arena"	2000	1	-1	999	0	0	-1
+1	"Stadium"	"Stadium"	2000	1	-1	50	0	0	-1
+48	"Event Square"	"Eventmap_square"	20000	1	-1	503	1	42	-1
+44	"Loren Market"	"Loren_Market"	10000	1	-1	333	2	17	-1
+2	"Lorencia"	"Lorencia"	2000	10	-1	17	3	16	7
+3	"Noria"	"Noria"	2000	10	-1	27	4	6	32
+31	"Elbeland"	"Elbeland"	2000	10	-1	267	9	39	418
+32	"Elbeland 2"	"Elbeland2"	2500	10	-1	268	10	40	422
+43	"Elbeland 3"	"Elbeland3"	3000	10	-1	269	11	41	425
+4	"Devias"	"Devias"	2000	10	-1	22	5	11	24
+5	"Devias 2"	"Devias2"	2500	10	-1	72	6	12	19
+6	"Devias 3"	"Devias3"	3000	10	-1	73	7	13	20
+7	"Devias 4"	"Devias4"	3500	10	-1	74	8	14	20
+8	"Dungeon"	"Dungeon"	3000	30	-1	2	12	8	11
+9	"Dungeon 2"	"Dungeon2"	3500	40	-1	6	13	9	13
+10	"Dungeon 3"	"Dungeon3"	4000	40	-1	10	14	10	8
+11	"Atlans"	"Atlans"	4000	50	-1	49	15	34	45
+12	"Atlans 2"	"Atlans2"	4500	80	-1	75	23	33	52
+13	"Atlans 3"	"Atlans3"	5000	90	-1	76	24	37	48
+14	"LostTower"	"LostTower"	5000	50	-1	42	16	19	39
+15	"LostTower 2"	"LostTower2"	5500	50	-1	31	17	20	34
+16	"LostTower 3"	"LostTower3"	6000	50	-1	33	18	21	41
+17	"LostTower 4"	"LostTower4"	6500	50	-1	35	19	22	37
+18	"LostTower 5"	"LostTower5"	7000	50	-1	37	20	23	40
+19	"LostTower 6"	"LostTower6"	7500	70	-1	39	21	24	35
+20	"LostTower 7"	"LostTower7"	8000	70	-1	41	22	25	35
+21	"Tarkan"	"Tarkan"	8000	140	-1	57	25	60	57
+22	"Tarkan 2"	"Tarkan2"	8500	160	-1	77	28	61	61
+50	"Ferea"	"Ferea"	50000	400	-1	509	40	62	730
+25	"Aida"	"Aida1"	8500	150	-1	119	26	29	306
+27	"Aida 2"	"Aida2"	8500	380	-1	140	37	30	550
+23	"Icarus"	"Icarus"	10000	160	-1	63	29	43	70
+26	"Crywolf"	"Crywolf"	0	10	-1	118	56	58	-1
+28	"Kanturu Ruins"	"Kanturu_ruin1"	9000	160	-1	138	27	46	353
+29	"Kanturu Ruins 2"	"Kanturu_ruin2"	9000	160	-1	141	30	47	350
+45	"Kanturu Ruins Island"	"Kanturu_ruin_island"	15000	380	-1	334	38	48	556
+30	"Kanturu Remain"	"Kanturu_Remain"	12000	300	-1	139	33	45	360
+46	"Karutan"	"Karutan1"	13000	280	-1	335	31	49	574
+47	"Karutan 2"	"Karutan2"	14000	380	-1	344	36	50	576
+34	"Raklion"	"Raklion"	15000	380	-1	287	39	15	458
+51	"Nixies Lake"	"Nixies Lake"	50000	700	-1	522	41	7	744
+33	"Swamp of Calmness"	"Swamp_of_Calmness"	15000	380	-1	273	35	63	449
+49	"Akeron"	"Akeron"	50000	300	-1	417	34	31	591
+42	"Vulcanus"	"Vulcanus"	15000	300	-1	294	32	26	490
+24	"Loren Deep"	"LorenDeep"	0	10	-1	104	55	18	-1
+52	"Deep Dungeon 1"	"R-Dungeon1"	50000	770	-1	561	42	1	767
+53	"Deep Dungeon 2"	"R-Dungeon2"	50000	770	-1	562	43	2	772
+54	"Deep Dungeon 3"	"R-Dungeon3"	50000	770	-1	563	44	3	773
+55	"Deep Dungeon 4"	"R-Dungeon4"	50000	770	-1	564	45	4	769
+56	"Deep Dungeon 5"	"R-Dungeon5"	50000	770	-1	565	46	5	777
+57	"Swamp of Darkness"	"SwampOfDarkness"	50000	800	-1	567	47	38	788
+58	"Kubera Mine"	"KuberaMine"	50000	850	-1	591	57	58	810
+59	"Abyss of Atlans"	"abyss_Atlans1"	50000	1000	-1	617	58	35	832
+60	"Abyss of Atlans 2"	"abyss_Atlans2"	50000	1020	-1	618	59	36	834
+61	"Abyss of Atlans 3"	"abyss_Atlans3"	50000	1030	-1	619	60	32	836
+62	"Scorched Canyon"	"Scorched Canyon"	50000	1050	-1	620	61	27	846
+63	"Red Smoke Icarus"	"Red Smoke Icarus"	50000	1070	-1	631	62	64	861
+64	"Arenil Temple"	"Arenil Temple"	50000	1100	-1	634	63	28	867
+65	"Ashen Aida"	"Ashen Aida"	50000	1130	-1	643	64	44	875
+//35	"Kalima 1"	"Kalima1"	0	40	-1	88	48	51	160
+//36	"Kalima 2"	"Kalima2"	0	131	-1	89	49	52	180
+//37	"Kalima 3"	"Kalima3"	0	181	-1	90	50	53	188
+//38	"Kalima 4"	"Kalima4"	0	231	-1	91	51	54	196
+//39	"Kalima 5"	"Kalima5"	0	281	-1	92	52	55	266
+//40	"Kalima 6"	"Kalima6"	0	331	-1	93	53	56	274
+//41	"Kalima 7"	"Kalima7"	0	350	-1	116	54	57	337
