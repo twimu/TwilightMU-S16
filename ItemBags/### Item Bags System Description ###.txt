@@ -46,17 +46,17 @@
 //	MaxValue: Maximum amount of Ruud to award with
 //
 // ### ItemBag::DropAllow ### - by setting lower class the higher one automatically is being allowed
-//	Wizard: 0 - Disallow, 1 - Dark Wizard, 2 - Soul Master, 3 - Grand Master, 4 - Soul Wizard
-//	Knight: 0 - Disallow, 1 - Dark Knight, 2 - Blade Knight, 3 - Blade Master, 4 - Dragon Knight
-//	FairyElf: 0 - Disallow, 1 - Fairy Elf, 2 - Muse Elf, 3 - High Elf, 4 - Noble Elf
-//	MagicGladiator: 0 - Disallow, 1 - Magic Gladiator, 2 - Duel Master, 4 - Magic Knight
-//	DarkLord: 0 - Disallow, 1 - Dark Lord, 2 - Lord Emperor, 4 - Empire Lord
-//	Summoner: 0 - Disallow, 1 - Summoner, 2 - Bloody Summoner, 3 - Dimension Master, 4 - Dimension Summoner
-//	RageFighter: 0 - Disallow, 1 - Rage Fighter, 2 - Fist Master, 4 - Fist Blazer
-//	GrowLancer: 0 - Disallow, 1 - Grow Lancer, 2 - Miracle Lancer, 4 - Shining Lancer
-//	RuneWizard: 0 - Disallow, 1 - Rune Wizard, 2 - Rune Spell Master, 4 - Rune Grand Master
-//	Slayer: 0 - Disallow, 1 - Slayer, 2 - Royal Slayer, 3 - Master Slayer, 4 - Slaughterer
-//	GunCrusher: 0 - Disallow, 1 - Gun Crusher, 2 - Gun Breaker, 3: Master Gun Breaker, 4 - Heist Gun Crusher
+//	DW: 0 - Disallow, 1 - Dark Wizard, 2 - Soul Master, 3 - Grand Master, 4 - Soul Wizard
+//	DK: 0 - Disallow, 1 - Dark Knight, 2 - Blade Knight, 3 - Blade Master, 4 - Dragon Knight
+//	ELF: 0 - Disallow, 1 - Fairy Elf, 2 - Muse Elf, 3 - High Elf, 4 - Noble Elf
+//	MG: 0 - Disallow, 1 - Magic Gladiator, 2 - Duel Master, 4 - Magic Knight
+//	DL: 0 - Disallow, 1 - Dark Lord, 2 - Lord Emperor, 4 - Empire Lord
+//	SU: 0 - Disallow, 1 - Summoner, 2 - Bloody Summoner, 3 - Dimension Master, 4 - Dimension Summoner
+//	RF: 0 - Disallow, 1 - Rage Fighter, 2 - Fist Master, 4 - Fist Blazer
+//	GL: 0 - Disallow, 1 - Grow Lancer, 2 - Miracle Lancer, 4 - Shining Lancer
+//	RW: 0 - Disallow, 1 - Rune Wizard, 2 - Rune Spell Master, 4 - Rune Grand Master
+//	SLA: 0 - Disallow, 1 - Slayer, 2 - Royal Slayer, 3 - Master Slayer, 4 - Slaughterer
+//	GC: 0 - Disallow, 1 - Gun Crusher, 2 - Gun Breaker, 3: Master Gun Breaker, 4 - Heist Gun Crusher
 //	PlayerMinLevel: Minimum level of player to apply drop of items from the section (must be lower or equal to PlayerMaxLevel)
 //	PlayerMaxLevel: Maximum level of player to apply drop of items from the section (must be greater or equal to PlayerMinLevel)
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
