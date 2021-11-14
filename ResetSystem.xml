@@ -60,8 +60,8 @@
 //	Zen: Number of Zen to award with, 0 to disable
 //	Ruud: Number of Ruud to award with, 0 to disable
 //	LevelUpPoints: Number of Level Up points to award with, 0 to disable
+//	MultiplyPointByReset: If enabled the LevelUpPoints are multipled by number of resets, 0/1
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//~~ For regular resets the LevelUpPoints are multiplied by number of reset
 //~~ For VIP players the value of PointPerResetBonus from VIPSettings.xml is added before being multiplied
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //	ContributePoints: Gens contribute points to award, applies only for gens fsamily members
@@ -85,15 +85,28 @@
 -->
 
 <ResetSystem Enable="0">
-<Requirements MinLevel="400" Cost="1000000" MultiplyCostPerResets="1" MaxCost="150000000" MaxReset="100" />
-<Settings RemoveEquipment="0" RemoveFromParty="1" EnableMuHelper="0" ClearBuffs="1" ResetStats="1" SaveOldStatPoint="0" ResetMasterLevel="0" MoveToCharSelectWindow="0" StayOnPosition="0" MaxResetPoints="0" />
+<Requirements MinLevel="400" Cost="5000000" MultiplyCostPerResets="1" MaxCost="150000000" MaxReset="100" />
+<Settings RemoveEquipment="1" RemoveFromParty="1" EnableMuHelper="0" ClearBuffs="1" ResetStats="0" SaveOldStatPoint="0" ResetMasterLevel="0" MoveToCharSelectWindow="0" StayOnPosition="0" MaxResetPoints="0" />
 
 	<DynamicResetRangeList> <!-- First rule that matches player requirements will be applied, therefore order of entries matters -->
-		<Range MinReset="0" MaxReset="MAX" MilestoneID="0" RewardSetID="0" />
+		<Range MinReset="0" MaxReset="10" MilestoneID="0" RewardSetID="0" />
+		<Range MinReset="11" MaxReset="20" MilestoneID="0" RewardSetID="0" />
+		<Range MinReset="21" MaxReset="30" MilestoneID="1" RewardSetID="1" />
+		<Range MinReset="31" MaxReset="40" MilestoneID="1" RewardSetID="1" />
+		<Range MinReset="41" MaxReset="50" MilestoneID="2" RewardSetID="2" />
+		<Range MinReset="51" MaxReset="60" MilestoneID="2" RewardSetID="2" />
+		<Range MinReset="61" MaxReset="70" MilestoneID="3" RewardSetID="3" />
+		<Range MinReset="71" MaxReset="80" MilestoneID="3" RewardSetID="3" />
+		<Range MinReset="81" MaxReset="90" MilestoneID="4" RewardSetID="4" />
+		<Range MinReset="91" MaxReset="MAX" MilestoneID="4" RewardSetID="4" />
 	</DynamicResetRangeList>
 	
 	<RegResetsRewardList> <!-- Item issued to Gremory Case -->
-		<Reward Id="0" WCoin="10" GP="0" Zen="0" Ruud="0" LevelUpPoints="0" ContributePoints="0" ItemBagID="300" />
+		<Reward Id="0" WCoin="100" GP="300" Zen="10000" Ruud="70" LevelUpPoints="100" MultiplyPointByReset="1" ContributePoints="5" ItemBagID="300" />
+		<Reward Id="1" WCoin="150" GP="400" Zen="15000" Ruud="130" LevelUpPoints="150" MultiplyPointByReset="1" ContributePoints="10" ItemBagID="300" />
+		<Reward Id="2" WCoin="200" GP="500" Zen="20000" Ruud="180" LevelUpPoints="200" MultiplyPointByReset="1" ContributePoints="15" ItemBagID="300" />
+		<Reward Id="3" WCoin="250" GP="600" Zen="25000" Ruud="230" LevelUpPoints="250" MultiplyPointByReset="1" ContributePoints="20" ItemBagID="300" />
+		<Reward Id="4" WCoin="300" GP="700" Zen="30000" Ruud="280" LevelUpPoints="300" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="300" />
 	</RegResetsRewardList>
 	
 	<MilestonesRewardList> <!-- Item issued to Gremory Case -->
