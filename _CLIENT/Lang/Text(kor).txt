@@ -1,14 +1,14 @@
 ////////////////////////////////////////////////////////////////////////////////		
 //	[ Text  Version ]	0.2.7.1
 //	[ File Name ]	Text(kor).txt
-//	[ ¼­¹ö / Å¬¶ó ]	Å¬¶óÀÌ¾ğÆ® Àü¿ë
-//	[ ÃÖÁ¾ ÀÛ¾÷ÀÚ ]	¹ÚÇıÁø
-//	[ ÃÖÁ¾ ÀÛ¾÷ÀÏ ]	2016-07-28 14:22
-//	[¹® ¼­ ¼³ ¸í]	Å¬¶óÀÌ¾ğÆ® ÅØ½ºÆ®
-//	[ ÀÛ ¾÷ ³» ¿ë ]	Season12 Part1 ½Å±Ô »ç³ÉÅÍ ´Ğ½Ã½º È£¼ö°ü·Ã ÅØ½ºÆ® Ãß°¡_1
+//	[ ì„œë²„ / í´ë¼ ]	í´ë¼ì´ì–¸íŠ¸ ì „ìš©
+//	[ ìµœì¢… ì‘ì—…ì ]	ë°•í˜œì§„
+//	[ ìµœì¢… ì‘ì—…ì¼ ]	2016-07-28 14:22
+//	[ë¬¸ ì„œ ì„¤ ëª…]	í´ë¼ì´ì–¸íŠ¸ í…ìŠ¤íŠ¸
+//	[ ì‘ ì—… ë‚´ ìš© ]	Season12 Part1 ì‹ ê·œ ì‚¬ëƒ¥í„° ë‹‰ì‹œìŠ¤ í˜¸ìˆ˜ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€_1
 ////////////////////////////////////////////////////////////////////////////////		
-//	»ç¿ëÇÏÁö ¾Ê´Â ¹øÈ£´Â »ö»óÀ¸·Î ±¸ºĞµÇ¾î ÀÖ½À´Ï´Ù. ºó °ø°£(Áß°£ ¹øÈ£)¿¡ Ãß°¡µÉ °æ¿ì text.txt »Ó ¾Æ´Ï¶ó ÀÌ ÆÄÀÏµµ °»½ÅÇØÁÖ¼Å¾ß ÇÕ´Ï´Ù.	
-//	°ÔÀÓ³»¿¡¼­ Ç¥½ÃµÇ´Â %±âÈ£ »ç¿ë½Ã¿¡´Â ÅØ½ºÆ® »ó¿¡ %%·Î Ç¥±â ÇØ¾ß °ÔÀÓ»ó¿¡¼­ Á¤»óÀûÀ¸·Î Ç¥½ÃµË´Ï´Ù.	
+//	ì‚¬ìš©í•˜ì§€ ì•ŠëŠ” ë²ˆí˜¸ëŠ” ìƒ‰ìƒìœ¼ë¡œ êµ¬ë¶„ë˜ì–´ ìˆìŠµë‹ˆë‹¤. ë¹ˆ ê³µê°„(ì¤‘ê°„ ë²ˆí˜¸)ì— ì¶”ê°€ë  ê²½ìš° text.txt ë¿ ì•„ë‹ˆë¼ ì´ íŒŒì¼ë„ ê°±ì‹ í•´ì£¼ì…”ì•¼ í•©ë‹ˆë‹¤.	
+//	ê²Œì„ë‚´ì—ì„œ í‘œì‹œë˜ëŠ” %ê¸°í˜¸ ì‚¬ìš©ì‹œì—ëŠ” í…ìŠ¤íŠ¸ ìƒì— %%ë¡œ í‘œê¸° í•´ì•¼ ê²Œì„ìƒì—ì„œ ì •ìƒì ìœ¼ë¡œ í‘œì‹œë©ë‹ˆë‹¤.	
 0	"Gulim"
 1	"Warning!!! Continued attempts at hacking will result in a permanent account(%s) ban!"
 2	"FindHack file is damaged. Please reinstall MU client."
@@ -1759,7 +1759,7 @@
 1745	"Master"
 1746	"Level: %d"
 1747	"Points: %d"
-// ¸¶½ºÅÍ ½ºÅ³ ¸®´º¾ó °ü·Ã °æÇèÄ¡ ÅØ½ºÆ® ¼öÁ¤ (2010.12.15 È«½Â¿í) - ±âÁ¸ °æÇèÄ¡ ÆË¾÷Ã¢ ¹ö±×·Î ÀÎÇÑ ¿øº¹	
+// ë§ˆìŠ¤í„° ìŠ¤í‚¬ ë¦¬ë‰´ì–¼ ê´€ë ¨ ê²½í—˜ì¹˜ í…ìŠ¤íŠ¸ ìˆ˜ì • (2010.12.15 í™ìŠ¹ìš±) - ê¸°ì¡´ ê²½í—˜ì¹˜ íŒì—…ì°½ ë²„ê·¸ë¡œ ì¸í•œ ì›ë³µ	
 1748	"EXP:%I64d / %I64d"
 1749	"Master skill tree (A)"
 1750	"Master EXP achievement %d "
@@ -2128,7 +2128,7 @@
 2113	"%s was successful."
 2114	"This item is already enchanted"
 2115	"Combination available(2 step only)"
-// ¸¶½ºÅÍ ½ºÅ³ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2011-05-17 È«½Â¿í )	
+// ë§ˆìŠ¤í„° ìŠ¤í‚¬ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2011-05-17 í™ìŠ¹ìš± )	
 2116	"Combination available(3 step only)"
 //
 //
@@ -2585,7 +2585,7 @@
 2570	"EXP achievement and the automatic life recovery rate increases."
 2571	"Automatic Mana recovery increment in %d%% rate"
 2572	"Item achievement and the automatic Mana recovery increases onward."
-//01.26 ÀÌÈÄ¿¡ ³»¿ë º¯°æ ÇÒ°Í +15±îÁö ³»¿ë ¼öÁ¤ line 2573 - 15·¹º§·Î ¼öÁ¤ ¿Ï·á	
+//01.26 ì´í›„ì— ë‚´ìš© ë³€ê²½ í• ê²ƒ +15ê¹Œì§€ ë‚´ìš© ìˆ˜ì • line 2573 - 15ë ˆë²¨ë¡œ ìˆ˜ì • ì™„ë£Œ	
 2573	"Minimum +10 - +15 level item upgrade"
 2574	"blocks the item dissipation."
 2575	"Increases Attack Power and Wizardry by 40%%"
@@ -2706,7 +2706,7 @@
 2705	"No duel on."
 2706	"Not available"
 2707	"Too many people in the colossum."
-//01.26 ÀÌÈÄ¿¡ ³»¿ë º¯°æ ÇÒ°Í +15±îÁö ³»¿ë ¼öÁ¤ line 2708 - 15·¹º§·Î ¼öÁ¤ ¿Ï·á	
+//01.26 ì´í›„ì— ë‚´ìš© ë³€ê²½ í• ê²ƒ +15ê¹Œì§€ ë‚´ìš© ìˆ˜ì • line 2708 - 15ë ˆë²¨ë¡œ ìˆ˜ì • ì™„ë£Œ	
 2708	"+10~+15 When upgrading level item please put it in combination window."
 2709	"item/skill/luck/option will be randomly added."
 2714	"Exp and item will be secured when character dies."
@@ -2744,7 +2744,7 @@
 2746	"Auto-collects zen around you."
 2747	"EXP rate 50%% increase"
 2748	"Increase Defensive Skill +50"
-//À¯·áÈ­ ¾ÆÀÌÅÛ »ç¿ëÃ¢ ¸Ş½ÃÁö. ¹ÚÂùÇö ÀÛ¾÷(09-04-24) --»èÁ¦	
+//ìœ ë£Œí™” ì•„ì´í…œ ì‚¬ìš©ì°½ ë©”ì‹œì§€. ë°•ì°¬í˜„ ì‘ì—…(09-04-24) --ì‚­ì œ	
 //2749	"Activate item" // GMO
 //2750	"Fail to activate" // GMO
 //2751	"activated" // GMO
@@ -2752,7 +2752,7 @@
 //2753	"Cannot be used in pay to play server." // GMO
 //2754	"Item can no longer be used." // GMO
 //2755	"You have activated the item." // GMO
-//µµÇÃ°»¾î ½Ã½ºÅÛ ¸Ş½ÃÁö_ÀÌ±â¼ö ÀÛ¾÷(09-06-08)	
+//ë„í”Œê°±ì–´ ì‹œìŠ¤í…œ ë©”ì‹œì§€_ì´ê¸°ìˆ˜ ì‘ì—…(09-06-08)	
 2756	"Lugard"
 2757	"Only those in possession of a Mirror of Dimensions"
 2758	"may pass through the Doppelganger gate."
@@ -2778,7 +2778,7 @@
 2778	"enter the Doppelganger area."
 2779	"Only those in possession of a Mirror of Dimensions may enter."
 2780	"Enter after %d hour(s) %d minute(s)"
-// 2781-2782¹ø ÇØ¿Ü¿¡¼­ »ç¿ëÁß	
+// 2781-2782ë²ˆ í•´ì™¸ì—ì„œ ì‚¬ìš©ì¤‘	
 //2781	""
 //2782	""
 2783	"Gaion's Order"
@@ -2853,13 +2853,13 @@
 //
 //
 //
-//SummerEvent ÅØ½ºÆ® Ãß°¡ 2009.07.15	
+//SummerEvent í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.07.15	
 2855	"Register 255 Lucky Coins during the event"
 2856	"for a chance to get"
 2857	"the Absolute Weapon."
 2858	"Please check the web page for the event details."
 2859	"You can only apply once per your account."  
-//µµÇÃ°»¾î ÅØ½ºÆ® Ãß°¡ 2009.08.10 	
+//ë„í”Œê°±ì–´ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.08.10 	
 2860	"Entrance to Doppelganger will close in %d seconds."
 2861	"Doppelganger will begin in %d seconds."
 2862	"%d seconds left to eliminate Ice Walker."
@@ -2867,7 +2867,7 @@
 2864	"Battle has already commenced. You cannot enter."
 2865	"You cannot enter if you are a 1st Stage Outlaw."
 2866	"Dueling is not possible in this area."
-//ÇÇ·Îµµ ½Ã½ºÅÛ&È°·ÂÀÇ ºñ¾à 2009.09.08	
+//í”¼ë¡œë„ ì‹œìŠ¤í…œ&í™œë ¥ì˜ ë¹„ì•½ 2009.09.08	
 2867	"Fatigue Level"
 2868	"Your Fatigue Level does not diminish, and you do not incur a Fatigue Level penalty."
 2869	"You have incurred a Fatigue Level 1 penalty due to prolonged playing time. EXP gain has reduced to 50%. Item drop rate has reduced to 50%."
@@ -2876,7 +2876,7 @@
 2872	"The Low Vitality potion has negated the Fatigue Level penalty."
 2873	"The Medium Vitality potion has negated the Fatigue Level penalty."
 2874	"The High Vitality potion has negated the Fatigue Level penalty."
-//09³â10¿ù È¥ÇÕÀ¯·á¼­¹ö¿ë À¯·á ¾ÆÀÌÅÛ Ãß°¡ 2009.09.08 ¹ÚÂùÇö	
+//09ë…„10ì›” í˜¼í•©ìœ ë£Œì„œë²„ìš© ìœ ë£Œ ì•„ì´í…œ ì¶”ê°€ 2009.09.08 ë°•ì°¬í˜„	
 2875	"You can do a Goblin combination with a Sealed Golden Box to create a Golden Box."
 2876	"You can do a Goblin combination with a Sealed Silver Box to create a Silver Box."
 2877	"You can do a Goblin combination with a Gold Key to create a Golden Box."
@@ -2885,7 +2885,7 @@
 2880	"You can drop it with a fixed probability of it turning into a rare item."
 2881	"Golden Box"
 2882	"Silver Box"
-//ÀÎ°ÔÀÓ¼¥¿ë ÅØ½ºÆ® Ãß°¡ 2009.09.15 ¹ÚÂùÇö	
+//ì¸ê²Œì„ìƒµìš© í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.09.15 ë°•ì°¬í˜„	
 2883	"My W Coin : %s"
 2884	"Goblin Points : %s"
 2885	"Bonus Points : %s"
@@ -2971,11 +2971,11 @@
 2965	"Internal Server error, contact administrator"
 2966	"There has been an error."
 2967	"A database access error has occurred."
-//ÇØ¿Ü7Â÷°ú±İ ÅØ½ºÆ® Ãß°¡ 2009.09.02	
+//í•´ì™¸7ì°¨ê³¼ê¸ˆ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.09.02	
 2968	"Increase Max. AG + Level"
 2969	"Increase Max. SD + Levelx10"
 2970	"Up to %d%% EXP gain increase, depending on the number of members in your party."
-//09³â10¿ù È¥ÇÕÀ¯·á¼­¹ö :À¯·á ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡	
+//09ë…„10ì›” í˜¼í•©ìœ ë£Œì„œë²„ :ìœ ë£Œ ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€	
 2971	"You can acquire Goblin Points by using the MU Item Shop's storage."
 2972	"It's a box containing various items."
 2973	"An item that lets you enjoy MU for 30 days.\nCan only be used from the MU Online website."
@@ -2991,7 +2991,7 @@
 2983	"Lets you rename the character.\nCan only be used from the MU Online website."
 2984	"Lets you transfer a character to another server within the same account.\nCan only be used from the MU Online website."
 2985	"Allows you to request a character transfer once and character name change once.\nCan only be used from the MU Online website."
-//09³â10¿ù È¥ÇÕÀ¯·áÈ­ : °Õ½º ±â¿©µµ ¼öÁ¤ 2009.09.29	
+//09ë…„10ì›” í˜¼í•©ìœ ë£Œí™” : ê²ìŠ¤ ê¸°ì—¬ë„ ìˆ˜ì • 2009.09.29	
 2986	"Gain Contribution: %u"
 2987	"(Battle)"
 2988	"Battle"
@@ -3003,10 +3003,10 @@
 2994	"Contribution: %lu"
 2995	"The guild master is with a different gens."
 2996	"You must belong to the same gens as the guild master in order to join the guild."
-//10³â2¿ù3ÀÏ °Õ½º ÆÄÆ¼ ¼öÁ¤	
+//10ë…„2ì›”3ì¼ ê²ìŠ¤ íŒŒí‹° ìˆ˜ì •	
 2997	"You cannot form a party within a Battle Zone."
 2998	"Parties are not activated within a Battle Zone."
-//ÅëÇÕ ½ÃÀå ¼­¹ö¿ë ÅØ½ºÆ® Ãß°¡ 2009.09.23 È«½Â¿í	
+//í†µí•© ì‹œì¥ ì„œë²„ìš© í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.09.23 í™ìŠ¹ìš±	
 2999	"Fee: 5,000 Zens"
 3000	"Julia"
 3001	"Christine"
@@ -3026,20 +3026,20 @@
 3015	"Not allowed to enter."
 3016	"Warp"
 3017	"Loren Market"
-//Ç³¿äÀÇ ÀÎÀå ÅøÆÁ Ãß°¡ 2009.09.23 ¹ÚÂùÇö	
+//í’ìš”ì˜ ì¸ì¥ íˆ´íŒ ì¶”ê°€ 2009.09.23 ë°•ì°¬í˜„	
 3018	"Boosts the item drop rate."
-//ÀÎ°ÔÀÓ¼¥ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ 2009.10.15 ¹ÚÂùÇö--»èÁ¦	
+//ì¸ê²Œì„ìƒµ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ 2009.10.15 ë°•ì°¬í˜„--ì‚­ì œ	
 //3019	""
 //3020	""
 //3021	""
-//ºí·ç¹Â ¼­¹ö ÀÌ¸§,¼³¸í Ãß°¡ 2009.10.20 ¹ÚÂùÇö	
+//ë¸”ë£¨ë®¤ ì„œë²„ ì´ë¦„,ì„¤ëª… ì¶”ê°€ 2009.10.20 ë°•ì°¬í˜„	
 3022	"Runedil"
 3023	"The Elf queen who battled by the side of Muren. She has long protected Noria from Secrarium and Kundun."
 3024	"Balgass"
 3025	"The head of the Evil Army, who was summoned by Kundun after entering into an agreement with the queen of sorcery to capture Fortress of Crywolf."
 3026	"Lemuria (New)"
 3027	"The wizard who brought down Elve. The wizard will seduce Antonias to resurrect Kundun and cause the second Demogorgon Wars."
-//ÀÎ°ÔÀÓ¼¥ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ 2009.10.25 ¹ÚÂùÇö	
+//ì¸ê²Œì„ìƒµ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ 2009.10.25 ë°•ì°¬í˜„	
 3028	"Error"
 3029	"MU Item Shop information download failed!##Please reconnect to the game.#Version %d.%d.%d#%s"
 3030	"Banner download failed!##Version %d.%d.%d#%s"
@@ -3056,36 +3056,36 @@
 3041	"It's a gift from %s."
 3042	"%d Pieces"
 3043	"%s W Coin"
-//ÀÎ°ÔÀÓ¼¥ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ 2009.10.26 ¹ÚÂùÇö	
+//ì¸ê²Œì„ìƒµ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ 2009.10.26 ë°•ì°¬í˜„	
 3044	"%d W Coin"
 3045	"Quantity: %d / Duration: %s"
 3046	"Buff Item Use Confirmation"
 3047	"Using the %s item will negate the current %s buff.##Would you like to use the %s item anyway?"
-//ÀÎ°ÔÀÓ¼¥ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ 2009.10.26 ¹ÚÂùÇö	
+//ì¸ê²Œì„ìƒµ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ 2009.10.26 ë°•ì°¬í˜„	
 3048	"Gift Info Window"
 3049	"Item Info Window"
 3050	"W Coin: %s Coins"
-//ÀÎ°ÔÀÓ¼¥ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ 2009.10.28 ¹ÚÂùÇö	
+//ì¸ê²Œì„ìƒµ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ 2009.10.28 ë°•ì°¬í˜„	
 3051	"You can only open MU Item Shop in a town or safe zone."
 3052	"This item cannot be bought."
 3053	"Event items cannot be bought."
 3054	"You've exceeded the maximum number of times you can purchase event items."
-//UI°³¼± Áöµµ °ü·Ã ÅØ½ºÆ® Ãß°¡	
+//UIê°œì„  ì§€ë„ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€	
 3055	"Map (Tab)"
 3056	"Because you can only use this item once, you cannot buy it."
-//UI°³¼± Áöµµ °ü·Ã ÅØ½ºÆ® Ãß°¡ #2	
+//UIê°œì„  ì§€ë„ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ #2	
 3057	"Doppelganger"
-//À¯·á¾ÆÀÌÅÛ ¿É¼Ç ÅØ½ºÆ® Ãß°¡ 2009.11.06 ¹ÚÂùÇö	
+//ìœ ë£Œì•„ì´í…œ ì˜µì…˜ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.11.06 ë°•ì°¬í˜„	
 3058	"Increases Max Mana 4%%"
-//PC¹æ ÇıÅÃ Á¤º¸ Ç¥½Ã 2009.11.18 by ÀÌÁØÈñ	
+//PCë°© í˜œíƒ ì •ë³´ í‘œì‹œ 2009.11.18 by ì´ì¤€í¬	
 3059	"PC Cafe Bonus"
 3060	" EXP 10%% Increase/ PC Cafe Chaos Castle Access/ Open Access to Kalima/ Goblin Point Increase"
 3061	" EXP 10%% Increase/ PC Cafe Chaos Castle Access / Open Access to Kalima/ Goblin Point Increase/ Warp Command Window Use/ Stamina System not applied"
 3062	" PC Cafe"
-//ÅëÇÕ ½ÃÀå ¼­¹ö¿ë ÅØ½ºÆ® Ãß°¡#3 2009.11.25 È«½Â¿í	
+//í†µí•© ì‹œì¥ ì„œë²„ìš© í…ìŠ¤íŠ¸ ì¶”ê°€#3 2009.11.25 í™ìŠ¹ìš±	
 3063	"You cannot engage in duels while in Loren Market."
 3064	"You cannot ask others to join your party while in Loren Market."
-//½ºÄÌ·¹Åæº¯½Å¹İÁö,½ºÄÌ·¹ÅæÆê ÅøÆÁ ÅØ½ºÆ® Ãß°¡ 2009.12.03 ¹ÚÂùÇö	
+//ìŠ¤ì¼ˆë ˆí†¤ë³€ì‹ ë°˜ì§€,ìŠ¤ì¼ˆë ˆí†¤í« íˆ´íŒ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.12.03 ë°•ì°¬í˜„	
 3065	"Equip to transform into a Skeleton Warrior."
 3066	"Damage/Wizardry/Curse +40"
 3067	"Equipping along with a Pet Skeleton"
@@ -3094,7 +3094,7 @@
 3070	"and EXP by 30%%."
 3071	"Equipping along with a Skeleton Transformation Ring"
 3072	"increases EXP by 30%%."
-// Äù½ºÆ® °ü·Ã ÅØ½ºÆ® Ãß°¡ 2009.11.15 ÀÌÁØÈñ	
+// í€˜ìŠ¤íŠ¸ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.11.15 ì´ì¤€í¬	
 3074	"Chaos Castle Lv.%lu Guardsman x %lu/%lu"
 3075	"Chaos Castle Lv.%lu Player x %lu/%lu"
 3076	"Chaos Castle Lv.%lu Cleared"
@@ -3105,16 +3105,16 @@
 3081	"Illusion Temple Lv.%lu Cleared"
 3082	"Random Reward (%lu different kinds)"
 3083	"Lucky number registration period"
-//¼öÈ£ÀÇº¸¼® ÅØ½ºÆ® Ãß°¡ 2010.04.14 ÀÌ±â¼ö	
+//ìˆ˜í˜¸ì˜ë³´ì„ í…ìŠ¤íŠ¸ ì¶”ê°€ 2010.04.14 ì´ê¸°ìˆ˜	
 3084	"Right click to use."
 //3085	""
-//¾ÆÀÌÅÛ ¾÷±×·¹ÀÌµå +14, +15 ÅØ½ºÆ® Ãß°¡ 2009.12.24 È«½Â¿í	
+//ì•„ì´í…œ ì—…ê·¸ë ˆì´ë“œ +14, +15 í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.12.24 í™ìŠ¹ìš±	
 3086	"+14 Item Creation"
 3087	"+15 Item Creation"
-//º¯½Å¹İÁö ÅøÆÁ ÅØ½ºÆ® Ãß°¡ 2009.12.28 ¹ÚÂùÇö	
+//ë³€ì‹ ë°˜ì§€ íˆ´íŒ í…ìŠ¤íŠ¸ ì¶”ê°€ 2009.12.28 ë°•ì°¬í˜„	
 3088	"Unable to Equip with a Different Transformation Ring"
 3089	"Cannot be equipped while another Transformation Ring is equipped."
-//°Õ½º ·©Å·°ü·Ã	
+//ê²ìŠ¤ ë­í‚¹ê´€ë ¨	
 3090	"Gens Info Window"
 3091	"Gens"
 3092	"Duprian"
@@ -3130,11 +3130,11 @@
 3102	"Gens ranking rewards can be claimed from the gens steward NPC.## Gens rewards will automatically disappear if not claimed within a week."
 3103	"Gens Info (B)"
 3104	"Grand Duke#Duke#Marquis#Count#Viscount#Baron#Knight Commander#Superior Knight#Knight#Guard Prefect#Officer#Lieutenant#Sergeant#Private"
-//ÇØ¿Ü 8Â÷°ú±İ ÅØ½ºÆ® Ãß°¡ 2010.01.21 ±è¼­¿µ	
+//í•´ì™¸ 8ì°¨ê³¼ê¸ˆ í…ìŠ¤íŠ¸ ì¶”ê°€ 2010.01.21 ê¹€ì„œì˜	
 3105	"Can enter the Monday - Saturday map."
 3106	"Can enter the Sunday map."
 3107	"Varka Map 7"
-//ÀÏº» ¸ğ¹ÙÀÏ¿øÅ¸ÀÓÆĞ½º¿öµå ÅØ½ºÆ® Ãß°¡ 2010.01.26 ±è¼­¿µ	
+//ì¼ë³¸ ëª¨ë°”ì¼ì›íƒ€ì„íŒ¨ìŠ¤ì›Œë“œ í…ìŠ¤íŠ¸ ì¶”ê°€ 2010.01.26 ê¹€ì„œì˜	
 3108	"We recommend you use a one-time password, which is safer."
 3109	"Would you like to register a one-time password now?"
 3110	"Enter your one-time password."
@@ -3142,13 +3142,13 @@
 3112	"Please check again."
 3113	"The information is not correct."
 3114	"Cancel"
-// ±Û·Î¹ú Ä³½¬ ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡	
+// ê¸€ë¡œë²Œ ìºì‰¬ ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€	
 3115	"Dark Lord use only."
 3116	"You can enter to Gold Channel."
 3117	"The game client is loaded only through the offical Website. Closing the application please try again."
 3118	"Please purchase 'gold channel ticket' to enter."
 3119	"Your gold channel ticket is valid for next %d minutes."
-//ÀÎº¥ÀåÂø ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡ #1 2010.02.23 ¹ÚÂùÇö	
+//ì¸ë²¤ì¥ì°© ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€ #1 2010.02.23 ë°•ì°¬í˜„	
 3120	"A same type item is already in use. Cancel that item and then try again."
 3121	"Figurine item"
 3122	"Charm item"
@@ -3156,39 +3156,39 @@
 3124	"Right click on your inventory to use."
 3125	"Excellent Damage increase +%d%%"
 3126	"Item Drop Rate increase +%d%%"
-// ±Û·Î¹ú Ä³½¬ ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡	
+// ê¸€ë¡œë²Œ ìºì‰¬ ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€	
 3127	"7 Days until Expiration"
 3128	"You cannot purchase this item more than once."
 3129	"Please repurchase after expiration."
 3130	"[%s-%d(Gold PvP) Server]"
 3131	"[%s-%d(Gold) Server]"
-//ÀÎº¥ÀåÂø ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡ #2 2010.03.04 ¹ÚÂùÇö	
+//ì¸ë²¤ì¥ì°© ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€ #2 2010.03.04 ë°•ì°¬í˜„	
 3132	"Maximum HP increase +%d"
 3133	"Maximum SP increase +%d"
 3134	"Maximum MP increase +%d"
 3135	"Maximum AG increase +%d"
-//¼ÒÈ¯¼ú»ç ¸¶½ºÅÍ½ºÅ³ Æ®¸® ÅØ½ºÆ® Ãß°¡	
+//ì†Œí™˜ìˆ ì‚¬ ë§ˆìŠ¤í„°ìŠ¤í‚¬ íŠ¸ë¦¬ í…ìŠ¤íŠ¸ ì¶”ê°€	
 3136	"Guardian: %d"
 3137	"Chaos: %d"
 3138	"Honor: %d"
 3139	"Trust: %d"
-//È°·ÂÀÇºñ¾à ÅØ½ºÆ® Ãß°¡	
+//í™œë ¥ì˜ë¹„ì•½ í…ìŠ¤íŠ¸ ì¶”ê°€	
 3140	"EXP gain 100%%"
 3141	"Item Drop 100%%"
 3142	"Stamina will not decrease temporarily."
-//ÀÎº¥ÀåÂø ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡  #3 2010.03.23 ±è¼­¿µ	
+//ì¸ë²¤ì¥ì°© ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€  #3 2010.03.23 ê¹€ì„œì˜	
 3143	"(in use)"
-// ±Û·Î¹ú Ä³½¬ ¾ÆÀÌÅÛ ÅØ½ºÆ® Ãß°¡ 2010.03.29 ±è¼­¿µ	
+// ê¸€ë¡œë²Œ ìºì‰¬ ì•„ì´í…œ í…ìŠ¤íŠ¸ ì¶”ê°€ 2010.03.29 ê¹€ì„œì˜	
 3144	"W Coin(P)"
 3145	"My W Coin(P) : %s"
 3146	"You need more %%s to purchase this item."
-//ºĞÀïÁö¿ª °ü·Ã ¸Ş½ÃÁö Ãß°¡ 2010.03.31 ±è¼­¿µ	
+//ë¶„ìŸì§€ì—­ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ 2010.03.31 ê¹€ì„œì˜	
 3147	"Cannot apply in Battle Zone."
-//ÀÏº» º¸À¯Á¨ °ü·Ã ¸Ş½ÃÁö Ãß°¡ 2010.04.15 ±è¼­¿µ	
+//ì¼ë³¸ ë³´ìœ ì   ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ 2010.04.15 ê¹€ì„œì˜	
 3148	"Exceeded maximum amount of Zen you can possess."
-//ÀÏº» °Õ½º°¡ÀÔ°ü·Ã ¸Ş½ÃÁö Ãß°¡ 2010.04.19 ±è¼­¿µ	
+//ì¼ë³¸ ê²ìŠ¤ê°€ì…ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ 2010.04.19 ê¹€ì„œì˜	
 3149	"You cannot join the gens while you're in a guild alliance."
-// ½Å±Ô Ä³¸¯ÅÍ(·¹ÀÌÁöÆÄÀÌÅÍ) °ü·Ã ÅØ½ºÆ® Ãß°¡(3150~3248)	
+// ì‹ ê·œ ìºë¦­í„°(ë ˆì´ì§€íŒŒì´í„°) ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€(3150~3248)	
 3150	"Rage Fighter"
 3151	"Fist Master"
 3152	"Legitimate bearers of the Karutan Royal Knights and martial artists of great physical strength. They also help other party memgers by casting subsidiary buffs."
@@ -3198,7 +3198,7 @@
 3156	"Divine Damage (Roar, Slasher): %d%%"
 3157	"AOE Damage (Dark Side): %d%%"
 3158	"Phoenix Shot (Mana:%d)"
-// ¸¶½ºÅÍ ½ºÅ³°ü·Ã ½Å±Ô ½ºÅ³ ÅøÆÁ ³»¿ë Ãß°¡ (2011.06.13 È«½Â¿í)	
+// ë§ˆìŠ¤í„° ìŠ¤í‚¬ê´€ë ¨ ì‹ ê·œ ìŠ¤í‚¬ íˆ´íŒ ë‚´ìš© ì¶”ê°€ (2011.06.13 í™ìŠ¹ìš±)	
 3159	"Make the target as invalidity state randomly."
 3160	"Remove one debuff."
 3161	"Heal up to three party members at the same time."
@@ -3289,9 +3289,9 @@
 3246	" "
 3247	" "
 3248	" "
-//Äù½ºÆ® NPC ´ëÈ­ Á¶°Ç Ãß°¡ 2010.10.14 ÀÌÁØÈñ	
+//í€˜ìŠ¤íŠ¸ NPC ëŒ€í™” ì¡°ê±´ ì¶”ê°€ 2010.10.14 ì´ì¤€í¬	
 3249	"Finding a Client"
-//±¹³» °ÔÀÓ¼¥ ½ºÅ©¸³Æ® ´ÜÀ§¸í ÇÊµå ¸Ş½ÃÁö Ãß°¡ 2010.04.22 ±è¼­¿µ	
+//êµ­ë‚´ ê²Œì„ìƒµ ìŠ¤í¬ë¦½íŠ¸ ë‹¨ìœ„ëª… í•„ë“œ ë©”ì‹œì§€ ì¶”ê°€ 2010.04.22 ê¹€ì„œì˜	
 3250	"%s unit(s)"
 3251	"%s won"
 3252	"%s day(s)"
@@ -3305,14 +3305,14 @@
 3260	"%s other(s)"
 3261	"%s point"
 3262	"%s point/sec(s)"
-//±Û·Î¹ú ¿¡·¯¸Ş½ÃÁö Ãß°¡ 2010.05.19 ±è¼­¿µ	
+//ê¸€ë¡œë²Œ ì—ëŸ¬ë©”ì‹œì§€ ì¶”ê°€ 2010.05.19 ê¹€ì„œì˜	
 3263	"ID does not exist."
 3264	"You have selected an incorrect W Coin type. Please select again."
 3265	"Expiration Day"
 3266	"Expired Item"
-//±Û·Î¹ú¸Ş½ÃÁö Ãß°¡ 2010.05.26 ±è¼­¿µ	
+//ê¸€ë¡œë²Œë©”ì‹œì§€ ì¶”ê°€ 2010.05.26 ê¹€ì„œì˜	
 3267	"Restores SD by 65%% immediately."
-//ÀÏÀÏÄù½ºÆ®°ü·Ã ÅØ½ºÆ® 2010.06.23 ÀÌÁØÈñ	
+//ì¼ì¼í€˜ìŠ¤íŠ¸ê´€ë ¨ í…ìŠ¤íŠ¸ 2010.06.23 ì´ì¤€í¬	
 3268	"Click the item to see the quest information again."
 3269	"Lv. 350 - 400"
 3270	"Bring it to Tercia to get the deposit back."
@@ -3329,13 +3329,13 @@
 3281	"at the same time."
 3282	"You need to clear at least 1 quest to "
 3283	"accept this one."
-// ÀÏº» ÀÎÀå·ù Áßº¹»ç¿ë ±İÁö ¸Ş½ÃÁö Ãß°¡ 10.07.15 ±èÁ¤¹Î	
+// ì¼ë³¸ ì¸ì¥ë¥˜ ì¤‘ë³µì‚¬ìš© ê¸ˆì§€ ë©”ì‹œì§€ ì¶”ê°€ 10.07.15 ê¹€ì •ë¯¼	
 3284	"The same type seal is already in use."
-// ½Å±Ô¸Ê Ä®·çÅº ¸Ê ÀÌ¸§ Ãß°¡ 2010-08-04 È«½Â¿í	
+// ì‹ ê·œë§µ ì¹¼ë£¨íƒ„ ë§µ ì´ë¦„ ì¶”ê°€ 2010-08-04 í™ìŠ¹ìš±	
 3285	"Karutan"
-//Ä«¿À½ºÁ¶ÇÕºÎÀû, Çà¿îÀÇºÎÀû µ¿½Ã »ç¿ë ºÒ°¡ ¸Ş½ÃÁö Ãß°¡ 2010-08-19 È«½Â¿í	
+//ì¹´ì˜¤ìŠ¤ì¡°í•©ë¶€ì , í–‰ìš´ì˜ë¶€ì  ë™ì‹œ ì‚¬ìš© ë¶ˆê°€ ë©”ì‹œì§€ ì¶”ê°€ 2010-08-19 í™ìŠ¹ìš±	
 3286	"You cannot use the Talisman of Chaos Assembly and Talisman of Luck together."
-//·°Å°¾ÆÀÌÅÛ ¸Ş½ÃÁö Ãß°¡ 2010-09-02 ÀÌ±â¼ö	
+//ëŸ­í‚¤ì•„ì´í…œ ë©”ì‹œì§€ ì¶”ê°€ 2010-09-02 ì´ê¸°ìˆ˜	
 3287	"Can exchange with a Lucky item or refine it."
 3288	"Exchange Lucky Item"
 3289	"Refine Lucky Item"
@@ -3356,7 +3356,7 @@
 3304	"Jewel used for reinforcing a Lucky Item."
 3305	"Jewel used for repairing a Lucky Item."
 3306	"Jewel cannot be used on durability 0 item (repair)."
-//º¸¼®Á¶ÇÕ ¸Ş½ÃÁö Ãß°¡ 2010.10.08 ±èÁ¤¹Î	
+//ë³´ì„ì¡°í•© ë©”ì‹œì§€ ì¶”ê°€ 2010.10.08 ê¹€ì •ë¯¼	
 3307	"Combination of event items."
 3308	"various jewels."
 3309	"Select a jewel to combine."
@@ -3371,14 +3371,14 @@
 3318	"Higher Refining Stone"
 3319	"Are you sure you want to dissolve "
 3320	"%s +%d?"
-// °Õ½ºÃ¤ÆÃ ¸Ş½ÃÁö Ãß°¡ 2010-11-08 ÀÌ±â¼ö	
+// ê²ìŠ¤ì±„íŒ… ë©”ì‹œì§€ ì¶”ê°€ 2010-11-08 ì´ê¸°ìˆ˜	
 3321	"Gens Chat On/Off"
-// ÀÎº¥Ã¢°íÈ®Àå ¸Ş½ÃÁö Ãß°¡ 2010-11-18 ÀÌ±â¼ö	
+// ì¸ë²¤ì°½ê³ í™•ì¥ ë©”ì‹œì§€ ì¶”ê°€ 2010-11-18 ì´ê¸°ìˆ˜	
 3322	"Open Expanded Inventory (K)"
 3323	"Expanded Inventory"
-//°ÔÀÓ³» ÀÎ°ÔÀÓ¼¥¿¡¼­ ÃæÀü¹öÆ° ¸Ş½ÃÁö Ãß°¡ 2010.12.01 ÃÖ½Â¼ö	
+//ê²Œì„ë‚´ ì¸ê²Œì„ìƒµì—ì„œ ì¶©ì „ë²„íŠ¼ ë©”ì‹œì§€ ì¶”ê°€ 2010.12.01 ìµœìŠ¹ìˆ˜	
 3324	"You can't buy W coin while in full screen mode."
-//¸¶½ºÅÍ ½ºÅ³ Æ®¸® ¸Ş½ÃÁö Ãß°¡ 2010.12.06 È«½Â¿í	
+//ë§ˆìŠ¤í„° ìŠ¤í‚¬ íŠ¸ë¦¬ ë©”ì‹œì§€ ì¶”ê°€ 2010.12.06 í™ìŠ¹ìš±	
 3325	"You lack %d points."
 3326	"You can't raise any more levels."
 3327	"You must meet all skill requirements."
@@ -3392,14 +3392,14 @@
 3335	"EXP: %6.2f%%"
 3336	"You need to wear the required equipment to level up this skill."
 3337	"You can not raise the skill level because you are currently receiving a transaction request or you are in a transaction. Please close all window and try again" // from KOR
-// ÀÎº¥Ã¢°íÈ®Àå ¸Ş½ÃÁö Ãß°¡ 2011-1-17 ÀÌ±â¼ö	
+// ì¸ë²¤ì°½ê³ í™•ì¥ ë©”ì‹œì§€ ì¶”ê°€ 2011-1-17 ì´ê¸°ìˆ˜	
 3338	"Opening an Expanded Vault (H)"
 3339	"Expanded Vault"
 3340	"Move to a closed channel?"
 3341	"Insufficient space in the expanded inventory"
 3342	"Insufficient space in the expanded vault"
 3343	"You can use it after expanding it."
-// µµ¿ò¸» Ãß°¡ 2011-1-24 ÀÌ±â¼ö	
+// ë„ì›€ë§ ì¶”ê°€ 2011-1-24 ì´ê¸°ìˆ˜	
 3344	"Adding a $ in front of text: Chat to Gens members"
 3345	"F6: Normal Chat On/Off"
 3346	"F7: Party Chat On/Off"
@@ -3410,16 +3410,16 @@
 3351	"Use this to expand your vault."
 3352	"Use this to expand your inventory."
 3353	"Use this and log in to game again to activate."
-//¸¶½ºÅÍ ½ºÅ³ Æ®¸® ¸Ş½ÃÁö Ãß°¡ 2011.03.09 È«½Â¿í	
+//ë§ˆìŠ¤í„° ìŠ¤í‚¬ íŠ¸ë¦¬ ë©”ì‹œì§€ ì¶”ê°€ 2011.03.09 í™ìŠ¹ìš±	
 3354	"The number of skill points possessed does not conform to the number of points needed to reach the Master skill level. Please contact customer service."
-//ÀÏº» ±â°£Á¦ ¾ÆÀÌÅÛ ¸Ş½ÃÁö Ãß°¡ 2011.03.10 ÃÖ½Â¼ö	
+//ì¼ë³¸ ê¸°ê°„ì œ ì•„ì´í…œ ë©”ì‹œì§€ ì¶”ê°€ 2011.03.10 ìµœìŠ¹ìˆ˜	
 3355	"Increases max HP by 6%%"
 3356	"Decreases damage by 6%%"
 3357	"Increases the amount of Zen received from killing monsters by 60%%"
 3358	"Increases the chance of causing Excellent Damage by 15%%"
 3359	"Increases attack speed by 10d"
 3360	"Increases max Mana by 6%%"
-// µµ¿ò¸» Ãß°¡ 2011-3-23 ÀÌ±â¼ö	
+// ë„ì›€ë§ ì¶”ê°€ 2011-3-23 ì´ê¸°ìˆ˜	
 3361	"You need a 5 person party to enter this area."
 3362	"All party members must be of the same level for this area."
 3363	"Players with an Outlaw or Killer status cannot enter this area."
@@ -3429,13 +3429,13 @@
 3367	"10#60#61#110#111#160#161#210#211#260#261#310#311#400"
 3368	"1#100#101#200"
 3369	"Doppelganger will end because the competing party has not entered the event."
-// ÅÂ±¹ ·Î±×ÀÎ ¿¡·¯¸Ş½ÃÁö Ãß°¡ 2011-08-05 ÀÌ±â¼ö	
+// íƒœêµ­ ë¡œê·¸ì¸ ì—ëŸ¬ë©”ì‹œì§€ ì¶”ê°€ 2011-08-05 ì´ê¸°ìˆ˜	
 3370	"Winner is not registered as VIP" // from KOR
 3371	"An error occurred, please try again or visit the website"
 3372	"Cannot connect with gameplay verification system trough game client, please try the website" // from KOR
 3373	""
 3374	""
-//¾ÆÄÉ·Ğ ¾Æ¸£Ä«Àï ¸Ş½ÃÁö Ãß°¡ 2011.03.24 ¼³Èñ¿ø   	
+//ì•„ì¼€ë¡  ì•„ë¥´ì¹´ìŸ ë©”ì‹œì§€ ì¶”ê°€ 2011.03.24 ì„¤í¬ì›   	
 3375	"What's going on? Do you wish to go to Acheron? I have to risk my life to get there. You must have the right price in your mind, right?" 
 3376	"What? You wanted to go to Acheron without a map? "
 3377	"The ships are full. Let's wait until we can go."
@@ -3461,7 +3461,7 @@
 3397	"You have already registered. The Guild master is automatically registered."
 3398	"You cannot participate in the Arca War. Please register for the Arca War first."
 3399	"The Arca War is not going on at the moment. Please enter during the Arca War."
-//UI ±Û·Î¹ú ÇÊ¿ä ½ºÅ©¸³Æ® 2011.09.17 ¼³Èñ¿ø   	
+//UI ê¸€ë¡œë²Œ í•„ìš” ìŠ¤í¬ë¦½íŠ¸ 2011.09.17 ì„¤í¬ì›   	
 3400	"View Details"
 3401	"My Quests"
 3402	"Life"
@@ -3552,7 +3552,7 @@
 3487	" "
 3488	" "
 3489	" "
-// UI Ãß°¡ ÅØ½ºÆ® 2011-11-03	
+// UI ì¶”ê°€ í…ìŠ¤íŠ¸ 2011-11-03	
 3490	"Exiting Game."
 3491	"Moving back to server selection window."
 3492	"Moving to safety."
@@ -3563,8 +3563,8 @@
 3497	" "
 3498	" "
 3499	" "
-// ¹Â µµ¿ì¹Ì °ü·Ã ¸Ş½ÃÁö Ãß°¡ 2011.06.01	
-// ¹Â µµ¿ì¹Ì Ã¢ °ü·Ã Text	
+// ë®¤ ë„ìš°ë¯¸ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ 2011.06.01	
+// ë®¤ ë„ìš°ë¯¸ ì°½ ê´€ë ¨ Text	
 3500	"Hunting Settings"
 3501	"Obtaining"
 3502	"Setting"
@@ -3629,7 +3629,7 @@
 3561	"Official MU Helper Setting"
 3562	"Start Official MU Helper"
 3563	"Stop Official MU Helper"
-//¹Â µµ¿ì¹Ì °ü·Ã ¾È³» ¸Ş¼¼Áö	
+//ë®¤ ë„ìš°ë¯¸ ê´€ë ¨ ì•ˆë‚´ ë©”ì„¸ì§€	
 3564	"In the case of deregistering Basic skill and activation skill 1&2, combo skill can't be used."
 3565	"In order to use Combo Skill, Basic Skill and Activation Skill should be registered first"
 3566	"Delay and Condition Setting Menus Can't Be Available With Using Combo Skill."
@@ -3656,13 +3656,13 @@
 3587	"Zen is not sufficient to run Official MU Helper"
 3588	"In order to run Official MU Helper, please install Add-on first"
 3589	"Official MU Helper is closed due to the excess of %d hour(s) "
-//¹Â µµ¿ì¹Ì ½Å±Ô ¸Ş´º Text	
+//ë®¤ ë„ìš°ë¯¸ ì‹ ê·œ ë©”ë‰´ Text	
 3590	"Other Settings"
 3591	"Auto accept - Friend"
 3592	"Auto accept - Guild Member"
 3593	"PVP Counterattack"
 3594	"Use Elite Mana Potion"
-// ¸¶½ºÅÍ ½ºÅ³ ÃÊ±âÈ­ °ü·Ã ¾ÆÀÌÅÛ ÅøÆÁ ÅØ½ºÆ® Ãß°¡ (2011-08-16 È«½Â¿í)	
+// ë§ˆìŠ¤í„° ìŠ¤í‚¬ ì´ˆê¸°í™” ê´€ë ¨ ì•„ì´í…œ íˆ´íŒ í…ìŠ¤íŠ¸ ì¶”ê°€ (2011-08-16 í™ìŠ¹ìš±)	
 3595	"Unable to use if you have not spent points on your master skill tree. "
 3596	"The master skill point will reset. "
 3597	"Do you want to reset?"
@@ -3674,9 +3674,9 @@
 3603	"The third tree"
 3604	"<Fury, Transcendence, Flurry, Honor, Extremity, Conquest, Destruction, Tenacity, Cold-bloodedness>"
 3605	"Reset all master skill trees"
-// ¹Â µµ¿ì¹Ì ´©¶ô Text Ãß°¡ (2011-09-08 ¿ÀÅÃ»ó)	
+// ë®¤ ë„ìš°ë¯¸ ëˆ„ë½ Text ì¶”ê°€ (2011-09-08 ì˜¤íƒìƒ)	
 3606	"Help is active"
-//¾ÆÄÉ·Ğ ¾Æ¸£Ä«Àï Text Ãß°¡ 2011.10.06 ¼³Èñ¿ø   	
+//ì•„ì¼€ë¡  ì•„ë¥´ì¹´ìŸ Text ì¶”ê°€ 2011.10.06 ì„¤í¬ì›   	
 3607	"Spirit Map Combination"
 3608	"Trophies of Battle Combination"
 3609	"Improper items for combination"
@@ -3721,7 +3721,7 @@
 3648	"%s guild conquered"
 3649	"%d points"
 3650	"%d Pieces"
-// ½Ã½ºÅÛ °³¼± °ü·Ã ÀÛ¾÷ (2012-06-01 ±èÁ¤¹Î)	
+// ì‹œìŠ¤í…œ ê°œì„  ê´€ë ¨ ì‘ì—… (2012-06-01 ê¹€ì •ë¯¼)	
 3651	"Are you sure you want to transform?"
 3652	"If you decide to transform, please unequip and re-equip the transformation ring."
 3653	"All effects will be also applied when not transformed."
@@ -3732,7 +3732,7 @@
 3658	"Please purchase an Extension function ."
 3659	"from the official MU helper to use this"
 3660	"You can check in MU item shop."
-//¼Ó¼º ½Ã½ºÅÛ Text Ãß°¡ 2011.10.07 ¼³Èñ¿ø   	
+//ì†ì„± ì‹œìŠ¤í…œ Text ì¶”ê°€ 2011.10.07 ì„¤í¬ì›   	
 3661	"Pentagram item"
 3662	"Slot of Anger (1)"
 3663	"Slot of Blessing (2)"
@@ -3823,14 +3823,14 @@
 3747	"You cannot mine when you have a private store."
 3748	"You cannot mine while under attacked."
 3749	" "
-// Ä³¸¯ÅÍ »èÁ¦ °æ°íÃ¢ ³»¿ë Ãß°¡ (2011-10-19 È«½Â¿í)	
+// ìºë¦­í„° ì‚­ì œ ê²½ê³ ì°½ ë‚´ìš© ì¶”ê°€ (2011-10-19 í™ìŠ¹ìš±)	
 3750	"Warning"
 3751	"You cannot restore a deleted character!"
 3752	"(General and cash items are not recoverable)"
 3753	"You cannot use this while the same buff and seals last for 6 hours or more."
-// Å¬¶óÀÌ¾ğÆ® ½ÇÇà ½Ã ÆÄÀÏÀÌ ¼Õ»ó µÇ¾úÀ» ¶§ Àç¼³Ä¡ À¯µµ Ãâ·Â ¸Ş½ÃÁö Ãß°¡ (2011-11-14 È«½Â¿í)	
+// í´ë¼ì´ì–¸íŠ¸ ì‹¤í–‰ ì‹œ íŒŒì¼ì´ ì†ìƒ ë˜ì—ˆì„ ë•Œ ì¬ì„¤ì¹˜ ìœ ë„ ì¶œë ¥ ë©”ì‹œì§€ ì¶”ê°€ (2011-11-14 í™ìŠ¹ìš±)	
 3754	"Client file has been corrupted. Please reinstall the client again."
-// eX701 °ü·Ã ÀÛ¾÷ (2011-11-25 ±èÁ¤¹Î)	
+// eX701 ê´€ë ¨ ì‘ì—… (2011-11-25 ê¹€ì •ë¯¼)	
 3755	"Monster wings"
 3756	"Monster wings ingredient"
 3757	"Socket items"
@@ -3841,10 +3841,10 @@
 3762	"Some commands cannot be used because the opponent is equipped with a Pandora Pick."
 3763	"Only Level 170 and above may enter."
 3764	"Do you want to pick up this jewel?"
-// ¹Â µµ¿ì¹Ì °ü·Ã ¸Ş½ÃÁö Ãß°¡ 2011.12.13	
-// ¹Â µµ¿ì¹Ì Ã¢ °ü·Ã Text	
+// ë®¤ ë„ìš°ë¯¸ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ 2011.12.13	
+// ë®¤ ë„ìš°ë¯¸ ì°½ ê´€ë ¨ Text	
 3765	"Use skills closely"
-// ¾Æ¸£Ä«Àï µî·Ï ¹æ½Ä º¯°æ 2012.02.02	
+// ì•„ë¥´ì¹´ìŸ ë“±ë¡ ë°©ì‹ ë³€ê²½ 2012.02.02	
 3766	"Sign of Lord Registration Status"
 3767	"Sign of Lord Registration Order"
 3768	"Number of Registrations"
@@ -3860,13 +3860,13 @@
 3778	"Would you like to register Signs of Lord?"
 3779	"Signs of Lord have been registered successfully."
 3780	"Failed to register Signs of Lord."
-// ÆÇÅ¸±×·¥ UI Ãß°¡ 2012.02.02	
+// íŒíƒ€ê·¸ë¨ UI ì¶”ê°€ 2012.02.02	
 3781	"Element"
 3782	"Pentagram Info"
-// Ã¢°í º¸¾È°ü·Ã ½ºÅ©¸³Æ® Ãß°¡ (2012. 02. 03 ¹ÚÇıÁø)	
+// ì°½ê³  ë³´ì•ˆê´€ë ¨ ìŠ¤í¬ë¦½íŠ¸ ì¶”ê°€ (2012. 02. 03 ë°•í˜œì§„)	
 3783	"Lock"
 3784	"Dissolve"
-// Ex700 °ü·Ã Ãß°¡ 2012.2.10	
+// Ex700 ê´€ë ¨ ì¶”ê°€ 2012.2.10	
 3785	"Please select the guild to dissolve hostility."
 3786	"Would you like to dissolve this guild from hostile guilds?"
 3787	"Server"
@@ -3874,9 +3874,9 @@
 3789	"Cannot send 2 billion Zen or more"
 3790	"Total Repair Cost"
 3791	"That guild does not exist."
-// °Å·¡ ½ÂÀÎ ¹®±¸ Ãß°¡ (2012-02-17 È«½Â¿í)	
+// ê±°ë˜ ìŠ¹ì¸ ë¬¸êµ¬ ì¶”ê°€ (2012-02-17 í™ìŠ¹ìš±)	
 3792	"Waiting for transaction approval"
-// ¾Æ¸£Ä«Àï ÁøÇà UI ÅØ½ºÆ® Ãß°¡ (2012-03-05 È«½Â¿í)	
+// ì•„ë¥´ì¹´ìŸ ì§„í–‰ UI í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-03-05 í™ìŠ¹ìš±)	
 3793	"Battle status"
 3794	"Guild member status"
 3795	"Guild master Info"
@@ -3890,19 +3890,19 @@
 3803	"Capture"
 3804	"Recapturing"
 3805	"Recapture"
-// ¾Æ¸£Ä«Àï ¼ºÁÖÀÇ Ç¥½Ä µî·Ï °ü·Ã ¸Ş½ÃÁö Ãß°¡ (2012-03-07 È«½Â¿í)	
+// ì•„ë¥´ì¹´ìŸ ì„±ì£¼ì˜ í‘œì‹ ë“±ë¡ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ (2012-03-07 í™ìŠ¹ìš±)	
 3806	"Exceeded maximum number of Sign of Lord"
-// ¾Æ¸£Ä«Àï µî·Ï UI ÅØ½ºÆ® Ãß°¡ (2012-03-08 È«½Â¿í)	
+// ì•„ë¥´ì¹´ìŸ ë“±ë¡ UI í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-03-08 í™ìŠ¹ìš±)	
 3807	"If ranks are the same, the first guild that registered has higher priority."
-// ±Û·Î¹ú IBS°ü·Ã ÄğÅ¸ÀÓ ¹®±¸ Ãß°¡ (2012-03-09 ¿ÀÅÃ»ó)	
+// ê¸€ë¡œë²Œ IBSê´€ë ¨ ì¿¨íƒ€ì„ ë¬¸êµ¬ ì¶”ê°€ (2012-03-09 ì˜¤íƒìƒ)	
 3808	"You can purchase it after a while."
 3809	"You can gift it after a while."
-// Ã¤ÆÃÃ¢ ¸»¸Ó¸® Ãß°¡ (2012-03-19 È«½Â¿í)	
+// ì±„íŒ…ì°½ ë§ë¨¸ë¦¬ ì¶”ê°€ (2012-03-19 í™ìŠ¹ìš±)	
 3810	"Guild"
 3811	"Gens"
 3812	"Party"
 3813	"Whisper"
-// eX702 °ü·Ã ÀÛ¾÷ (2012-03-29 ±èÁ¤¹Î)	
+// eX702 ê´€ë ¨ ì‘ì—… (2012-03-29 ê¹€ì •ë¯¼)	
 3814	"You need to unequip the Pandora Pick to use some of the commands."
 3815	"You cannot attack while a Pandora Pick is equipped."
 3816	"You cannot mine when you are in another form."
@@ -3915,20 +3915,20 @@
 3823	"Mining"
 3824	"Obtained"
 3825	"You cannot use the Helper System when you equip a Pandora Pick."
-// °Å·¡ º¯°æ ¹®±¸ Ãß°¡ (2012-04-09 ÃÖÀ¯Áø)	
+// ê±°ë˜ ë³€ê²½ ë¬¸êµ¬ ì¶”ê°€ (2012-04-09 ìµœìœ ì§„)	
 3826	"Trading items have been changed. please confirm the changed items."
-// µµ¿ì¹Ì À¯·áÈ­ ÀÛ¾÷ ¸Ş½ÃÁö Ãß°¡ (2012-04-26 ±èÁ¤¹Î)	
+// ë„ìš°ë¯¸ ìœ ë£Œí™” ì‘ì—… ë©”ì‹œì§€ ì¶”ê°€ (2012-04-26 ê¹€ì •ë¯¼)	
 3827	"Use the Helper Expansion function to increase your attack range up to 8."
 3828	"You can find the Helper Expansion function at the in-game shop."
 3829	"Helper Expansion allows you to set up acquisition range,"
 3830	"Item repair, and selective looting."
 3831	"Helper Expansion function"
-// ¿É¼ÇÃ¢ È®Àå¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2012-05-09 È«½Â¿í)	
+// ì˜µì…˜ì°½ í™•ì¥ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-05-09 í™ìŠ¹ìš±)	
 3832	"Name display"
 3833	"Monster display"
-// ¾Æ¸£Ä«Àï Ã¤³Î¿¡¼­ °³ÀÎ»óÁ¡ ¿­±â ½Ãµµ ½Ã ¿À·ù¸Ş½ÃÁöÃß°¡ (2012-05-21 ±è½ÂÅÂ)	
+// ì•„ë¥´ì¹´ìŸ ì±„ë„ì—ì„œ ê°œì¸ìƒì  ì—´ê¸° ì‹œë„ ì‹œ ì˜¤ë¥˜ë©”ì‹œì§€ì¶”ê°€ (2012-05-21 ê¹€ìŠ¹íƒœ)	
 3834	"Cannot open personal store"
-// ÆæÅ¸±×·¥ Á¤º¸Ã¢ È®Àå¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2012-05-23 È«½Â¿í)	
+// íœíƒ€ê·¸ë¨ ì •ë³´ì°½ í™•ì¥ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-05-23 í™ìŠ¹ìš±)	
 3835	"Interaction Table"
 3836	"Weak/None"
 3837	"Inherent"
@@ -3938,7 +3938,7 @@
 3841	"Earth"
 3842	"Wind"
 3843	"Darkness"
-// ¸ÅÄª ½Ã½ºÅÆ ÅØ½ºÆ® Ãß°¡ (2012-06-01 ÀÌ±â¼ö)	
+// ë§¤ì¹­ ì‹œìŠ¤íƒ¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-06-01 ì´ê¸°ìˆ˜)	
 3844	"Party and Guild Matching"
 3845	"Party"
 3846	"Guild"
@@ -4053,26 +4053,26 @@
 3955	"This character cannot be approved and will be removed from the list."
 3956	"Lv.%d - max level"
 3957	"This guild does not exist."
-// ¸ÅÄª ½Ã½ºÅÆ ¿©±â±îÁö Ãß°¡ ¿¹Á¤ (2012-06-01 ÀÌ±â¼ö)	
-// µÎ±ÙµÎ±Ù »óÀÚ ¿©¸§ÀÌº¥Æ® 2012 Á¶ÇÕ ¿ë ÅØ½ºÆ® Ãß°¡ (2012/07/09 ±è½ÂÅÂ Ãß°¡)	
+// ë§¤ì¹­ ì‹œìŠ¤íƒ¬ ì—¬ê¸°ê¹Œì§€ ì¶”ê°€ ì˜ˆì • (2012-06-01 ì´ê¸°ìˆ˜)	
+// ë‘ê·¼ë‘ê·¼ ìƒì ì—¬ë¦„ì´ë²¤íŠ¸ 2012 ì¡°í•© ìš© í…ìŠ¤íŠ¸ ì¶”ê°€ (2012/07/09 ê¹€ìŠ¹íƒœ ì¶”ê°€)	
 //3958	"Luxurious Box"
 //3959	"Exciting Box"
-//±æµå ½Ã½ºÅÛ ³» ÇÏµåÄÚµùµÈ ÅØ½ºÆ® ½ºÅ©¸³Æ®·Î ÀÌµ¿/Ãß°¡ (2012/07/09 ¹ÚÇıÁø	
+//ê¸¸ë“œ ì‹œìŠ¤í…œ ë‚´ í•˜ë“œì½”ë”©ëœ í…ìŠ¤íŠ¸ ìŠ¤í¬ë¦½íŠ¸ë¡œ ì´ë™/ì¶”ê°€ (2012/07/09 ë°•í˜œì§„	
 3960	"You sent an alliance request to guild %s."
 3961	"You sent a hostility request to guild %s."
 3962	"You sent a Suspend Hostilities request to guild %s."
-// ÆæÅ¸±×·¥ ¿É¼Ç Ãß°¡¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2012-07-26 È«½Â¿í)	
+// íœíƒ€ê·¸ë¨ ì˜µì…˜ ì¶”ê°€ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-07-26 í™ìŠ¹ìš±)	
 3963	"(You need %s Errte %d Rank %d Level)"
 3964	"Anger"
 3965	"Blessing"
 3966	"Integrity"
 3967	"Divinity"
 3968	"Radiance"
-// ¾ÆÄÉ·Ğ ¸Ê ÀÌ¸§ ¼¼ºÎ Ç¥½Ã (2012-08-20 È«½Â¿í)	
+// ì•„ì¼€ë¡  ë§µ ì´ë¦„ ì„¸ë¶€ í‘œì‹œ (2012-08-20 í™ìŠ¹ìš±)	
 3969	"Debenter"
 3970	"Alkmar"
 3971	"Ubaid"
-// ¿¬µ¿ ÅØ½ºÆ® Ãß°¡ (2012-08-23 ÀÌ±â¼ö)	
+// ì—°ë™ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-08-23 ì´ê¸°ìˆ˜)	
 3972	"You can share and find information if you connect your account to your Facebook account."
 3973	"Connect"
 3974	"J"
@@ -4096,25 +4096,25 @@
 3992	"Other Items"
 3993	"%s has sold all of the items in his/her personal store."
 3994	"https://www.facebook.com/TwilightMu"
-// ¿¬µ¿ ½Ã½ºÅÛ ¿©±â±îÁö Ãß°¡ ¿¹Á¤ (2012-08-23 ÀÌ±â¼ö)	
-// ¿É¼Ç È®Àå °ü·Ã ¸Ş½ÃÁö Ãß°¡ (2012-08-28 ±èÁ¤¹Î)	
+// ì—°ë™ ì‹œìŠ¤í…œ ì—¬ê¸°ê¹Œì§€ ì¶”ê°€ ì˜ˆì • (2012-08-23 ì´ê¸°ìˆ˜)	
+// ì˜µì…˜ í™•ì¥ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ (2012-08-28 ê¹€ì •ë¯¼)	
 3995	"Level"
 3996	"Life"
 3997	"Mana"
 3998	"Increase Wizardry Damage"
 3999	"Increase Attack"
-// ¹Â µµ¿ì¹Ì ÀÏ¹İ°ø°İ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2012-08-29 »çÀçÀÏ)	
+// ë®¤ ë„ìš°ë¯¸ ì¼ë°˜ê³µê²© ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-08-29 ì‚¬ì¬ì¼)	
 4000	"Use Regular Attack"
 4001	"Normal attack is used when you cannot use any attack skills."
-// ¼­¹ö(Ã¤³Î) Ç¥±â¹æ½Ä °³¼±À¸·Î ÀÎÇÑ ÅØ½ºÆ® Ãß°¡ - Å¬¶óÀÌ¾ğÆ®ÆÀ °³¼±ÀÛ¾÷ (2012-09-04 »çÀçÀÏ)	
+// ì„œë²„(ì±„ë„) í‘œê¸°ë°©ì‹ ê°œì„ ìœ¼ë¡œ ì¸í•œ í…ìŠ¤íŠ¸ ì¶”ê°€ - í´ë¼ì´ì–¸íŠ¸íŒ€ ê°œì„ ì‘ì—… (2012-09-04 ì‚¬ì¬ì¼)	
 4002	"%s-%d(PvP) %s"
 4003	"%s-%d(Non-PvP) %s"
 4004	"%s-%d(Gold PvP) %s"
 4005	"%s-%d(Gold Non-PvP) %s"
-// ¾ÆÄÉ·Ğ ¼öÈ£ÀÚ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2012-10-22 È«½Â¿í)	
+// ì•„ì¼€ë¡  ìˆ˜í˜¸ì ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-10-22 í™ìŠ¹ìš±)	
 4006	"Enter as Protector of Archeron."
 4007	"You are safe for now, but be prepared for attacks from cursed monsters."
-// ÀÎ°ÔÀÓ¼¥ °³¼± °ü·Ã ÅØ½ºÆ® Ãß°¡_Àü¼Ò¹ı ´ëÀÀ (2012-10-24 »çÀçÀÏ)	
+// ì¸ê²Œì„ìƒµ ê°œì„  ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€_ì „ì†Œë²• ëŒ€ì‘ (2012-10-24 ì‚¬ì¬ì¼)	
 4008	"You can use the cash item in your Storage#    for one year from the date of purchase."
 4009	"Your purchsed item will be expired after one year from the date of purchase."
 4010	"You cannot cancel the purchase nor refund once you buy the items."
@@ -4123,16 +4123,16 @@
 4013	"Questions About Items"
 4014	"4014 "- Call center: 000000000 # Consultation time: Weekdays 10:00 ~ 18: 30 # Lunch time: 13:00 ~ 14: 00 # Saturdays, Sundays, court and temporary holidays are closed."
 4015	"- General Information#   MU Website > Support > General Information"
-// ¾ÆÄÉ·Ğ ¾ÈÀüÁö´ë ÀÌ¸§ Ãß°¡ (2012-10-24 È«½Â¿í)	
+// ì•„ì¼€ë¡  ì•ˆì „ì§€ëŒ€ ì´ë¦„ ì¶”ê°€ (2012-10-24 í™ìŠ¹ìš±)	
 4016	"Tree of Life Shelter"
-// ÆÇµµ¶ó º¸¼® °ü·Ã ÅØ½ºÆ® Ãß°¡ (2012-10-29 ±èÁ¤¹Î)	
+// íŒë„ë¼ ë³´ì„ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-10-29 ê¹€ì •ë¯¼)	
 4017	"You cannot mine while trading/buying."
 4018	"You cannot trade/purchase while mining."
 4019	"You cannot open your personal store while mining."
-// ¿¬µ¿ ÅØ½ºÆ® Ãß°¡ (2012-10-31 ÀÌ±â¼ö)	
+// ì—°ë™ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-10-31 ì´ê¸°ìˆ˜)	
 4020	"You are connected to your Facebook account. Please click the Connect button to make any changes."
 4021	"There was an error connecting to your Facebook account. Please click the Connect button to try again."
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡ (2012-11-01 ÀÌ±â¼ö)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-11-01 ì´ê¸°ìˆ˜)	
 4022	"Ranking"
 4023	"Use the Check Ranking button to view your accumulated score and ranking."
 4024	"Enter Survival of the Fittest"
@@ -4168,33 +4168,33 @@
 4054	"Win Survival of the Fittest and add your name on the Hall of Fame. Prove you're worth it."
 4055	"No ranking list available."
 4056	"You cannot use this."
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® ¿©±â±îÁö Ãß°¡ ¿¹Á¤ (2012-11-01 ÀÌ±â¼ö)	
-// ´ë¸¸ Ã¤ÆÃ µµ¹è¹æÁö °ü·Ã ÅØ½ºÆ® Ãß°¡ (2012-11-08 ¹ÚÇıÁø)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì—¬ê¸°ê¹Œì§€ ì¶”ê°€ ì˜ˆì • (2012-11-01 ì´ê¸°ìˆ˜)	
+// ëŒ€ë§Œ ì±„íŒ… ë„ë°°ë°©ì§€ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-11-08 ë°•í˜œì§„)	
 4057	"You cannot enter repeatedly,"
 4058	"You are banned from chatting for %d sec."
 4059	""
-// ¸ÅÄª ½Ã½ºÅÆ ÅØ½ºÆ® Ãß°¡ (2012-11-13 ÀÌ±â¼ö)	
+// ë§¤ì¹­ ì‹œìŠ¤íƒ¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-11-13 ì´ê¸°ìˆ˜)	
 4060	"Your party is inactive."
-//ÇØ¿Ü ºñÁ¤»ó ¼Ó¼º º¸À¯ ½Ã ¿¡·¯ ¸Ş½ÃÁö Ãß°¡ (2012-11-13 ¹ÚÇıÁø)	
+//í•´ì™¸ ë¹„ì •ìƒ ì†ì„± ë³´ìœ  ì‹œ ì—ëŸ¬ ë©”ì‹œì§€ ì¶”ê°€ (2012-11-13 ë°•í˜œì§„)	
 4061	"Your connection to the server will now be interrupted due to the discovery of illegal items."
-// ¾ÆÄÉ·Ğ ¼öÈ£ÀÚ ´ë±â ½Ã°£ ÆË¾÷ ³»¿ë Ãß°¡ (2012-11-16 È«½Â¿í)	
+// ì•„ì¼€ë¡  ìˆ˜í˜¸ì ëŒ€ê¸° ì‹œê°„ íŒì—… ë‚´ìš© ì¶”ê°€ (2012-11-16 í™ìŠ¹ìš±)	
 4062	"You will be taken to Noria in 10 sec. You cannot visit the MU Item Shop or NPC shops during the wait."
-// ¸ÅÄª ½Ã½ºÅÆ ÅØ½ºÆ® Ãß°¡ (2012-11-26 ÀÌ±â¼ö)	
+// ë§¤ì¹­ ì‹œìŠ¤íƒ¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-11-26 ì´ê¸°ìˆ˜)	
 4063	"Party menber is logged out."
-// °Å·¡ Áß ¿¡¸£ÅÚ ÀåÂø ¹× ÇØÁ¦ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2012-11-29 È«½Â¿í)	
+// ê±°ë˜ ì¤‘ ì—ë¥´í…” ì¥ì°© ë° í•´ì œ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-11-29 í™ìŠ¹ìš±)	
 4064	"You cannot equip or unequip Pentagrams or Errtels while trading."
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡ (2012-12-04 ÀÌ±â¼ö)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-12-04 ì´ê¸°ìˆ˜)	
 4065	"You cannot enter Survival of the Fittest from this area."
 4066	"You cannot enter during battle."
 4067	"You cannot enter Survival of the Fittest during a Guild War."
 4068	"You cannot enter Survival of the Fittest while using a mount."
 4069	"You cannot enter Survival of the Fittest with Transformation Ring on."
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® ¿©±â±îÁö Ãß°¡ ¿¹Á¤ (2012-12-04 ÀÌ±â¼ö)	
-//ÀÏº» ½Å³âÀÌº¥Æ®¿ë ÅØ½ºÆ® Ãß°¡ (2012-12-11 ¹ÚÇıÁø)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì—¬ê¸°ê¹Œì§€ ì¶”ê°€ ì˜ˆì • (2012-12-04 ì´ê¸°ìˆ˜)	
+//ì¼ë³¸ ì‹ ë…„ì´ë²¤íŠ¸ìš© í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-12-11 ë°•í˜œì§„)	
 4070	"New Year Monster Summoning Scroll Strengthener"
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡ (2012-12-13 ÀÌ±â¼ö)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-12-13 ì´ê¸°ìˆ˜)	
 4071	"You can view this when the tournament is over."
-// ¸£³×»ó½º ÀÎÃ¾Æ® È®Àå ÅØ½ºÆ® Ãß°¡ ( 2012-12-14 ±èÁ¤¹Î )	
+// ë¥´ë„¤ìƒìŠ¤ ì¸ì²¸íŠ¸ í™•ì¥ í…ìŠ¤íŠ¸ ì¶”ê°€ ( 2012-12-14 ê¹€ì •ë¯¼ )	
 4100	"+16 Item Creation"
 4101	"+17 Item Creation"
 4102	"+18 Item Creation"
@@ -4211,10 +4211,10 @@
 4113	"+29 Item Creation"
 4114	"+30 Item Creation"
 4115	"+31 Item Creation"
-// Ä«¿À½ºÄ³½½ ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡ (2012-12-26 »çÀçÀÏ)	
+// ì¹´ì˜¤ìŠ¤ìºìŠ¬ ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€ (2012-12-26 ì‚¬ì¬ì¼)	
 4116	"Preparation"
 4117	"This is not your time to enter."
-//»óÁ¡º¸¿Ï(2013-01-09 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-01-09 ìµœìœ ì§„)	
 4118	"Send whisper"
 4119	"There is no store that meets the conditions."
 4120	"%s is insufficient."
@@ -4237,27 +4237,27 @@
 4137	"Jewel of Bless: %s"
 4138	"Jewel of Soul: %s"
 4139	"Jewel of Chaos: %s"
-//Ã¤±¼ º¸»ó È¹µæ ¸Ş½ÃÁö Ãß°¡ (2013-01-10 È«½Â¿í)	
+//ì±„êµ´ ë³´ìƒ íšë“ ë©”ì‹œì§€ ì¶”ê°€ (2013-01-10 í™ìŠ¹ìš±)	
 4140	"You have received the reward for the mining."
-//»óÁ¡º¸¿Ï(2013-01-10 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-01-10 ìµœìœ ì§„)	
 4141	"Selling Price"
-// º¸¼® Á¶ÇÕ ÇØÃ¼ ¸Ş½ÃÁö Ãß°¡ (2013-01-14 È«½Â¿í)	
+// ë³´ì„ ì¡°í•© í•´ì²´ ë©”ì‹œì§€ ì¶”ê°€ (2013-01-14 í™ìŠ¹ìš±)	
 4142	"Assembly of Jewels have been succeeded."
 4143	"Assembly of Jewels have been failed."
 4144	"Dismantlement of Jewels have been succeeded."
 4145	"Dismantlement of Jewels have been failed."
-//½Å±Ô ÀÌº¥Æ®¿ë ¸Ş½ÃÁö Ãß°¡ (2013-01-14 ¹ÚÇıÁø)	
+//ì‹ ê·œ ì´ë²¤íŠ¸ìš© ë©”ì‹œì§€ ì¶”ê°€ (2013-01-14 ë°•í˜œì§„)	
 4146	"Event Inventory"
 4147	""
 4148	"%s event is in progress"
 4149	"Click to open the event window"
-//¹Ì´Ï°ÔÀÓ ¸Ş½ÃÁö Ãß°¡ (2013-01-14 ¹ÚÇıÁø)	
+//ë¯¸ë‹ˆê²Œì„ ë©”ì‹œì§€ ì¶”ê°€ (2013-01-14 ë°•í˜œì§„)	
 4150	"Challenge! MU Roomy Event"
 4151	"MU Roomy"
 4152	"Start Game"
 4153	"Exit Game"
 4154	"Score"
-//¹Ì´Ï°ÔÀÓ µµ¿ò¸» ¸Ş½ÃÁö Ãß°¡ (2013-01-14 ¹ÚÇıÁø)	
+//ë¯¸ë‹ˆê²Œì„ ë„ì›€ë§ ë©”ì‹œì§€ ì¶”ê°€ (2013-01-14 ë°•í˜œì§„)	
 4155	"<Game Objective>"
 4156	"Achieve high score by matching as many number cards as possible."
 4157	"(Number cards are made of red, blue, yellow cards with numbers 1-8)"
@@ -4275,7 +4275,7 @@
 4169	"<Game Score Rewards>"
 4170	"Above 250 points - Basic Reward Item"
 4171	"Above 400 points - Rare Reward Item"
-//¹Ì´Ï°ÔÀÓ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ (2013-01-22 ¹ÚÇıÁø)	
+//ë¯¸ë‹ˆê²Œì„ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ (2013-01-22 ë°•í˜œì§„)	
 4172	"Insufficient card deck item."
 4173	"Click the card deck at the bottom left corner."
 4174	"You can't raise any more cards."
@@ -4292,37 +4292,37 @@
 4185	"Cannot move the item."
 4186	"Required item - card deck"
 4187	"* Throw away card - right-click"
-// ÀÌº¥Æ® Ã¢°ü·Ã ¸Ş½ÃÁö Ãß°¡(2013-04-10 ¹ÚÇıÁø)	
+// ì´ë²¤íŠ¸ ì°½ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€(2013-04-10 ë°•í˜œì§„)	
 4188	"Close the event window."
 4189	"Cannot open the event window. Close the window."
 4190	"Cannot open the event window when you have a private store."
-// ±Û·Î¹ú ·Î·£½ÃÀå¿¡¼­ ÀÌµ¿ ¸í·ÉÃ¢ »ç¿ë ºÒ°¡ ¸Ş½ÃÁö Ãß°¡ (±Û·Î¹ú 2013-01-23 È«½Â¿í)	
+// ê¸€ë¡œë²Œ ë¡œëœì‹œì¥ì—ì„œ ì´ë™ ëª…ë ¹ì°½ ì‚¬ìš© ë¶ˆê°€ ë©”ì‹œì§€ ì¶”ê°€ (ê¸€ë¡œë²Œ 2013-01-23 í™ìŠ¹ìš±)	
 4191	"Warp command window cannot be used in this area."
-//»óÁ¡º¸¿Ï(2013-01-23 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-01-23 ìµœìœ ì§„)	
 4192	"[%s - Loren Market]"
 4193	"The other player's inventory space is insufficient."
-// ¶óÀÌºê NPC»óÁ¡ ¸Ş½ÃÁö º¸¿Ï (2013-02-04 »çÀçÀÏ)	
+// ë¼ì´ë¸Œ NPCìƒì  ë©”ì‹œì§€ ë³´ì™„ (2013-02-04 ì‚¬ì¬ì¼)	
 4194	"The assigned time of using NPC Store is over. Please reopen the NPC Store."
-//»óÁ¡º¸¿Ï(2013-02-05 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-02-05 ìµœìœ ì§„)	
 4195	"%s item has been sold to %s."
-// ¿¬µ¿ ÅØ½ºÆ® Ãß°¡ (2013-02-06 ÀÌ±â¼ö)	
+// ì—°ë™ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-02-06 ì´ê¸°ìˆ˜)	
 4196	"Please check items in 'etc' category. The usage of Facebook can be restricted due to excessive message transmission of item acquisition."
-// ÀÌº¥Æ® ¼ÒÁöÇ° ¸Ş½ÃÁö Ãß°¡ (2013-02-26 ¹ÚÇıÁø)	
+// ì´ë²¤íŠ¸ ì†Œì§€í’ˆ ë©”ì‹œì§€ ì¶”ê°€ (2013-02-26 ë°•í˜œì§„)	
 4197	"Event inventory is full."
-//»óÁ¡º¸¿Ï(2013-03-08 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-03-08 ìµœìœ ì§„)	
 4198	"Sales Store"
 4199	"Purchasing Store"
 4200	"It will be handed out after a certain fee is deducted."
 4201	"Selling Price"
 4202	"Actual Payment Price"
-// ¹Ì´Ï¸Ê ÅØ½ºÆ® Ãß°¡ (2013-03-14 ÀÌ±â¼ö)	
+// ë¯¸ë‹ˆë§µ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-03-14 ì´ê¸°ìˆ˜)	
 4203	"Transparency Adjustment"
 4204	" [ "
 4205	"Low"
 4206	" ] "
-//»óÁ¡º¸¿Ï(2013-03-27 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-03-27 ìµœìœ ì§„)	
 4207	"The store name has a prohibited word."
-// ¹Ì´Ï¸Ê ÅØ½ºÆ® Ãß°¡ (2013-04-02 ÀÌ±â¼ö)	
+// ë¯¸ë‹ˆë§µ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-04-02 ì´ê¸°ìˆ˜)	
 4208	"High"
 4209	"Adjust Size"
 4210	" - "
@@ -4330,26 +4330,26 @@
 4212	" + "
 4213	"Enlarge"
 4214	"Cannot open map in this area."
-// Áß±¹ ½Å¹®ÃâÆÇÃÑ¼­ ½É»ç °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-04-12 È«½Â¿í)	
+// ì¤‘êµ­ ì‹ ë¬¸ì¶œíŒì´ì„œ ì‹¬ì‚¬ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-04-12 í™ìŠ¹ìš±)	
 4215	"Elimination"
 4216	"Item."
-// ¸ÅÄª ½Ã½ºÅÆ ÅØ½ºÆ® Ãß°¡ (2013-04-12 ÀÌ±â¼ö)	
+// ë§¤ì¹­ ì‹œìŠ¤íƒ¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-04-12 ì´ê¸°ìˆ˜)	
 4217	"A"
-//»óÁ¡º¸¿Ï(2013-04-22 ÃÖÀ¯Áø)	
+//ìƒì ë³´ì™„(2013-04-22 ìµœìœ ì§„)	
 4218	"Try purchasing again after closing the window"
 4219	"_______________________________"
-// ÀÏº» ÀÌº¥Æ® È²±İÀÇ Äİ·Î¼­½º °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-05-14 ÃÖ¿¹½½) 		
+// ì¼ë³¸ ì´ë²¤íŠ¸ í™©ê¸ˆì˜ ì½œë¡œì„œìŠ¤ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-05-14 ìµœì˜ˆìŠ¬) 		
 4220	"Summon golden monsters"
 4221	"Golden monsters will be summoned"
 4223	"Will you summon?"
 4224	"Confirm"
 4225	"Cancel"
-// ¶óÀÌºê ¹ö±× ¼öÁ¤ ÅØ½ºÆ® Ãß°¡ (2013-05-20 »çÀçÀÏ)		
+// ë¼ì´ë¸Œ ë²„ê·¸ ìˆ˜ì • í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-05-20 ì‚¬ì¬ì¼)		
 4226	"The counterpart exceeded the maximum capacity of Zen"
 4227	"Select the hostile guild you want to apply for"
-// ¿äÁ¤ ¸¶½ºÅÍ ½ºÅ³ Áß ºí·¹½º ½ºÅ³ ¼³Á¤ Á¦ÇÑ (2013-05-31 È«½Â¿í)	
+// ìš”ì • ë§ˆìŠ¤í„° ìŠ¤í‚¬ ì¤‘ ë¸”ë ˆìŠ¤ ìŠ¤í‚¬ ì„¤ì • ì œí•œ (2013-05-31 í™ìŠ¹ìš±)	
 4228	"Target is invalid"
-// È¯¿µÀÇ»ç¿ø ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡#1 (2013-06-07 »çÀçÀÏ)	
+// í™˜ì˜ì˜ì‚¬ì› ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€#1 (2013-06-07 ì‚¬ì¬ì¼)	
 4229	"Illusion Temple Championship"
 4230	"Tormented Square Championship"
 4231	"Check Tournament Info"
@@ -4402,7 +4402,7 @@
 4278	"Game Schedule"
 4279	"You will awarded Wings of Conqueror for being the strongest player."
 4280	"Entering the Illusion Temple Championship"
-//¹Ã ¼ÒÁöÇ°°ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-06-13 ¹ÚÇıÁø)	
+//ë®¨ ì†Œì§€í’ˆê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-06-13 ë°•í˜œì§„)	
 4281	"MUUN Inventory"
 4282	"Main"
 4283	"Sub"
@@ -4410,7 +4410,7 @@
 4285	"Muun Illustrated Book"
 4286	"%d / %d"
 4287	"MUUN Inventory is Full"
-// È¯¿µÀÇ»ç¿ø ÃÖ°­ÀÚÀü ÅØ½ºÆ® Ãß°¡#2 (2013-06-07 »çÀçÀÏ)	
+// í™˜ì˜ì˜ì‚¬ì› ìµœê°•ìì „ í…ìŠ¤íŠ¸ ì¶”ê°€#2 (2013-06-07 ì‚¬ì¬ì¼)	
 4288	"Items are not available yet."
 4289	"Please click 'Accept' after checking the Recipient List"
 4290	"After entering the Illusion Temple Championship, your character will not be able to teleport."
@@ -4423,7 +4423,7 @@
 4297	"The Stone Statue has already been conquered by your Team."
 4298	"You have failed at obtaining the Sacred Artifact."
 4299	"You have failed at conquering the Stone Statue."
-// °æÇèÄ¡ º¸¿Ï¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2013-06-28 È«½Â¿í)	
+// ê²½í—˜ì¹˜ ë³´ì™„ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-06-28 í™ìŠ¹ìš±)	
 4300	"Additional EXP"
 4301	"PC Cafe Bonus (+%d%%)"
 4302	"EXP Event (%d.%dX)"
@@ -4442,13 +4442,13 @@
 4315	"No Additiona EXP"
 4316	"Total +%d%% additionally received"
 4317	"Seal of Wealth (+%d%%)"
-// ¾ÆÄÉ·Ğ ¸Ê ÀÌ¸§ ¼¼ºÎ Ç¥½Ã Ãß°¡ (2013-07-05 ±èÀÇ°Ç)	
+// ì•„ì¼€ë¡  ë§µ ì´ë¦„ ì„¸ë¶€ í‘œì‹œ ì¶”ê°€ (2013-07-05 ê¹€ì˜ê±´)	
 4318	"Uruk Mountain"
-//¹Ã ¾ÆÀÌÅÜ ÅøÆÁ°ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-07-08 ¹ÚÇıÁø)	
+//ë®¨ ì•„ì´í… íˆ´íŒê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-07-08 ë°•í˜œì§„)	
 4319	"(%s)"
 4320	"O"
 4321	"Entrance request has been made already."
-// ÀÏº» Ä³¸¯ÅÍÄ«µå ¿À·ù ¸Ş½ÃÁö Ãß°¡ (2013-07-03 10:28 AM ÃÖ¿¹½½) 	
+// ì¼ë³¸ ìºë¦­í„°ì¹´ë“œ ì˜¤ë¥˜ ë©”ì‹œì§€ ì¶”ê°€ (2013-07-03 10:28 AM ìµœì˜ˆìŠ¬) 	
 4322	"All requirements must be fulfilled before creating a character."
 4323	"MU Alliance"
 4324	"Phantom Brotherhood"
@@ -4463,19 +4463,19 @@
 4333	"You have already received the rewards"
 4334	"You're not one of recipients"
 4335	"The Stone Statue has already been conquered."
-// °ñµåÃ¤³Î ÅØ½ºÆ® Ãß°¡(2013-07-25 ±èÀÇ°Ç)	
+// ê³¨ë“œì±„ë„ í…ìŠ¤íŠ¸ ì¶”ê°€(2013-07-25 ê¹€ì˜ê±´)	
 4336	"To enter the Gold Channel, please use the Gold Channel Ticket"
 4337	""
 4338	"There will be additional advantages."
-// 'Ä«·Ğ'¼­¹ö ÅØ½ºÆ® Ãß°¡(2013-07-25 ±èÀÇ°Ç	
+// 'ì¹´ë¡ 'ì„œë²„ í…ìŠ¤íŠ¸ ì¶”ê°€(2013-07-25 ê¹€ì˜ê±´	
 4339	"Talisman of Chaos Assembly and Pandora Card"
 4340	"This item is not for sale"
-// °æÇèÄ¡ º¸¿Ï¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ #2 (2013-07-26 È«½Â¿í)	
+// ê²½í—˜ì¹˜ ë³´ì™„ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ #2 (2013-07-26 í™ìŠ¹ìš±)	
 4341	"Conflict Area additional EXP"
-//¹Ã ¼ÒÁöÇ° ´ÜÃàÅ° ÅØ½ºÆ® Ãß°¡ (2013-08-07 ¹ÚÇıÁø)	
+//ë®¨ ì†Œì§€í’ˆ ë‹¨ì¶•í‚¤ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-08-07 ë°•í˜œì§„)	
 4342	"Y"
 4343	"https://twilight.mu/rankings/top"
-// °æÇèÄ¡ º¸¿Ï¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2013-06-28 È«½Â¿í)	
+// ê²½í—˜ì¹˜ ë³´ì™„ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-06-28 í™ìŠ¹ìš±)	
 4344	"Gained EXP"
 4345	"Total EXP Gained"
 4346	"[Base EXP 100%+(A)Additional EXP]x(B)EXP Increase by"
@@ -4489,10 +4489,10 @@
 4354	"EXP cannot be multiplied."
 4355	"You are gaining Base EXP"
 4356	"(B) EXP will be mutlipled."
-// ³» Äù½ºÆ® Ä³½½/»ç¿ø ÅÇ ¸Ş½ÃÁö Ãß°¡(2013-08-22 ±èÀÇ°Ç)	
+// ë‚´ í€˜ìŠ¤íŠ¸ ìºìŠ¬/ì‚¬ì› íƒ­ ë©”ì‹œì§€ ì¶”ê°€(2013-08-22 ê¹€ì˜ê±´)	
 4357	"You cannot enter more than six times per day."
 4358	"You cannot enter more than once per day."
-// È¯¿µÀÇ»ç¿ø ¸®´º¾ó ½Å±Ô Áöµµ Á¤º¸ UI ÅØ½ºÆ® Ãß°¡ (2013-08-26 »çÀçÀÏ)	
+// í™˜ì˜ì˜ì‚¬ì› ë¦¬ë‰´ì–¼ ì‹ ê·œ ì§€ë„ ì •ë³´ UI í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-08-26 ì‚¬ì¬ì¼)	
 4359	"Illusion Temple Map Info"
 4360	"Combat Waiting Room"
 4361	"MU Alliance Base"
@@ -4507,18 +4507,18 @@
 4370	"Request entry for Illusion Temple"
 4371	"Illusion Temple"
 4372	"Only the Team Leader can invite members."
-// °æÇèÄ¡ º¸¿Ï¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2013-09-02 È«½Â¿í)	
+// ê²½í—˜ì¹˜ ë³´ì™„ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-09-02 í™ìŠ¹ìš±)	
 4373	"Acheron Area Additional EXP (+%d%%)"
 4374	"A Character in the party has exceeded entering 5 times already."
-// Ä³¸¯ÅÍ ¸®´º¾ó °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-09-11 È«½Â¿í)	
+// ìºë¦­í„° ë¦¬ë‰´ì–¼ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-09-11 í™ìŠ¹ìš±)	
 4375	"Slaughterer cannot connect to NON-PVP server."
 4376	"Cannot use more than 2 mounts at once."
 4377	"Occupied item cannot be transferred. Please disable use before the transaction."
 4378	"Mount"
-// ÇØ¿Ü µµ¿ì¹Ì È®Àå ±â´É(¹öÇÁ) º¸¿Ï (2013-10-17 »çÀçÀÏ)	
+// í•´ì™¸ ë„ìš°ë¯¸ í™•ì¥ ê¸°ëŠ¥(ë²„í”„) ë³´ì™„ (2013-10-17 ì‚¬ì¬ì¼)	
 4379	"Mu Helper extension function is required for a character below level 80 to use Mu Helper"
 4380	"Seal of Healing Additional EXP (+%d%%)"
-// ¹èÆ²ÄÚ¾î ÅØ½ºÆ® Ãß°¡ (2013-10-23 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-10-23 ì‚¬ì¬ì¼)	
 4381	"Queuing Battle Core"
 4382	"Exit Battle Core Queue"
 4383	"Receive Battle Core Rewards"
@@ -4532,7 +4532,7 @@
 4391	"I await your return, hero."
 4392	"You can claim the reward obtained in the Battle Core. Claimed event reward items will be sent to Gremory Case."
 4393	"Reward items will be dropped on the ground so please free up space in your inventory."
-// ½Ã·ÃÀÇ±¤Àå ÅØ½ºÆ® Ãß°¡ (2013-10-23 »çÀçÀÏ)	
+// ì‹œë ¨ì˜ê´‘ì¥ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-10-23 ì‚¬ì¬ì¼)	
 4394	"Tormented Square"
 4395	"Qualified"
 4396	"Winning Team"
@@ -4554,64 +4554,64 @@
 4412	"Battle Core"
 4413	"You are entering the finals in which the best team of Tormented Square is decided. 1st place team will be the winner and receive rewards as well as be registered in the Hall of Fame."
 4414	"You are not allowed to enter."
-//º¯½Å¹İÁö Âø¿ë ºÒ°¡ ÅØ½ºÆ® Ãß°¡(2013-10-25 ±èÀÇ°Ç)	
+//ë³€ì‹ ë°˜ì§€ ì°©ìš© ë¶ˆê°€ í…ìŠ¤íŠ¸ ì¶”ê°€(2013-10-25 ê¹€ì˜ê±´)	
 4415	"You cannot equip transformation ring while trading with NPC ."
-// Ä³¸¯ÅÍ ¸®´º¾ó °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-10-28 È«½Â¿í)	
+// ìºë¦­í„° ë¦¬ë‰´ì–¼ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-10-28 í™ìŠ¹ìš±)	
 4416	"You cannot move while using a mount."
-// ¹Ã ¼Òºñ ½Ã½ºÅÛ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-10-30 ¹ÚÇıÁø)	
+// ë®¨ ì†Œë¹„ ì‹œìŠ¤í…œ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-10-30 ë°•í˜œì§„)	
 4417	"Required Item"
 4418	"Exchange Item"
 4419	"Vendor Monica"
 4420	"I've got some special items to exchange with you. Press the exchange button below to exchange items." 
-//4Â÷ ½Ãµå½ºÇÇ¾î ÃßÃâ(2013-10-31 ±èÀÇ°Ç)	
+//4ì°¨ ì‹œë“œìŠ¤í”¼ì–´ ì¶”ì¶œ(2013-10-31 ê¹€ì˜ê±´)	
 4421	"Seed extraction has succeeded."
 4422	"Seed extraction has failed."
 4423	"Master Seal of Wealth (+%d%%)"
-// °æÇèÄ¡ º¸¿Ï¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2013-11-05 È«½Â¿í)	
+// ê²½í—˜ì¹˜ ë³´ì™„ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-11-05 í™ìŠ¹ìš±)	
 4424	"(B)EXP Amplify : %d.%d Times Obtained"
 4425	"------------------------------"
-// ¹Ã ¼Òºñ ½Ã½ºÅÛ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-11-06 ¹ÚÇıÁø)	
+// ë®¨ ì†Œë¹„ ì‹œìŠ¤í…œ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-11-06 ë°•í˜œì§„)	
 4426	"You have insufficient items to exchange or do not have enough space in the inventory."
 4427	"%s (%s)"
-// ?ÇÕÀüÀå & ½Ã·ÃÀÇ±¤Àå Ãß°¡ ÅØ½ºÆ® (2013-11-06 »çÀçÀÏ)	
+// ?í•©ì „ì¥ & ì‹œë ¨ì˜ê´‘ì¥ ì¶”ê°€ í…ìŠ¤íŠ¸ (2013-11-06 ì‚¬ì¬ì¼)	
 4428	"Cannot use this feature in Battle Core."
 4429	"Tormented Square Point"
-//4Â÷ ½Ãµå½ºÇÇ¾î ÃßÃâ(2013-11-06_±èÀÇ°Ç)	
+//4ì°¨ ì‹œë“œìŠ¤í”¼ì–´ ì¶”ì¶œ(2013-11-06_ê¹€ì˜ê±´)	
 4430	"Please check your inventory."
 4431	"Seed Sphere has not disappeared."
 4432	"Seed Sphere [Level:3]"
-// ¹èÆ²ÄÚ¾î Ã³¸® ¸Ş½ÃÁö Ãß°¡#1 (2013-11-11 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ì²˜ë¦¬ ë©”ì‹œì§€ ì¶”ê°€#1 (2013-11-11 ì‚¬ì¬ì¼)	
 4433	"You may queuing Battle Core or exit Battle Core Queue after %dm %dsec."
 4434	"You cannot exit as you have never joined."
 4435	"You have already exited."
 4436	"Queuing completed."
 4437	"Exited."
-// ½Ã·ÃÀÇ±¤Àå º¸½º ÅØ½ºÆ® ¸Ş½ÃÁö Ãß°¡(2013-11-11 »çÀçÀÏ)	
+// ì‹œë ¨ì˜ê´‘ì¥ ë³´ìŠ¤ í…ìŠ¤íŠ¸ ë©”ì‹œì§€ ì¶”ê°€(2013-11-11 ì‚¬ì¬ì¼)	
 4438	"Tormented Square - Survival of the Fittest is starting."
 4439	"Tormented monsters have become stronger!"
 4440	"How long can you last? Do your best to survive!"
-// ¹èÆ²ÄÚ¾î Ã³¸® ¸Ş½ÃÁö Ãß°¡#2 (2013-11-11 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ì²˜ë¦¬ ë©”ì‹œì§€ ì¶”ê°€#2 (2013-11-11 ì‚¬ì¬ì¼)	
 4441	"Running Battle Core. You can have multiple logins to Battle Core with the same account."
 4442	"Cannot queue for Battle Core."
 4443	"Cannot exit Battle Core Queue."
 4444	"Cannot receive reward items."
-// ¹Ã ½Ã½ºÅÛ º¸¿Ï ¹× ¼Òºñ ½Ã½ºÅÛ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2013-11-06 ¹ÚÇıÁø)	
+// ë®¨ ì‹œìŠ¤í…œ ë³´ì™„ ë° ì†Œë¹„ ì‹œìŠ¤í…œ ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2013-11-06 ë°•í˜œì§„)	
 4445	"Cannot equip more than 1 identical Muun."
 4446	"Cannot perform other actions while trading."
-// ¹èÆ²ÄÚ¾î Ã³¸® ¸Ş½ÃÁö Ãß°¡#3 (2013-11-11 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ì²˜ë¦¬ ë©”ì‹œì§€ ì¶”ê°€#3 (2013-11-11 ì‚¬ì¬ì¼)	
 4447	"You have exceeded maximum number of characters you can queue Battle Core with."
 4448	"Cannot queue due to incorrect party size. Please form a 2 man party."
 4449	"Your party contains a member who has already qualified for the next round. Please reform your party."
 4450	"Incorrect party composition. Please reform your party with members that have advanced to the playoffs then try joining."
-//ÅØ½ºÆ® Ãß°¡(2013-11-21 ±èÀÇ°Ç)	
+//í…ìŠ¤íŠ¸ ì¶”ê°€(2013-11-21 ê¹€ì˜ê±´)	
 4451	"The opponent does not have enough zen."
-//ÅØ½ºÆ® Ãß°¡(2013-12-2 ±èÀÇ°Ç)	
+//í…ìŠ¤íŠ¸ ì¶”ê°€(2013-12-2 ê¹€ì˜ê±´)	
 4452	"Battle Core not available."
-// ÀÌº¥Æ® ¹è³Ê °ü·Ã ¸Ş½ÃÁö Ãß°¡ (2013-12-03 ¹ÚÇıÁø)	
+// ì´ë²¤íŠ¸ ë°°ë„ˆ ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ (2013-12-03 ë°•í˜œì§„)	
 4453	"MU Roomy"
 4454	"Monsters with Eggs" 
 4455	"Awakened Monster"
-// ÀÌº¥Æ® ½ºÄÉÁÙ ÆË¾÷Ã¢(2013-12-19 »çÀçÀÏ)	
+// ì´ë²¤íŠ¸ ìŠ¤ì¼€ì¤„ íŒì—…ì°½(2013-12-19 ì‚¬ì¬ì¼)	
 4456	"Monster Kill Point : %d"
 4457	"Character Kill Point : %d"
 4458	"Total Point : %d"
@@ -4620,19 +4620,19 @@
 4461	"Battle Core Chaos Castle - Jan 24. 2017 ~ Jan 29. 2017"
 4462	"BattleCore"
 4463	"Joining of Tormented Square is over."
-// ¿¡º¸¸óÀÌº¥Æ®(2014-01-07 ÃÖÀ¯Áø)	
+// ì—ë³´ëª¬ì´ë²¤íŠ¸(2014-01-07 ìµœìœ ì§„)	
 4464	"Choose a reward"
 4465	"Time limit"
 4466	"An evolved monster will appear soon."
 4467	"Please select a card."
 4468	"%s has acquired %s."
-// ½Ã·ÃÀÇ±¤Àå °á°úÃ¢ ¸Ş½ÃÁö Ãß°¡ (2014-01-10 »çÀçÀÏ)	
+// ì‹œë ¨ì˜ê´‘ì¥ ê²°ê³¼ì°½ ë©”ì‹œì§€ ì¶”ê°€ (2014-01-10 ì‚¬ì¬ì¼)	
 4469	"Rank 1 ~ 4 teams in the qualifying rounds can advance to the playoffs."
 4470	"Rank 1 ~ 2 teams in the playoffs can advance to the finals."
 4471	"The finals are over. Winning team will receive Symbol of Hardships to their Gremory case upon requesting it in Battle Core."
-// ¿É¼Ç ¼³Á¤Ã¢ ¸Ş½ÃÁö Ãß°¡ (2014-01-24 ±èÀÇ°Ç)	
+// ì˜µì…˜ ì„¤ì •ì°½ ë©”ì‹œì§€ ì¶”ê°€ (2014-01-24 ê¹€ì˜ê±´)	
 4472	"BGM On/Off"
-// ½Ã·ÃÀÇ±¤Àå(ÀÏ¹İ) UI (2014-02-14 »çÀçÀÏ)	
+// ì‹œë ¨ì˜ê´‘ì¥(ì¼ë°˜) UI (2014-02-14 ì‚¬ì¬ì¼)	
 4473	"Tormented Square (Battle)"
 4474	"Hero, are you here to test yourself in Tormented Square?"
 4475	"(1) Tormented Square : Lv. 220 ~ 400"
@@ -4645,7 +4645,7 @@
 4482	"Run Battle Core"
 4483	"Executing MU Online Battle Core."
 4484	"Survival of the Fittest Reward Item"
-// 9-2 ¾ÆÀÌÅÛ ÆÇ¸ÅÃ¶È¸ ¸Ş½ÃÁö Ãß°¡ (2014-02-26 À¯Çı¼º)	
+// 9-2 ì•„ì´í…œ íŒë§¤ì² íšŒ ë©”ì‹œì§€ ì¶”ê°€ (2014-02-26 ìœ í˜œì„±)	
 4485	"Cancel Item Sale"
 4486	"Remaining Time"
 4487	"Item"
@@ -4654,7 +4654,7 @@
 4490	"There will be a %s zen fee if you cancel."
 4491	"Not enough zen."
 4492	"Not enough space in inventory."
-// ±×·¹¸ğ¸® ÄÉÀÌ½º °ü·Ã ½ºÅ©¸³Æ® Ãß°¡ (2014-02-25 ¹ÚÇıÁø)	
+// ê·¸ë ˆëª¨ë¦¬ ì¼€ì´ìŠ¤ ê´€ë ¨ ìŠ¤í¬ë¦½íŠ¸ ì¶”ê°€ (2014-02-25 ë°•í˜œì§„)	
 4493	"K"
 4494	"Gremory Case"
 4495	"If you exceed the max number of items you can carry in your inventory, items will be deleted starting from the first obtained item."
@@ -4673,76 +4673,76 @@
 4508	"GM Reward2"
 4509	"GM Reward3"
 4510	"If you mouse over on an item, you can check the item information."
-// 9-2 Äù½ºÆ® È®ÀÎ ¹öÆ° ¼öÁ¤ (2014-03-03 À¯Çı¼º)	
+// 9-2 í€˜ìŠ¤íŠ¸ í™•ì¸ ë²„íŠ¼ ìˆ˜ì • (2014-03-03 ìœ í˜œì„±)	
 4511	"Complete"
-// 9-2 ¾ÆÀÌÅÛ ÀåÅ»Âø ±â´É (2014-03-04 À¯Çı¼º)	
+// 9-2 ì•„ì´í…œ ì¥íƒˆì°© ê¸°ëŠ¥ (2014-03-04 ìœ í˜œì„±)	
 4512	"Requirements are not met to equip/un-equip the item."
-// ¿¡º¸¸óÀÌº¥Æ®(2014-01-07 ÃÖÀ¯Áø)	
+// ì—ë³´ëª¬ì´ë²¤íŠ¸(2014-01-07 ìµœìœ ì§„)	
 4513	"Evomon event is in progress"
-// 9-2 ¾ÆÀÌÅÛ ÆÇ¸ÅÃ¶È¸ ¸Ş½ÃÁö Ãß°¡ (2014-03-10 À¯Çı¼º)	
+// 9-2 ì•„ì´í…œ íŒë§¤ì² íšŒ ë©”ì‹œì§€ ì¶”ê°€ (2014-03-10 ìœ í˜œì„±)	
 4514	"Cancel item sale period has expired."
 4515	"You cannot sell items while using the cancel item sale function."
 4516	"Chaos Castle (Battle)"
-// ¾ÆÀÌÅÛÀ» µé°í ÀÖ´Â »óÅÂ¿¡¼­ ´Ù¸¥ Çàµ¿ ½Ãµµ ½Ã Ãâ·ÂµÇ´Â ¸Ş½ÃÁö Ãß°¡ (2014-03-13 ¹ÚÇıÁø)	
+// ì•„ì´í…œì„ ë“¤ê³  ìˆëŠ” ìƒíƒœì—ì„œ ë‹¤ë¥¸ í–‰ë™ ì‹œë„ ì‹œ ì¶œë ¥ë˜ëŠ” ë©”ì‹œì§€ ì¶”ê°€ (2014-03-13 ë°•í˜œì§„)	
 4517	"Cannot do this while you are holding an item."
-// ½ºÅÈ Æ¯È­ °ü·Ã ÅØ½ºÆ® Ãß°¡ (2014-03-17 È«½Â¿í)	
+// ìŠ¤íƒ¯ íŠ¹í™” ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-03-17 í™ìŠ¹ìš±)	
 4518	"Strength Specialization"
 4519	"Agility Specialization"
 4520	"Stamina Specialization"
 4521	"Energy Specialization"
 4522	"Command Specialization"
-// ±×·¹¸ğ¸® ÄÉÀÌ½º ¾ÆÀÌÅÛ ¼ö·É °ü·Ã ½ºÅ©¸³Æ® Ãß°¡ (2014-02-25 ¹ÚÇıÁø)	
+// ê·¸ë ˆëª¨ë¦¬ ì¼€ì´ìŠ¤ ì•„ì´í…œ ìˆ˜ë ¹ ê´€ë ¨ ìŠ¤í¬ë¦½íŠ¸ ì¶”ê°€ (2014-02-25 ë°•í˜œì§„)	
 4523	"Items need 4x4 empty space."
 4524	"Event items need 2x2 empty space."
 4525	"Muun items need 1x1 empty space."
-// ¿¡º¸¸óÀÌº¥Æ®(2014-01-07 ÃÖÀ¯Áø)	
+// ì—ë³´ëª¬ì´ë²¤íŠ¸(2014-01-07 ìµœìœ ì§„)	
 4526	"Cannot open window while receiving event rewards."
-// ½ºÅÈ Æ¯È­ °ü·Ã ÅøÆÁ ÅØ½ºÆ® Ãß°¡ (2014-03-26 È«½Â¿í)	
+// ìŠ¤íƒ¯ íŠ¹í™” ê´€ë ¨ íˆ´íŒ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-03-26 í™ìŠ¹ìš±)	
 4527	"Attribute which additionally increases by increasing Strength."
 4528	"Attribute which additionally increases by increasing Agility."
 4529	"Attribute which additionally increases by increasing Stamina."
 4530	"Attribute which additionally increases by increasing Energy."
 4531	"Attribute which additionally increases by increasing Command."
-// 9-2 ¾ÆÀÌÅÛ ÆÇ¸ÅÃ¶È¸ ¸Ş½ÃÁö Ãß°¡ (2014-03-31 À¯Çı¼º)	
+// 9-2 ì•„ì´í…œ íŒë§¤ì² íšŒ ë©”ì‹œì§€ ì¶”ê°€ (2014-03-31 ìœ í˜œì„±)	
 //4532	"Exceeded max amount of zen you can carry."
-// ±×·¹¸ğ¸® ÄÉÀÌ½º ¾Ë¸² ¸Ş½ÃÁö Ãß°¡ (2014-04-01 ¹ÚÇıÁø)	
+// ê·¸ë ˆëª¨ë¦¬ ì¼€ì´ìŠ¤ ì•Œë¦¼ ë©”ì‹œì§€ ì¶”ê°€ (2014-04-01 ë°•í˜œì§„)	
 4533	"Gremory case is full!"
 4534	"If you receive rewards while your case is full, it will result in items being deleted starting from the oldest item stored." 
-// UIÁß DBÁ¤º¸¸¦ ºÒ·¯¿À´Âµ¥ ½ÇÆĞ ÇÒ °æ¿ì¿¡ ´ëÇÑ ¸Ş½ÃÁö Ãß°¡ (2014-04-01 ¹ÚÇıÁø)	
+// UIì¤‘ DBì •ë³´ë¥¼ ë¶ˆëŸ¬ì˜¤ëŠ”ë° ì‹¤íŒ¨ í•  ê²½ìš°ì— ëŒ€í•œ ë©”ì‹œì§€ ì¶”ê°€ (2014-04-01 ë°•í˜œì§„)	
 4535	"Failed to load information."
-// ÇÃ·¹ÀÌ°¡ÀÌµå ÅØ½ºÆ®(2014-04-01 ±èÀÇ°Ç)	
+// í”Œë ˆì´ê°€ì´ë“œ í…ìŠ¤íŠ¸(2014-04-01 ê¹€ì˜ê±´)	
 4536	"Play Guide"
 4537	"Can enter queue for %s."
 4538	"Join the Survival of the Fittest and Battle Event in Battle Core."
-//±×·¹¸ğ¸® ÄÉÀÌ½º Ã¢ ¿­±â°ü·Ã ¸Ş½ÃÁö Ãß°¡ (2014-04-08 ¹ÚÇıÁø)	
+//ê·¸ë ˆëª¨ë¦¬ ì¼€ì´ìŠ¤ ì°½ ì—´ê¸°ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ (2014-04-08 ë°•í˜œì§„)	
 4539	"Closing Gremory case window as it cannot be used."
 4540	"Cannot open the Gremory case window. Close the window."
 4541	"Cannot open the Gremory case window when you have a private store open."
-// ¹èÆ²ÄÚ¾î ÀÔÀå½ÅÃ» Á¦ÇÑ ¸Ş½ÃÁö Ãß°¡ (2014-04-09 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ì…ì¥ì‹ ì²­ ì œí•œ ë©”ì‹œì§€ ì¶”ê°€ (2014-04-09 ì‚¬ì¬ì¼)	
 4542	"If you have reward items acquired from Battle Core in your private store or in your inventory, you cannot join. Please store the items elsewhere and try joining again."
 4543	"Cannot use these items in Battle Core."
 4544	"Illusion Temple event will start daily at 21:00"
 4545	"You may start entering 5 minutes before the event begins."
-// ¹èÆ²ÄÚ¾î - ½Ã·ÃÀÇ±¤Àå(Battle) ÅØ½ºÆ® Ãß°¡ (2014-05-22 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ - ì‹œë ¨ì˜ê´‘ì¥(Battle) í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-05-22 ì‚¬ì¬ì¼)	
 4546	"If any of your party members have a private store, you cannot enter."
 4547	"Tormented Square (Battle) is not open for entry. Please check the schedule and try again at a later time."
 4548	"Battle Core can be entered simultaneously with the same account."
-// ±Û·Î¹ú FCS ÀÎÁõ ÅØ½ºÆ® Ãß°¡ (2014-5-26 À¯Çı¼º)	
+// ê¸€ë¡œë²Œ FCS ì¸ì¦ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-5-26 ìœ í˜œì„±)	
 4549	"https://one-alpha-login.webzen.com/Home/LoginLauncher"
 4550	"https://login.webzen.com/Home/LoginLauncher"
-// °æÇèÄ¡»óÀÚ ¾ÆÀÌÅÛ ¾È³» ÅØ½ºÆ® Ãß°¡ (2014-05-26 »çÀçÀÏ)	
+// ê²½í—˜ì¹˜ìƒì ì•„ì´í…œ ì•ˆë‚´ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-05-26 ì‚¬ì¬ì¼)	
 4551	"EXP Reward"
 4552	"You can receive EXP if you use the item. All over gained EXP is deleted."
-// ½Å±Ô ¸¶½ºÅÍ ½ºÅ³ ¼ÒÈ¯ ¸ó½ºÅÍ ÀÌ¸§ Ãß°¡ (2014-06-10 È«½Â¿í)	
+// ì‹ ê·œ ë§ˆìŠ¤í„° ìŠ¤í‚¬ ì†Œí™˜ ëª¬ìŠ¤í„° ì´ë¦„ ì¶”ê°€ (2014-06-10 í™ìŠ¹ìš±)	
 4553	"Illusion"
-// 9-2 ¾ÆÀÌÅÛ ÀåÅ»Âø ±â´É (2014-06-24 À¯Çı¼º)	
+// 9-2 ì•„ì´í…œ ì¥íƒˆì°© ê¸°ëŠ¥ (2014-06-24 ìœ í˜œì„±)	
 4554	"You can equip/un-equip bow or crossbow type of items."
-//½ºÆä¼È°ÔÀÓ ¸Ş½ÃÁö	
+//ìŠ¤í˜ì…œê²Œì„ ë©”ì‹œì§€	
 4555	"Normal game"
 4556	"Special game"
 4557	"If you possess a special card, you can play the special game"
 4558	"You must have a special card to play the special game"
-//½ºÆä¼È°ÔÀÓ ¼³¸í	
+//ìŠ¤í˜ì…œê²Œì„ ì„¤ëª…	
 4559	"<Game Objective>"
 4560	"Achieve high score by matching as many number cards as possible."
 4561	"(Number cards are made of red, blue, yellow cards with numbers 1-8)"
@@ -4772,18 +4772,18 @@
 4585	"250 ~ 400 points - Egg/Basic Reward Item"
 4586	"400 ~ 500 points - Egg/Rare Reward Item"
 4587	"Above 500 points - Rare Reward Item (Pentagram)"
-// ±×·Î¿ì·£¼­ (2014-07-02 ±èÀÇ°Ç)	
+// ê·¸ë¡œìš°ëœì„œ (2014-07-02 ê¹€ì˜ê±´)	
 4588	"Grow Lancer"
 4589	"Mirage Lancer"
 4590	"The Last Lancer of Temple Knight Royal Guard. A balanced character that uses lance as a main weapon. They specialize in strength and agility which makes them excel at both offense and defense." 
 4591	"Retaliation DMG %d%%"
 4592	"Rage DMG %d%%"
-// ¹Ã ±â´É º¸¿Ï°ü·Ã °æÇèÄ¡ ÅøÆÁ ¸Ş½ÃÁö Ãß°¡ (2014-07-24 ¹ÚÇıÁø)	
+// ë®¨ ê¸°ëŠ¥ ë³´ì™„ê´€ë ¨ ê²½í—˜ì¹˜ íˆ´íŒ ë©”ì‹œì§€ ì¶”ê°€ (2014-07-24 ë°•í˜œì§„)	
 4593	"Muun Ability (+%d%%)"
-// ¹Ã ±â´É º¸¿Ï°ü·Ã °æÇèÄ¡ ÅøÆÁ ¸Ş½ÃÁö Ãß°¡ (2014-07-24 ¹ÚÇıÁø)	
+// ë®¨ ê¸°ëŠ¥ ë³´ì™„ê´€ë ¨ ê²½í—˜ì¹˜ íˆ´íŒ ë©”ì‹œì§€ ì¶”ê°€ (2014-07-24 ë°•í˜œì§„)	
 4594	"Muun Ability"
 4595	"%s[%d]"
-// ½Å±Ô ¸¶½ºÅÍ ½ºÅ³ ÅøÆÁ ¼³¸í Ãß°¡ (2014-07-24 È«½Â¿í)	
+// ì‹ ê·œ ë§ˆìŠ¤í„° ìŠ¤í‚¬ íˆ´íŒ ì„¤ëª… ì¶”ê°€ (2014-07-24 í™ìŠ¹ìš±)	
 4596	"Temporarily increases your Life and Defense and become immune to debuffs."
 4597	"Dash swiftly towards the target, dealing a devastating blow."
 4598	"Make a phantom copy of yourself to fight together."
@@ -4791,15 +4791,15 @@
 4600	"Move swiftly towards the desired location."
 4601	"Make a barrier on the ground, slowing the movement speed of all targets within it."
 4602	"Make a barrier on the ground, slowing the movement speed of all targets within it while causing bleeding damage."
-// ¹èÆ²ÄÚ¾î º¸¿Ï ÅØ½ºÆ® Ãß°¡ (2014-07-24 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ë³´ì™„ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-07-24 ì‚¬ì¬ì¼)	
 4603	"Executing Battle Core Client"
 4604	"Round %d has ended."
 4605	"Round %d will begin shortly."
-// ±×·Î¿ì·£¼­ (2014-07-24 ±èÀÇ°Ç)	
+// ê·¸ë¡œìš°ëœì„œ (2014-07-24 ê¹€ì˜ê±´)	
 4606	"Divinity %d"
 4607	"Retaliation %d"
 4608	"Obsession %d"
-// ¹èÆ²ÄÚ¾î º¸¿Ï ÅØ½ºÆ® Ãß°¡ (2014-07-24 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ë³´ì™„ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-07-24 ì‚¬ì¬ì¼)	
 4609	"Chaos Goblin has appeared!"
 4610	"EXP Reward Item"
 4611	"Uses the EXP reward Item. If you level up by using a EXP reward item, any excess EXP after leveling up will not count towards your next level progress and will be deleted."
@@ -4811,7 +4811,7 @@
 4617	"Event has ended as there weren't enough participants."
 4618	"You've been moved to town as your party has disbanded."
 4619	"Your party member's level does not match the required level of Tormented Square."
-// ¼ÒÈ¯! ¿¡º¸¸ó ÀÌº¥Æ®°ü·Ã ¸Ş½ÃÁö Ãß°¡ (2014-07-30 ¹ÚÇıÁø)	
+// ì†Œí™˜! ì—ë³´ëª¬ ì´ë²¤íŠ¸ê´€ë ¨ ë©”ì‹œì§€ ì¶”ê°€ (2014-07-30 ë°•í˜œì§„)	
 4620	"Cannot use as you already have an Evomon summoned."
 4621	"Location - %s (%d, %d)"
 4622	"Time left until dissipation - %dm"
@@ -4826,9 +4826,9 @@
 4631	"Cannot use this feature."
 4632	"Only master level characters can use this."
 4633	"Only normal characters (before 3x class change) can use this"
-// ¹èÆ²ÄÚ¾î ½ÇÇà±â´É ¿¹¿ÜÃ³¸® ÅØ½ºÆ® Ãß°¡ (2014-09-02 »çÀçÀÏ)	
+// ë°°í‹€ì½”ì–´ ì‹¤í–‰ê¸°ëŠ¥ ì˜ˆì™¸ì²˜ë¦¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-09-02 ì‚¬ì¬ì¼)	
 4634	"Only possible in window mode"
-//Æ¯¼ºÈ­ ¼­¹ö Ãß°¡ ¸Ş½ÃÁö(2014-09-11 ÃÖÀ¯Áø)	
+//íŠ¹ì„±í™” ì„œë²„ ì¶”ê°€ ë©”ì‹œì§€(2014-09-11 ìµœìœ ì§„)	
 4635	"5 minutes of burning time remaining."
 4636	"Exiting game as burning time has run out."
 4637	"%dhr(s) %dmin(s) left"
@@ -4839,19 +4839,19 @@
 4642	"Manual Play Server Burning Time This Week"
 4643	"[%s-%d(Manual Play PvP) Server]"
 4644	"[%s-%d(Manual Play) Server]"
-//Æ¯¼ºÈ­ ¼­¹ö ¼±ÅÃ ¿ìÃø »ó´Ü ¸Ş½ÃÁö(2014-09-30 ÃÖÀ¯Áø)	
+//íŠ¹ì„±í™” ì„œë²„ ì„ íƒ ìš°ì¸¡ ìƒë‹¨ ë©”ì‹œì§€(2014-09-30 ìµœìœ ì§„)	
 4645	"This is a manual play server. Unlike other servers, you can play manually with your hand!"
 4646	" Enjoy playing for the duration of the burning time."
-//Æ¯¼ºÈ­ ¼­¹ö Ãß°¡ ¸Ş½ÃÁö(2014-10-01 ÃÖÀ¯Áø)	
+//íŠ¹ì„±í™” ì„œë²„ ì¶”ê°€ ë©”ì‹œì§€(2014-10-01 ìµœìœ ì§„)	
 4647	"Less than 1 hour of play time remaining."
 4648	"More than 1 hour of play time remaining."
-//Ã¤ÆÃÂ÷´Ü ¸Ş½ÃÁö(2014-10-28 ÃÖÀ¯Áø)	
+//ì±„íŒ…ì°¨ë‹¨ ë©”ì‹œì§€(2014-10-28 ìµœìœ ì§„)	
 4649	"Block Chat"
 4650	"Please enter the name of the character you want to block."
 4651	"Block"
-// ¾ÆÄÉ·Ğ ¸Ê ÀÌ¸§ ¼¼ºÎ Ç¥½Ã Ãß°¡ (2014-10-30 ¹ÚÇıÁø)	
+// ì•„ì¼€ë¡  ë§µ ì´ë¦„ ì„¸ë¶€ í‘œì‹œ ì¶”ê°€ (2014-10-30 ë°•í˜œì§„)	
 4652	"Nars"
-// ÀÌº¥Æ®¸Ê ¸®´º¾ó ÆË¾÷ ÅØ½ºÆ® Ãß°¡1 (2014-10-29 »çÀçÀÏ)	
+// ì´ë²¤íŠ¸ë§µ ë¦¬ë‰´ì–¼ íŒì—… í…ìŠ¤íŠ¸ ì¶”ê°€1 (2014-10-29 ì‚¬ì¬ì¼)	
 4653	"Do you want to move to Event Map Square to enter queue?"
 4654	"It will cost you 20000 zen to move."
 4655	"It will consume 1 Armor of Guardsman when you enter."
@@ -4859,13 +4859,13 @@
 4657	"Entry time for the event map has ended."
 4658	"You can now apply for entry in Event Map Square."
 4659	"You can use the event map alert icon or Move Window (M) to move to the Event Map Square."
-// ÀÌº¥Æ®¸Ê ¸®´º¾ó »óÁ¡ ÅØ½ºÆ® Ãß°¡ (2014-10-29 »çÀçÀÏ)	
+// ì´ë²¤íŠ¸ë§µ ë¦¬ë‰´ì–¼ ìƒì  í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-10-29 ì‚¬ì¬ì¼)	
 4660	"Ruud Shop - Priest James"
 4661	"You can use Ruud to purchase Sealed Mastery Set items."
 4662	"A sealed set can be unlocked by taking it to the Chaos Goblin and combining it with a Ancient Hero's Soul"
-// Äù½ºÆ® Àú³Î ÅØ½ºÆ® Ãß°¡(2014-11-07 ±èÀÇ°Ç)	
+// í€˜ìŠ¤íŠ¸ ì €ë„ í…ìŠ¤íŠ¸ ì¶”ê°€(2014-11-07 ê¹€ì˜ê±´)	
 4663	"Quest completed"
-// ÀÌº¥Æ®¸Ê ¸®´º¾ó ÆË¾÷ ÅØ½ºÆ® Ãß°¡2 (2014-10-31 ¹ÚÇıÁø)	
+// ì´ë²¤íŠ¸ë§µ ë¦¬ë‰´ì–¼ íŒì—… í…ìŠ¤íŠ¸ ì¶”ê°€2 (2014-10-31 ë°•í˜œì§„)	
 4664	"Entry Time: %s"
 4665	"Click to open the pop up window."
 4666	"Not enough Ruud."
@@ -4875,13 +4875,13 @@
 4670	"Bloodangel Set (Pants)"
 4671	"Bloodangel Set (Boots)"
 4672	"Bloodangel Set (Gloves)"
-// ¸¶½ºÅÍ¸® Àåºñ Ãß°¡¿¡ µû¸¥ ÅØ½ºÆ® Ãß°¡ (2014-11-11 È«½Â¿í)	
+// ë§ˆìŠ¤í„°ë¦¬ ì¥ë¹„ ì¶”ê°€ì— ë”°ë¥¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-11-11 í™ìŠ¹ìš±)	
 4673	"Increases all stats by +%d"
 4674	"Set Effect"
 4675	"Set Item Equipment Information"
-// Äù½ºÆ® ÅØ½ºÆ® Ãß°¡(2014-11-13 ±èÀÇ°Ç)	
+// í€˜ìŠ¤íŠ¸ í…ìŠ¤íŠ¸ ì¶”ê°€(2014-11-13 ê¹€ì˜ê±´)	
 4676	"Obtained"
-//ÀÌº¥Æ®¸Ê ±¤Àå ÅØ½ºÆ® Ãß°¡ (2014-11-14 ¹ÚÇıÁø)	
+//ì´ë²¤íŠ¸ë§µ ê´‘ì¥ í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-11-14 ë°•í˜œì§„)	
 4677	"Event square"
 4678	"Opens the Mastery Box. Ruud can be acquired from Mastery Boxes."
 4679	"Ruud"
@@ -4891,30 +4891,30 @@
 4692	"Every Stat Option (7 or 15)"
 4693	"only"
 4694	"Effect is as follows."
-// ´ë·®Á¶ÇÕ ÅØ½ºÆ® Ãß°¡ (2014-11-28 ±èÀÇ°Ç)	
+// ëŒ€ëŸ‰ì¡°í•© í…ìŠ¤íŠ¸ ì¶”ê°€ (2014-11-28 ê¹€ì˜ê±´)	
 4695	"Success rate is individually applied when attempting mass combination."
 4696	"Ancient Hero's Soul, Unseal Mastery"
-// ¹Â µµ¿ì¹Ì ÅØ½ºÃ÷ Ãß°¡(2014-12-02 ±èÀÇ°Ç)	
+// ë®¤ ë„ìš°ë¯¸ í…ìŠ¤ì¸  ì¶”ê°€(2014-12-02 ê¹€ì˜ê±´)	
 4697	"Event Items"
-//Ã¤ÆÃÂ÷´Ü ¸Ş½ÃÁö(2014-10-28 ÃÖÀ¯Áø)	
+//ì±„íŒ…ì°¨ë‹¨ ë©”ì‹œì§€(2014-10-28 ìµœìœ ì§„)	
 4698	"This character is already blocked."
 4699	"You cannot block yourself."
 4700	"You cannot block anymore. Please delete another character."
 4701	"You've entered wrong information."
 4702	"You can't whisper to yourself."
-//ÀÌº¥Æ®¸Ê ÀÔÀåÈ½¼ö Á¦ÇÑ ÅØ½ºÆ® Ãß°¡ (2015-01-15 ¹ÚÇıÁø)	
+//ì´ë²¤íŠ¸ë§µ ì…ì¥íšŸìˆ˜ ì œí•œ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-01-15 ë°•í˜œì§„)	
 4703	"Entrance enabled for %d / %d times"
 4704	"Cannot enter as you have exceeded the daily entrance limit."
 4705	"One or more party member(s) have exceeded the daily entrance limit."
 4706	"Empire Guardians"
-//Ä«¿À ÆÄÆ¼ ºÒ°¡ ¸Ş½ÃÁö(2015-01-15 ÃÖÀ¯Áø)	
+//ì¹´ì˜¤ íŒŒí‹° ë¶ˆê°€ ë©”ì‹œì§€(2015-01-15 ìµœìœ ì§„)	
 4707	"You cannot form a party with Outlaw or Killer."
 4708	"Cannot be used if Zen you have exceeds 1.9 billion." 
-// GP Áö¿ªº° ·Î±×ÀÎ ÀÎÁõ ¼³Á¤ÀÛ¾÷	
+// GP ì§€ì—­ë³„ ë¡œê·¸ì¸ ì¸ì¦ ì„¤ì •ì‘ì—…	
 4709	"It looks like you're logging-in from an unusual location.#To continue, we need you to verify your e-mail address.#https://member.webzen.com/SecurityCheck"
 4710	"To continue, we need you to verify your e-mail address." // from KOR
 4711	"https://member.webzen.com/SecurityCheck" // from KOR
-// ¼Ó¼º Á¶ÇÕ UI ¸Ş½ÃÁö Ãß°¡(2015-03-02 ±èÀÇ°Ç)	
+// ì†ì„± ì¡°í•© UI ë©”ì‹œì§€ ì¶”ê°€(2015-03-02 ê¹€ì˜ê±´)	
 4712	"Required Combination Material"
 4713	"Optional Material"
 4714	"Assembly Prediction"
@@ -4930,13 +4930,13 @@
 4724	"Element Box"
 4725	"Slot of Radiance Assembly"
 4726	"Element Strengthener"
-// Á¶ÇÕÃ¢À» ¿­¾úÀ» ¶§ ¿¡¸£ÅÚ ÀåÂø ¹× ÇØÁ¦ ÅØ½ºÆ® Ãß°¡ (2015-03-05 ÃÖÀ¯Áø)	
+// ì¡°í•©ì°½ì„ ì—´ì—ˆì„ ë•Œ ì—ë¥´í…” ì¥ì°© ë° í•´ì œ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-03-05 ìµœìœ ì§„)	
 4727	"You cannot equip or unequip Errtels to Pentagram while combining."
-// PC¹æ ÇıÅÃÃß°¡ (2015-03-13 ÃÖÀ¯Áø)	
+// PCë°© í˜œíƒì¶”ê°€ (2015-03-13 ìµœìœ ì§„)	
 4728	"PC Room Gift Box" // from KOR
 4729	"Acquired only in the PC Room" // from KOR
 4730	"Gremory Case (K)"
-// ¼Ó¼º½Ã½ºÅÛÈ®Àå ÅØ½ºÆ® Ãß°¡#1 (2015-03-31 »çÀçÀÏ)	
+// ì†ì„±ì‹œìŠ¤í…œí™•ì¥ í…ìŠ¤íŠ¸ ì¶”ê°€#1 (2015-03-31 ì‚¬ì¬ì¼)	
 4731	"Do you want to disassemble selected items?"
 4732	"Zen is not sufficient to disassemble items."
 4733	"Can disassemble Set items (except accessories), Errtels and Giardian items."
@@ -4953,10 +4953,10 @@
 4744	"Blessing of Spirit"
 4745	"Normal Unequip"
 4746	"The following slot is already activated."
-4747	"You don¡¯t have any Expander that matches the Errtel slot."
-// PC¹æ ÇıÅÃÃß°¡ (2015-03-13 ÃÖÀ¯Áø)	
+4747	"You donâ€™t have any Expander that matches the Errtel slot."
+// PCë°© í˜œíƒì¶”ê°€ (2015-03-13 ìµœìœ ì§„)	
 4748	"Would you like to use %s?"
-// ¼Ó¼º½Ã½ºÅÛÈ®Àå ÅØ½ºÆ® Ãß°¡ #3 (2015-03-31 »çÀçÀÏ)	
+// ì†ì„±ì‹œìŠ¤í…œí™•ì¥ í…ìŠ¤íŠ¸ ì¶”ê°€ #3 (2015-03-31 ì‚¬ì¬ì¼)	
 4749	"Cannot use nor move items registered in combination window."
 4750	"Not enough space in inventory. Combined item is stored in the Gremory Case (K)."
 4751	"You cannot combine now. Please try again later."
@@ -4969,7 +4969,7 @@
 4758	"<P align='center'><FONT color='#ffaa00' size='12'>You can combine by choosing from the menu on the left.<BR></FONT></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Create Errtel</FONT><BR><FONT color='#ebebeb'>You can create Errtel using [Mithril] and [Jewel of Bless].</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Errtel Level Up</FONT><BR><FONT color='#ebebeb'>You can use [Errtel] and [Elemental Rune] to enhance the option of desired rank.<br>* Keep in mind that only activated ranks can be enhanced.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Errtel Rank Up</FONT><BR><FONT color='#ebebeb'>You can combine two [+7 Errtel or above] items to create an upper rank option with a 100% chance. <BR>After being used up as a combination material, Errtel disappears.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'>Combine Fragment of Radiance slot</FONT><BR><FONT color='#ebebeb'>You can create [Expansion Scroll of Radiance slot] from [Fragments of Radiance slot (1) - (4)].</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'>Add Errtel Element to Wings</FONT><BR><FONT color='#ebebeb'> You can combine Errtel, Golden Seal, and Higher Magic Stone to add an element option to a 4th Wing item.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'>Wing Element Level Up</FONT><BR><FONT color='#ebebeb'> An element option added to a 4th Wing item can be enhanced using Elemental Runes. A successful enhancement increases the level by 1, but a failed attempt decreases it by 1.<br>* The option created does not expire.</FONT><br></P><P><FONT color='#0075c8' size='11.5'><img src='point' align='baseline' vspace='-4'> Mastery Pentagram Upgrade</FONT><BR><FONT color='#ebebeb'>You can upgrade the pentagram item. You can check the upgrade result through the expected combination.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Mastery Ertel Upgrade</FONT><BR><FONT color='#ebebeb'>You can upgrade Errtel items. When upgrading, the number of Errtel options will be maintained and the option level will be 0.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Mastery Ertel Level Up</FONT><BR><FONT color='#ebebeb'>You can strengthen the Mastery Errtel item. When strengthening, all the options you have will be strengthened.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Create Pentagram Property Options </FONT><BR><FONT color='#ebebeb'> You can create a property option with a 100% chance by using the equivalent Errtel on the Pentagram. Errtel that became a combination material will disappear.</FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Enhanced pentagram attribute options</FONT><BR><FONT color='#ebebeb'>You can strengthen up to 10 levels by selecting the property option created in the pentagram. It has a success rate, and in case of failure, it decreases by 1 level. </FONT><br></P><P><FONT color='#ffaa00' size='11.5'><img src='point' align='baseline' vspace='-4'> Remove the pentagram property option</FONT><BR><FONT color='#ebebeb'>You can remove the property option created on the pentagram after selecting it. </FONT><br></P><FONT color='#0075c8' size='12'>* Registration and cancellation of combination items can be used by right-clicking the mouse.</FONT></P>"
 4759	"When you take an Errtel out of the Pentagram, it may disappear. Do you still want to take it out?"
 4760	"Undesignated Option"
-// ½ºÅ³ °¢ÀÎ ÅØ½ºÆ® Ãß°¡ (2015-04-28 È«½Â¿í)	
+// ìŠ¤í‚¬ ê°ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-04-28 í™ìŠ¹ìš±)	
 4761	"Skill Imprint"
 4762	"Basic Skill"
 4763	"Special Skill"
@@ -4992,8 +4992,8 @@
 4780	"No Elemental Imprint is activated."
 4781	"Activate Elemental Imprint by equipping Pentagram."
 4782	"Special Skills are not affected by the Elemental Imprints."
-4783	"Only Castle Siege skills and Dark Lord¡¯s Dark Raven command skills can be registered."
-// ½ºÅ³ ÅøÆÁ °³¼± ÅØ½ºÆ® Ãß°¡ (2015-04-28 È«½Â¿í)	
+4783	"Only Castle Siege skills and Dark Lordâ€™s Dark Raven command skills can be registered."
+// ìŠ¤í‚¬ íˆ´íŒ ê°œì„  í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-04-28 í™ìŠ¹ìš±)	
 4784	"Mana %d"
 4785	"AG %d"
 4786	"Range %d"
@@ -5006,49 +5006,49 @@
 4793	"There is no buff skill available. Please check again."
 4794	"The following skill is already registered."
 4795	"You cannot register a skill that you did not learn."
-//Ä³½Ã ¾ÆÀÌÅÛ ¿¬Àå(2015-05-04 ÃÖÀ¯Áø)	
+//ìºì‹œ ì•„ì´í…œ ì—°ì¥(2015-05-04 ìµœìœ ì§„)	
 4796	"Would you extend the expiration date of %s?"
 4797	"You cannot use the item for more than 50 days."
-//¼Ó¼º½Ã½ºÅÛÈ®Àå(Àç·á¾øÀ½) ¾ÆÀÌÅÛ Å×½ºÆ® Ãß°¡ (2015-05-07 »çÀçÀÏ)	
+//ì†ì„±ì‹œìŠ¤í…œí™•ì¥(ì¬ë£Œì—†ìŒ) ì•„ì´í…œ í…ŒìŠ¤íŠ¸ ì¶”ê°€ (2015-05-07 ì‚¬ì¬ì¼)	
 4798	"Same type and rank with level +7 or above"
 4799	"%s Errtel item(s) required."
 4800	"Rank above %d"
-// ½ºÅ³ °¢ÀÎ ÅØ½ºÆ® Ãß°¡ (2015-05-11 È«½Â¿í)	
+// ìŠ¤í‚¬ ê°ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-05-11 í™ìŠ¹ìš±)	
 4801	"Skill Imprint saved."
-// Áß±¹ PK ¾Ë¸²  ÅØ½ºÆ® Ãß°¡(2015-05-14)	
+// ì¤‘êµ­ PK ì•Œë¦¼  í…ìŠ¤íŠ¸ ì¶”ê°€(2015-05-14)	
 4802	"You will receive additional penalty for killing 2nd and 3rd level." // from KOR
 4803	"You will lose more exp and zen after death than before." // from KOR
 4804	"You have high chance of losing item from inventory (including +7 and exc accesories items)" // from KOR
 4805	"PVP channel has PVP system. Please decide carefully." // from KOR
-// ½ºÅ³ °¢ÀÎ ÅØ½ºÆ® Ãß°¡ (2015-05-11 È«½Â¿í)	
+// ìŠ¤í‚¬ ê°ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-05-11 í™ìŠ¹ìš±)	
 4806	"MU Helper settings change when settings of a skill registered on Skill Imprint change."
-// ¼Ó¼º ½Ã½ºÅÛ È®Àå º¸¿Ï ÅØ½ºÆ® (2015-05-18 »çÀçÀÏ)	
+// ì†ì„± ì‹œìŠ¤í…œ í™•ì¥ ë³´ì™„ í…ìŠ¤íŠ¸ (2015-05-18 ì‚¬ì¬ì¼)	
 4807	"The item can be destroyed when you fail the combination."
 4808	"Click the combination button to process the combination without confirmation window."
-//¾ÆÄÉ·Ğ 300·¹º§ ÀÔÀå(2015-06-03 ÃÖÀ¯Áø)	
+//ì•„ì¼€ë¡  300ë ˆë²¨ ì…ì¥(2015-06-03 ìµœìœ ì§„)	
 4809	"You can enter Acheron when you reach Lv. 300 or higher."
-// ½ºÅ³ °¢ÀÎ ÅØ½ºÆ® Ãß°¡ (2015-06-08 È«½Â¿í)	
+// ìŠ¤í‚¬ ê°ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-06-08 í™ìŠ¹ìš±)	
 4810	"Save Settings Confirmation"
 4811	"Do you want to save your changes to the settings?"
 4812	"Save (Enter)"
 4813	"Close (ESC)"
-// ÆÄÆ¼º¸¿Ï (2015-06-11 ÃÖÀ¯Áø)	
+// íŒŒí‹°ë³´ì™„ (2015-06-11 ìµœìœ ì§„)	
 4814	"Would you like to promote one of your party members to party leader?"
 4815	"Failed to promote one of your party members to party leader"
 4816	"Ferea"
-// µ¿ÀÏ¸íÀÇ»óÇ° °ü·Ã ÆË¾÷ Ãß°¡ (2015-07-14 ÃÖÀ¯Áø)	
+// ë™ì¼ëª…ì˜ìƒí’ˆ ê´€ë ¨ íŒì—… ì¶”ê°€ (2015-07-14 ìµœìœ ì§„)	
 4817	"You can use it only on homepage." // from KOR
 4818	"You are already using the item." // from KOR
-// ÆÄÆ¼º¸¿Ï (2015-06-11 ÃÖÀ¯Áø)	
+// íŒŒí‹°ë³´ì™„ (2015-06-11 ìµœìœ ì§„)	
 4819	"%s is now withdrawn from the party due to reaching Murder level."
 4820	"Earth"
 4821	"Fire"
 4822	"Wind"
 4823	"Water"
 4824	"Darkness"
-// ±Û·Î¹ú FHL Ã¼³Î¸µ Á¢¼ÓÂ÷´Ü	
+// ê¸€ë¡œë²Œ FHL ì²´ë„ë§ ì ‘ì†ì°¨ë‹¨	
 4825	"Access denied according to the channeling policy"
-// ´ëÃµ»çÀÇÀı´ë¹«±â ¾÷±×·¹ÀÌµå Á¶ÇÕ ÅØ½ºÆ® µî·Ï (2015-08-06 »çÀçÀÏ)	
+// ëŒ€ì²œì‚¬ì˜ì ˆëŒ€ë¬´ê¸° ì—…ê·¸ë ˆì´ë“œ ì¡°í•© í…ìŠ¤íŠ¸ ë“±ë¡ (2015-08-06 ì‚¬ì¬ì¼)	
 4826	"Archangel's Hammer"
 4827	"Upgrades the Divine Sword of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
 4828	"Upgrades the Divine Staff of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
@@ -5057,7 +5057,7 @@
 4831	"Upgrades the Divine Stick of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
 4832	"Crafting Combination Material 'Archangel's Hammer' used for upgrading Absolute Archangel Weapon."
 4833	"Upgrading Absolute Archangel Weapon."
-// ¼Ó¼º½Ã½ºÅÛÈ®Àå º¸¿ÏÀÛ¾÷ ÅØ½ºÆ® Ãß°¡ (2015-08-10 »çÀçÀÏ)	
+// ì†ì„±ì‹œìŠ¤í…œí™•ì¥ ë³´ì™„ì‘ì—… í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-08-10 ì‚¬ì¬ì¼)	
 4834	"<P align='left'>Errtel option on the left will be activated and the Errtel on the right will disappear. <BR>Higher rank options will be activated with 100% chance at Rank up Combination. </P>"
 4835	"NOTE"
 4836	"The Errtel cannot be ranked up any more."
@@ -5066,25 +5066,25 @@
 4839	"You can only register the same type of Errtel."
 4840	"The Element is different from the registered material."
 4841	"The rank is different from the registered material."
-// ´ëÃµ»çÀÇÀı´ë¹«±â ½ºÅ³ ÅØ½ºÆ® Ãß°¡ (2015-08-06 »çÀçÀÏ)	
+// ëŒ€ì²œì‚¬ì˜ì ˆëŒ€ë¬´ê¸° ìŠ¤í‚¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2015-08-06 ì‚¬ì¬ì¼)	
 4842	"Archangel's will skill (MP:%d)"
-//¼Ó¼º¾ÆÀÌÅÛ ºĞÇØ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡(2015-08-28 ÃÖÀ¯Áø)	
+//ì†ì„±ì•„ì´í…œ ë¶„í•´ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€(2015-08-28 ìµœìœ ì§„)	
 4843	"Disassembly Succeeded! Acquired %s %d ea"
 4844	"Disassembly Failed"
-//½ºÅ³°¢ÀÎ µµ¿ì¹Ì ½ÇÇà½Ã ¸Ş½ÃÁö Ãß°¡ ÀÛ¾÷ (2015-09-03 À¯Çı¼º)	
+//ìŠ¤í‚¬ê°ì¸ ë„ìš°ë¯¸ ì‹¤í–‰ì‹œ ë©”ì‹œì§€ ì¶”ê°€ ì‘ì—… (2015-09-03 ìœ í˜œì„±)	
 4845	"Please close the Skill Imprint window first in order to implement MU Helper."
-// 2Â÷ ¸¶½ºÅÍ¸® Á¶ÇÕ ÅØ½ºÆ® (2015-09-14 »çÀçÀÏ)	
+// 2ì°¨ ë§ˆìŠ¤í„°ë¦¬ ì¡°í•© í…ìŠ¤íŠ¸ (2015-09-14 ì‚¬ì¬ì¼)	
 4846	"Second Mastery Set Darkangel Armor Combination"
 4847	"Second Mastery Set Darkangel Armor item will be created."
-//¹Â µµ¿ì¹Ì ÅøÆÁÃß°¡(2015-09-18 ÃÖÀ¯Áø)	
+//ë®¤ ë„ìš°ë¯¸ íˆ´íŒì¶”ê°€(2015-09-18 ìµœìœ ì§„)	
 4848	"You can set MU Helper option.<br>(Z key)"
 4849	"You can activate / stop the Helper function.<br>(Press the Home key or click the mouse wheel to activate / stop.)"
-//¸¶½ºÅÍ¸® ¿É¼Ç º¯°æ(2015-09-21 ÃÖÀ¯Áø)	
+//ë§ˆìŠ¤í„°ë¦¬ ì˜µì…˜ ë³€ê²½(2015-09-21 ìµœìœ ì§„)	
 4850	"You can use only with Mastery Item."
-// ¼Ó¼ºº¯È¯ UI Å×½ºÆ® (2015-10-05 »çÀçÀÏ)	
+// ì†ì„±ë³€í™˜ UI í…ŒìŠ¤íŠ¸ (2015-10-05 ì‚¬ì¬ì¼)	
 4851	"Select Element to change"
 4852	"Change selected element with element of Pentagram or Errtel Item. (Except for Errtel of Radiance)"
-// Ä³¸¯ÅÍÁ¤º¸Ã¢ UI ÅØ½ºÆ® (½ÃÁğ11 2015-10-07 ±è½ÂÅÂ)	
+// ìºë¦­í„°ì •ë³´ì°½ UI í…ìŠ¤íŠ¸ (ì‹œì¦Œ11 2015-10-07 ê¹€ìŠ¹íƒœ)	
 4853	"Normal"
 4854	"Element"
 4855	"Master"
@@ -5094,7 +5094,7 @@
 4859	"PVP"
 4860	"Element Option"
 4861	"No Guild"
-// ¼Ó¼ºº¯È¯ UI Å×½ºÆ® #2 (2015-10-08 »çÀçÀÏ)	
+// ì†ì„±ë³€í™˜ UI í…ŒìŠ¤íŠ¸ #2 (2015-10-08 ì‚¬ì¬ì¼)	
 4862	"The ranks of target's main material and ingredient material do not match."
 4863	"Errtel of Anger"
 4864	"Errtel of Blessing"
@@ -5105,30 +5105,30 @@
 4869	"You have not selected an Element to change"
 4870	"%s item is required."
 4871	"Element of Pentagram with equipped Errtel can not be changed."
-// Âø¿ëÁß¿¡ ´ëÇÑ ÅøÆÁ Ç¥½Ã (2015-10-19 ÃÖÀ¯Áø)	
+// ì°©ìš©ì¤‘ì— ëŒ€í•œ íˆ´íŒ í‘œì‹œ (2015-10-19 ìµœìœ ì§„)	
 4872	"[Equipped]"
-// ¼Ó¼ºÂ¡Ç¥ÀÌº¥Æ®(2015-10-20 ÃÖÀ¯Áø)	
+// ì†ì„±ì§•í‘œì´ë²¤íŠ¸(2015-10-20 ìµœìœ ì§„)	
 4873	"Element Box will be created"
 4874	"You do not have sufficient Element symbols."
 4875	"Combination is not possible due to lack of space in Event Inventory."
 4876	"Symbol Combination"
-// Æä¸®¾Æ Áö¿ª °æÇèÄ¡ ¹öÇÁ ÅøÆÁ Ãâ·Â (2015-10-22 »çÀçÀÏ)	
+// í˜ë¦¬ì•„ ì§€ì—­ ê²½í—˜ì¹˜ ë²„í”„ íˆ´íŒ ì¶œë ¥ (2015-10-22 ì‚¬ì¬ì¼)	
 4877	"Ferea region Party EXP buff (+%d%%)"
 4878	"Event Inventory space is insufficient."
-// ÆíÁöº¸³»±â ºñ¿ëºÎºĞ ½ºÇÇµå¿Í ÀÏ¹İ¼­¹ö µû·ÎÃ³¸® À§ÇØ Ãß°¡ ( 2016-02-15 ¼­»ó¹®)	
+// í¸ì§€ë³´ë‚´ê¸° ë¹„ìš©ë¶€ë¶„ ìŠ¤í”¼ë“œì™€ ì¼ë°˜ì„œë²„ ë”°ë¡œì²˜ë¦¬ ìœ„í•´ ì¶”ê°€ ( 2016-02-15 ì„œìƒë¬¸)	
 4879	"(Cost: %dZen)"
 4880	"Buff Item"
 4881	"Cannot open the cash shop at event map."
 4882	"Would you like to refine this item?"
 4883	"The item will disappear, and 'Jewel of Extension' can be created with a chance."
-// Áß±¹ ÆÇÈ£½ÉÀÇ °ü·Ã ¿É¼Ç Áß¹®È­ ÀÛ¾÷ (2016-02-23 À¯Çı¼º)	
+// ì¤‘êµ­ íŒí˜¸ì‹¬ì˜ ê´€ë ¨ ì˜µì…˜ ì¤‘ë¬¸í™” ì‘ì—… (2016-02-23 ìœ í˜œì„±)	
 4884	"mute"
 4885	"Cannot be used in Battle Core server or event map."
 4886	"You don't have any items for the character class."
 4887	"You don't have any buff items to use."
 4888	"You can repair damaged equipment <br>using Zen."
 4889	"You can disassemble set items (excluding accessories) and Errtel <br>to get Elemental Powder."
-//Season11 Part2 »ç³É ±â·Ï ÅØ½ºÆ® Ãß°¡ (2016-03-14 ¹ÚÇıÁø)	
+//Season11 Part2 ì‚¬ëƒ¥ ê¸°ë¡ í…ìŠ¤íŠ¸ ì¶”ê°€ (2016-03-14 ë°•í˜œì§„)	
 4890	"Hunting Log"
 4891	"'s Hunting Log"
 4892	"Open my Hunting Log to public."
@@ -5143,7 +5143,7 @@
 4901	"%s Graph"
 4902	""
 4903	"View Hunting Log"
-//½ÃµåÁ¶ÇÕUI ÅØ½ºÆ® µî·Ï (2016-03-16 »çÀçÀÏ)	
+//ì‹œë“œì¡°í•©UI í…ìŠ¤íŠ¸ ë“±ë¡ (2016-03-16 ì‚¬ì¬ì¼)	
 4904	"Socket System Combination"
 4905	"Socket Item Upgrade"
 4906	"Seed Sphere Enhance"
@@ -5161,14 +5161,14 @@
 4918	"Socket Slot : 1 - %d slot"
 4919	"Luck Option Random"
 4920	"Skill Option Random"
-//Season11 Part2 ½Å±Ô ÀÏ¹İ, ·¹¾î ÆæÅ¸±×·¥ ÅØ½ºÆ® Ãß°¡ (2016-03-23 ¹ÚÇıÁø)	
+//Season11 Part2 ì‹ ê·œ ì¼ë°˜, ë ˆì–´ íœíƒ€ê·¸ë¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2016-03-23 ë°•í˜œì§„)	
 4921	"Errtel for beginners can only be equipped on Pentagram for beginners."
 4922	"(+%d)"
-//½ÃµåÁ¶ÇÕUI ÅØ½ºÆ® µî·Ï#2 (2016-03-29 »çÀçÀÏ)	
+//ì‹œë“œì¡°í•©UI í…ìŠ¤íŠ¸ ë“±ë¡#2 (2016-03-29 ì‚¬ì¬ì¼)	
 4923	"[Level %d]"
-//½ÅUIº¯°æ ·Î±×ÀÎÃ¢ »ó´Ü ÅØ½ºÆ®_±¹°¡º° °ÔÀÓÀÌ¸§ Ç¥±â(2016-03-31 ÃÖÀ¯Áø)	
+//ì‹ UIë³€ê²½ ë¡œê·¸ì¸ì°½ ìƒë‹¨ í…ìŠ¤íŠ¸_êµ­ê°€ë³„ ê²Œì„ì´ë¦„ í‘œê¸°(2016-03-31 ìµœìœ ì§„)	
 4924	"MU Online"
-//½ÃµåÁ¶ÇÕUI ÅØ½ºÆ® µî·Ï#3 > ¿¹¿ÜÃ³¸® ¸Ş½ÃÁö (2016-04-06 »çÀçÀÏ_)	
+//ì‹œë“œì¡°í•©UI í…ìŠ¤íŠ¸ ë“±ë¡#3 > ì˜ˆì™¸ì²˜ë¦¬ ë©”ì‹œì§€ (2016-04-06 ì‚¬ì¬ì¼_)	
 4925	"You can only register +11 and 2 socket item or above, without Seed Sphere."
 4926	"You can register Set and Excellent Item above level +4."
 4927	"You can register Seed, Sphere Item."
@@ -5183,9 +5183,9 @@
 4936	"Please check the materials and try again."
 4937	"You can check slot information after Socket Item is registered."
 4938	"Socket Information"
-//½ÅUIº¯°æ(2016-04-11 ÃÖÀ¯Áø)	
+//ì‹ UIë³€ê²½(2016-04-11 ìµœìœ ì§„)	
 4939	"Please enter your character name (up to 10 letters in English)."
-//ÆøÅºÃ£±â_¹Ì´Ï°ÔÀÓ(2016-04-12 ÃÖÀ¯Áø)	
+//í­íƒ„ì°¾ê¸°_ë¯¸ë‹ˆê²Œì„(2016-04-12 ìµœìœ ì§„)	
 4940	"Find Bombs"
 4941	"Get Reward"
 4942	"Remaining Bombs"
@@ -5209,7 +5209,7 @@
 4960	"- Bomb Card failure x(-20)"
 4961	"- Stepped on bomb (-50)"
 4962	"- Clear 500"
-//½ÃµåÁ¶ÇÕUI ÅØ½ºÆ® µî·Ï#4 (2016-04-20 »çÀçÀÏ_)	
+//ì‹œë“œì¡°í•©UI í…ìŠ¤íŠ¸ ë“±ë¡#4 (2016-04-20 ì‚¬ì¬ì¼_)	
 4963	"380 Socket Item above level +11, with more than 2 sockets"
 4964	"Combination materials will be displayed when you register the upgrade target item."
 4965	"Set item above level +4"
@@ -5221,7 +5221,7 @@
 4971	"Seed Sphere item is registered on the main slot for Seed Sphere Enhance Combination. Registered item will be enhanced when the combination is successful, and will not disappear at failure. Other items will disappear."
 4972	"Seed Sphere elements for weapon items are fire, ice and lightening."
 4973	"Seed Sphere elements for armor items are water, wind and earth."
-//Season11 Part2 »ç³É ±â·Ï ÅØ½ºÆ® Ãß°¡_2 (2016-03-14 ¹ÚÇıÁø)	
+//Season11 Part2 ì‚¬ëƒ¥ ê¸°ë¡ í…ìŠ¤íŠ¸ ì¶”ê°€_2 (2016-03-14 ë°•í˜œì§„)	
 4974	"Min Normal DMG"
 4975	"Max Normal DMG"
 4976	"Min Elemental DMG"
@@ -5236,23 +5236,23 @@
 4985	"Amount of Normal DMG per second"
 4986	"Amount of Elemental DMG per second"
 4987	"You can check helper's hunting logs.<br>(End Key)"
-//Season11 Part2 ½Å±Ô ÀÏ¹İ, ·¹¾î ÆæÅ¸±×·¥ ÅØ½ºÆ® Ãß°¡_2 (2016-03-23 ¹ÚÇıÁø)	
+//Season11 Part2 ì‹ ê·œ ì¼ë°˜, ë ˆì–´ íœíƒ€ê·¸ë¨ í…ìŠ¤íŠ¸ ì¶”ê°€_2 (2016-03-23 ë°•í˜œì§„)	
 4988	"(Pentagram above level %d required)"
-//VIP ¹öÇÁÃß°¡(2016-05-13 ÃÖÀ¯Áø)	
+//VIP ë²„í”„ì¶”ê°€(2016-05-13 ìµœìœ ì§„)	
 4989	"Lunedil's Blessing level %d  (+%d%%)"
 4990	"You cannot equip more than one premium muun if multiple effect period is still remaining."
 4991	"You do not have available slot."
 4992	"You cannot unequip because you do not have enough Muun Inventory space."
 4993	"You cannot equip / unequip the item."
-//ÆøÅºÃ£±â ¼³¸í(Á¡¼öÃß°¡)(2016-05-13 ÃÖÀ¯Áø)	
+//í­íƒ„ì°¾ê¸° ì„¤ëª…(ì ìˆ˜ì¶”ê°€)(2016-05-13 ìµœìœ ì§„)	
 4994	"<Event Reward>"
 4995	"- 0 - 150: Lower Box"
 4996	"- 151 - 850: Medium Box"
 4997	"- 851 - 1100: Higher Box"
 4998	"- Higher than 1100: Luxury Box"
-//¹ö±×¼öÁ¤(2016-05-13- ¼­»ó¹®)	
+//ë²„ê·¸ìˆ˜ì •(2016-05-13- ì„œìƒë¬¸)	
 4999	"You cannot enter the event map while Personal Shop is open."
-//Season11 Part2 »ç³É ±â·Ï ÅØ½ºÆ® Ãß°¡_3 (2016-05-19 ¹ÚÇıÁø)	
+//Season11 Part2 ì‚¬ëƒ¥ ê¸°ë¡ í…ìŠ¤íŠ¸ ì¶”ê°€_3 (2016-05-19 ë°•í˜œì§„)	
 5000	"Normal DMG"
 5001	"Elemental DMG"
 5002	"Heal Amount"
@@ -5277,11 +5277,11 @@
 5021	"EVENT!! You don't need Jewel items when combining."
 5022	"Instant Hunting Log"
 5023	"Please click the confirm button on the Socket Item Option Information popup, and try again."
-//2016Áß±¹ÆÇÈ£ÀÛ¾÷ ÄÚµå¿¡ ÀÖ´Â ³»¿ëÀ» ÅØ½ºÆ® ºĞ¸®(ZEN/EXP/BONUS)	
+//2016ì¤‘êµ­íŒí˜¸ì‘ì—… ì½”ë“œì— ìˆëŠ” ë‚´ìš©ì„ í…ìŠ¤íŠ¸ ë¶„ë¦¬(ZEN/EXP/BONUS)	
 5024	"Zen"
 5025	"Exp"
 5026	"Bonus"
-//Season12 Part1 ½Å±Ô »ç³ÉÅÍ ´Ğ½Ã½º È£¼ö°ü·Ã ÅØ½ºÆ® Ãß°¡_1 (2016-07-28 ¹ÚÇıÁø)
+//Season12 Part1 ì‹ ê·œ ì‚¬ëƒ¥í„° ë‹‰ì‹œìŠ¤ í˜¸ìˆ˜ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€_1 (2016-07-28 ë°•í˜œì§„)
 5027	"Nixies Lake"
 5028	"You have been moved out because you have exceeded the time limit for Nix's Haven."
 5029	"You can enter the boss monster Nix's Haven. Do you want to enter?"
@@ -5302,7 +5302,7 @@
 5044	"Fri"
 5045	"Sat"
 5046	"Sun"
-//Season12 Part1 Â÷¿øÀÇ ¹Ì±Ã°ü·Ã ÅØ½ºÆ® Ãß°¡_1 (2016-08-19 ¹ÚÇıÁø)
+//Season12 Part1 ì°¨ì›ì˜ ë¯¸ê¶ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€_1 (2016-08-19 ë°•í˜œì§„)
 5047	"Maze of Dimensions"
 5048	"This is the gate to the Maze of Dimensions."
 5049	"Enter the Maze of Dimensions, floor %d."
@@ -5379,7 +5379,7 @@
 5120	"Timed items cannot be used."
 5121	"The item was not purchased. Please contact Customer Support if the problem persists."
 5122	"Your usage of Cash has been limited."
-//º¸¼®ºù°í Ãß°¡(2017-02-03 ÃÖÀ¯Áø)
+//ë³´ì„ë¹™ê³  ì¶”ê°€(2017-02-03 ìµœìœ ì§„)
 5123	"Jewel Bingo"
 5124	"<FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Game Start</FONT><BR><FONT color='#ebebeb'> - Hunt the monsters to collect all 24 card pieces to create a Card Deck and start the game.</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> How to Play</FONT><BR><FONT color='#ebebeb'> - Click the jewel on the right side and place it on the game board.<BR> - You can also use the auto-placement button to automatically place the jewel.<BR> - Your goal is to make a line of matching jewels.<BR> - Making a line crossing the MU in the center gives higher points.</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Score Calculation</FONT><BR><FONT color='#ebebeb'> - Crossing MU Bingo: 312 points<BR> - Normal Bingo: 240 points<BR> - Jewel Score: 45 points</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Event Reward</FONT><BR><FONT color='#ebebeb'> - 1000 points or higher: Luxury Box<BR> - 900 points or higher: Higher Box<BR> - 700 points or higher: Medium Box<BR> - Below 700 points: Lower Box</FONT>"
 5125	"Auto-Placement"
@@ -5394,19 +5394,19 @@
 5134	"The game is over. Please check the score."
 5135	"Choose the jewel that matches the box's jewel."
 5136	"<FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Egg Embracing Monster Event</FONT><BR><FONT color='#ebebeb'> - You can acquire 'Muun' and 'Jewel' from the roaming monster on the field.<BR> - Event Monster Spawn Hour<BR> 1. 13:00~ 13:40 -> 20-minute interval<BR> 2. 21:00~ 00:40 -> 20-minute interval</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Moon Rabbit Spawn Area</FONT><BR><FONT color='#ebebeb'>Lorencia, Elbeland, Devias, Noria</FONT><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Lucky Bag Spawn Area</FONT><BR><FONT color='#ebebeb'>Lost Tower, Icarus, Kalima5, Aida</FONT><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Fire Flame Ghost Spawn Area</FONT><BR><FONT color='#ebebeb'>Raklion, Peace Swamp, Kanturu Ruins, Debenter</FONT>"
-//°¡ÀÌµå Äù½ºÆ® Ãß°¡(2017-03-03 ³ë¿µÈ£)	
+//ê°€ì´ë“œ í€˜ìŠ¤íŠ¸ ì¶”ê°€(2017-03-03 ë…¸ì˜í˜¸)	
 5137	"Quest Complete - Click here for your reward!!"
-//±Û·Î¹ú»óÁ¡¿¡·¯¸Ş½ÃÁöÃß°¡ (±¹³»»ç¿ëÇÏÁö ¾ÊÀ½)	
+//ê¸€ë¡œë²Œìƒì ì—ëŸ¬ë©”ì‹œì§€ì¶”ê°€ (êµ­ë‚´ì‚¬ìš©í•˜ì§€ ì•ŠìŒ)	
 5138	"Failed to send a gift. Please try again."
 5139	"This account doesn't exist. Please check again."
 5140	"This recipient doesn't exist. Please check again."
 5141	"Purchase Failed. Please check again"
-//º¢²É ÀÌº¥Æ® Ãß°¡(2017-03-13 ³ë¿µÈ£)	
+//ë²šê½ƒ ì´ë²¤íŠ¸ ì¶”ê°€(2017-03-13 ë…¸ì˜í˜¸)	
 5142	"Cherry Blossom Event"
 5143	"Event Information"
 5144	"<FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Cherry Blossom Play-Box Event</FONT><BR><FONT color='#ebebeb'>Hunt the monsters and they will have a chance to drop the 'Cherry Blossom Play-Box'.<BR>Collect various items of the coming spring.</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Relevant Field</FONT><BR><FONT color='#ebebeb'> All zones, All monsters </FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Items Acquired </FONT><BR><FONT color='#ebebeb'>Buffs/Jewel of Bless/Jewel of Soul/Red Cherry Tree Branch</FONT>"
 5145	"Cannot use the combination in sequence. Close the window and reopen it."
-//°¡ÀÌµå Äù½ºÆ®¿ë (2017-03-24 ³ë¿µÈ£)	
+//ê°€ì´ë“œ í€˜ìŠ¤íŠ¸ìš© (2017-03-24 ë…¸ì˜í˜¸)	
 5146	"If the quest is aborted after checking<br> the whole chapter will be aborted."
 5147	"Level %d or higher can participate"
 5148	"EXP: %d"
@@ -5417,17 +5417,17 @@
 5153	"Not enough level."
 5154	"Would you like to abort the chapter?"
 5155	"Abort"
-//ÀÎ°ÔÀÓ? ¿À·ù ¸Ş½ÃÁö Ãß°¡ (2017-03-27 ³ë¿µÈ£)	
+//ì¸ê²Œì„? ì˜¤ë¥˜ ë©”ì‹œì§€ ì¶”ê°€ (2017-03-27 ë…¸ì˜í˜¸)	
 5156	"Unable to send the gift to the requested account."
 5157	"Your usage of Cash has been limited."
-// 4Â÷ ÀüÁ÷ ÅØ½ºÆ® µî·Ï (2017-03-28 »çÀçÀÏ)	
+// 4ì°¨ ì „ì§ í…ìŠ¤íŠ¸ ë“±ë¡ (2017-03-28 ì‚¬ì¬ì¼)	
 5158	"Favorite"
 5159	"Up to 5 favorite locations can be saved to the favorite list."
-// 4Â÷ Æ®¸® ÅøÆÁ ÅØ½ºÆ® (2017-03-28 »çÀçÀÏ)  // %d ÀÇ Á¤ÀÇ °ª ¼ø¼­ º¯°æµÇ¸é ¾ÈµÊ.	
+// 4ì°¨ íŠ¸ë¦¬ íˆ´íŒ í…ìŠ¤íŠ¸ (2017-03-28 ì‚¬ì¬ì¼)  // %d ì˜ ì •ì˜ ê°’ ìˆœì„œ ë³€ê²½ë˜ë©´ ì•ˆë¨.	
 5160	"Skill Grade %d / %d"
 5161	"%s is required"
 5162	"Prerequisite %d point usage required"
-// 4Â÷ ÀüÁ÷ È£Äª (2017-03-28 »çÀçÀÏ)	
+// 4ì°¨ ì „ì§ í˜¸ì¹­ (2017-03-28 ì‚¬ì¬ì¼)	
 5163	"Soul Wizard"
 5164	"Dragon Knight"
 5165	"Noble Elf"
@@ -5436,43 +5436,43 @@
 5168	"Empire Lord"
 5169	"Fist Blazer"
 5170	"Shining Lancer"
-// 4Â÷ Æ®¸® ÅøÆÁ ÅØ½ºÆ® (2017-03-28 »çÀçÀÏ)	
+// 4ì°¨ íŠ¸ë¦¬ íˆ´íŒ í…ìŠ¤íŠ¸ (2017-03-28 ì‚¬ì¬ì¼)	
 5171	"Required Points: %d Point(s)"
-// ¸®´º¾ó ´øÀü ³×ÀÓ (2017-03-31 »çÀçÀÏ)	
+// ë¦¬ë‰´ì–¼ ë˜ì „ ë„¤ì„ (2017-03-31 ì‚¬ì¬ì¼)	
 5172	"Deep Dungeon 1"
 5173	"Deep Dungeon 2"
 5174	"Deep Dungeon 3"
 5175	"Deep Dungeon 4"
 5176	"Deep Dungeon 5"
-// 4Â÷ ÀüÁ÷ Äù½ºÆ®Áö¿ª ³×ÀÓ (2017-03-31 »çÀçÀÏ)	
+// 4ì°¨ ì „ì§ í€˜ìŠ¤íŠ¸ì§€ì—­ ë„¤ì„ (2017-03-31 ì‚¬ì¬ì¼)	
 5177	"Area of Eligibility"
 5178	"Test Area"
-// 4Â÷ Æ®¸® ÅøÆÁ ÅØ½ºÆ® (2017-03-28 »çÀçÀÏ)  // %d,%s ÀÇ Á¤ÀÇ °ª ¼ø¼­ º¯°æµÇ¸é ¾ÈµÊ.	
+// 4ì°¨ íŠ¸ë¦¬ íˆ´íŒ í…ìŠ¤íŠ¸ (2017-03-28 ì‚¬ì¬ì¼)  // %d,%s ì˜ ì •ì˜ ê°’ ìˆœì„œ ë³€ê²½ë˜ë©´ ì•ˆë¨.	
 5179	"%s Master Skill %d Point(s) required"
 5180	"Would like to enter the Area of Eligibility?"
 5181	"Would like to enter the Test Area?"
 5182	"Would you like to return to the town?"
 5183	"Required Skill Enhancement Point: %d"
-// ÀÌµ¿¸í·ÉÃ¢ Áñ°ÜÃ£±â µî·Ï/ÇØÁ¦ ÅØ½ºÆ® ¸Ş½ÃÁö	
+// ì´ë™ëª…ë ¹ì°½ ì¦ê²¨ì°¾ê¸° ë“±ë¡/í•´ì œ í…ìŠ¤íŠ¸ ë©”ì‹œì§€	
 5184	"%d has been added to the favorite."
 5185	"%s has been removed from the favorite."
 5186	"Favorite List"
 5187	"Skill Enhancement"
-//º¸¼®ºù°í Ãß°¡(2017-02-03 ÃÖÀ¯Áø)	
+//ë³´ì„ë¹™ê³  ì¶”ê°€(2017-02-03 ìµœìœ ì§„)	
 5188	"Place the clicked jewel on the jewel board."
-// 4Â÷ ÀüÁ÷ Ãß°¡ (2017-04-28 »çÀçÀÏ)	
+// 4ì°¨ ì „ì§ ì¶”ê°€ (2017-04-28 ì‚¬ì¬ì¼)	
 5189	"Quest Survival Time"
 5190	"Quest Reward"
 5191	"You must be level 750 or higher to enter the Test Area."
 5192	"Normal Skill Upgrade"
 5193	"Debuff Explosion"
 5194	"%s Skill Enhance Tree (4th Class) %d Points required"
-// °¡ÀÌµå Äù½ºÆ® Ãß°¡ (2017-05-12 ³ë¿µÈ£)	
+// ê°€ì´ë“œ í€˜ìŠ¤íŠ¸ ì¶”ê°€ (2017-05-12 ë…¸ì˜í˜¸)	
 5195	"Players should meet the level requirement to enter the zone. Sorry but you are not allowed to carry out the quest. Please abort the quest and carry out the next quest."
-// 4Â÷ Æ®¸® ÅØ½ºÆ® (2017-05-17 7:37 PM) ¹ÚÇıÁø	
+// 4ì°¨ íŠ¸ë¦¬ í…ìŠ¤íŠ¸ (2017-05-17 7:37 PM) ë°•í˜œì§„	
 5196	"Level: %d"
 5197	"Skill Point: %d"
-// ¹Â µµ¿ì¹Ì Æø¹ß ½ºÅ³ ÅØ½ºÆ® (2017-05-18 »çÀçÀÏ)	
+// ë®¤ ë„ìš°ë¯¸ í­ë°œ ìŠ¤í‚¬ í…ìŠ¤íŠ¸ (2017-05-18 ì‚¬ì¬ì¼)	
 5198	"Delay Condition Setting"
 5199	"Search the target per second and cast."
 5200	"Monster Condition Setting"
@@ -5482,7 +5482,7 @@
 5204	"Search the target every second and cast"
 5205	"Deep Dungeon Additional EXP (+%d%%)"
 5206	"You cannot access the In-game Shop from the current zone."
-// ±âÀûÀÇ »óÀÚ ±³È¯ »óÁ¡ ÅØ½ºÆ® (2017-05-31 ³ë¿µÈ£)	
+// ê¸°ì ì˜ ìƒì êµí™˜ ìƒì  í…ìŠ¤íŠ¸ (2017-05-31 ë…¸ì˜í˜¸)	
 5207	"Box of Miracle Exchange Shop"
 5208	"Pay Now"
 5209	"Currency Owned"
@@ -5492,18 +5492,18 @@
 5213	"Open Box"
 5214	"Items Acquired"
 5215	"Choose Item"
-// ½ºÅ³°­È­Æ®¸® ¾ÆÀÌÅÛ È®ÀÎ ÆË¾÷ ÅØ½ºÆ® (2017-06-15 »çÀçÀÏ)
+// ìŠ¤í‚¬ê°•í™”íŠ¸ë¦¬ ì•„ì´í…œ í™•ì¸ íŒì—… í…ìŠ¤íŠ¸ (2017-06-15 ì‚¬ì¬ì¼)
 5216	"4th Class Skill Enhancement Tree will be reset."
 5217	"Would you like to reset now?"
 5218	"The reset will bring you to the character selection screen."
 5219	"Cannot be used since there is no point invested in the Skill Enhancement Tree."
-// ½½·ÔÀ» ¸®½ºÆ®·Î º¯°æ Ãß°¡ (2017-07-28 ÃÖÀ¯Áø)	
+// ìŠ¬ë¡¯ì„ ë¦¬ìŠ¤íŠ¸ë¡œ ë³€ê²½ ì¶”ê°€ (2017-07-28 ìµœìœ ì§„)	
 5220	"Vacant Character Slot"
 5221	"Locked Character Slot"
-//¸¶Á¤¼®Á¶ÇÕ (2017-08-01 ÃÖÀ¯Áø)	
+//ë§ˆì •ì„ì¡°í•© (2017-08-01 ìµœìœ ì§„)	
 5223	"Magic Stone Combination"
 5224	"Magic Stone is created based on the value of the item."
-// ±âÅ¸ ÅØ½ºÆ® µî·Ï (2017-08-03 »çÀçÀÏ)	
+// ê¸°íƒ€ í…ìŠ¤íŠ¸ ë“±ë¡ (2017-08-03 ì‚¬ì¬ì¼)	
 5225	"Basic DEF"
 5226	"Fourth Mastery Set Awakening Armor Combination"
 5227	"Fourth Mastery Set Awakening Armor item will be created."
@@ -5512,11 +5512,11 @@
 5230	"4th Wings"
 5231	"You can select and create the desired combination."
 5232	"Combination of Event Map Entry,<br>Wings combination, Horn of Fenrir,<br>Bloodangel's Soul combination."
-//¾ÆÀÌÅÛ ´©³ª±â(2017-09-04 ÃÖÀ¯Áø)	
+//ì•„ì´í…œ ëˆ„ë‚˜ê¸°(2017-09-04 ìµœìœ ì§„)	
 5233	"Divide"
 5234	"You can divide an item by a desired number."
 5235	"Brave Warrior's Muun"
-// ¶óÀÌºê2 µµ¿ì¹Ì ÅØ½ºÆ® (2017-09-12 ³ë¿µÈ£)
+// ë¼ì´ë¸Œ2 ë„ìš°ë¯¸ í…ìŠ¤íŠ¸ (2017-09-12 ë…¸ì˜í˜¸)
 5236	"Assign Helper"
 5237	"Cancel Helper Assignment"
 5238	"Automatic Movement to Party Members"
@@ -5539,12 +5539,12 @@
 5255	"Max Mana: %d"
 5256	"Magic: %d - %d"
 5257	"Curse: %d - %d"
-// PC¹æ ÀÌº¥Æ® ÅØ½ºÆ® (2017-09-26 Á¶¼º¿ì)	
+// PCë°© ì´ë²¤íŠ¸ í…ìŠ¤íŠ¸ (2017-09-26 ì¡°ì„±ìš°)	
 5258	"This item can only be used at a PC Cafe."
 5259	"!!Event!! You can create a Darkangel Set Item from a Lv. +9 or higher Bloodangel Set Item. " 
 5260	"You can't open a new window while in Divide mode."
 5261	"!!Event!! Darkangel Set Item Creation"
-//½ºÅ³°­È­Æ®¸® ÅØ½ºÆ® Ãß°¡ (2017-10-10 »çÀçÀÏ)	
+//ìŠ¤í‚¬ê°•í™”íŠ¸ë¦¬ í…ìŠ¤íŠ¸ ì¶”ê°€ (2017-10-10 ì‚¬ì¬ì¼)	
 5262	"Skill Enhance Slot (Yellow Border) %d Points required"
 5263	"Debuff Enhance Slot (Purple Border) %d Points required"
 5264	"# #Next Activation Level#"
@@ -5594,7 +5594,7 @@
 5308	"Only %d Rank Errtel (Lv. %d or above) can be registered."
 5309	"The Swamp Monster summoned a Water Monster."
 5310	"The God of Darkness that absorbed the Water Monster has appeared."
-//±Û·Î¹ú 800·¹º§ÀÌÈÄ °æÇèÄ¡Æ«ÆÁ ÀÛ¾÷(À¯Çı¼º)	
+//ê¸€ë¡œë²Œ 800ë ˆë²¨ì´í›„ ê²½í—˜ì¹˜íŠ¤íŒ ì‘ì—…(ìœ í˜œì„±)	
 5311	"[Basic 100% + (A) Additional EXP] x (B) EXP Multiplier + (C) Gold Channel"
 5312	"-------(C) Gold Channel EXP -------"
 5313	"Gold Channel (%d%%)"
@@ -5603,11 +5603,11 @@
 5316	"Arrived through auto-move!"
 5317	"Auto-move complete"
 5318	"(B) EXP Multiplier: Multiplied by %.2f"
-// ºĞÇØ ¸Ş½ÃÁö Ãß°¡ (2017-12-11 Á¶¼º¿ì)	
+// ë¶„í•´ ë©”ì‹œì§€ ì¶”ê°€ (2017-12-11 ì¡°ì„±ìš°)	
 5319	"Close other windows and use Disassemble."
-// ¸¶½ºÅÍ¸® º¸³Ê½º ¿É¼Ç Ãß°¡ (2017-12-20 ¹ÚÇıÁø)	
+// ë§ˆìŠ¤í„°ë¦¬ ë³´ë„ˆìŠ¤ ì˜µì…˜ ì¶”ê°€ (2017-12-20 ë°•í˜œì§„)	
 5320	"Mastery Bonus Option"
-// ±Í°ÉÀÌ Ãß°¡ (2018-01-10 ³ë¿µÈ£)	
+// ê·€ê±¸ì´ ì¶”ê°€ (2018-01-10 ë…¸ì˜í˜¸)	
 5321	"Season Mastery Item Equip Bonus"
 5322	"Create Lapidary Stone"
 5323	"Enhance Earrings"
@@ -5623,17 +5623,17 @@
 5333	"You can select only Earring item."
 5334	"You have deselected the Earring."
 5335	"You have already selected an Earring."
-// ¼ıÀÚ¾ß±¸(2018-02-06 ÃÖÀ¯Áø)	
+// ìˆ«ìì•¼êµ¬(2018-02-06 ìµœìœ ì§„)	
 5336	"Balls and Cows"
 5337	"<FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Start Game</FONT><BR><FONT color='#ebebeb'> - Hunt the monsters to collect all 24 card pieces to create a Card Deck and start the game.</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> How to Play</FONT><BR><FONT color='#ebebeb'> - Your goal is to find the 3-digit secret number.<BR> - Click the number balls at the bottom to place digits.<BR> - If the matching digits are in their right positions, they are 'S(Strike).'<BR> - If the matching digits are in different positions, they are 'B(Ball).'<BR> - If the digits don't match, they are 'OUT.'<BR> - More Strikes gives higher points, the game ends when you get SSS.<BR> - You have up to 5 turns. </FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Score Calculation</FONT><BR><FONT color='#ebebeb'> - Amount of S x 40 Points<BR> - Amoun tof B x 10 Points<BR> - SSS at the first turn: 600 Points <BR> - SSS at the second turn: 500 Points<BR> - SSS at the third turn: 400 Points<BR> - SSS at the forth turn: 320 Points<BR> - SSS at the fifth turn: 285 Points</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Event Reward</FONT><BR><FONT color='#ebebeb'> - 450 Points or higher: Higher Box<BR> - 300 Points or higher: Medium Box<BR> - Below 300 points: Lower Box</FONT>"
 5338	"The digit will be place in the order you click the number ball."
 5339	""
 5340	""
-//ÀÌµ¿¸í·ÉÃ¢ º¸¿Ï(2018-02-08 »çÀçÀÏ)	
+//ì´ë™ëª…ë ¹ì°½ ë³´ì™„(2018-02-08 ì‚¬ì¬ì¼)	
 5341	"Default Sort Order"
 5342	"Sort by Difficulty"
 5343	"Sort by Alphabet"
-// Â÷¿øÀÇ ¹Ì±Ã ¸®ºÎÆ® ÅØ½ºÆ® Ãß°¡ (2018-02-28 ¹ÚÇıÁø)	
+// ì°¨ì›ì˜ ë¯¸ê¶ ë¦¬ë¶€íŠ¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-02-28 ë°•í˜œì§„)	
 5344	"Required to Enter"
 5345	"Rewards"
 5346	"Week %d League [%s Group %d]"
@@ -5651,27 +5651,27 @@
 5358	"%d Maze Points"
 5359	"%d Additional Points (Maze Goblin Kill)"
 5360	"Upgrades the Divine Claws of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
-// ¹Â ¸ğ¹ÙÀÏ°ü·Ã ÅØ½ºÆ® Ãß°¡ (2018-03-13 ¹ÚÇıÁø)	
+// ë®¤ ëª¨ë°”ì¼ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-03-13 ë°•í˜œì§„)	
 5361	"MU Mobile"
 5362	"MU Mobile Rewards"
-//±â°£¿¬Àå ½Ã½ºÅÛ ÅØ½ºÆ® Ãß°¡ (2018-03-16 À¯Çı¼º)	
+//ê¸°ê°„ì—°ì¥ ì‹œìŠ¤í…œ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-03-16 ìœ í˜œì„±)	
 5363	"The item is currently in use. Please unequip the item first."
-// Â÷¿øÀÇ ¹Ì±Ã ¸®ºÎÆ® ÅØ½ºÆ® Ãß°¡ (2018-02-28 ¹ÚÇıÁø)	
+// ì°¨ì›ì˜ ë¯¸ê¶ ë¦¬ë¶€íŠ¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-02-28 ë°•í˜œì§„)	
 5364	"Bronze"
 5365	"Silver"
 5366	"Gold"
 5367	"Legend"
-// ·é¸¶¹ı»ç Ä³¸¯ÅÍ ¼±ÅÃÃ¢ ÅØ½ºÆ® µî·Ï (2018-04-11 »çÀçÀÏ)	
+// ë£¬ë§ˆë²•ì‚¬ ìºë¦­í„° ì„ íƒì°½ í…ìŠ¤íŠ¸ ë“±ë¡ (2018-04-11 ì‚¬ì¬ì¼)	
 5368	"Rune Wizard"
 5369	"A half-elf who was born between a human Wizard and an Elf. She uses unique spells with the magic power of human wizard and Rune."
-// ÀÌµ¿¸í·ÉÃ¢ º¸¿Ï ÀÛ¾÷ ÅØ½ºÆ® µî·Ï (2018-04-11 11:47 AM »çÀçÀÏ)	
+// ì´ë™ëª…ë ¹ì°½ ë³´ì™„ ì‘ì—… í…ìŠ¤íŠ¸ ë“±ë¡ (2018-04-11 11:47 AM ì‚¬ì¬ì¼)	
 5370	"Main monster info in %s"
 5371	"HP: %d"
 5372	"Attack: %d"
 5373	"DEF: %d"
 5374	"Elemental ATK: %d"
 5375	"Elemental DEF: %d"
-// Ã¤³Î ÀÚÀ¯ÀÌµ¿ ½Ã½ºÅÛ ¸Ş½ÃÁö Ãß°¡ (2018-04-17 Á¶¼º¿ì)	
+// ì±„ë„ ììœ ì´ë™ ì‹œìŠ¤í…œ ë©”ì‹œì§€ ì¶”ê°€ (2018-04-17 ì¡°ì„±ìš°)	
 5376	"Already in the selected channel."
 5377	"Cannot change channels in the current map."
 5378	"Cannot Change channels in PK status."
@@ -5680,50 +5680,50 @@
 5381	"The channel is full."
 5382	"Gold Channel Ticket required to enter the selected channel."
 5383	"Would you like to close the game?"
-//±Û·Î¹ú GDPR À¯·´ °³ÀÎÁ¤º¸ º¸È£¹ı ½ÃÇà¿¡ µû¸¥ ¸Ş½ÃÁö Ãß°¡ ±Û·Î¹ú Àü¿ë (2018-05-18 À¯Çı¼º)	
+//ê¸€ë¡œë²Œ GDPR ìœ ëŸ½ ê°œì¸ì •ë³´ ë³´í˜¸ë²• ì‹œí–‰ì— ë”°ë¥¸ ë©”ì‹œì§€ ì¶”ê°€ ê¸€ë¡œë²Œ ì „ìš© (2018-05-18 ìœ í˜œì„±)	
 5384	"In compliance with data protection regulations coming into effect in the EU, an updated Privacy Policy was applied to MU as of May 25, 2018. Please go to www.twilight.mu and agree on the updated Privacy Policy to proceed with game log-in."
-// ¹Â ¸ğ¹ÙÀÏ°ü·Ã ÅØ½ºÆ® Ãß°¡ (2018-06-04 ¹ÚÇıÁø)	
+// ë®¤ ëª¨ë°”ì¼ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-06-04 ë°•í˜œì§„)	
 5385	"<FONT color='#66c300' size='12'><img src='point' align='baseline' vspace='-4'> Acquire key</FONT><BR><FONT color='#ebebeb' size='12'>If you hunt monsters of level 90 or higher in Mu Online, you can obtain a'Dimensional Key.' When you hunt for a party, everyone in the party will randomly acquire a key. Otherwise, it will disappear.</FONT><BR><BR><FONT color='#66c300' size='12'><img src='point' align='baseline' vspace='-4'> Playing </FONT><BR><FONT color='#ebebeb' size='12'>You can play by running the MU Lite downloaded on your mobile phone.After registering your mu online account, you can play with characters of level 400 or higher.</FONT>"
 5386	"Dimension Key Information"
 5387	"Dimension keys are available in the MU Lite app."
 5388	"Mu Mobile Event (MU Lite)"
-//³×´ú¶õµå °¡Ã­¹Ú½º ÆÇ¸ÅºÒ°¡¸Ş½ÃÁö Ãß°¡ (2018-06-08 À¯Çı¼º)	
+//ë„¤ëœë€ë“œ ê°€ì± ë°•ìŠ¤ íŒë§¤ë¶ˆê°€ë©”ì‹œì§€ ì¶”ê°€ (2018-06-08 ìœ í˜œì„±)	
 5389	"The Item Shop cannot be accessed from your country."
-//Èû³­´ß ÀÌº¥Æ®(º¹³¯) (2018-06-19 ÃÖÀ¯Áø)	
+//í˜ë‚œë‹­ ì´ë²¤íŠ¸(ë³µë‚ ) (2018-06-19 ìµœìœ ì§„)	
 5390	"Chicken Run Event"
 5391	"<FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Strong Chicken Event</FONT><BR><FONT color='#ebebeb'>A tough chicken with a strong item has appeared.<BR>You can acquire a strong item by hunting a hard chicken.</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Hours of Raging Chickens</FONT><BR><FONT color='#ebebeb'>11:00, 14:00, 18:00, 19:00, 21:00</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align=' baseline' vspace='-4'> Hunting Chicken Appearance Hunting Field</FONT><BR><FONT color='#ebebeb'>Lorancia (200/105), Noria (202/64)</FONT><BR><BR><FONT color='#ffaa00' size='11'><img src='point' align='baseline' vspace='-4'> Rewarding the Roaring Chicken</FONT><BR><FONT color='#ebebeb'>Egg/ Jewelry/ [Attachment] Blessing of Light (Lower)/ Flask Buffs</FONT>"
 5392	"You can't have 30 or more Timed item in the inventory."
-// ¹Â ¸ğ¹ÙÀÏ°ü·Ã ÅØ½ºÆ® Ãß°¡ (2018-06-27 ¹ÚÇıÁø)	
+// ë®¤ ëª¨ë°”ì¼ê´€ë ¨ í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-06-27 ë°•í˜œì§„)	
 5393	"MU Mobile Event is in progress."
-// ´ëÃµ»çÀÇÀı´ëÅ¬·Î Á¶ÇÕ ¼³¸í (2018-07-11 »çÀçÀÏ)	
+// ëŒ€ì²œì‚¬ì˜ì ˆëŒ€í´ë¡œ ì¡°í•© ì„¤ëª… (2018-07-11 ì‚¬ì¬ì¼)	
 5394	"Upgrades the Divine Lance of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
 5395	"Upgrades the Divine Mace of Archangel Upon successful combination, the Jewel of Harmony option will be reset."
-//Èû³­´ß ÀÌº¥Æ®(º¹³¯) º£³Ê ¸Ş½ÃÁö Ãß°¡ (2018-07-17 Á¶¼º¿ì)	
+//í˜ë‚œë‹­ ì´ë²¤íŠ¸(ë³µë‚ ) ë² ë„ˆ ë©”ì‹œì§€ ì¶”ê°€ (2018-07-17 ì¡°ì„±ìš°)	
 5396	"Chicken"
 5397	"Vengeance : %d"
 5398	"Severity : %d"
 5399	"Cold-bloodedness : %d"
 5400	"Rune Spell Master"
 5401	"Rune Grand Master"
-// 0·¹º§ ·°Å°Æ¼ÄÏ ¸Ş½ÃÁö Ãß°¡ (2018-07-23 Á¶¼º¿ì)	
+// 0ë ˆë²¨ ëŸ­í‚¤í‹°ì¼“ ë©”ì‹œì§€ ì¶”ê°€ (2018-07-23 ì¡°ì„±ìš°)	
 5402	"It will be exchanged for a Lucky Item (Lv. 0)."
-// Äíº£¶ó ±¤»ê ÅØ½ºÆ® Ãß°¡ (2018-06-27 ¹ÚÇıÁø)	
+// ì¿ ë² ë¼ ê´‘ì‚° í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-06-27 ë°•í˜œì§„)	
 5403	"Kubera Mine"
-// ¸¶½ºÅÍ¸® 5Â÷ ¹æ¾î±¸, 4Â÷ ¹«±â ÅØ½ºÆ® Ãß°¡ (2018-06-27 ¹ÚÇıÁø)	
+// ë§ˆìŠ¤í„°ë¦¬ 5ì°¨ ë°©ì–´êµ¬, 4ì°¨ ë¬´ê¸° í…ìŠ¤íŠ¸ ì¶”ê°€ (2018-06-27 ë°•í˜œì§„)	
 5404	"5th Mastery Set Combination of Cold Armor."
 5405	"5th Mastery Set Cold Armor item will be created."
 5406	"4th Mastery Soul Combination of Soul Weapon/Shield."
 5407	"4th Mastery Weapon Soul item will be created."
-// º¸¼® ³ª´©±â ¸Ş½ÃÁö Ãß°¡ (2018-08-14 ³ë¿µÈ£)	
+// ë³´ì„ ë‚˜ëˆ„ê¸° ë©”ì‹œì§€ ì¶”ê°€ (2018-08-14 ë…¸ì˜í˜¸)	
 5408	"Costs Zen to split Jewels."
 5409	"Accept"
 5410	"Tutorial Quest"
 5411	"Rewarding Quest"
 5412	"Repeatable Quest"
-// ½Å±ÔÄ³¸¯ÅÍ »ı¼º ºÒ°¡ ¸Ş½ÃÁö µî·Ï (2018-09-12 »çÀçÀÏ)	
+// ì‹ ê·œìºë¦­í„° ìƒì„± ë¶ˆê°€ ë©”ì‹œì§€ ë“±ë¡ (2018-09-12 ì‚¬ì¬ì¼)	
 5413	"Currently you can create a Rune Mage character only in Speed Server. Rune Mage will be available in regular server after the season update."
 5414	"Majestic Rune Wizard"
-// ½ºÀ§Ä¡¸ğµå ÅØ½ºÆ® ÀÛ¾÷ (2018-10-04 À¯Çı¼º)	
+// ìŠ¤ìœ„ì¹˜ëª¨ë“œ í…ìŠ¤íŠ¸ ì‘ì—… (2018-10-04 ìœ í˜œì„±)	
 5415	"Helper"
 5416	"ON"
 5417	"OFF"
@@ -5736,9 +5736,9 @@
 5424	"Switch on"
 5425	"min"
 5426	"Repair Muun"
-// ¹Â µµ¿ì¹Ì ±â´ÉÃß°¡ ÅØ½ºÆ® (2018-10-08 »çÀçÀÏ)	
+// ë®¤ ë„ìš°ë¯¸ ê¸°ëŠ¥ì¶”ê°€ í…ìŠ¤íŠ¸ (2018-10-08 ì‚¬ì¬ì¼)	
 5427	"Target Concentrated Monsters"
-// ½ºÀ§Ä¡¸ğµå Æ«ÆÁ ÅØ½ºÆ® Ãß°¡ ÀÛ¾÷(2018-10-26 À¯Çı¼º)	
+// ìŠ¤ìœ„ì¹˜ëª¨ë“œ íŠ¤íŒ í…ìŠ¤íŠ¸ ì¶”ê°€ ì‘ì—…(2018-10-26 ìœ í˜œì„±)	
 5428	"Helper Info"
 5429	"Level Info"
 5430	"Zen Info"
@@ -5746,7 +5746,7 @@
 5432	"Event Inventory Info"
 5433	"Personal Shop Info"
 5434	"No Switch Scroll buff found."
-// Äù½ºÆ® ¸Ş½ÃÁö Ãß°¡ (2018-10-30 ³ë¿µÈ£)	
+// í€˜ìŠ¤íŠ¸ ë©”ì‹œì§€ ì¶”ê°€ (2018-10-30 ë…¸ì˜í˜¸)	
 5435	"Quest Group"
 5436	"Hunt monsters in %s x %d / %d" 
 5437	"Talk to NPC"
@@ -5761,33 +5761,33 @@
 5446	"Defeat monsters x %d / %d in Chaos Castle" 
 5447	"Move to NPC" 
 5448	"The auto-move condition to Kalima is not met."
-// ½ºÀ§Ä¡¸ğµå ¿¹¿ÜÃ³¸® ¸Ş½ÃÁö ÀÛ¾÷(2018-11-01 À¯Çı¼º)	
+// ìŠ¤ìœ„ì¹˜ëª¨ë“œ ì˜ˆì™¸ì²˜ë¦¬ ë©”ì‹œì§€ ì‘ì—…(2018-11-01 ìœ í˜œì„±)	
 5449	"Switch mode is not available during combination."
-// Äù½ºÆ® ¸Ş½ÃÁö Ãß°¡ (2018-11-01 ³ë¿µÈ£)	
+// í€˜ìŠ¤íŠ¸ ë©”ì‹œì§€ ì¶”ê°€ (2018-11-01 ë…¸ì˜í˜¸)	
 5450	"Cannot move to %s."
-// ¸¶½ºÅÍ¸® Àåºñ °­È­ ÀÌº¥Æ®_1Â÷ ¸¶½ºÅÍ¸® Àåºñ 11°­±îÁö ¼Ò¸êX (2018-12-05 Á¶¼º¿ì)	
+// ë§ˆìŠ¤í„°ë¦¬ ì¥ë¹„ ê°•í™” ì´ë²¤íŠ¸_1ì°¨ ë§ˆìŠ¤í„°ë¦¬ ì¥ë¹„ 11ê°•ê¹Œì§€ ì†Œë©¸X (2018-12-05 ì¡°ì„±ìš°)	
 5451	"Mastery Equipment Upgrade Event is in progress. Bloodangel Mastery item will not be destroyed during upgrading until +11."
-// Å©¸®½º¸¶½ºÀÇÃàº¹ ¹öÇÁ ¼³¸í (2018-12-19 Á¶¼º¿ì)	
+// í¬ë¦¬ìŠ¤ë§ˆìŠ¤ì˜ì¶•ë³µ ë²„í”„ ì„¤ëª… (2018-12-19 ì¡°ì„±ìš°)	
 5452	"Increases Attack/Wizardry/Curse/Defense"
-// Ã¤³ÎÀÌµ¿ Ã¤³Î Ç¥½Ã (2019-1-8 Á¶¼º¿ì)	
+// ì±„ë„ì´ë™ ì±„ë„ í‘œì‹œ (2019-1-8 ì¡°ì„±ìš°)	
 5453	"Ch:" 
-//Áß±¹·Î±×ÀÎ SP ¼öÁ¤(2019-01-29 À¯Çı¼º)	
+//ì¤‘êµ­ë¡œê·¸ì¸ SP ìˆ˜ì •(2019-01-29 ìœ í˜œì„±)	
 5454	"Authentication successful (no message output)"
 5455	"Account information error"
 5456	"IP address authentication failed"
 5457	"Sign in with your temporary password"
-// Ä«¿À½º Á¶ÇÕ(¼¼°ø¼®) ¸Ş½ÃÁö Ãß°¡ (2019-01-31 ³ë¿µÈ£)	
+// ì¹´ì˜¤ìŠ¤ ì¡°í•©(ì„¸ê³µì„) ë©”ì‹œì§€ ì¶”ê°€ (2019-01-31 ë…¸ì˜í˜¸)	
 5458	"Ring"
 5459	"Necklace"
 5460	"Earring"
-//±Û·Î¹úÈ¸¿øÅ»Åğ´ë±â ¹ø¿ªÀÛ¾÷ (2019-02-20 À¯Çı¼º)	
+//ê¸€ë¡œë²ŒíšŒì›íƒˆí‡´ëŒ€ê¸° ë²ˆì—­ì‘ì—… (2019-02-20 ìœ í˜œì„±)	
 5461	"This account is currently undergoing the account deletion process."
-//¸ğ½ºÀÇ º¸¹°»óÀÚ ÀÛ¾÷ (2019-04-03 ¹ÚÇıÁø)	
+//ëª¨ìŠ¤ì˜ ë³´ë¬¼ìƒì ì‘ì—… (2019-04-03 ë°•í˜œì§„)	
 5462	"A Jewel of Bless can be gathered from the box"
 5463	"Morse's treasure chest event""
 5464	"2020. 7. 2 ~ 7. 23"
 5465	"Treasure Box Winner"
-// ½ÃÁğ ¸Ş½ÃÁö Ãß°¡ (2019-04-3 ³ë¿µÈ£)	
+// ì‹œì¦Œ ë©”ì‹œì§€ ì¶”ê°€ (2019-04-3 ë…¸ì˜í˜¸)	
 5466	"Abyss of Atlans 1"
 5467	"Abyss of Atlans 2"
 5468	"Abyss of Atlans 3"
@@ -5813,13 +5813,13 @@
 5488	"All the souls of this monster have been collected."
 5489	"2nd Mastery Earring Ancestral Earring Combination"
 5490	"2nd Mastery Earring Ancestral earring item is created."
-// °¡µğ¾ğ ½Ã½ºÅÛ ÅØ½ºÆ® µî·Ï (2019-04-19 »çÀçÀÏ)	
+// ê°€ë””ì–¸ ì‹œìŠ¤í…œ í…ìŠ¤íŠ¸ ë“±ë¡ (2019-04-19 ì‚¬ì¬ì¼)	
 5491	"Elite monster resistance options"
 5492	"You can worn and unlocked by right clicking the mouse."
-//¿¡¸£ÅÚ·©Å©_±âÁ¸ ¹ö±× ¼öÁ¤(2019-04-29 ÃÖÀ¯Áø)	
+//ì—ë¥´í…”ë­í¬_ê¸°ì¡´ ë²„ê·¸ ìˆ˜ì •(2019-04-29 ìµœìœ ì§„)	
 5493	"The selected item does not fit the rank."
 5494	"The current level is maximum."
-//°¡µğ¾ğ Á¶ÇÕ ÅØ½ºÆ® (2019-04-30 »çÀçÀÏ)
+//ê°€ë””ì–¸ ì¡°í•© í…ìŠ¤íŠ¸ (2019-04-30 ì‚¬ì¬ì¼)
 5495	"<P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Soul Resurrection</FONT><BR><FONT color ='#ebebeb'>You can make Dark Horse and Dark Spirit using Dark Horse/Dark Spirit's soul item </FONT></P><P><FONT color='#ebebeb'>.</Font> <BR></P><P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Guardian Resurrection</FONT><BR><FONT color='#ebebeb'>You can craft Guardian items by combining Guardian seals, Resurrection fragments, and gem items</FONT></P><P><FONT color='#ebebeb'>. </FONT><BR></P><P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Guardian Enhancement</FONT><BR><FONT color='#ebebeb'>Guardian items and Guardian Enchanted Stone can be used to strengthen </FONT></P><P><FONT color='#ebebeb'>guardian items. </FONT><BR></P><P><FONT color='#ebebeb'> When level 0-9 is strengthened: Guardian Enchanted Stone</FONT></P><P><FONT color='#ebebeb'> Level 10 or higher: Elite Guardian Enchanted Stone</FONT><BR></P><P><FONT color='#ffaa00' size='12'><img src='point' align= 'baseline' vspace='-4'> Change Guardian options</FONT><BR><FONT color='#ebebeb'>Right options for Guardian items at random probability</FONT></P><P> <FONT color='#ebebeb'>You can change it.</P><P><FONT color='#ebebeb'>(Existing options are not regenerated.)</FONT><BR></P><P><FONT color='#ffaa00' size='12'><img src='point' align= 'baseline' vspace='-4'> Guardian Upgrade</FONT><BR><FONT color='#ebebeb'>11-15 Enhancing Guardians, Seals, and Jewelry Items</FONT></P><P> <FONT color='#ebebeb'>You can upgrade the Guardian in combination.</FONT></P><BR>"
 5495	"<P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Resurrection</FONT><BR><FONT color='#ebebeb'>Dark Horse / Dark Spirit's Soul Item </FONT></P><P><FONT color='#ebebeb'>Can be used to make dark horses and scrubs. </FONT><br></P><P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Guardian Resurrection</FONT><BR><FONT color='#ebebeb'>Guardian seal and resurrection piece, jewelry items</FONT></P><P><FONT color='#ebebeb'>You can create Guardian items by combining them.</FONT><br></P><P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Guardian consolidation</FONT><BR><FONT color='#ebebeb'>Using Guardian items and Guardian Stone </FONT></P><P><FONT color='#ebebeb'>You can strengthen the Guardian item.</FONT><br></P><P><FONT color='#ebebeb'>0 ~ 9 Reinforced Level: Guardian Enhanced</FONT></P><P><FONT color='#ebebeb'> Level 10 or higher: Elite Guardian Enhanced Stone</FONT><br></P><P><FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Change guardian options</FONT><BR><FONT color='#ebebeb'>The elite options of the Guardian items are random</FONT></P><P><FONT color='#ebebeb'>Can be changed.</P><P><FONT color='#ebebeb'>(Existing options are not regenerated.)</FONT></P><BR>"
 5496	"Guardian Resurrection"
@@ -5850,7 +5850,7 @@
 5521	"Excellent Damage Resistance Probability %d%%"
 5522	"Critical Damage Resistance Probability %d%%"
 5523	"Inventory requires 8x4 or 4x8 space."
-// ½Å±ÔÄ³¸¯ÅÍ ½½·¹ÀÌ¾î ÅØ½ºÆ® µî·Ï (2019-05-21 ¹ÚÇıÁø)	
+// ì‹ ê·œìºë¦­í„° ìŠ¬ë ˆì´ì–´ í…ìŠ¤íŠ¸ ë“±ë¡ (2019-05-21 ë°•í˜œì§„)	
 5524	"Slayer characters can create and train characters in the current Speed Server. This server allows you to create characters from a regular server after the season update."
 5525	"Complex creature with human and bat mixed in. It's a character that has gotten quick action because of the bats' physical ability."
 5526	"Slayer"
@@ -5860,7 +5860,7 @@
 5530	"Punishment: %d"
 5531	"Harsh: %d"
 5532	"Heartless: %d"
-// °¡µğ¾ğ ºÎ°¡ Á¶ÇÕ ÅØ½ºÆ® µî·Ï (2019-05-22 »çÀçÀÏ)	
+// ê°€ë””ì–¸ ë¶€ê°€ ì¡°í•© í…ìŠ¤íŠ¸ ë“±ë¡ (2019-05-22 ì‚¬ì¬ì¼)	
 5533	"Guardian Soul Transformer Production"
 5534	"Create a Guardian Soul Conversion Stone that changes Guardian Elite options."
 5535	"Worn Blood Angel Seal Armor"
@@ -5892,7 +5892,7 @@
 5564	"Elemental Defense Increase by %d"
 5565	"There is no sufficient space in inventory to complete the quest."
 5566	"Upgrades the Archangel's Absolute Short Sword. Upon successful combination, the harmony options will be reset."
-// ¸¶½ºÅÍ¸® 6Â÷ ¹æ¾î±¸, 5Â÷ ¹«±â ÅØ½ºÆ® Ãß°¡ (2019-09-02 ³ë¿µÈ£)		
+// ë§ˆìŠ¤í„°ë¦¬ 6ì°¨ ë°©ì–´êµ¬, 5ì°¨ ë¬´ê¸° í…ìŠ¤íŠ¸ ì¶”ê°€ (2019-09-02 ë…¸ì˜í˜¸)		
 5567	"6th Mastery Set combination of Fleet Armor"
 5568	"6th Mastery Set Fleet Armor item will be created."
 5569	"5th Mastery Blue Eye Combination of Blue Eye Weapon/Shield."
@@ -5910,10 +5910,10 @@
 5579	"Season preemption"	
 5580	"Season preemption"	
 5581	"Season preemption"	
-//¾Æ½Ã¾Æ¼­ºñ½º SNS ·Î±×ÀÎ ÅØ½ºÆ® Ãß°¡ (2019-09-26 À¯Çı¼º)		
+//ì•„ì‹œì•„ì„œë¹„ìŠ¤ SNS ë¡œê·¸ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2019-09-26 ìœ í˜œì„±)		
 5582	"Log in with your Google Account"
 5583	"Log in with your Facebook account"
-// Àåºñ°­È­ ÅØ½ºÆ® Ãß°¡ (2019-10-01 ³ë¿µÈ£)
+// ì¥ë¹„ê°•í™” í…ìŠ¤íŠ¸ ì¶”ê°€ (2019-10-01 ë…¸ì˜í˜¸)
 5584	"Goblin Combination Window"	
 5585	"Equipment Reinforcement"
 5586	"<BR><BR><BR><FONT color='#fa8303'>Common/Excellent/Set/Socket/380/Pentagram<BR>Wings/Mastery/Earrings item registration.</FONT><BR><BR><BR><FONT color='#d2d2d2'>Common/Excellent/Set/Socket to reinforce<BR>/380/Pentagram Wings/Mastery/Earrings<BR>Drag and drop an item in the upper slot with the mouse and right-click to automatically register the reinforcement at the bottom.</FONT><BR><BR><BR><FONT color='#e3c000'>Reinforcement materials: Talisman of Chaos, Talisman of Luck<BR>Elemental Talisman of Luck, Elemental Talisman of Chaos<BR>Mastery Chaos Guild Charm<BR>You must register yourself.</FONT>"	
@@ -5928,17 +5928,17 @@
 5595	"1 point is used for the Poison Magic Circle.#The circle inflicts poison damage ever 0.5 sec."
 5596	"1 point is used for Freezing Magic Circle.#The circles grants movement speed and armor reduction to targets that are frozen."
 5597	"1 point is used for Hemorrhage Magic Circle.#The circles deals additional damage to bleeding targets."
-// 15-2 ½ÃÁğ ¼±Á¡ (2019-11-28 ¹ÚÇıÁø)	
+// 15-2 ì‹œì¦Œ ì„ ì  (2019-11-28 ë°•í˜œì§„)	
 5598	"3rd Mastery Earrings of Honor Combination"
 5599	"3rd Mastery Earrings of Honor item is created."
-//¾Æ½Ã¾Æ¼­ºñ½º SNS ·Î±×ÀÎ ÅØ½ºÆ® Ãß°¡ (2019-09-26 À¯Çı¼º)	
+//ì•„ì‹œì•„ì„œë¹„ìŠ¤ SNS ë¡œê·¸ì¸ í…ìŠ¤íŠ¸ ì¶”ê°€ (2019-09-26 ìœ í˜œì„±)	
 //5600	"Flag purchase"
-//¾Æ½Ã¾Æ¼­ºñ½º ±æµåÇØÃ¼/Å»Åğ ÆË¾÷ ¸Ş½ÃÁöÃ³¸® Ãß°¡ÀÛ¾÷ (2019-09-26 À¯Çı¼º)	
+//ì•„ì‹œì•„ì„œë¹„ìŠ¤ ê¸¸ë“œí•´ì²´/íƒˆí‡´ íŒì—… ë©”ì‹œì§€ì²˜ë¦¬ ì¶”ê°€ì‘ì—… (2019-09-26 ìœ í˜œì„±)	
 //5601	"Once again, if you agree to this message, it is difficult to recover the dismantled guild."
 //5602	"Are you sure you want to proceed with the guild?"
-//Áß±¹ ¼Ë´Ù¿îÁ¦ ·Î±×ÀÎÃ¢ ¹Ì¼º³âÀÚ Á¢¼ÓºÒ°¡ ¸Ş½ÃÁö Ãß°¡ (2019-12-19 À¯Çı¼º)	
+//ì¤‘êµ­ ì…§ë‹¤ìš´ì œ ë¡œê·¸ì¸ì°½ ë¯¸ì„±ë…„ì ì ‘ì†ë¶ˆê°€ ë©”ì‹œì§€ ì¶”ê°€ (2019-12-19 ìœ í˜œì„±)	
 //5603	"Chinese Minor Disabled Access"
-// 15-2 ½ÃÁğ ¼±Á¡ (2020-01-07 ¹ÚÇıÁø)	
+// 15-2 ì‹œì¦Œ ì„ ì  (2020-01-07 ë°•í˜œì§„)	
 5604	"Guardian Upgrade"
 5605	"Guardian Registration"
 5606	"The Guardian upgrade was successful."
@@ -6055,7 +6055,7 @@
 5717	"Black Knight Conversion Combination"
 5718	"Black Knight Mastery Armor conversion (defense type to attack type)"
 5719	"Black Knight Mastery armor conversion (attack type to defense type)"
-//°³ÀÎ»óÁ¡ ¸®´º¾ó (2020-04-14 Á¶¼º¿ì)	
+//ê°œì¸ìƒì  ë¦¬ë‰´ì–¼ (2020-04-14 ì¡°ì„±ìš°)	
 5720	"Withdraw"
 5721	"Sales registration is withdrawn"
 5722	"Items are paid in Gremory case"
@@ -6122,7 +6122,7 @@
 5783	"%dx%d inventory empty space is required"
 5784	"%dx%d event inventory empty space is required"
 5785	"%dx%d inventory empty space is required"
-//Season16 P.1 ¼±Á¡ (»çÀçÀÏ)	
+//Season16 P.1 ì„ ì  (ì‚¬ì¬ì¼)	
 5786	"Gun Crusher"
 5787	"Gun Breaker"
 5788	"Master Gun Breaker"
@@ -6134,7 +6134,7 @@
 5794	"Organization: %d"
 5795	"Party members recruitment"
 5796	"It is not a usable equipment item."
-//Season16 P.1 Á¶È­ÀÇ º¸¼® ¸®´º¾ó (2020-06-26 ¹ÚÇıÁø)	
+//Season16 P.1 ì¡°í™”ì˜ ë³´ì„ ë¦¬ë‰´ì–¼ (2020-06-26 ë°•í˜œì§„)	
 5797	"The Gem of Harmony option has not been granted.#(Please click the 'Confirm option' button to give it an option.)"
 5798	"Do you want to close the window?"
 5799	"Osborne & Jerrydon"
@@ -6151,14 +6151,14 @@
 5810	"It does not meet the available conditions"
 5811	"When the option is removed, the Gem of Harmony bonus option is also removed."
 5812	"Harmony Bonus Option"
-//Season16 P.1 Á¨¸ğ½º °³Æí (2020-07-20 ¹ÚÇıÁø)	
+//Season16 P.1 ì  ëª¨ìŠ¤ ê°œí¸ (2020-07-20 ë°•í˜œì§„)	
 5813	"1st ~ 7th Mastery Excellent Boots"
 5814	"[Anger/Conviction Black Knight (Gloves), Slayer]"
 5815	"[Wizard, Rune Wizard, Summoner]"
 5816	"[Agility/Energy Fairy, Gun Crusher (Gloves)]"
 5817	"[Dark Lord, Anger/Conviction Black Knight (Gloves)]"
 5818	"[Summoner, Slayer, Grow Lancer]"
-// ¸¶½ºÅÍ¸® 7Â÷ ¹æ¾î±¸, 6Â÷ ¹«±â ÅØ½ºÆ® Ãß°¡ (2020-07-21 Á¶¼º¿ì)	
+// ë§ˆìŠ¤í„°ë¦¬ 7ì°¨ ë°©ì–´êµ¬, 6ì°¨ ë¬´ê¸° í…ìŠ¤íŠ¸ ì¶”ê°€ (2020-07-21 ì¡°ì„±ìš°)	
 5819	"7th Mastery Set Lord Armor Combination"
 5820	"The 7th Mastery Set Lord Armor item is created."
 5821	"6th Mastery Silver Heart Weapon/Shield Combination"
@@ -6329,3 +6329,4 @@
 6000	"You can exchange 10 lucky coins for items."
 6001	"You must possess at least 10 lucky coins to be able to exchange it."
 6002	"You need 4x4 space to exchange fortune coins."
+6030	"Upgrades the Archangel's Absolute Magic Gun. When the combination is successful, the Gem of Harmony option is reset."

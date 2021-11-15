@@ -2938,7 +2938,6 @@
 	</Map>
 	<Map Number="33" Name="Aida (1 ~ 2)">
 		<Spot Type="0" Description="NPC/Traps">
-			<Spawn Index="369" Distance="0" StartX="78" StartY="13" Dir="2" /> <!-- Osbourne -->
 			<Spawn Index="370" Distance="0" StartX="86" StartY="13" Dir="1" /> <!-- Jerridon -->
 			<!-- <Spawn Index="371" Distance="0" StartX="82" StartY="16" Dir="1" /> --> <!-- Leo the Helper -->																		 
 		</Spot>
