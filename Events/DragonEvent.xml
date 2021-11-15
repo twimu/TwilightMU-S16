@@ -36,7 +36,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<DragonEvent Duration="300">
+<DragonEvent Duration="18000">
 	<Monster Index="44" Distance="30" Count="3">	
 		<Map Number="91">
 			<Spawn StartX="1" StartY="1" EndX="255" EndY="255" />
@@ -44,5 +44,8 @@
 		<Map Number="112">
 			<Spawn StartX="1" StartY="1" EndX="255" EndY="255" />
 		</Map>
+		<Map Number="100">
+			<Spawn StartX="1" StartY="1" EndX="255" EndY="255" />
+		</Map>		
 	</Monster>
 </DragonEvent>
