@@ -332,14 +332,7 @@
 		<Option ID="57" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
 		<Option ID="58" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
 		<Option ID="59" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
-		<Option ID="60" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />					
-		<!-- Mastery Zen (KindA is custom and based on mastery level)-->
-		<Option ID="61" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="62" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="63" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="64" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="65" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="66" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />		
+		<Option ID="60" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />						
 	</CommonOptionEffect>
 	
 	<Wings>
