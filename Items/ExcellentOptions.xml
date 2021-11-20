@@ -255,13 +255,6 @@
 		<Option ID="58" Number="4" Operator="2" Value="16"  FormulaID="-1"  ItemKindA_1="114" ItemKindA_2="124"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
 		<Option ID="59" Number="4" Operator="2" Value="18"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="125"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
 		<Option ID="60" Number="4" Operator="2" Value="20"  FormulaID="-1"  ItemKindA_1="116" ItemKindA_2="126"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
-		<!-- Mastery Zen (KindA is custom and based on mastery level)-->
-		<Option ID="61" Number="5" Operator="1" Value="30"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="121"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="62" Number="5" Operator="1" Value="36"  FormulaID="-1"  ItemKindA_1="112" ItemKindA_2="122"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="63" Number="5" Operator="1" Value="42"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="123"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="64" Number="5" Operator="1" Value="48"  FormulaID="-1"  ItemKindA_1="114" ItemKindA_2="124"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="65" Number="5" Operator="1" Value="54"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="125"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="66" Number="5" Operator="1" Value="60"  FormulaID="-1"  ItemKindA_1="116" ItemKindA_2="126"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />				
 	</Common>
 	
 	<CommonOptionEffect>
