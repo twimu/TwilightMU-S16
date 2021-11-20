@@ -43,6 +43,7 @@
 	<ServerList>
 		<Server Code="0"  Group="0" Initiation="1" IP="51.79.13.181" Port="56900" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server1" />
 		<Server Code="1"  Group="0" Initiation="1" IP="51.79.13.181" Port="56901" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server2" />
+		<Server Code="2"  Group="0" Initiation="1" IP="51.79.13.181" Port="56902" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server3" />
 		<Server Code="12" Group="0" Initiation="0" IP="51.79.13.181" Port="56912" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Market" />
 		<Server Code="13" Group="0" Initiation="0" IP="51.79.13.181" Port="56913" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Arca" />
 		<Server Code="14" Group="0" Initiation="0" IP="51.79.13.181" Port="56914" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Siege" />
@@ -70,6 +71,16 @@
 		<Server Code="1"  MoveAble="0" MapNumber="92" DestServerCode="13" Name="Server2 to Arca"/>
 		<Server Code="1"  MoveAble="0" MapNumber="96" DestServerCode="13" Name="Server2 to Arca"/>
 		<Server Code="1"  MoveAble="0" MapNumber="114"	DestServerCode="15" Name="Server2 to Instance" />
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->	
+		<Server Code="2"  MoveAble="0" MapNumber="30" DestServerCode="14" Name="Server3 to Siege"/>
+		<Server Code="2"  MoveAble="0" MapNumber="31" DestServerCode="14" Name="Server3 to Siege"/>
+		<Server Code="2"  MoveAble="0" MapNumber="34" DestServerCode="14" Name="Server3 to Siege"/>
+		<Server Code="2"  MoveAble="0" MapNumber="41" DestServerCode="14" Name="Server3 to Siege"/>
+		<Server Code="2"  MoveAble="0" MapNumber="42" DestServerCode="14" Name="Server3 to Siege"/>
+		<Server Code="2"  MoveAble="0" MapNumber="79" DestServerCode="12" Name="Server3 to Market"/>
+		<Server Code="2"  MoveAble="0" MapNumber="92" DestServerCode="13" Name="Server3 to Arca"/>
+		<Server Code="2"  MoveAble="0" MapNumber="96" DestServerCode="13" Name="Server3 to Arca"/>
+		<Server Code="2"  MoveAble="0" MapNumber="114"	DestServerCode="15" Name="Server3 to Instance" />
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->	
 		<Server Code="12" MoveAble="0" MapNumber="30" DestServerCode="14" Name="Market to Siege"/>
 		<Server Code="12" MoveAble="0" MapNumber="34" DestServerCode="14" Name="Market to Siege"/>
