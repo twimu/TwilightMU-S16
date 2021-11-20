@@ -206,7 +206,7 @@
 		<Option ID="16" Number="8" Operator="100" Value="4"  FormulaID="4"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Decreases Damage by %d" />
 		<Option ID="17" Number="9" Operator="100" Value="5"  FormulaID="5"  ItemKindA_1="15" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
 		<Option ID="18" Number="10" Operator="100" Value="6"  FormulaID="6"  ItemKindA_1="18" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %.1f every 20Lv" />
-		<Option ID="19" Number="3" Operator="2" Value="10"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="121"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />		
+		<Option ID="19" Number="0" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="121"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />		
 	</Common>
 	
 	<CommonOptionEffect>
@@ -229,7 +229,7 @@
 		<Option ID="16" Etc="0" Rate="0" Attack="0" Defense="3" Life="0" Mana="0" Skill="0" />
 		<Option ID="17" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
 		<Option ID="18" Etc="0" Rate="0" Attack="0" Defense="4" Life="0" Mana="0" Skill="0" />
-		<Option ID="19" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />		
+		<Option ID="19" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 		
 	</CommonOptionEffect>
 	
 	<Wings>
