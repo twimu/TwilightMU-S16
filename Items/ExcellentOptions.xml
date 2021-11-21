@@ -187,7 +187,7 @@
 
 <ExcellentOptions>
 	<Common> <!-- Common excellent options -->
-		<Option ID="0" 	Number="0" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
+		<Option ID="0" 	Number="0" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
 		<Option ID="1" 	Number="1" Operator="3"   Value="1"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d every 20Lv" />
 		<Option ID="2" 	Number="2" Operator="2"   Value="2"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
 		<Option ID="3" 	Number="3" Operator="1"   Value="7"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="101" ItemKindA_4="102" Rate="5000" Name="Increase %d Attack (Wizardry) speed" />
@@ -198,8 +198,8 @@
 		<Option ID="8" 	Number="0" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d%%" />
 		<Option ID="9" 	Number="1" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Mana by %d%%" />
 		<Option ID="10" Number="2" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Decreases Damage by %d%%" />
-		<Option ID="11" Number="3" Operator="2"   Value="5"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="12" Number="4" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
+		<Option ID="11" Number="3" Operator="2"   Value="5"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
+		<Option ID="12" Number="4" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
 		<Option ID="13" Number="5" Operator="1"   Value="30" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
 		<Option ID="14" Number="6" Operator="100" Value="2"  FormulaID="2"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="Increase Maximum Life by %d" />
 		<Option ID="15" Number="7" Operator="100" Value="3"  FormulaID="3"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="Increase Maximum Mana by %d" />
@@ -217,7 +217,7 @@
 		<Option ID="25" Number="2" Operator="2" Value="3"  FormulaID="-1"  ItemKindA_1="103" ItemKindA_2="104"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
 		<Option ID="26" Number="2" Operator="2" Value="4"  FormulaID="-1"  ItemKindA_1="105" ItemKindA_2="106"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
 		<!-- Mastery HP (KindA is custom and based on mastery level)-->
-		<Option ID="27" Number="0" Operator="2" Value="5"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />
+		<Option ID="27" Number="6" Operator="2" Value="5"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />
 		<Option ID="28" Number="0" Operator="2" Value="6"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />
 		<Option ID="29" Number="0" Operator="2" Value="7"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="116"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />
 		<Option ID="30" Number="0" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />
