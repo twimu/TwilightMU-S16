@@ -1552,7 +1552,8 @@
 			<Spawn Index="75" Distance="6" StartX="25" StartY="87" EndX="34" EndY="96" Dir="-1" Count="10" /> <!-- Giant Drakan -->
 			<Spawn Index="67" Distance="6" StartX="25" StartY="34" EndX="34" EndY="43" Dir="-1" Count="10" /> <!-- Metal Barlong -->
 			<Spawn Index="77" Distance="6" StartX="44" StartY="34" EndX="53" EndY="43" Dir="-1" Count="10" /> <!-- Phoenix -->
-			<Spawn Index="570" Distance="6" StartX="44" StartY="69" EndX="53" EndY="97" Dir="-1" Count="15" /> <!-- Bone Scorpion -->
+			<Spawn Index="570" Distance="6" StartX="44" StartY="69" EndX="53" EndY="97" Dir="-1" Count="15" /> <!-- Bone Scorpion -->	
+			<Spawn Index="316" Distance="6" StartX="44" StartY="52" EndX="51" EndY="60" Dir="-1" Count="10" /> <!--Balram-->
 			<Spawn Index="130" Distance="30" StartX="38" StartY="27" EndX="38" EndY="27" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="57" StartY="64" EndX="57" EndY="64" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="67" StartY="75" EndX="67" EndY="75" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
@@ -1562,6 +1563,13 @@
 			<Spawn Index="130" Distance="30" StartX="38" StartY="65" EndX="38" EndY="65" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="57" StartY="29" EndX="57" EndY="29" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="66" StartY="65" EndX="66" EndY="85" Dir="-1" Count="15" /> <!-- Spirit Sorcerer -->
+			<!--Stacks Outside-->
+			<Spawn Index="20" Distance="6" StartX="96" StartY="106" EndX="96" EndY="106" Dir="-1" Count="10" /> <!--Elite Yeti-->
+			<Spawn Index="34" Distance="6" StartX="96" StartY="96" EndX="96" EndY="96" Dir="-1" Count="10" /> <!--Cursed Wizard-->
+			<Spawn Index="40" Distance="6" StartX="96" StartY="86" EndX="96" EndY="86" Dir="-1" Count="10" /> <!--Death Knight-->
+			<Spawn Index="62" Distance="6" StartX="96" StartY="76" EndX="96" EndY="76" Dir="-1" Count="10" /> <!--Mutant-->
+			<Spawn Index="60" Distance="6" StartX="96" StartY="66" EndX="96" EndY="66" Dir="-1" Count="10" /> <!--Bloody Wolf-->
+			<Spawn Index="308" Distance="6" StartX="96" StartY="56" EndX="96" EndY="56" Dir="-1" Count="10" /> <!--Death Tree-->			
 		</Spot>
 	</Map>
 	<Map Number="7" Name="Atlans (1 ~ 3)">
