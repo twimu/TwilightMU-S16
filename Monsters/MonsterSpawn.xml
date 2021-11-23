@@ -1565,11 +1565,11 @@
 			<Spawn Index="130" Distance="30" StartX="66" StartY="65" EndX="66" EndY="85" Dir="-1" Count="15" /> <!-- Spirit Sorcerer -->
 			<!--Outside-->
 			<Spawn Index="351" Distance="6" StartX="94" StartY="105" EndX="99" EndY="108" Dir="-1" Count="10" /> <!--Splinter Wolf-->
-			<Spawn Index="352" Distance="6" StartX="94" StartY="96" EndX="99" EndY="98" Dir="-1" Count="10" /> <!--Iron Rider-->
-			<Spawn Index="353" Distance="6" StartX="94" StartY="86" EndX="99" EndY="88" Dir="-1" Count="10" /> <!--Satyros-->
-			<Spawn Index="308" Distance="6" StartX="94" StartY="76" EndX="99" EndY="78" Dir="-1" Count="10" /> <!--Death Tree-->
-			<Spawn Index="306" Distance="6" StartX="94" StartY="66" EndX="99" EndY="68" Dir="-1" Count="10" /> <!--Death Rider-->
-			<Spawn Index="307" Distance="6" StartX="94" StartY="56" EndX="99" EndY="58" Dir="-1" Count="10" /> <!--Forest Orc-->			
+			<Spawn Index="352" Distance="6" StartX="94" StartY="90" EndX="99" EndY="92" Dir="-1" Count="10" /> <!--Iron Rider-->
+			<Spawn Index="353" Distance="6" StartX="94" StartY="70" EndX="99" EndY="72" Dir="-1" Count="10" /> <!--Satyros-->
+			<Spawn Index="308" Distance="6" StartX="94" StartY="55" EndX="99" EndY="57" Dir="-1" Count="10" /> <!--Death Tree-->
+			<Spawn Index="306" Distance="6" StartX="94" StartY="40" EndX="99" EndY="42" Dir="-1" Count="10" /> <!--Death Rider-->
+			<Spawn Index="307" Distance="6" StartX="94" StartY="25" EndX="99" EndY="27" Dir="-1" Count="10" /> <!--Forest Orc-->			
 		</Spot>
 	</Map>
 	<Map Number="7" Name="Atlans (1 ~ 3)">
