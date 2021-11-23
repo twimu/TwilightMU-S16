@@ -1563,13 +1563,13 @@
 			<Spawn Index="130" Distance="30" StartX="38" StartY="65" EndX="38" EndY="65" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="57" StartY="29" EndX="57" EndY="29" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="66" StartY="65" EndX="66" EndY="85" Dir="-1" Count="15" /> <!-- Spirit Sorcerer -->
-			<!--Stacks Outside-->
-			<Spawn Index="20" Distance="6" StartX="96" StartY="106" EndX="96" EndY="106" Dir="-1" Count="10" /> <!--Elite Yeti-->
-			<Spawn Index="34" Distance="6" StartX="96" StartY="96" EndX="96" EndY="96" Dir="-1" Count="10" /> <!--Cursed Wizard-->
-			<Spawn Index="40" Distance="6" StartX="96" StartY="86" EndX="96" EndY="86" Dir="-1" Count="10" /> <!--Death Knight-->
-			<Spawn Index="62" Distance="6" StartX="96" StartY="76" EndX="96" EndY="76" Dir="-1" Count="10" /> <!--Mutant-->
-			<Spawn Index="60" Distance="6" StartX="96" StartY="66" EndX="96" EndY="66" Dir="-1" Count="10" /> <!--Bloody Wolf-->
-			<Spawn Index="308" Distance="6" StartX="96" StartY="56" EndX="96" EndY="56" Dir="-1" Count="10" /> <!--Death Tree-->			
+			<!--Outside-->
+			<Spawn Index="351" Distance="6" StartX="94" StartY="105" EndX="99" EndY="108" Dir="-1" Count="10" /> <!--Splinter Wolf-->
+			<Spawn Index="352" Distance="6" StartX="94" StartY="96" EndX="99" EndY="98" Dir="-1" Count="10" /> <!--Iron Rider-->
+			<Spawn Index="353" Distance="6" StartX="94" StartY="86" EndX="99" EndY="88" Dir="-1" Count="10" /> <!--Satyros-->
+			<Spawn Index="308" Distance="6" StartX="94" StartY="76" EndX="99" EndY="78" Dir="-1" Count="10" /> <!--Death Tree-->
+			<Spawn Index="306" Distance="6" StartX="94" StartY="66" EndX="99" EndY="68" Dir="-1" Count="10" /> <!--Death Rider-->
+			<Spawn Index="307" Distance="6" StartX="94" StartY="56" EndX="99" EndY="58" Dir="-1" Count="10" /> <!--Forest Orc-->			
 		</Spot>
 	</Map>
 	<Map Number="7" Name="Atlans (1 ~ 3)">
