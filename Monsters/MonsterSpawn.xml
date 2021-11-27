@@ -1552,7 +1552,8 @@
 			<Spawn Index="75" Distance="6" StartX="25" StartY="87" EndX="34" EndY="96" Dir="-1" Count="10" /> <!-- Giant Drakan -->
 			<Spawn Index="67" Distance="6" StartX="25" StartY="34" EndX="34" EndY="43" Dir="-1" Count="10" /> <!-- Metal Barlong -->
 			<Spawn Index="77" Distance="6" StartX="44" StartY="34" EndX="53" EndY="43" Dir="-1" Count="10" /> <!-- Phoenix -->
-			<Spawn Index="570" Distance="6" StartX="44" StartY="69" EndX="53" EndY="97" Dir="-1" Count="15" /> <!-- Bone Scorpion -->
+			<Spawn Index="570" Distance="6" StartX="44" StartY="69" EndX="53" EndY="97" Dir="-1" Count="15" /> <!-- Bone Scorpion -->	
+			<Spawn Index="316" Distance="6" StartX="44" StartY="52" EndX="51" EndY="60" Dir="-1" Count="10" /> <!--Balram-->
 			<Spawn Index="130" Distance="30" StartX="38" StartY="27" EndX="38" EndY="27" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="57" StartY="64" EndX="57" EndY="64" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="67" StartY="75" EndX="67" EndY="75" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
@@ -1562,6 +1563,13 @@
 			<Spawn Index="130" Distance="30" StartX="38" StartY="65" EndX="38" EndY="65" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="57" StartY="29" EndX="57" EndY="29" Dir="-1" Count="5" /> <!-- Spirit Sorcerer -->
 			<Spawn Index="130" Distance="30" StartX="66" StartY="65" EndX="66" EndY="85" Dir="-1" Count="15" /> <!-- Spirit Sorcerer -->
+			<!--Outside-->
+			<Spawn Index="351" Distance="6" StartX="94" StartY="105" EndX="99" EndY="108" Dir="-1" Count="10" /> <!--Splinter Wolf-->
+			<Spawn Index="352" Distance="6" StartX="94" StartY="90" EndX="99" EndY="92" Dir="-1" Count="10" /> <!--Iron Rider-->
+			<Spawn Index="353" Distance="6" StartX="94" StartY="70" EndX="99" EndY="72" Dir="-1" Count="10" /> <!--Satyros-->
+			<Spawn Index="308" Distance="6" StartX="94" StartY="55" EndX="99" EndY="57" Dir="-1" Count="10" /> <!--Death Tree-->
+			<Spawn Index="306" Distance="6" StartX="94" StartY="40" EndX="99" EndY="42" Dir="-1" Count="10" /> <!--Death Rider-->
+			<Spawn Index="307" Distance="6" StartX="94" StartY="25" EndX="99" EndY="27" Dir="-1" Count="10" /> <!--Forest Orc-->			
 		</Spot>
 	</Map>
 	<Map Number="7" Name="Atlans (1 ~ 3)">

@@ -41,14 +41,14 @@
 
 <MapServer>
 	<ServerList>
-		<Server Code="0"  Group="0" Initiation="1" IP="51.79.13.181" Port="56900" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server1" />
-		<Server Code="1"  Group="0" Initiation="1" IP="51.79.13.181" Port="56901" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server2" />
-		<Server Code="2"  Group="0" Initiation="1" IP="51.79.13.181" Port="56902" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server3" />
-		<Server Code="12" Group="0" Initiation="0" IP="51.79.13.181" Port="56912" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Market" />
-		<Server Code="13" Group="0" Initiation="0" IP="51.79.13.181" Port="56913" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Arca" />
-		<Server Code="14" Group="0" Initiation="0" IP="51.79.13.181" Port="56914" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Siege" />
-		<Server Code="15" Group="0" Initiation="0" IP="51.79.13.181" Port="56915" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Instance" />
-		<Server Code="480" Group="24" Initiation="0" IP="51.79.13.181" Port="56120" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="BattleCore" />
+		<Server Code="0"  Group="0" Initiation="1" IP="198.50.222.127" Port="56900" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server1" />
+		<Server Code="1"  Group="0" Initiation="1" IP="198.50.222.127" Port="56901" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server2" />
+		<Server Code="2"  Group="0" Initiation="1" IP="198.50.222.127" Port="56902" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Server3" />
+		<Server Code="12" Group="0" Initiation="0" IP="198.50.222.127" Port="56912" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Market" />
+		<Server Code="13" Group="0" Initiation="0" IP="198.50.222.127" Port="56913" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Arca" />
+		<Server Code="14" Group="0" Initiation="0" IP="198.50.222.127" Port="56914" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Siege" />
+		<Server Code="15" Group="0" Initiation="0" IP="198.50.222.127" Port="56915" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="Instance" />
+		<Server Code="480" Group="24" Initiation="0" IP="198.50.222.127" Port="56120" MinEntryGrandReset="-1" MaxEntryGrandReset="-1" MinEntryReset="-1" MaxEntryReset="-1" MinEntryLevel="-1" MaxEntryLevel="-1" Name="BattleCore" />
 	</ServerList>
 	
 	<ServerMapping>
