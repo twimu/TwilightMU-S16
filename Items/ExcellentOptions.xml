@@ -187,62 +187,28 @@
 
 <ExcellentOptions>
 	<Common> <!-- Common excellent options -->
-		<Option ID="0" 	Number="0" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
+		<Option ID="0" 	Number="0" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
 		<Option ID="1" 	Number="1" Operator="3"   Value="1"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d every 20Lv" />
 		<Option ID="2" 	Number="2" Operator="2"   Value="2"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
 		<Option ID="3" 	Number="3" Operator="1"   Value="7"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="Increase %d Attack (Wizardry) speed" />
 		<Option ID="4" 	Number="4" Operator="4"   Value="8"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="Obtains (Life/%d) when monster is killed" />
 		<Option ID="5" 	Number="5" Operator="5"   Value="8"  FormulaID="-1" ItemKindA_1="1"  ItemKindA_2="2"   ItemKindA_3="14" ItemKindA_4="-1" Rate="5000" Name="Obtains (Mana/%d) when monster is killed" />
 		<Option ID="6" 	Number="6" Operator="100" Value="2"  FormulaID="0"  ItemKindA_1="14" ItemKindA_2="100" ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %.1f every 20Lv" />
-		<Option ID="7" 	Number="7" Operator="100" Value="1"  FormulaID="1"  ItemKindA_1="14" ItemKindA_2="100" ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increased by %s %d" />
+		<Option ID="7" 	Number="7" Operator="2"   Value="3"  FormulaID="1"  ItemKindA_1="14" ItemKindA_2="100" ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
 		<Option ID="8" 	Number="0" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d%%" />
 		<Option ID="9" 	Number="1" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Mana by %d%%" />
 		<Option ID="10" Number="2" Operator="2"   Value="4"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Decreases Damage by %d%%" />
-		<Option ID="11" Number="3" Operator="2"   Value="5"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="12" Number="4" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="15" ItemKindA_4="18" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
+		<Option ID="11" Number="3" Operator="2"   Value="5"  FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
+		<Option ID="12" Number="4" Operator="2"   Value="10" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
 		<Option ID="13" Number="5" Operator="1"   Value="30" FormulaID="-1" ItemKindA_1="3"  ItemKindA_2="4"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="14" Number="6" Operator="100" Value="2"  FormulaID="2"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="Increase Maximum Life by %d" />
-		<Option ID="15" Number="7" Operator="100" Value="3"  FormulaID="3"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="Increase Maximum Mana by %d" />
-		<Option ID="16" Number="8" Operator="100" Value="4"  FormulaID="4"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="Decreases Damage by %d" />
-		<Option ID="17" Number="9" Operator="100" Value="5"  FormulaID="5"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
-		<Option ID="18" Number="10" Operator="100" Value="6"  FormulaID="6"  ItemKindA_1="-1" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="2500" Name="%s increases by %.1f every 20Lv" />
-		<!-- Mastery EDR (KindA is custom and based on mastery level)-->
-		<Option ID="19" Number="0" Operator="2" Value="12"  FormulaID="-1"  ItemKindA_1="101" ItemKindA_2="102"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
-		<Option ID="20" Number="0" Operator="2" Value="14"  FormulaID="-1"  ItemKindA_1="103" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
-		<Option ID="21" Number="0" Operator="2" Value="16"  FormulaID="-1"  ItemKindA_1="104" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
-		<Option ID="22" Number="0" Operator="2" Value="18"  FormulaID="-1"  ItemKindA_1="105" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />
-		<Option ID="23" Number="0" Operator="2" Value="20"  FormulaID="-1"  ItemKindA_1="106" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />				
-		<!-- Mastery DMG INC (KindA is custom and based on mastery level)-->
-		<Option ID="24" Number="2" Operator="2" Value="2"  FormulaID="-1"  ItemKindA_1="101" ItemKindA_2="102"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
-		<Option ID="25" Number="2" Operator="2" Value="3"  FormulaID="-1"  ItemKindA_1="103" ItemKindA_2="104"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
-		<Option ID="26" Number="2" Operator="2" Value="4"  FormulaID="-1"  ItemKindA_1="105" ItemKindA_2="106"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %d%%" />
-		<!-- Mastery HP (KindA is custom and based on mastery level)-->
-		<Option ID="27" Number="0" Operator="2" Value="5"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="121" ItemKindA_4="122" Rate="5000" Name="Increase Maximum Life by %d" />
-		<Option ID="28" Number="0" Operator="2" Value="6"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="123" ItemKindA_4="124" Rate="5000" Name="Increase Maximum Life by %d" />
-		<Option ID="29" Number="0" Operator="2" Value="7"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="116"  ItemKindA_3="125" ItemKindA_4="126" Rate="5000" Name="Increase Maximum Life by %d" />
-		<Option ID="30" Number="0" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="127"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d" />		
-		<!-- Mastery Mana (KindA is custom and based on mastery level)-->
-		<Option ID="31" Number="1" Operator="2" Value="5"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="121" ItemKindA_4="122" Rate="5000" Name="Increase Maximum Mana by %d" />
-		<Option ID="32" Number="1" Operator="2" Value="6"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="123" ItemKindA_4="124" Rate="5000" Name="Increase Maximum Mana by %d" />
-		<Option ID="33" Number="1" Operator="2" Value="7"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="116"  ItemKindA_3="125" ItemKindA_4="126" Rate="5000" Name="Increase Maximum Mana by %d" />
-		<Option ID="34" Number="1" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="127"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Mana by %d" />		
-		<!-- Mastery DD (KindA is custom and based on mastery level)-->
-		<Option ID="35" Number="2" Operator="2" Value="5"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="121" ItemKindA_4="122" Rate="5000" Name="Decreases Damage by %d%%" />
-		<Option ID="36" Number="2" Operator="2" Value="6"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="123" ItemKindA_4="124" Rate="5000" Name="Decreases Damage by %d%%" />
-		<Option ID="37" Number="2" Operator="2" Value="7"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="116"  ItemKindA_3="125" ItemKindA_4="126" Rate="5000" Name="Decreases Damage by %d%%" />
-		<Option ID="38" Number="2" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="127"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Decreases Damage by %d%%" />
-		<!-- Mastery Reflect (KindA is custom and based on mastery level)-->
-		<Option ID="39" Number="3" Operator="2" Value="6"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="121" ItemKindA_4="122" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="40" Number="3" Operator="2" Value="7"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="123" ItemKindA_4="124" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="41" Number="3" Operator="2" Value="8"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="125"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="42" Number="3" Operator="2" Value="9"  FormulaID="-1"  ItemKindA_1="116" ItemKindA_2="126"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<Option ID="43" Number="3" Operator="2" Value="10"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="127"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
-		<!-- Mastery DSR (KindA is custom and based on mastery level)-->
-		<Option ID="39" Number="4" Operator="2" Value="12"  FormulaID="-1"  ItemKindA_1="111" ItemKindA_2="112"  ItemKindA_3="121" ItemKindA_4="122" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
-		<Option ID="40" Number="4" Operator="2" Value="14"  FormulaID="-1"  ItemKindA_1="113" ItemKindA_2="114"  ItemKindA_3="123" ItemKindA_4="124" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
-		<Option ID="41" Number="4" Operator="2" Value="16"  FormulaID="-1"  ItemKindA_1="115" ItemKindA_2="125"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
-		<Option ID="42" Number="4" Operator="2" Value="18"  FormulaID="-1"  ItemKindA_1="116" ItemKindA_2="126"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
-		<Option ID="43" Number="4" Operator="2" Value="20"  FormulaID="-1"  ItemKindA_1="117" ItemKindA_2="127"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />									
+		<Option ID="14" Number="6" Operator="2"   Value="6"  FormulaID="2"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Life by %d%%" />
+		<Option ID="15" Number="7" Operator="2"   Value="6"  FormulaID="3"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Maximum Mana by %d%%" />
+		<Option ID="16" Number="8" Operator="2"   Value="6"  FormulaID="4"  ItemKindA_1="15" ItemKindA_2="18"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Decreases Damage by %d%%" />
+		<Option ID="17" Number="9" Operator="100" Value="5"  FormulaID="5"  ItemKindA_1="15" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases the amount of Zen acquired for hunting monsters by %d%%" />
+		<Option ID="18" Number="10" Operator="100" Value="6"  FormulaID="6"  ItemKindA_1="18" ItemKindA_2="-1"  ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="%s increases by %.1f every 20Lv" />
+		<Option ID="19" Number="0" Operator="2"   Value="12" FormulaID="-1" ItemKindA_1="14"  ItemKindA_2="2"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increase Excellent Damage Chance by %d%%" />		
+		<Option ID="20" Number="3" Operator="2"   Value="6"  FormulaID="-1" ItemKindA_1="15"  ItemKindA_2="18"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Reflect Damage increase by %d%%" />
+		<Option ID="21" Number="4" Operator="2"   Value="12"  FormulaID="-1" ItemKindA_1="15"  ItemKindA_2="18"   ItemKindA_3="-1" ItemKindA_4="-1" Rate="5000" Name="Increases Defense Success Rate by %d%%" />
 	</Common>
 	
 	<CommonOptionEffect>
@@ -265,43 +231,9 @@
 		<Option ID="16" Etc="0" Rate="0" Attack="0" Defense="3" Life="0" Mana="0" Skill="0" />
 		<Option ID="17" Etc="1" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
 		<Option ID="18" Etc="0" Rate="0" Attack="0" Defense="4" Life="0" Mana="0" Skill="0" />
-		<!-- Mastery EDR (KindA is custom and based on mastery level)-->
 		<Option ID="19" Etc="0" Rate="1" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="20" Etc="0" Rate="1" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="21" Etc="0" Rate="1" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="22" Etc="0" Rate="1" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="23" Etc="0" Rate="1" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
-		<!-- Mastery DMG INC (KindA is custom and based on mastery level)-->
-		<Option ID="24" Etc="0" Rate="0" Attack="1" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="25" Etc="0" Rate="0" Attack="1" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="26" Etc="0" Rate="0" Attack="1" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<!-- Mastery HP (KindA is custom and based on mastery level)-->
-		<Option ID="27" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 
-		<Option ID="28" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 
-		<Option ID="29" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 
-		<Option ID="30" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 										
-		<!-- Mastery Mana (KindA is custom and based on mastery level)-->
-		<Option ID="31" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" />
-		<Option ID="32" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" />
-		<Option ID="33" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" />
-		<Option ID="34" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" />
-		<!-- Mastery DD (KindA is custom and based on mastery level)-->
-		<Option ID="35" Etc="0" Rate="0" Attack="0" Defense="1" Life="0" Mana="0" Skill="0" />
-		<Option ID="36" Etc="0" Rate="0" Attack="0" Defense="1" Life="0" Mana="0" Skill="0" />
-		<Option ID="37" Etc="0" Rate="0" Attack="0" Defense="1" Life="0" Mana="0" Skill="0" />
-		<Option ID="38" Etc="0" Rate="0" Attack="0" Defense="1" Life="0" Mana="0" Skill="0" />
-		<!-- Mastery Reflect (KindA is custom and based on mastery level)-->
-		<Option ID="39" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="40" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="41" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="42" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
-		<Option ID="43" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
-		<!-- Mastery DSR (KindA is custom and based on mastery level)-->
-		<Option ID="44" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
-		<Option ID="45" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
-		<Option ID="46" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
-		<Option ID="47" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
-		<Option ID="48" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />										
+		<Option ID="20" Etc="0" Rate="0" Attack="3" Defense="0" Life="0" Mana="0" Skill="0" />
+		<Option ID="21" Etc="0" Rate="0" Attack="0" Defense="2" Life="0" Mana="0" Skill="0" />
 	</CommonOptionEffect>
 	
 	<Wings>
@@ -390,26 +322,6 @@
 			<Kind A="14" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="15" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="18" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="101" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="102" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="103" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="104" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="105" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />											
-			<Kind A="106" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="111" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="112" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="113" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="114" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="115" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="116" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="117" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="121" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="122" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="123" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="124" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="125" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="126" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />	
-			<Kind A="127" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />																																														
 		</Common>
 		<Wing>
 			<Kind A="6" B="24" Zero="8000" One="1500" Two="500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
