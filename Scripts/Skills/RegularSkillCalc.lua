@@ -940,9 +940,17 @@ function RuneWizardHasteCalc(Index, TargetIndex, TargetClass, Energy)
 end
 
 -- SkillID: 233: Expansion of Wizardry
-function WizardExpansionWizardryCalc(Class, Energy)
-	local SkillEffect = Energy / 9 * 0.20
+function ExpansionWizardryCalc(Class, Energy)
+	local SkillEffect = 0
 	local SkillTime = 1800
+	
+	if (Class == CLASS_WIZARD) then
+		SkillEffect = Energy / 9 * 0.20
+	elseif (Class == CLASS_RUNEWIZARD) then
+		SkillEffect = Energy / 9 * 0.20
+	elseif (Class == CLASS_LEMURIAMAGE) then
+		SkillEffect = Energy / 9 * 0.20
+	end
 
 	return SkillEffect, SkillTime
 end

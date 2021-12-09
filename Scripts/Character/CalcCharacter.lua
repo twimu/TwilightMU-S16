@@ -185,10 +185,10 @@ function SlayerDamageCalc(Strength, Dexterity, Vitality, Energy)
 	local AttackDamageMinRight = 0
 	local AttackDamageMaxRight = 0
 	
-	AttackDamageMinLeft = Strength / 8 -- Minimum Left Hand Damage
-	AttackDamageMinRight = Strength / 8 -- Minimum Right Hand Damage
-	AttackDamageMaxLeft = Strength / 4 -- Maximum Left Hand Damage
-	AttackDamageMaxRight = Strength / 4 -- Maximum Right Hand Damage
+	AttackDamageMinLeft = (Dexterity / 20) + (Strength / 9) -- Minimum Left Hand Damage
+	AttackDamageMinRight = (Dexterity / 20) + (Strength / 9) -- Minimum Right Hand Damage
+	AttackDamageMaxLeft = (Dexterity / 14) + (Strength / 5) -- Maximum Left Hand Damage
+	AttackDamageMaxRight = (Dexterity / 14) + (Strength / 5) -- Maximum Right Hand Damage
 	
 	return AttackDamageMinLeft, AttackDamageMinRight, AttackDamageMaxLeft, AttackDamageMaxRight
 end
@@ -218,7 +218,7 @@ function WizardMagicDamageCalc(Energy)
 	return MagicDamageMin, MagicDamageMax
 end
 
--- Character magic Damage - (Dark Knight, Blade Knight, Blade Master)
+-- Character Magic Damage - (Dark Knight, Blade Knight, Blade Master)
 function KnightMagicDamageCalc(Energy)
 	local MagicDamageMin = 0
 	local MagicDamageMax = 0
@@ -330,11 +330,11 @@ function SlayerMagicDamageCalc(Energy)
 end
 
 -- Character Magic Damage - (Gun Crusher, Gun Breaker, Master Gun Breaker)
-function GunCrusherMagicDamageCalc(Energy, IsFixedFireActive)
+function GunCrusherMagicDamageCalc(Energy, IsSpecialBuff)
 	local MagicDamageMin = 0
 	local MagicDamageMax = 0
 	
-	if (IsFixedFireActive == 1) then
+	if (IsSpecialBuff == 1) then -- Fixed Fire
 		MagicDamageMin = Energy / 6 -- Minimum Magic Damage
 		MagicDamageMax = Energy / 3 -- Maximum Magic Damage
 	else
@@ -511,13 +511,13 @@ function CalcAttackSuccessRate_PvP(Class, Strength, Dexterity, Vitality, Energy,
 	elseif(Class == CLASS_RAGEFIGHTER) then
 		AttackRate = Dexterity * 3.6 + 2.6 * TotalLevel
 	elseif(Class == CLASS_GROWLANCER) then
-		AttackRate = Dexterity * 2 + 3 * TotalLevel
+		AttackRate = Dexterity * 2.5 + 3 * TotalLevel
 	elseif(Class == CLASS_RUNEWIZARD) then
 		AttackRate = Dexterity * 4 + 3 * TotalLevel
 	elseif(Class == CLASS_SLAYER) then
-		AttackRate = Dexterity * 4 + 3 * TotalLevel
+		AttackRate = Dexterity * 2.5 + 3 * TotalLevel
 	elseif(Class == CLASS_GUNCRUSHER) then
-		AttackRate = Dexterity * 3.5 + 3 * TotalLevel
+		AttackRate = Dexterity * 3.0 + 3 * TotalLevel
 	end
 	
 	return AttackRate
@@ -545,138 +545,60 @@ function CalcDefenseSuccessRate_PvP(Class, Strength, Dexterity, Vitality, Energy
 	elseif(Class == CLASS_GROWLANCER) then
 		DefenseRate = Dexterity / 5 + 2 * TotalLevel
 	elseif(Class == CLASS_RUNEWIZARD) then
-		DefenseRate = Dexterity / 3 + 4 * TotalLevel
+		DefenseRate = Dexterity / 3 + 2 * TotalLevel
 	elseif(Class == CLASS_SLAYER) then
-		DefenseRate = Dexterity / 3 + 4 * TotalLevel
+		DefenseRate = Dexterity / 3 + 2 * TotalLevel
 	elseif(Class == CLASS_GUNCRUSHER) then
-		DefenseRate = Dexterity / 2 + 2 * TotalLevel
+		DefenseRate = Dexterity / 3 + 2 * TotalLevel
 	end
 	
 	return DefenseRate
 end
 
--- Character Elemental Damage - PvP and MvP - Dark Wizard, Soul Master, Grand Master)
-function WizardElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
+-- Character Elemental Attack - General
+function ElementalDamageCalc(Class, Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
 	local MinDamage = 0
 	local MaxDamage = 0
 	
-	MinDamage = ItemMinDamage + (Energy / 9)
-	MaxDamage = ItemMaxDamage + (Energy / 6)
+	if(Class == CLASS_WIZARD) then
+		MinDamage = ItemMinDamage + (Energy / 8)
+		MaxDamage = ItemMaxDamage + (Energy / 5)
+	elseif(Class == CLASS_KNIGHT) then
+		MinDamage = ItemMinDamage + (Strength / 6)
+		MaxDamage = ItemMaxDamage + (Strength / 4)
+	elseif(Class == CLASS_ELF) then
+		MinDamage = ItemMinDamage + (Dexterity / 10) + (Strength / 14) 
+		MaxDamage = ItemMaxDamage + (Dexterity / 7) + (Strength / 8)
+	elseif(Class == CLASS_GLADIATOR) then
+		MinDamage = ItemMinDamage + (Dexterity / 10) + (Strength / 14)
+		MaxDamage = ItemMaxDamage + (Dexterity / 6) + (Strength / 8)
+	elseif(Class == CLASS_DARKLORD) then
+		MinDamage = ItemMinDamage + (Dexterity / 10) + (Strength / 14)
+		MaxDamage = ItemMaxDamage + (Dexterity / 6) + (Strength / 10)
+	elseif(Class == CLASS_SUMMONER) then
+		MinDamage = ItemMinDamage + (Energy / 10)
+		MaxDamage = ItemMaxDamage + (Energy / 6)
+	elseif(Class == CLASS_RAGEFIGHTER) then
+		MinDamage = ItemMinDamage + (Dexterity / 12) + (Vitality / 14)
+		MaxDamage = ItemMaxDamage + (Dexterity / 6) + (Strength / 10)
+	elseif(Class == CLASS_GROWLANCER) then
+		MinDamage = ItemMinDamage + (Dexterity / 5)
+		MaxDamage = ItemMaxDamage + (Dexterity / 3)
+	elseif(Class == CLASS_RUNEWIZARD) then
+		MinDamage = ItemMinDamage + (Energy / 8)
+		MaxDamage = ItemMaxDamage + (Energy / 5)
+	elseif(Class == CLASS_SLAYER) then
+		MinDamage = ItemMinDamage + (Dexterity / 15) + (Strength / 10)
+		MaxDamage = ItemMaxDamage + (Dexterity / 10) + (Strength / 6)
+	elseif(Class == CLASS_GUNCRUSHER) then
+		MinDamage = ItemMinDamage + (Energy / 5)
+		MaxDamage = ItemMaxDamage + (Energy / 4)
+	end
 	
 	return MinDamage, MaxDamage
 end
 
--- Character Elemental Damage - PvP and MvP - (Dark Knight, Blade Knight, Blade Master)
-function KnightElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Strength / 6)
-	MaxDamage = ItemMaxDamage + (Strength / 4)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Fairy Elf, Muse Elf, High Elf)
-function ElfElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Dexterity / 8) + (Strength / 14)
-	MaxDamage = ItemMaxDamage + (Dexterity / 4) + (Strength / 8)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Magic Gladiator, Duel Master)
-function GladiatorElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Strength / 10) + (Energy / 14)
-	MaxDamage = ItemMaxDamage + (Strength / 6) + (Energy / 8)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Dark Lord, Lord Emperor)
-function LordElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Strength / 10) + (Energy / 14)
-	MaxDamage = ItemMaxDamage + (Strength / 6) + (Energy / 10)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Summoner, Bloody Summoner, Dimension Master)
-function SummonerElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Energy / 10)
-	MaxDamage = ItemMaxDamage + (Energy / 6)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Rage Fighter, Fist Master)
-function RageFighterElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Strength / 10) + (Vitality / 20)
-	MaxDamage = ItemMaxDamage + (Strength / 6) + (Vitality / 15)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Grow Lancer, Mirage Lancer)
-function GrowLancerElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Strength / 4) + (Dexterity / 1)
-	MaxDamage = ItemMaxDamage + (Strength / 4) + (Dexterity / 1)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Rune Wizard, Rune Spell Master, Grand Rune Master)
-function RuneWizardElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Energy / 9)
-	MaxDamage = ItemMaxDamage + (Energy / 6)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Slayer, Royal Slayer, Master Slayer)
-function SlayerElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Energy / 9)
-	MaxDamage = ItemMaxDamage + (Energy / 6)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Damage - PvP and MvP - (Gun Crusher, Gun Breaker, Master Gun Breaker)
-function GunCrusherElementalDamageCalc(Strength, Dexterity, Vitality, Energy, ItemMinDamage, ItemMaxDamage)
-	local MinDamage = 0
-	local MaxDamage = 0
-	
-	MinDamage = ItemMinDamage + (Energy / 9)
-	MaxDamage = ItemMaxDamage + (Energy / 6)
-	
-	return MinDamage, MaxDamage
-end
-
--- Character Elemental Attack Rate MvP - General
+-- Character Elemental Attack Rate MvP
 function ElementalAttackRateCalc_MvP(Class, NormalLevel, MasterLevel, Strength, Dexterity, Vitality, Energy, Command)
 	local AttackSuccessRate = 0
 	local TotalLevel = NormalLevel + MasterLevel
@@ -708,7 +630,7 @@ function ElementalAttackRateCalc_MvP(Class, NormalLevel, MasterLevel, Strength, 
 	return AttackSuccessRate
 end
 
--- Character Elemental Attack Rate PvP - General
+-- Character Elemental Attack Rate PvP
 function ElementalAttackRateCalc_PvP(Class, NormalLevel, MasterLevel, Strength, Dexterity, Vitality, Energy, Command)
 	local AttackSuccessRate = 0
 	local TotalLevel = NormalLevel + MasterLevel
@@ -741,31 +663,35 @@ function ElementalAttackRateCalc_PvP(Class, NormalLevel, MasterLevel, Strength, 
 end
 
 -- Character Elemental Defense - General
-function ElementalDefenseCalc(Class, Dexterity, Energy)
+function ElementalDefenseCalc(Class, Strength, Dexterity, Vitality, Energy, IsSpecialBuff)
 	local Defense = 0
 	
 	if(Class == CLASS_WIZARD) then
-		Defense = Dexterity / 4
+		Defense = (Energy / 10) + (Dexterity / 6)
 	elseif(Class == CLASS_KNIGHT) then
-		Defense = Dexterity / 3
+		if (IsSpecialBuff == 1) then -- Strong Belief
+			Defense = (Dexterity / 3) + (Energy / 4)
+		else
+			Defense = (Strength / 12) + (Energy / 11) + (Dexterity / 6)
+		end
 	elseif(Class == CLASS_ELF) then
-		Defense = Dexterity / 10
+		Defense = (Dexterity / 8) + (Energy / 8)
 	elseif(Class == CLASS_GLADIATOR) then
-		Defense = Dexterity / 5
+		Defense = (Strength / 15) + (Energy / 15) + (Dexterity / 6)
 	elseif(Class == CLASS_DARKLORD) then
-		Defense = Dexterity / 7
+		Defense = (Strength / 13) + (Dexterity / 7)
 	elseif(Class == CLASS_SUMMONER) then
-		Defense = Dexterity / 3
+		Defense = (Energy / 13) + (Dexterity / 4)
 	elseif(Class == CLASS_RAGEFIGHTER) then
-		Defense = Dexterity / 8
+		Defense = (Vitality / 8) + (Dexterity / 8)
 	elseif(Class == CLASS_GROWLANCER) then
-		Defense = Dexterity / 7
+		Defense = (Strength / 9) + (Dexterity / 9)
 	elseif(Class == CLASS_RUNEWIZARD) then
 		Defense = (Dexterity / 10) + (Energy / 5)
 	elseif(Class == CLASS_SLAYER) then
-		Defense = Dexterity / 3
+		Defense = (Strength / 12) + (Dexterity / 6)
 	elseif(Class == CLASS_GUNCRUSHER) then
-		Defense = Dexterity / 3
+		Defense = (Energy / 8) + (Dexterity / 7)
 	end
 	
 	return Defense

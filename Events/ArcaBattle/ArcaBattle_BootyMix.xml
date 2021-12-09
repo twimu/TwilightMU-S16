@@ -107,11 +107,11 @@
 		<Combination Level="6">
 			<Item Cat="14" Index="13" Level="0" Durability="10" Probability="100000" /> <!-- Jewel of Bless x10 -->
 			<Item Cat="14" Index="14" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Soul x10 -->
-			<Item Cat="12" Index="141" Level="0" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="137" Level="0" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="136" Level="0" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="138" Level="0" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="138" Level="0" Durability="0" Probability="150000" /> <!--  -->
+			<Item Cat="12" Index="15" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Chaos x10 -->
+			<Item Cat="14" Index="22" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Creation x10 -->
+			<Item Cat="14" Index="16" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Life x10 -->
+			<Item Cat="14" Index="31" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Guardian x10 -->
+			<Item Cat="14" Index="42" Level="0" Durability="10" Probability="150000" /> <!-- Jewel of Harmony x10 -->
 		</Combination>
 
 		<Combination Level="7">
@@ -127,11 +127,11 @@
 		<Combination Level="8">
 			<Item Cat="14" Index="13" Level="0" Durability="20" Probability="150000" /> <!-- Jewel of Bless x20 -->
 			<Item Cat="14" Index="14" Level="0" Durability="20" Probability="150000" /> <!-- Jewel of Soul x20 -->
-			<Item Cat="12" Index="141" Level="1" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="137" Level="1" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="136" Level="1" Durability="0" Probability="100000" /> <!--  -->
-			<Item Cat="12" Index="138" Level="1" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="140" Level="1" Durability="0" Probability="149000" /> <!--  -->
+			<Item Cat="12" Index="15" Level="0" Durability="20" Probability="150000" /> <!-- Jewel of Chaos x20 -->
+			<Item Cat="14" Index="22" Level="0" Durability="20" Probability="150000" /> <!-- Jewel of Creation x20 -->
+			<Item Cat="14" Index="16" Level="0" Durability="20" Probability="100000" /> <!-- Jewel of Life x20 -->
+			<Item Cat="14" Index="31" Level="0" Durability="20" Probability="150000" /> <!-- Jewel of Guardian x20 -->
+			<Item Cat="14" Index="42" Level="0" Durability="20" Probability="149000" /> <!-- Jewel of Harmony x20 -->
 			<Item Cat="13" Index="53" Level="0" Durability="0" Probability="1000" /> <!-- Condor Feather -->
 		</Combination>
 
@@ -153,11 +153,11 @@
 		<Combination Level="10">
 			<Item Cat="14" Index="13" Level="0" Durability="30" Probability="150000" /> <!-- Jewel of Bless x30 -->
 			<Item Cat="14" Index="14" Level="0" Durability="30" Probability="150000" /> <!-- Jewel of Soul x30 -->
-			<Item Cat="12" Index="141" Level="2" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="137" Level="2" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="136" Level="2" Durability="0" Probability="100000" /> <!--  -->
-			<Item Cat="12" Index="138" Level="2" Durability="0" Probability="150000" /> <!--  -->
-			<Item Cat="12" Index="140" Level="2" Durability="0" Probability="140000" /> <!--  -->
+			<Item Cat="12" Index="15" Level="0" Durability="30" Probability="150000" /> <!-- Jewel of Chaos x30 -->
+			<Item Cat="14" Index="22" Level="0" Durability="30" Probability="150000" /> <!-- Jewel of Creation x30 -->
+			<Item Cat="14" Index="16" Level="0" Durability="30" Probability="100000" /> <!-- Jewel of Life x30 -->
+			<Item Cat="14" Index="31" Level="0" Durability="30" Probability="150000" /> <!-- Jewel of Guardian x30 -->
+			<Item Cat="14" Index="42" Level="0" Durability="30" Probability="140000" /> <!-- Jewel of Harmony x30 -->
 			<Item Cat="13" Index="53" Level="0" Durability="30" Probability="10000" /> <!-- Condor Feather -->
 		</Combination>
 	</TrophyOfBattleMix>
