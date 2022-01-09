@@ -188,4 +188,8 @@
 	<Item GUID="544" iIndex="85" iSubIndex="508" OptionSelect="50" PackageID="0" CoinType="0" CoinValue="500" UniqueID1="29" UniqueID2="50" ShopCategory="29" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="" />
 	<Item GUID="551" iIndex="99" iSubIndex="508" OptionSelect="37" PackageID="0" CoinType="0" CoinValue="50" UniqueID1="22" UniqueID2="37" ShopCategory="27" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="" />
 	<Item GUID="552" iIndex="99" iSubIndex="508" OptionSelect="38" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="22" UniqueID2="38" ShopCategory="27" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="" />
+	<Item GUID="553" iIndex="509" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="100" UniqueID1="896" UniqueID2="1100" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Jewel of Excess" />
+	<Item GUID="554" iIndex="510" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="1500" UniqueID1="898" UniqueID2="1103" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Jewel of Luck" />
+	<Item GUID="555" iIndex="511" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="10000" UniqueID1="900" UniqueID2="1106" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Jewel of Kundun" />
+	<Item GUID="556" iIndex="512" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="5000" UniqueID1="902" UniqueID2="1109" ShopCategory="58" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Jewel of Wisdom" />
 </CashItemList>

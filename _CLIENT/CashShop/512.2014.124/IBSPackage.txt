@@ -115,3 +115,7 @@
 57@19@501@Horn of Fenrir_Event@170@20000@By mounting Fenrir, strong extensive skill#Plasma Storm can be used.#Impaired Fenrir can be repaired by Jewel of Bless@@182@185@20111207011000@20151207181000@177@1@Goblin Point@Point@181@200@0@593|@6693@5@1@683|@1@0@669
 57@20@508@Cape of Overrule_Event@170@32000@Defense:  45  Increase 39% of Damage  Absorb 39% of Damage  Increase speed#*Minimum Level Requirement: 400  Can be equipped by  Fist Master@@182@185@20111207012000@20151207182000@177@1@Goblin Point@Point@181@200@0@600|@6194@5@1@690|@1@0@669
 57@21@507@Wing of Ruin_Event@170@32000@Defense:  55  Increase 39% of Damage  Absorb 39% of Damage  Increase speed#*Minimum Level Requirement: 400  Can be equipped by  Duel Master@@182@185@20111207012000@20151207182000@177@1@Goblin Point@Point@181@200@0@599|@6183@5@1@689|@1@0@669
+58@1@509@Jewel of Excess@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@896|@10743@2@1@1100|@0@508@669
+58@2@510@Jewel of Luck@170@1500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@898|@10744@2@1@1103|@0@508@669
+58@3@511@Jewel of Kundun@170@10000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@900|@10746@2@1@1106|@0@508@669
+58@4@512@Jewel of Wisdom@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@902|@10748@2@1@1109|@0@508@669
