@@ -727,11 +727,11 @@
 	<Item GUID="894" ID="1097" Cat="13" Index="124" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="4" Duration="7" Description="Paid Channel Access Ticket - 7 days" />
 	<Item GUID="894" ID="1098" Cat="13" Index="124" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="4" Duration="30" Description="Paid Channel Access Ticket - 30 days" />
 	<Item GUID="895" ID="1099" Cat="20" Index="503" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Excess" />
-	<Item GUID="896" ID="1100" Cat="20" Index="503" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Excess" />
+	<Item GUID="896" ID="1100" Cat="20" Index="503" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Excess" />
 	<Item GUID="897" ID="1102" Cat="20" Index="504" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Luck" />
-	<Item GUID="898" ID="1103" Cat="20" Index="504" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Luck" />
+	<Item GUID="898" ID="1103" Cat="20" Index="504" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Luck" />
 	<Item GUID="899" ID="1105" Cat="20" Index="506" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Kundun" />
-	<Item GUID="900" ID="1106" Cat="20" Index="506" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Kundun" />
+	<Item GUID="900" ID="1106" Cat="20" Index="506" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Kundun" />
 	<Item GUID="901" ID="1108" Cat="20" Index="508" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
-	<Item GUID="902" ID="1109" Cat="20" Index="508" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
+	<Item GUID="902" ID="1109" Cat="20" Index="508" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
 </CashItemInfo>
