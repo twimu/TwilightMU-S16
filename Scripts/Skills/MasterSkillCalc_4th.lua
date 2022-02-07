@@ -224,13 +224,13 @@ function ChaosBlade_4thEnchant_Gladiator(InDamage, Strength, Dexterity, Vitality
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;
     elseif (BarrageCount == 4) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;		
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;		
 	elseif(BarrageCount == 5) then -- Explosion
 		OutDamage = 10000
     end
@@ -327,6 +327,10 @@ function StrikeOfDestruction_4thEnchant_Knight(InDamage, Strength, Dexterity, Vi
 		OutDamage = (InDamage * 0.8) * (Energy / 10 + 200) / 100
 	elseif (BarrageCount == 2) then
 		OutDamage = (InDamage * 1.0) * (Energy / 10 + 200) / 100
+	elseif (BarrageCount == 3) then
+		OutDamage = (InDamage * 1.2) * (Energy / 10 + 200) / 100
+	elseif (BarrageCount == 4) then
+		OutDamage = (InDamage * 1.4) * (Energy / 10 + 200) / 100
 	end
 
 	return OutDamage

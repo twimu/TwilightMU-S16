@@ -951,7 +951,6 @@
 		<Msg ID="131" Text="Scorched Canyon" />
 		<Msg ID="132" Text="Red Smoke Icarus" />
 		<Msg ID="133" Text="Temple of Arenil" />
-		<Msg ID="5000" Text="Labyrinth of Dimension" /> <!-- 5000 ~ 5999 -->
-		<Msg ID="6000" Text="4th Quest Area" /> <!-- 6000 ~ 6999 -->
+		<Msg ID="134" Text="Ashy Aida" />
 	</Map>
 </Language>

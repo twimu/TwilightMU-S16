@@ -93,6 +93,8 @@
 	<Item Cat="15" Index="35" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Increase Block Parchment-->
 	<Item Cat="15" Index="36" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Elemental Charge Scroll-->
+	<Item Cat="12" Index="166" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Orb of Twisting Slash-->
 	<Item Cat="12" Index="7" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Orb of Death Stab-->
@@ -133,4 +135,8 @@
 	<Item Cat="12" Index="477" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Detection Bead-->
 	<Item Cat="12" Index="478" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Spiral Charge Orb-->
+	<Item Cat="12" Index="164" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- Crusher Charge Orb-->
+	<Item Cat="12" Index="165" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 </Shop>

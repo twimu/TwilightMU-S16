@@ -527,48 +527,6 @@ function GiganticStormCalc_Master_Gladiator(InDamage, Strength, Dexterity, Energ
  return OutDamage
 end
 
--- SkillID: 865, Spiral Charge Strengthener - (Duel Master)
-function GladiatorSpiralCharge_MasterLevel1(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
-end
-
--- SkillID: 866, Spiral Charge Mastery - (Duel Master)
-function GladiatorSpiralCharge_MasterLevel2(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
-end
-
--- SkillID: 867, Crusher Charge Strenghtener - (Duel Master)
-function GladiatorCrusherCharge_MasterLevel1(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local AtkSpdUp = Strength / 15
-	local DefenseUp = Strength / 15
-	return AtkSpdUp, DefenseUp
-end
-
--- SkillID: 868, Crusher Charge Mastery - (Duel Master)
-function GladiatorCrusherCharge_MasterLevel2(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local AtkSpdUp = Strength / 15
-	local DefenseUp = Strength / 15
-	return AtkSpdUp, DefenseUp
-end
-
--- SkillID: 869, Elemental Charge Strenghtener - (Duel Master)
-function GladiatorElementalCharge_MasterLevel1(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
-end
-
--- SkillID: 870, Elemental Charge Mastery - (Duel Master)
-function GladiatorElementalCharge_MasterLevel2(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
-end
-
 -- SkillID: 497, Earth Prison Strengthener - (Duel Master)
 function EarthPrison_Level2()
  local DebuffSuccessRate = 5
@@ -794,34 +752,34 @@ function SummonerDrainLife_PvP_Level1(Energy, Damage)
 	return AddHP
 end
 
--- SkillID: 469, Berserker Strengthener - (Dimension Master)
+-- SkillID: 469, Berserker Strengthener - (Dimension Master) (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerBerserker_Level1(Energy)
-	local SkillEffectUP = (Energy / 30)
-	local SkillEffectDOWN = (Energy / 60)
-	local SkillTime = -10
+	local SkillEffectUP = (Energy / 30) -- Attack Speed Increase
+	local SkillEffectDOWN = (Energy / 60) -- Life Decrease
+	local SkillTime = -10 -- minus 10 is equal to infinite time
 	
 	return SkillEffectUP, SkillEffectDOWN, SkillTime
 end
 
--- SkillID: 470, Berserker Proficiency - (Dimension Master)
+-- SkillID: 470, Berserker Proficiency - (Dimension Master) (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerBerserker_Level2(Energy)
-	local SkillEffectUP = (Energy / 30)
-	local SkillTime = -10
+	local SkillEffectUP = (Energy / 30) -- Attack Speed Increase
+	local SkillTime = -10 -- minus 10 is equal to infinite time
 	
 	return SkillEffectUP, SkillTime
 end
 
--- SkillID: 770, Darkness Strengthener - (Dimension Master)
+-- SkillID: 770, Darkness Strengthener - (Dimension Master) (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerDarkness_Level1(Energy)
-	local SkillEffectUP = (Energy / 30)
-	local SkillEffectDOWN = (Energy / 60)
+	local SkillEffectUP = (Energy / 30) -- Defense Increase
+	local SkillEffectDOWN = (Energy / 60) -- Life Decrease
 	
 	return SkillEffectUP, SkillEffectDOWN
 end
 
--- SkillID: 771, Darkness Proficiency - (Dimension Master)
+-- SkillID: 771, Darkness Proficiency - (Dimension Master) (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerDarkness_Level2(Energy)
-	local SkillEffectUP = (Energy / 30)
+	local SkillEffectUP = (Energy / 30) -- Defense Increase
 	
 	return SkillEffectUP
 end

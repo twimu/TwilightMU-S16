@@ -371,11 +371,11 @@ function GladiatorChaosBlade(InDamage, Strength, Dexterity, Vitality, Energy, Ba
     local OutDamage = 0
     
     if (BarrageCount == 1) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;
     elseif (BarrageCount == 2) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;
     elseif (BarrageCount == 3) then
-        OutDamage = (InDamage * 0.33) * ( 200 + ( Energy / 10 ) ) / 100;		
+        OutDamage = (InDamage * 0.33) * ( 200 + ( Strength / 10 ) ) / 100;		
 	elseif(BarrageCount == 4) then -- Explosion
 		OutDamage = 10000
     end
@@ -396,27 +396,6 @@ function GladiatorHavokSpear(InDamage, Strength, Dexterity, Vitality, Energy, Ba
 		OutDamage = 10000
     end
     return OutDamage
-end
-
--- SkillID: 2014, Spiral Charge
-function GladiatorSpiralCharge(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
-end
-
--- SkillID: 2015, Crusher Charge
-function GladiatorCrusherCharge(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local AtkSpdUp = Strength / 15
-	local DefenseUp = Strength / 15
-	return AtkSpdUp, DefenseUp
-end
-
--- SkillID: 2016, Elemental Charge
-function GladiatorElementalCharge(Level, MasterLevel, Strength, Dexterity, Vitality, Energy)
-	local DamageUp = Strength
-	local DefenseUp = Strength / 15
-	return DamageUp, DefenseUp
 end
 
 -- SkillID: 60 ,61, 62, 65, 74, 78, Force, Fire Burst, Earthshake, Electric Spike, Fire Blast, Fire Scream
@@ -493,21 +472,13 @@ function SummonerDamageReflect(Index, TargetIndex, TargetClass, Energy)
 	return Reflect, Time
 end
 
--- SkillID: 218, Berserker
+-- SkillID: 218, Berserker (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerBerserker(Energy)
-	local SkillEffectUP = (Energy / 30)
-	local SkillEffectDOWN = (Energy / 60)
-	local SkillTime = -10
+	local SkillEffectUP = (Energy / 30) -- Attack Speed Increase
+	local SkillEffectDOWN = (Energy / 60) -- Life Decrease
+	local SkillTime = -10 -- minus 10 is equal to infinite time
 	
 	return SkillEffectUP, SkillEffectDOWN, SkillTime
-end
-
--- SkillID: 218, Berserker - Magic Damage
-function SummonerBerserkerMagicDamage(Energy, Effect)
-	local MagicMin = (Energy / 9) * Effect / 100
-	local MagicMax = (Energy / 4) * Effect / 100
-	
-	return MagicMin, MagicMax
 end
 
 -- SkillID: 288, Death Scythe
@@ -527,20 +498,12 @@ function DeadScythe_Summoner(InDamage, TargetClass, Strength, Dexterity, Vitalit
 	return OutDamage
 end
 
--- SkillID: 289, Darkness
+-- SkillID: 289, Darkness (Damage conversion is managed trough FormulaData.xml::Character section)
 function SummonerDarkness(Energy)
-	local SkillEffectUP = (Energy / 30)
-	local SkillEffectDOWN = (Energy / 60)
+	local SkillEffectUP = (Energy / 30) -- Defense Increase
+	local SkillEffectDOWN = (Energy / 60) -- Life Decrease
 	
 	return SkillEffectUP, SkillEffectDOWN
-end
-
--- SkillID: 289, Darkness - Curse Damage
-function SummonerDarknessCurseDamage(Energy, Effect)
-	local CurseMin = ((Energy / 9) + 0.015) * Effect / 100
-	local CurseMax = ((Energy / 4) + 0.015) * Effect / 100
-	
-	return CurseMin, CurseMax
 end
 
 -- SkillID: 219, Sleep - MvP

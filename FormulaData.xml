@@ -82,6 +82,12 @@
 //		3: Berserker Defense deduction
 //		4: Darkness skill conversion
 //		5: Darkness Defense addition
+//		30: Spiral Charge Attack Damage Increase
+//		31: Spital Charge Defense Increase
+//		32: Crusher Charge Attack Speed Increase
+//		33: Crusher Charge Defense Increase
+//		34: Elemental Charge Wizadry Increase
+//		35: Elemental Charge Defense Increase
 //
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
@@ -527,12 +533,12 @@
 		<Formula ID="27" Data="(%d*1.9)+900" /> <!--  -->
 		<Formula ID="28" Data="(%d/2)" /> <!--  -->
 		<Formula ID="29" Data="(10+((%d/2)*20))" /> <!--  -->
-		<Formula ID="30" Data="((%d/4)+(%d*0.2))*2.4" /> <!--  -->
-		<Formula ID="31" Data="((%d/10)+(%d/30))*2" /> <!--  -->
-		<Formula ID="32" Data="((%d/100)+(%d/50))*0.4" /> <!--  -->
-		<Formula ID="33" Data="((%d/10)+(%d/30))*2" /> <!--  -->
-		<Formula ID="34" Data="((%d/15)+(%d*0.1))*1.5" /> <!--  -->
-		<Formula ID="35" Data="((%d/10)+(%d/30))*2" /> <!--  -->
+		<Formula ID="30" Data="((%d/4)+(%d*0.2))*2.4" /> <!-- TotalLevel, Strength -->
+		<Formula ID="31" Data="((%d/10)+(%d/30))*2" /> <!-- TotalLevel, Agility -->
+		<Formula ID="32" Data="((%d/100)+(%d/50))*0.4" /> <!-- TotalLevel, Agility -->
+		<Formula ID="33" Data="((%d/10)+(%d/30))*2" /> <!-- TotalLevel, Agility -->
+		<Formula ID="34" Data="((%d/15)+(%d*0.1))*1.5" /> <!-- TotalLevel, Energy -->
+		<Formula ID="35" Data="((%d/10)+(%d/30))*2" /> <!-- TotalLevel, Agility -->
 	</Character>
 	<GuardianItem>
 		<Formula ID="0" Data="20+((9+%d)/2)^2" /> <!-- ItemLevel -->
