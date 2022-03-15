@@ -95,7 +95,7 @@
 -->
 
 <ExpSystem CalcType="0" NonVipAdjuster="0.0" PartyExpGainRange="9" DebugMode="0">
-	<StaticExp Normal="100.0" Master="2.0" Majestic="2.0" Event="2.0" Quest="2.0" OffLevel="1.0" />
+	<StaticExp Normal="100.0" Master="4.0" Majestic="2.0" Event="2.0" Quest="2.0" OffLevel="1.0" />
 	<PartyRegAddExp One="1.0" Two="2.1" Three="3.2" Four="4.4" Five="5.7" />
 	<PartySetAddExp Two="2.2" Three="3.4" Four="4.6" Five="5.9" />
 	

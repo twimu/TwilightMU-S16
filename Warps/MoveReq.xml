@@ -68,8 +68,8 @@
 	<Warp Index="21" ServerName="Tarkan" ClientName="Tarkan" MinLevel="140" MaxLevel="-1" ReqMoney="8000" ReqVipLevel="0" GateNumber="57" DifficultyOrder="25" AlphabetOrder="60" MonsterClassification="57" />
 	<Warp Index="22" ServerName="Tarkan 2" ClientName="Tarkan 2" MinLevel="160" MaxLevel="-1" ReqMoney="8500" ReqVipLevel="0" GateNumber="77" DifficultyOrder="28" AlphabetOrder="61" MonsterClassification="61" />
 	<Warp Index="50" ServerName="Ferea" ClientName="Ferea" MinLevel="400" MaxLevel="-1" ReqMoney="50000" ReqVipLevel="0" GateNumber="509" DifficultyOrder="40" AlphabetOrder="62" MonsterClassification="730" />
-	<Warp Index="25" ServerName="Aida" ClientName="Aida" MinLevel="150" MaxLevel="-1" ReqMoney="8500" ReqVipLevel="0" GateNumber="119" DifficultyOrder="26" AlphabetOrder="29" MonsterClassification="306" />
-	<Warp Index="27" ServerName="Aida 2" ClientName="Aida 2" MinLevel="380" MaxLevel="-1" ReqMoney="8500" ReqVipLevel="0" GateNumber="140" DifficultyOrder="37" AlphabetOrder="30" MonsterClassification="550" />
+	<Warp Index="25" ServerName="Aida" ClientName="Aida" MinLevel="70" MaxLevel="-1" ReqMoney="8500" ReqVipLevel="0" GateNumber="119" DifficultyOrder="26" AlphabetOrder="29" MonsterClassification="306" />
+	<Warp Index="27" ServerName="Aida 2" ClientName="Aida 2" MinLevel="120" MaxLevel="-1" ReqMoney="8500" ReqVipLevel="0" GateNumber="140" DifficultyOrder="37" AlphabetOrder="30" MonsterClassification="550" />
 	<Warp Index="23" ServerName="Icarus" ClientName="Icarus" MinLevel="160" MaxLevel="-1" ReqMoney="10000" ReqVipLevel="0" GateNumber="63" DifficultyOrder="29" AlphabetOrder="43" MonsterClassification="70" />
 	<Warp Index="26" ServerName="Crywolf" ClientName="Crywolf" MinLevel="10" MaxLevel="-1" ReqMoney="0" ReqVipLevel="0" GateNumber="118" DifficultyOrder="56" AlphabetOrder="58" MonsterClassification="-1" />
 	<Warp Index="28" ServerName="Kanturu Ruins" ClientName="Kanturu Ruins" MinLevel="160" MaxLevel="-1" ReqMoney="9000" ReqVipLevel="0" GateNumber="138" DifficultyOrder="27" AlphabetOrder="46" MonsterClassification="353" />

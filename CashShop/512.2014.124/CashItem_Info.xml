@@ -47,8 +47,11 @@
 	<Item GUID="21" ID="34" Cat="13" Index="65" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Spirit of Guardian" />
 	<Item GUID="21" ID="35" Cat="13" Index="65" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Spirit of Guardian" />
 	<Item GUID="21" ID="36" Cat="13" Index="65" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="2" Duration="43200" Description="Spirit of Guardian" />
-	<Item GUID="22" ID="37" Cat="14" Index="53" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman of Luck" />
-	<Item GUID="22" ID="38" Cat="14" Index="53" Level="0" Durability="5" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman of Luck" />
+	<Item GUID="22" ID="37" Cat="14" Index="53" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="22" ID="38" Cat="14" Index="53" Level="0" Durability="5" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="22" ID="1110" Cat="14" Index="53" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="22" ID="1111" Cat="14" Index="53" Level="0" Durability="30" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="22" ID="1112" Cat="14" Index="53" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
 	<Item GUID="23" ID="39" Cat="14" Index="70" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Healing Potion" />
 	<Item GUID="24" ID="40" Cat="14" Index="71" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elite Mana Potion" />
 	<Item GUID="25" ID="41" Cat="14" Index="72" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="1" Duration="1440" Description="Scroll of Quickness" />
@@ -590,7 +593,7 @@
 	<Item GUID="501" ID="580" Cat="12" Index="15" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Chaos Bundle (10)" />
 	<Item GUID="502" ID="581" Cat="14" Index="16" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Life Bundle (10)" />
 	<Item GUID="503" ID="582" Cat="14" Index="42" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Bundle of Jewel of Harmony (10)" />
-	<Item GUID="504" ID="583" Cat="14" Index="53" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck 1%" />
+	<Item GUID="504" ID="583" Cat="14" Index="53" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
 	<Item GUID="505" ID="584" Cat="14" Index="149" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Rare Item Ticket 11" />
 	<Item GUID="506" ID="585" Cat="14" Index="146" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Rare Item Ticket 8" />
 	<Item GUID="507" ID="586" Cat="14" Index="120" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="8 Goblin Point" />
@@ -734,4 +737,12 @@
 	<Item GUID="900" ID="1106" Cat="20" Index="506" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Kundun" />
 	<Item GUID="901" ID="1108" Cat="20" Index="508" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
 	<Item GUID="902" ID="1109" Cat="20" Index="508" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Wisdom" />
+	<Item GUID="903" ID="1113" Cat="14" Index="53" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="20x" />
+	<Item GUID="904" ID="1115" Cat="14" Index="53" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="905" ID="1117" Cat="14" Index="53" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="907" ID="1120" Cat="14" Index="53" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="907" ID="1121" Cat="14" Index="53" Level="0" Durability="5" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="907" ID="1122" Cat="14" Index="53" Level="0" Durability="10" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="907" ID="1123" Cat="14" Index="53" Level="0" Durability="30" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="907" ID="1124" Cat="14" Index="53" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
 </CashItemInfo>

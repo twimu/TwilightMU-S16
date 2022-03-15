@@ -45,12 +45,11 @@
 <MuHelper Enable="1" MinLevel="1" MinVipLevel="0">
 	<Cost GeneralMultiplier="50.0" DiscountMultiplier="1.0" EventMultiplier="1.0" ChargeInterval="5" />
 	
-	<Timing MaxUseTime="1440">
-		<Range Min="0"   Max="60"  ChargeRate="1.0"/>
-		<Range Min="61"  Max="120" ChargeRate="3.0"/>
-		<Range Min="121" Max="180" ChargeRate="5.0"/>
-		<Range Min="181" Max="240" ChargeRate="10.0"/>
-		<Range Min="241" Max="720" ChargeRate="20.0"/>
-		<Range Min="721" Max="Max" ChargeRate="50.0"/>
+	<Timing MaxUseTime="10080">
+		<Range Min="0"   Max="720"  ChargeRate="1.0"/>
+		<Range Min="721"  Max="1440" ChargeRate="50.0"/>
+		<Range Min="1441" Max="4320" ChargeRate="100.0"/>
+		<Range Min="4321" Max="7200" ChargeRate="300.0"/>
+		<Range Min="7201" Max="Max" ChargeRate="500.0"/>
 	</Timing>
 </MuHelper>
