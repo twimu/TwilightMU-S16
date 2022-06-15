@@ -30,7 +30,7 @@
 
 	<News ID="0">
 		<Line Number="0" Text="Welcome to" />
-		<Line Number="1" Text="Our Newly Opened" />
+		<Line Number="1" Text="Twilight Mu Online" />
 		<Line Number="2" Text="~! Server !~" />
 	</News>
 	
@@ -38,5 +38,11 @@
 		<Line Number="0" Text="Remember to" />
 		<Line Number="1" Text="Visit Our" />
 		<Line Number="2" Text="Fantastic Website" />
+	</News>
+
+	<News ID="2">
+		<Line Number="0" Text="Dont forget to" />
+		<Line Number="1" Text="Vote for us!" />
+		<Line Number="2" Text="and take your rewards." />
 	</News>
 </NewsSystem>
