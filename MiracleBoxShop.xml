@@ -210,6 +210,16 @@
 				<Item ItemCat="14" ItemIndex="13" Cost="1" />
 			</Input>
 			<Reward>
+				<!--Weapons-->
+			    <Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Sword of Archangel -->
+			    <Item Cat="2" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Scepter of Archangel -->
+			    <Item Cat="4" Index="18" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Crossbow of Archangel -->
+			    <Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Staff of Archangel -->
+			    <Item Cat="5" Index="36" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Stick of Archangel -->
+			    <Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Short Sword of Arch. -->
+			    <Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Archangel Absolute Claws -->
+			    <Item Cat="2" Index="34" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Absolute Mace of Archangel -->
+			    <Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Archangel's Absolute Magic Gun -->
 				<!--Rings-->
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Ring of Fire -->
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Ring of Earth -->
@@ -228,6 +238,7 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="800" /> <!-- Rage Earring L-->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="800" /> <!-- Rage Earring R-->
 				<!--Misc-->
+				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" /> <!-- Condor Feather -->
 				<Item Cat="14" Index="224" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Bless of Light (Greater) -->
 				<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Cherry Blossom Rice Cake -->
 				<Item Cat="14" Index="400" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Ruud Box (50) -->
@@ -316,22 +327,19 @@
 				<Item Cat="14" Index="42" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Jewel of Harmony -->
 			</Reward>
 		</Section>
-		<Section ID="9" Active="0" Name="Guardian Box">
+		<Section ID="9" Active="1" Name="Guardian Box">
 			<Input>
 				<Item ItemCat="14" ItemIndex="13" Cost="1" />
 			</Input>
 			<Reward>
-				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- 700 Article Earning -->
-				<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="25" /> <!-- 300 Article Earning -->
-				<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Necklace of Lightning -->
-				<Item Cat="14" Index="372" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Ring of Fire -->
-				<Item Cat="14" Index="14" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Jewel of Soul -->
-				<Item Cat="14" Index="16" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Jewel of Life -->
-				<Item Cat="14" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Jewel of Creation -->
-				<Item Cat="12" Index="15" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000000" /> <!-- Jewel of Chaos -->
-				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5000" /> <!-- Seal of Ghost Horses -->
-				<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Sculpture -->
-				<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2000" /> <!-- Guardian Enhanced Stone -->
+				<Item Cat="14" Index="372" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="100" /> <!-- Ring of Fire -->
+				<Item Cat="14" Index="14" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Jewel of Soul -->
+				<Item Cat="14" Index="16" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Jewel of Life -->
+				<Item Cat="14" Index="22" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Jewel of Creation -->
+				<Item Cat="12" Index="15" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1500" /> <!-- Jewel of Chaos -->
+				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Seal of Ghost Horses -->
+				<Item Cat="14" Index="466" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="200" /> <!-- Sculpture -->
+				<Item Cat="14" Index="467" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="200" /> <!-- Guardian Enhanced Stone -->
 			</Reward>
 		</Section>
 		<Section ID="10" Active="0" Name="Moss Miracle">

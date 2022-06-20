@@ -22,7 +22,7 @@
 //
 -->
 
-<HelperCMD Enabled="0" RGB="255;255;255">
+<HelperCMD Enabled="1" RGB="255;255;255">
 	<Line Text=" [ANTI-LAG] [SHIFT + 1]: Hide Wings " />
 	<Line Text=" [ANTI-LAG] [SHIFT + 2]: Reduce Skill Effect " />
 	<Line Text=" [ANTI-LAG] [SHIFT + 3]: Reduce Item Effect " />
