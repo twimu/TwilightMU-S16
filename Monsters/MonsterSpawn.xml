@@ -8808,6 +8808,14 @@
 			<Spawn Index="810" Distance="6" StartX="215" StartY="39" Dir="-1" Element="1" />
 			<Spawn Index="810" Distance="6" StartX="214" StartY="34" Dir="-1" Element="1" />
 			<Spawn Index="810" Distance="6" StartX="186" StartY="30" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="105" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="180" StartY="96" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="89" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="222" StartY="28" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="227" StartY="25" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="217" StartY="37" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="216" StartY="32" Dir="-1" Element="1" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="32" Dir="-1" Element="1" />
 			<Spawn Index="811" Distance="6" StartX="166" StartY="57" Dir="-1" Element="1" /> <!-- Mine Carrier -->
 			<Spawn Index="811" Distance="6" StartX="172" StartY="46" Dir="-1" Element="1" />
 			<Spawn Index="811" Distance="6" StartX="168" StartY="21" Dir="-1" Element="1" />
@@ -8819,8 +8827,23 @@
 			<Spawn Index="811" Distance="6" StartX="135" StartY="68" Dir="-1" Element="1" />
 			<Spawn Index="811" Distance="6" StartX="134" StartY="64" Dir="-1" Element="1" />
 			<Spawn Index="811" Distance="6" StartX="161" StartY="90" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="164" StartY="55" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="42" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="166" StartY="23" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="155" StartY="10" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="165" StartY="13" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="190" StartY="66" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="185" StartY="79" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="83" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="131" StartY="65" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="132" StartY="68" Dir="-1" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="163" StartY="93" Dir="-1" Element="1" />
 			<Spawn Index="812" Distance="6" StartX="111" StartY="57" Dir="-1" Element="1" /> <!-- Mine Porter -->
-			<Spawn Index="812" Distance="6" StartX="112" StartY="66" Dir="-1" Element="1" />
+			<Spawn Index="812" Distance="6" StartX="114" StartY="58" Dir="-1" Element="1" /> 
+			<Spawn Index="812" Distance="6" StartX="110" StartY="59" Dir="-1" Element="1" /> 
+			<Spawn Index="812" Distance="6" StartX="112" StartY="60" Dir="-1" Element="1" /> 
+			<Spawn Index="812" Distance="6" StartX="113" StartY="56" Dir="-1" Element="1" /> 
+			<Spawn Index="812" Distance="6" StartX="115" StartY="66" Dir="-1" Element="1" />
 			<Spawn Index="816" Distance="6" StartX="89" StartY="51" Dir="-1" Element="1" /> <!-- Dead Porter -->
 			<Spawn Index="816" Distance="6" StartX="87" StartY="56" Dir="-1" Element="1" />
 			<Spawn Index="816" Distance="6" StartX="86" StartY="52" Dir="-1" Element="1" />
@@ -8828,29 +8851,36 @@
 			<Spawn Index="816" Distance="6" StartX="106" StartY="82" Dir="-1" Element="1" />
 			<Spawn Index="816" Distance="6" StartX="140" StartY="8" Dir="-1" Element="1" />
 			<Spawn Index="816" Distance="6" StartX="120" StartY="94" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="88" StartY="53" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="87" StartY="57" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="85" StartY="54" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="103" StartY="84" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="105" StartY="86" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="143" StartY="5" Dir="-1" Element="1" />
+			<Spawn Index="816" Distance="6" StartX="123" StartY="91" Dir="-1" Element="1" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="2" Element="1" /> <!-- Mine Digger -->
-			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="2" Element="1" /> <!-- Mine Carrier -->
-			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="2" Element="1" />
+			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="4" Element="1" /> <!-- Mine Digger -->
+			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="4" Element="1" />
+			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="4" Element="1" /> <!-- Mine Carrier -->
+			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="4" Element="1" />
 			<Spawn Index="812" Distance="6" StartX="114" StartY="52" EndX="134" EndY="58" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="3" Element="1" /> <!-- Mine Driller -->
+			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="4" Element="1" />
+			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="6" Element="1" /> <!-- Mine Driller -->
 			<Spawn Index="813" Distance="4" StartX="218" StartY="41" EndX="229" EndY="51" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="3" Element="1" />
+			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="4" Element="1" />
+			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="6" Element="1" />
 			<Spawn Index="814" Distance="4" StartX="89" StartY="55" EndX="101" EndY="62" Dir="-1" Count="4" Element="1" /> <!-- Dead Digger -->
-			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="3" Element="1" /> <!-- Dead Shoveler -->
-			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="3" Element="1" />
+			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="4" Element="1" />
+			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="6" Element="1" /> <!-- Dead Shoveler -->
+			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="6" Element="1" />
+			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="1" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
 			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="1" /> <!-- Dead Porter -->
@@ -8868,6 +8898,14 @@
 			<Spawn Index="810" Distance="6" StartX="215" StartY="39" Dir="-1" Element="2" />
 			<Spawn Index="810" Distance="6" StartX="214" StartY="34" Dir="-1" Element="2" />
 			<Spawn Index="810" Distance="6" StartX="186" StartY="30" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="105" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="180" StartY="96" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="89" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="222" StartY="28" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="227" StartY="25" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="217" StartY="37" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="216" StartY="32" Dir="-1" Element="2" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="32" Dir="-1" Element="2" />
 			<Spawn Index="811" Distance="6" StartX="166" StartY="57" Dir="-1" Element="2" /> <!-- Mine Carrier -->
 			<Spawn Index="811" Distance="6" StartX="172" StartY="46" Dir="-1" Element="2" />
 			<Spawn Index="811" Distance="6" StartX="168" StartY="21" Dir="-1" Element="2" />
@@ -8879,8 +8917,23 @@
 			<Spawn Index="811" Distance="6" StartX="135" StartY="68" Dir="-1" Element="2" />
 			<Spawn Index="811" Distance="6" StartX="134" StartY="64" Dir="-1" Element="2" />
 			<Spawn Index="811" Distance="6" StartX="161" StartY="90" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="164" StartY="55" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="42" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="166" StartY="23" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="155" StartY="10" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="165" StartY="13" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="190" StartY="66" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="185" StartY="79" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="83" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="131" StartY="65" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="132" StartY="68" Dir="-1" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="163" StartY="93" Dir="-1" Element="2" />
 			<Spawn Index="812" Distance="6" StartX="111" StartY="57" Dir="-1" Element="2" /> <!-- Mine Porter -->
-			<Spawn Index="812" Distance="6" StartX="112" StartY="66" Dir="-1" Element="2" />
+			<Spawn Index="812" Distance="6" StartX="114" StartY="58" Dir="-1" Element="2" /> 
+			<Spawn Index="812" Distance="6" StartX="110" StartY="59" Dir="-1" Element="2" /> 
+			<Spawn Index="812" Distance="6" StartX="112" StartY="60" Dir="-1" Element="2" /> 
+			<Spawn Index="812" Distance="6" StartX="113" StartY="56" Dir="-1" Element="2" /> 
+			<Spawn Index="812" Distance="6" StartX="115" StartY="66" Dir="-1" Element="2" />
 			<Spawn Index="816" Distance="6" StartX="89" StartY="51" Dir="-1" Element="2" /> <!-- Dead Porter -->
 			<Spawn Index="816" Distance="6" StartX="87" StartY="56" Dir="-1" Element="2" />
 			<Spawn Index="816" Distance="6" StartX="86" StartY="52" Dir="-1" Element="2" />
@@ -8888,29 +8941,36 @@
 			<Spawn Index="816" Distance="6" StartX="106" StartY="82" Dir="-1" Element="2" />
 			<Spawn Index="816" Distance="6" StartX="140" StartY="8" Dir="-1" Element="2" />
 			<Spawn Index="816" Distance="6" StartX="120" StartY="94" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="88" StartY="53" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="87" StartY="57" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="85" StartY="54" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="103" StartY="84" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="105" StartY="86" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="143" StartY="5" Dir="-1" Element="2" />
+			<Spawn Index="816" Distance="6" StartX="123" StartY="91" Dir="-1" Element="2" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="2" Element="2" /> <!-- Mine Digger -->
-			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="2" Element="2" /> <!-- Mine Carrier -->
-			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="2" Element="2" />
+			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="4" Element="2" /> <!-- Mine Digger -->
+			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="4" Element="2" />
+			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="4" Element="2" /> <!-- Mine Carrier -->
+			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="4" Element="2" />
 			<Spawn Index="812" Distance="6" StartX="114" StartY="52" EndX="134" EndY="58" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="3" Element="2" /> <!-- Mine Driller -->
+			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="4" Element="2" />
+			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="6" Element="2" /> <!-- Mine Driller -->
 			<Spawn Index="813" Distance="4" StartX="218" StartY="41" EndX="229" EndY="51" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="3" Element="2" />
+			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="4" Element="2" />
+			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="6" Element="2" />
 			<Spawn Index="814" Distance="4" StartX="89" StartY="55" EndX="101" EndY="62" Dir="-1" Count="4" Element="2" /> <!-- Dead Digger -->
-			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="3" Element="2" /> <!-- Dead Shoveler -->
-			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="3" Element="2" />
+			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="4" Element="2" />
+			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="6" Element="2" /> <!-- Dead Shoveler -->
+			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="6" Element="2" />
+			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="2" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
 			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="2" /> <!-- Dead Porter -->
@@ -8928,6 +8988,14 @@
 			<Spawn Index="810" Distance="6" StartX="215" StartY="39" Dir="-1" Element="3" />
 			<Spawn Index="810" Distance="6" StartX="214" StartY="34" Dir="-1" Element="3" />
 			<Spawn Index="810" Distance="6" StartX="186" StartY="30" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="105" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="180" StartY="96" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="89" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="222" StartY="28" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="227" StartY="25" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="217" StartY="37" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="216" StartY="32" Dir="-1" Element="3" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="32" Dir="-1" Element="3" />
 			<Spawn Index="811" Distance="6" StartX="166" StartY="57" Dir="-1" Element="3" /> <!-- Mine Carrier -->
 			<Spawn Index="811" Distance="6" StartX="172" StartY="46" Dir="-1" Element="3" />
 			<Spawn Index="811" Distance="6" StartX="168" StartY="21" Dir="-1" Element="3" />
@@ -8939,8 +9007,23 @@
 			<Spawn Index="811" Distance="6" StartX="135" StartY="68" Dir="-1" Element="3" />
 			<Spawn Index="811" Distance="6" StartX="134" StartY="64" Dir="-1" Element="3" />
 			<Spawn Index="811" Distance="6" StartX="161" StartY="90" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="164" StartY="55" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="42" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="166" StartY="23" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="155" StartY="10" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="165" StartY="13" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="190" StartY="66" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="185" StartY="79" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="83" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="131" StartY="65" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="132" StartY="68" Dir="-1" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="163" StartY="93" Dir="-1" Element="3" />
 			<Spawn Index="812" Distance="6" StartX="111" StartY="57" Dir="-1" Element="3" /> <!-- Mine Porter -->
-			<Spawn Index="812" Distance="6" StartX="112" StartY="66" Dir="-1" Element="3" />
+			<Spawn Index="812" Distance="6" StartX="114" StartY="58" Dir="-1" Element="3" /> 
+			<Spawn Index="812" Distance="6" StartX="110" StartY="59" Dir="-1" Element="3" /> 
+			<Spawn Index="812" Distance="6" StartX="112" StartY="60" Dir="-1" Element="3" /> 
+			<Spawn Index="812" Distance="6" StartX="113" StartY="56" Dir="-1" Element="3" /> 
+			<Spawn Index="812" Distance="6" StartX="115" StartY="66" Dir="-1" Element="3" />
 			<Spawn Index="816" Distance="6" StartX="89" StartY="51" Dir="-1" Element="3" /> <!-- Dead Porter -->
 			<Spawn Index="816" Distance="6" StartX="87" StartY="56" Dir="-1" Element="3" />
 			<Spawn Index="816" Distance="6" StartX="86" StartY="52" Dir="-1" Element="3" />
@@ -8948,29 +9031,36 @@
 			<Spawn Index="816" Distance="6" StartX="106" StartY="82" Dir="-1" Element="3" />
 			<Spawn Index="816" Distance="6" StartX="140" StartY="8" Dir="-1" Element="3" />
 			<Spawn Index="816" Distance="6" StartX="120" StartY="94" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="88" StartY="53" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="87" StartY="57" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="85" StartY="54" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="103" StartY="84" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="105" StartY="86" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="143" StartY="5" Dir="-1" Element="3" />
+			<Spawn Index="816" Distance="6" StartX="123" StartY="91" Dir="-1" Element="3" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="2" Element="3" /> <!-- Mine Digger -->
-			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="2" Element="3" /> <!-- Mine Carrier -->
-			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="2" Element="3" />
+			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="4" Element="3" /> <!-- Mine Digger -->
+			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="4" Element="3" />
+			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="4" Element="3" /> <!-- Mine Carrier -->
+			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="4" Element="3" />
 			<Spawn Index="812" Distance="6" StartX="114" StartY="52" EndX="134" EndY="58" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="3" Element="3" /> <!-- Mine Driller -->
+			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="4" Element="3" />
+			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="6" Element="3" /> <!-- Mine Driller -->
 			<Spawn Index="813" Distance="4" StartX="218" StartY="41" EndX="229" EndY="51" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="3" Element="3" />
+			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="4" Element="3" />
+			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="6" Element="3" />
 			<Spawn Index="814" Distance="4" StartX="89" StartY="55" EndX="101" EndY="62" Dir="-1" Count="4" Element="3" /> <!-- Dead Digger -->
-			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="3" Element="3" /> <!-- Dead Shoveler -->
-			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="3" Element="3" />
+			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="4" Element="3" />
+			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="6" Element="3" /> <!-- Dead Shoveler -->
+			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="6" Element="3" />
+			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="3" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
 			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="3" /> <!-- Dead Porter -->
@@ -8988,6 +9078,14 @@
 			<Spawn Index="810" Distance="6" StartX="215" StartY="39" Dir="-1" Element="4" />
 			<Spawn Index="810" Distance="6" StartX="214" StartY="34" Dir="-1" Element="4" />
 			<Spawn Index="810" Distance="6" StartX="186" StartY="30" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="105" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="180" StartY="96" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="89" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="222" StartY="28" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="227" StartY="25" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="217" StartY="37" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="216" StartY="32" Dir="-1" Element="4" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="32" Dir="-1" Element="4" />
 			<Spawn Index="811" Distance="6" StartX="166" StartY="57" Dir="-1" Element="4" /> <!-- Mine Carrier -->
 			<Spawn Index="811" Distance="6" StartX="172" StartY="46" Dir="-1" Element="4" />
 			<Spawn Index="811" Distance="6" StartX="168" StartY="21" Dir="-1" Element="4" />
@@ -8999,8 +9097,23 @@
 			<Spawn Index="811" Distance="6" StartX="135" StartY="68" Dir="-1" Element="4" />
 			<Spawn Index="811" Distance="6" StartX="134" StartY="64" Dir="-1" Element="4" />
 			<Spawn Index="811" Distance="6" StartX="161" StartY="90" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="164" StartY="55" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="42" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="166" StartY="23" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="155" StartY="10" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="165" StartY="13" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="190" StartY="66" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="185" StartY="79" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="83" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="131" StartY="65" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="132" StartY="68" Dir="-1" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="163" StartY="93" Dir="-1" Element="4" />
 			<Spawn Index="812" Distance="6" StartX="111" StartY="57" Dir="-1" Element="4" /> <!-- Mine Porter -->
-			<Spawn Index="812" Distance="6" StartX="112" StartY="66" Dir="-1" Element="4" />
+			<Spawn Index="812" Distance="6" StartX="114" StartY="58" Dir="-1" Element="4" /> 
+			<Spawn Index="812" Distance="6" StartX="110" StartY="59" Dir="-1" Element="4" /> 
+			<Spawn Index="812" Distance="6" StartX="112" StartY="60" Dir="-1" Element="4" /> 
+			<Spawn Index="812" Distance="6" StartX="113" StartY="56" Dir="-1" Element="4" /> 
+			<Spawn Index="812" Distance="6" StartX="115" StartY="66" Dir="-1" Element="4" />
 			<Spawn Index="816" Distance="6" StartX="89" StartY="51" Dir="-1" Element="4" /> <!-- Dead Porter -->
 			<Spawn Index="816" Distance="6" StartX="87" StartY="56" Dir="-1" Element="4" />
 			<Spawn Index="816" Distance="6" StartX="86" StartY="52" Dir="-1" Element="4" />
@@ -9008,29 +9121,36 @@
 			<Spawn Index="816" Distance="6" StartX="106" StartY="82" Dir="-1" Element="4" />
 			<Spawn Index="816" Distance="6" StartX="140" StartY="8" Dir="-1" Element="4" />
 			<Spawn Index="816" Distance="6" StartX="120" StartY="94" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="88" StartY="53" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="87" StartY="57" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="85" StartY="54" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="103" StartY="84" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="105" StartY="86" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="143" StartY="5" Dir="-1" Element="4" />
+			<Spawn Index="816" Distance="6" StartX="123" StartY="91" Dir="-1" Element="4" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="2" Element="4" /> <!-- Mine Digger -->
-			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="2" Element="4" /> <!-- Mine Carrier -->
-			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="2" Element="4" />
+			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="4" Element="4" /> <!-- Mine Digger -->
+			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="4" Element="4" />
+			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="4" Element="4" /> <!-- Mine Carrier -->
+			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="4" Element="4" />
 			<Spawn Index="812" Distance="6" StartX="114" StartY="52" EndX="134" EndY="58" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="3" Element="4" /> <!-- Mine Driller -->
+			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="4" Element="4" />
+			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="6" Element="4" /> <!-- Mine Driller -->
 			<Spawn Index="813" Distance="4" StartX="218" StartY="41" EndX="229" EndY="51" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="3" Element="4" />
+			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="4" Element="4" />
+			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="6" Element="4" />
 			<Spawn Index="814" Distance="4" StartX="89" StartY="55" EndX="101" EndY="62" Dir="-1" Count="4" Element="4" /> <!-- Dead Digger -->
-			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="3" Element="4" /> <!-- Dead Shoveler -->
-			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="3" Element="4" />
+			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="4" Element="4" />
+			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="6" Element="4" /> <!-- Dead Shoveler -->
+			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="6" Element="4" />
+			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="4" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
 			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="4" /> <!-- Dead Porter -->
@@ -9048,6 +9168,14 @@
 			<Spawn Index="810" Distance="6" StartX="215" StartY="39" Dir="-1" Element="5" />
 			<Spawn Index="810" Distance="6" StartX="214" StartY="34" Dir="-1" Element="5" />
 			<Spawn Index="810" Distance="6" StartX="186" StartY="30" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="105" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="180" StartY="96" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="89" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="222" StartY="28" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="227" StartY="25" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="217" StartY="37" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="216" StartY="32" Dir="-1" Element="5" />
+			<Spawn Index="810" Distance="6" StartX="184" StartY="32" Dir="-1" Element="5" />
 			<Spawn Index="811" Distance="6" StartX="166" StartY="57" Dir="-1" Element="5" /> <!-- Mine Carrier -->
 			<Spawn Index="811" Distance="6" StartX="172" StartY="46" Dir="-1" Element="5" />
 			<Spawn Index="811" Distance="6" StartX="168" StartY="21" Dir="-1" Element="5" />
@@ -9059,8 +9187,23 @@
 			<Spawn Index="811" Distance="6" StartX="135" StartY="68" Dir="-1" Element="5" />
 			<Spawn Index="811" Distance="6" StartX="134" StartY="64" Dir="-1" Element="5" />
 			<Spawn Index="811" Distance="6" StartX="161" StartY="90" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="164" StartY="55" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="42" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="166" StartY="23" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="155" StartY="10" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="165" StartY="13" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="190" StartY="66" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="185" StartY="79" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="174" StartY="83" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="131" StartY="65" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="132" StartY="68" Dir="-1" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="163" StartY="93" Dir="-1" Element="5" />
 			<Spawn Index="812" Distance="6" StartX="111" StartY="57" Dir="-1" Element="5" /> <!-- Mine Porter -->
-			<Spawn Index="812" Distance="6" StartX="112" StartY="66" Dir="-1" Element="5" />
+			<Spawn Index="812" Distance="6" StartX="114" StartY="58" Dir="-1" Element="5" /> 
+			<Spawn Index="812" Distance="6" StartX="110" StartY="59" Dir="-1" Element="5" /> 
+			<Spawn Index="812" Distance="6" StartX="112" StartY="60" Dir="-1" Element="5" /> 
+			<Spawn Index="812" Distance="6" StartX="113" StartY="56" Dir="-1" Element="5" /> 
+			<Spawn Index="812" Distance="6" StartX="115" StartY="66" Dir="-1" Element="5" />
 			<Spawn Index="816" Distance="6" StartX="89" StartY="51" Dir="-1" Element="5" /> <!-- Dead Porter -->
 			<Spawn Index="816" Distance="6" StartX="87" StartY="56" Dir="-1" Element="5" />
 			<Spawn Index="816" Distance="6" StartX="86" StartY="52" Dir="-1" Element="5" />
@@ -9068,29 +9211,36 @@
 			<Spawn Index="816" Distance="6" StartX="106" StartY="82" Dir="-1" Element="5" />
 			<Spawn Index="816" Distance="6" StartX="140" StartY="8" Dir="-1" Element="5" />
 			<Spawn Index="816" Distance="6" StartX="120" StartY="94" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="88" StartY="53" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="87" StartY="57" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="85" StartY="54" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="103" StartY="84" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="105" StartY="86" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="143" StartY="5" Dir="-1" Element="5" />
+			<Spawn Index="816" Distance="6" StartX="123" StartY="91" Dir="-1" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="2" Element="5" /> <!-- Mine Digger -->
-			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="2" Element="5" /> <!-- Mine Carrier -->
-			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="2" Element="5" />
+			<Spawn Index="810" Distance="2" StartX="234" StartY="9" EndX="241" EndY="15" Dir="-1" Count="4" Element="5" /> <!-- Mine Digger -->
+			<Spawn Index="810" Distance="3" StartX="182" StartY="111" EndX="189" EndY="120" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="810" Distance="3" StartX="158" StartY="60" EndX="165" EndY="71" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="810" Distance="4" StartX="165" StartY="29" EndX="174" EndY="38" Dir="-1" Count="4" Element="5" />
+			<Spawn Index="811" Distance="2" StartX="232" StartY="13" EndX="239" EndY="21" Dir="-1" Count="4" Element="5" /> <!-- Mine Carrier -->
+			<Spawn Index="811" Distance="4" StartX="198" StartY="85" EndX="211" EndY="92" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="811" Distance="6" StartX="141" StartY="4" EndX="152" EndY="13" Dir="-1" Count="4" Element="5" />
 			<Spawn Index="812" Distance="6" StartX="114" StartY="52" EndX="134" EndY="58" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="3" Element="5" /> <!-- Mine Driller -->
+			<Spawn Index="812" Distance="6" StartX="137" StartY="31" EndX="145" EndY="40" Dir="-1" Count="4" Element="5" />
+			<Spawn Index="812" Distance="4" StartX="127" StartY="71" EndX="137" EndY="81" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="813" Distance="4" StartX="109" StartY="70" EndX="116" EndY="80" Dir="-1" Count="6" Element="5" /> <!-- Mine Driller -->
 			<Spawn Index="813" Distance="4" StartX="218" StartY="41" EndX="229" EndY="51" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="3" Element="5" />
+			<Spawn Index="813" Distance="4" StartX="176" StartY="33" EndX="184" EndY="40" Dir="-1" Count="4" Element="5" />
+			<Spawn Index="813" Distance="4" StartX="97" StartY="58" EndX="111" EndY="62" Dir="-1" Count="6" Element="5" />
 			<Spawn Index="814" Distance="4" StartX="89" StartY="55" EndX="101" EndY="62" Dir="-1" Count="4" Element="5" /> <!-- Dead Digger -->
-			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="3" Element="5" /> <!-- Dead Shoveler -->
-			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="3" Element="5" />
+			<Spawn Index="814" Distance="6" StartX="164" StartY="76" EndX="172" EndY="84" Dir="-1" Count="4" Element="5" />
+			<Spawn Index="814" Distance="4" StartX="148" StartY="94" EndX="159" EndY="104" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="815" Distance="4" StartX="191" StartY="23" EndX="203" EndY="28" Dir="-1" Count="6" Element="5" /> <!-- Dead Shoveler -->
+			<Spawn Index="815" Distance="3" StartX="210" StartY="25" EndX="221" EndY="30" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="815" Distance="4" StartX="146" StartY="30" EndX="163" EndY="33" Dir="-1" Count="6" Element="5" />
+			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
 			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="5" /> <!-- Dead Porter -->
