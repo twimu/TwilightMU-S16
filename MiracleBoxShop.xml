@@ -211,16 +211,16 @@
 			</Input>
 			<Reward>
 				<!--Weapons-->
-			    <Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Sword of Archangel -->
-			    <Item Cat="2" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Scepter of Archangel -->
-			    <Item Cat="4" Index="18" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Crossbow of Archangel -->
-			    <Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Staff of Archangel -->
-			    <Item Cat="5" Index="36" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Stick of Archangel -->
-			    <Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Divine Short Sword of Arch. -->
-			    <Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Archangel Absolute Claws -->
-			    <Item Cat="2" Index="34" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Absolute Mace of Archangel -->
-			    <Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Archangel's Absolute Magic Gun -->
-			    <Item Cat="3" Index="26" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="15" /> <!-- Absolute Lance of the Arch. -->
+			    <Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Sword of Archangel -->
+			    <Item Cat="2" Index="13" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Scepter of Archangel -->
+			    <Item Cat="4" Index="18" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Crossbow of Archangel -->
+			    <Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Staff of Archangel -->
+			    <Item Cat="5" Index="36" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Stick of Archangel -->
+			    <Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Divine Short Sword of Arch. -->
+			    <Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Archangel Absolute Claws -->
+			    <Item Cat="2" Index="34" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Absolute Mace of Archangel -->
+			    <Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Archangel's Absolute Magic Gun -->
+			    <Item Cat="3" Index="26" MinLevel="0" MaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="50" /> <!-- Absolute Lance of the Arch. -->
 				<!--Rings-->
 				<Item Cat="13" Index="21" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Ring of Fire -->
 				<Item Cat="13" Index="22" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-2" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Ring of Earth -->
@@ -239,7 +239,7 @@
 				<Item Cat="12" Index="449" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="800" /> <!-- Rage Earring L-->
 				<Item Cat="12" Index="457" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="800" /> <!-- Rage Earring R-->
 				<!--Misc-->
-				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5" /> <!-- Condor Feather -->
+				<Item Cat="13" Index="53" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="75" /> <!-- Condor Feather -->
 				<Item Cat="14" Index="224" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Bless of Light (Greater) -->
 				<Item Cat="14" Index="86" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1000" /> <!-- Cherry Blossom Rice Cake -->
 				<Item Cat="14" Index="400" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="500" /> <!-- Ruud Box (50) -->
@@ -369,6 +369,11 @@
 		<Item Cat="4" Index="18" Name="Divine Crossbow of Archangel" />
 		<Item Cat="5" Index="10" Name="Divine Staff of Archangel" />
 		<Item Cat="5" Index="36" Name="Divine Stick of the Archangel" />
+	    <Item Cat="0" Index="76" Name="Divine Short Sword of Arch." />
+	    <Item Cat="0" Index="60" Name="Archangel Absolute Claws" />
+	    <Item Cat="2" Index="34" Name="Absolute Mace of Archangel" />
+	    <Item Cat="4" Index="46" Name="Archangel's Absolute Magic Gun" />
+	    <Item Cat="3" Index="26" Name="Absolute Lance of the Arch." />
 		<Item Cat="14" Index="96" Name="Talisman of Chaos Assembly" />
 		<Item Cat="13" Index="276" Name="Conqueror's Badge" />
 		<Item Cat="13" Index="53" Name="Condor Feather" />
