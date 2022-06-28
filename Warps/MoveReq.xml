@@ -75,7 +75,7 @@
 	<Warp Index="28" ServerName="Kanturu Ruins" ClientName="Kanturu Ruins" MinLevel="160" MaxLevel="-1" ReqMoney="9000" ReqVipLevel="0" GateNumber="138" DifficultyOrder="27" AlphabetOrder="46" MonsterClassification="353" />
 	<Warp Index="29" ServerName="Kanturu Ruins 2" ClientName="Kanturu Ruins 2" MinLevel="160" MaxLevel="-1" ReqMoney="9000" ReqVipLevel="0" GateNumber="141" DifficultyOrder="30" AlphabetOrder="47" MonsterClassification="350" />
 	<Warp Index="45" ServerName="Kanturu Ruins Island" ClientName="Kanturu Ruins Island" MinLevel="380" MaxLevel="-1" ReqMoney="15000" ReqVipLevel="0" GateNumber="334" DifficultyOrder="38" AlphabetOrder="48" MonsterClassification="556" />
-	<Warp Index="30" ServerName="Kanturu Remain" ClientName="Kanturu Remain" MinLevel="300" MaxLevel="-1" ReqMoney="12000" ReqVipLevel="0" GateNumber="139" DifficultyOrder="33" AlphabetOrder="45" MonsterClassification="360" />
+	<Warp Index="30" ServerName="Kanturu Remain" ClientName="Kanturu Remain" MinLevel="160" MaxLevel="-1" ReqMoney="12000" ReqVipLevel="0" GateNumber="139" DifficultyOrder="33" AlphabetOrder="45" MonsterClassification="360" />
 	<Warp Index="46" ServerName="Karutan 1" ClientName="Karutan 1" MinLevel="280" MaxLevel="-1" ReqMoney="13000" ReqVipLevel="0" GateNumber="335" DifficultyOrder="31" AlphabetOrder="49" MonsterClassification="574" />
 	<Warp Index="47" ServerName="Karutan 2" ClientName="Karutan 2" MinLevel="380" MaxLevel="-1" ReqMoney="14000" ReqVipLevel="0" GateNumber="344" DifficultyOrder="36" AlphabetOrder="50" MonsterClassification="576" />
 	<Warp Index="34" ServerName="Raklion" ClientName="Raklion" MinLevel="380" MaxLevel="-1" ReqMoney="15000" ReqVipLevel="0" GateNumber="287" DifficultyOrder="39" AlphabetOrder="15" MonsterClassification="458" />
