@@ -3908,9 +3908,15 @@
 			<Spawn Index="105" Distance="30" StartX="137" StartY="104" Dir="8" />
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn"> <!-- Auto Quest -->
-			<Spawn Index="359" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="3" /> <!-- Twin Tale -->
-			<Spawn Index="358" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="3" /> <!-- Persona -->
-			<Spawn Index="360" Distance="5" StartX="153" StartY="138" EndX="153" EndY="138" Dir="-1" Count="3" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="9" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="9" /> <!-- Persona -->
+			<Spawn Index="359" Distance="5" StartX="169" StartY="95" EndX="169" EndY="95" Dir="-1" Count="9" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="169" StartY="95" EndX="169" EndY="95" Dir="-1" Count="9" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="153" StartY="138" EndX="153" EndY="138" Dir="-1" Count="9" /> <!-- Dreadfear -->
+			<Spawn Index="358" Distance="5" StartX="140" StartY="100" EndX="140" EndY="100" Dir="-1" Count="9" /> <!-- Persona -->
+			<Spawn Index="359" Distance="5" StartX="140" StartY="100" EndX="140" EndY="100" Dir="-1" Count="9" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="109" StartY="154" EndX="109" EndY="154" Dir="-1" Count="9" /> <!-- Persona -->
+			<Spawn Index="359" Distance="5" StartX="109" StartY="154" EndX="109" EndY="154" Dir="-1" Count="9" /> <!-- Twin Tale -->
 		</Spot>	
 	</Map>
 	<Map Number="39" Name="Kanturu Refinery Tower">
@@ -8883,9 +8889,9 @@
 			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="1" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="1" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="1" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="1" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="11" Element="1" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="12" Element="1" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="13" Element="1" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="124" Name="Kubera Mine Water">
@@ -8973,9 +8979,9 @@
 			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="2" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="2" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="2" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="2" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="11" Element="2" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="12" Element="2" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="13" Element="2" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="125" Name="Kubera Mine Earth">
@@ -9063,9 +9069,9 @@
 			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="3" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="3" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="3" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="3" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="11" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="12" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="13" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="126" Name="Kubera Mine Wind">
@@ -9153,9 +9159,9 @@
 			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="4" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="4" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="4" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="4" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="11" Element="4" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="12" Element="4" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="13" Element="4" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="127" Name="Kubera Mine Darkness">
@@ -9243,9 +9249,9 @@
 			<Spawn Index="815" Distance="6" StartX="141" StartY="67" EndX="155" EndY="71" Dir="-1" Count="6" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="5" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="5" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="3" Element="5" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="11" Element="5" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="12" Element="5" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="13" Element="5" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="128" Name="Abyss of Atlans 1">
