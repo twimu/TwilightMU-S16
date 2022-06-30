@@ -32,7 +32,7 @@
 	<!-- Explosion Blade-->
 	<Item Cat="0" Index="23" Level="3" Durability="113" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Sword of Destruction-->
-	<Item Cat="0" Index="16" Level="3" Durability="87" Skill="1" Luck="0" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="16" Level="3" Durability="87" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Soleil Scepter-->
 	<Item Cat="2" Index="14" Level="3" Durability="98" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Serpent Shield-->
