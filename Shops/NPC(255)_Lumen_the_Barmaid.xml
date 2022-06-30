@@ -113,6 +113,4 @@
 	<Item Cat="4" Index="15" Level="3" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<!-- Sphere-->
 	<Item Cat="12" Index="70" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<!--Elemental Rune-->
-	<Item Cat="12" Index="288" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 </Shop>
