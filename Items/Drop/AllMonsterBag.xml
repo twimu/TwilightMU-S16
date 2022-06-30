@@ -76,7 +76,7 @@
   <DropItem MonsterMinLevel="95" MonsterMaxLevel="102" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="18" MinLevel="5" MaxLevel="5" Durability="0" Element="0" Duration="0" Rate="22500" Name="Devil's Key" />
   <DropItem MonsterMinLevel="103" MonsterMaxLevel="117" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="18" MinLevel="6" MaxLevel="6" Durability="0" Element="0" Duration="0" Rate="22500" Name="Devil's Key" />
   <DropItem MonsterMinLevel="118" MonsterMaxLevel="300" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="18" MinLevel="7" MaxLevel="7" Durability="0" Element="0" Duration="0" Rate="22500" Name="Devil's Key" />
-  <DropItem MonsterMinLevel="110" MonsterMaxLevel="300" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="430" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="1000" Name="Elena's Letter" />
+  <DropItem MonsterMinLevel="110" MonsterMaxLevel="300" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14" Index="430" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="750" Name="Elena's Letter" />
   <DropItem MonsterMinLevel="13" MonsterMaxLevel="13" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="12" Index="15" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="5051" Name="Jewel of Chaos" />
   <DropItem MonsterMinLevel="14" MonsterMaxLevel="14" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="12" Index="15" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="4727" Name="Jewel of Chaos" />
   <DropItem MonsterMinLevel="15" MonsterMaxLevel="15" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="12" Index="15" MinLevel="0" MaxLevel="0" Durability="0" Element="0" Duration="0" Rate="3909" Name="Jewel of Chaos" />
