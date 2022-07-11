@@ -7601,174 +7601,552 @@
 	</Map>
 	<Map Number="117" Name="Deep Dungeon 2">
 		<Spot Type="4" Description="Single Point Elemental Monsters">
-			<Spawn Index="772" Distance="4" StartX="77" StartY="38" Dir="-1" Element="2" /> <!-- Deep Dungeon Ghost -->
-			<Spawn Index="772" Distance="4" StartX="99" StartY="67" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="85" StartY="7" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="115" StartY="10" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="33" StartY="38" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="20" StartY="9" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="125" StartY="83" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="104" StartY="15" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="135" StartY="36" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="127" StartY="49" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="43" StartY="111" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="104" StartY="94" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="6" StartX="80" StartY="63" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="120" StartY="17" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="92" StartY="42" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="142" StartY="74" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="193" StartY="9" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="176" StartY="38" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="25" StartY="41" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="36" StartY="15" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="68" StartY="46" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="98" StartY="58" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="134" StartY="91" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="109" StartY="4" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="146" StartY="18" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="146" StartY="8" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="220" StartY="28" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="224" StartY="6" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="51" StartY="82" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="15" StartY="43" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="66" StartY="41" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="105" StartY="61" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="143" StartY="87" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="160" StartY="85" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="191" StartY="68" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="185" StartY="79" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="183" StartY="119" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="194" StartY="116" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="29" StartY="76" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="48" StartY="116" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="109" StartY="101" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="45" StartY="14" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="53" StartY="24" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="106" StartY="75" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="133" StartY="26" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="139" StartY="97" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="180" StartY="22" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="196" StartY="23" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="185" StartY="93" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="198" StartY="78" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="208" StartY="118" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="6" StartX="193" StartY="105" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="32" StartY="84" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="98" StartY="107" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="117" StartY="107" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="33" StartY="30" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="61" StartY="27" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="82" StartY="45" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="96" StartY="8" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="145" StartY="25" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="131" StartY="55" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="132" StartY="70" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="205" StartY="40" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="220" StartY="39" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="26" StartY="110" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="80" StartY="91" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="40" StartY="104" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="54" StartY="32" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="120" StartY="35" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="111" StartY="42" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="33" StartY="110" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="80" StartY="106" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="87" StartY="56" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="116" StartY="78" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="4" StartX="177" StartY="13" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="161" StartY="39" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="228" StartY="21" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="240" StartY="21" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="169" StartY="120" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="173" StartY="114" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="72" StartY="117" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="91" StartY="98" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="80" StartY="84" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="65" StartY="31" Dir="-1" Element="2" />
-			<Spawn Index="772" Distance="6" StartX="139" StartY="111" Dir="-1" Element="3" />
-			<Spawn Index="772" Distance="4" StartX="158" StartY="13" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="151" StartY="94" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="162" StartY="94" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="198" StartY="93" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="144" StartY="120" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="239" StartY="105" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="241" StartY="94" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="191" StartY="42" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="191" StartY="55" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="173" StartY="67" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="6" StartX="160" StartY="49" Dir="-1" Element="4" />
-			<Spawn Index="772" Distance="4" StartX="211" StartY="108" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="229" StartY="108" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="48" StartY="90" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="61" StartY="116" Dir="-1" Element="1" />
-			<Spawn Index="772" Distance="4" StartX="159" StartY="119" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="163" StartY="114" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="237" StartY="82" Dir="-1" Element="5" />
-			<Spawn Index="772" Distance="4" StartX="235" StartY="70" Dir="-1" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="768" Distance="6" StartX="3" StartY="32" EndX="15" EndY="43" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
-			<Spawn Index="768" Distance="12" StartX="4" StartY="14" EndX="17" EndY="29" Dir="-1" Count="5" Element="2" />
-			<Spawn Index="768" Distance="4" StartX="55" StartY="78" EndX="69" EndY="91" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="78" StartY="87" EndX="82" EndY="118" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="69" StartY="23" EndX="77" EndY="33" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="98" StartY="36" EndX="107" EndY="45" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="8" StartX="42" StartY="33" EndX="53" EndY="43" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="157" StartY="108" EndX="165" EndY="115" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="158" StartY="46" EndX="177" EndY="59" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="217" StartY="30" EndX="229" EndY="46" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="103" StartY="21" EndX="111" EndY="30" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="162" StartY="17" EndX="172" EndY="31" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="114" StartY="93" EndX="123" EndY="101" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="195" StartY="46" EndX="204" EndY="60" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="227" StartY="5" EndX="243" EndY="11" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="133" StartY="4" EndX="141" EndY="12" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="111" StartY="57" EndX="121" EndY="65" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="87" StartY="17" EndX="99" EndY="25" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="30" StartY="114" EndX="37" EndY="127" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="161" StartY="3" EndX="171" EndY="9" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="94" StartY="73" EndX="101" EndY="83" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="170" StartY="107" EndX="186" EndY="114" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="13" StartY="70" EndX="28" EndY="77" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="196" StartY="73" EndX="200" EndY="101" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="3" StartY="2" EndX="16" EndY="9" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="241" StartY="76" EndX="249" EndY="83" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="219" StartY="63" EndX="230" EndY="77" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="84" StartY="112" EndX="99" EndY="120" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="33" StartY="72" EndX="47" EndY="93" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="12" StartX="136" StartY="49" EndX="147" EndY="62" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="4" StartX="49" StartY="68" EndX="56" EndY="79" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="771" Distance="6" StartX="9" StartY="99" EndX="22" EndY="116" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Cyclops -->
-			<Spawn Index="771" Distance="8" StartX="136" StartY="97" EndX="144" EndY="113" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="771" Distance="6" StartX="236" StartY="111" EndX="250" EndY="124" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="6" StartX="238" StartY="89" EndX="246" EndY="99" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="10" StartX="51" StartY="7" EndX="60" EndY="22" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="771" Distance="8" StartX="214" StartY="9" EndX="223" EndY="24" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="12" StartX="72" StartY="4" EndX="98" EndY="13" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="119" StartY="3" EndX="126" EndY="10" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="24" StartY="22" EndX="34" EndY="32" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="6" StartX="183" StartY="74" EndX="190" EndY="98" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="10" StartX="42" StartY="45" EndX="57" EndY="56" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="771" Distance="10" StartX="4" StartY="47" EndX="21" EndY="60" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="771" Distance="6" StartX="66" StartY="56" EndX="76" EndY="66" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="771" Distance="6" StartX="157" StartY="55" EndX="176" EndY="69" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="771" Distance="8" StartX="232" StartY="23" EndX="240" EndY="41" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="8" StartX="129" StartY="14" EndX="143" EndY="22" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="115" StartY="22" EndX="130" EndY="31" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="771" Distance="4" StartX="169" StartY="93" EndX="176" EndY="102" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="8" StartX="242" StartY="29" EndX="249" EndY="41" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="8" StartX="131" StartY="40" EndX="142" EndY="45" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="199" StartY="7" EndX="206" EndY="38" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="6" StartX="208" StartY="84" EndX="220" EndY="99" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="771" Distance="6" StartX="163" StartY="72" EndX="172" EndY="79" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="6" StartX="48" StartY="120" EndX="59" EndY="133" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="771" Distance="8" StartX="32" StartY="2" EndX="47" EndY="10" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="8" StartX="175" StartY="9" EndX="184" EndY="19" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="771" Distance="6" StartX="195" StartY="110" EndX="209" EndY="125" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="771" Distance="6" StartX="236" StartY="61" EndX="248" EndY="72" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="6" StartX="113" StartY="68" EndX="121" EndY="75" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="771" Distance="6" StartX="215" StartY="114" EndX="227" EndY="125" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="771" Distance="6" StartX="13" StartY="79" EndX="26" EndY="91" Dir="-1" Count="4" Element="1" />
+			<!-- Spot 1-->
+			<Spawn Index="772" Distance="4" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="36" EndX="9" EndY="36" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="9" StartY="36" EndX="19" EndY="36" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="9" StartY="36" EndX="19" EndY="36" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="9" StartY="36" EndX="19" EndY="36" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="9" StartY="36" EndX="19" EndY="36" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="9" StartY="36" EndX="19" EndY="36" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 2-->
+			<Spawn Index="772" Distance="4" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="19" StartY="85" EndX="19" EndY="85" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 3-->
+			<Spawn Index="772" Distance="4" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="16" StartY="106" EndX="16" EndY="106" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 4-->
+			<Spawn Index="772" Distance="4" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="33" StartY="120" EndX="33" EndY="120" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 5-->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="126" EndX="53" EndY="126" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 6-->
+			<Spawn Index="772" Distance="4" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="64" StartY="83" EndX="64" EndY="83" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 7-->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="53" StartY="72" EndX="53" EndY="72" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 8-->
+			<Spawn Index="772" Distance="4" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="71" StartY="61" EndX="71" EndY="61" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 9-->
+			<Spawn Index="772" Distance="4" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="75" StartY="28" EndX="75" EndY="28" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 10-->
+			<Spawn Index="772" Distance="4" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="54" StartY="11" EndX="54" EndY="11" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 11-->
+			<Spawn Index="772" Distance="4" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="40" StartY="5" EndX="40" EndY="5" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 12-->
+			<Spawn Index="772" Distance="4" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="92" StartY="116" EndX="92" EndY="116" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 13-->
+			<Spawn Index="772" Distance="4" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="98" StartY="77" EndX="98" EndY="77" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 14-->
+			<Spawn Index="772" Distance="4" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="91" StartY="20" EndX="91" EndY="20" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 15-->
+			<Spawn Index="772" Distance="4" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="76" StartY="9" EndX="76" EndY="9" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 16-->
+			<Spawn Index="772" Distance="4" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="108" StartY="24" EndX="108" EndY="24" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 17-->
+			<Spawn Index="772" Distance="4" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="113" StartY="41" EndX="113" EndY="41" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 18-->
+			<Spawn Index="772" Distance="4" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="117" StartY="71" EndX="117" EndY="71" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 19-->
+			<Spawn Index="772" Distance="4" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="143" StartY="55" EndX="143" EndY="55" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 20-->
+			<Spawn Index="772" Distance="4" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="136" StartY="17" EndX="136" EndY="17" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 21-->
+			<Spawn Index="772" Distance="4" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="162" StartY="110" EndX="162" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 22-->
+			<Spawn Index="772" Distance="4" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="179" StartY="110" EndX="179" EndY="110" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 23-->
+			<Spawn Index="772" Distance="4" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="172" StartY="96" EndX="172" EndY="96" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 24-->
+			<Spawn Index="772" Distance="4" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="169" StartY="75" EndX="169" EndY="75" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 25-->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="22" EndX="167" EndY="22" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 26-->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="167" StartY="6" EndX="167" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 27-->
+			<Spawn Index="772" Distance="4" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="200" StartY="50" EndX="200" EndY="50" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 28 -->
+			<Spawn Index="772" Distance="4" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="234" StartY="6" EndX="234" EndY="6" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 28 -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="35" EndX="245" EndY="35" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 29 -->
+			<Spawn Index="772" Distance="4" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="215" StartY="89" EndX="215" EndY="89" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 30 -->
+			<Spawn Index="772" Distance="4" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="225" StartY="69" EndX="225" EndY="69" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 31 -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="245" StartY="78" EndX="245" EndY="78" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 32 -->
+			<Spawn Index="772" Distance="4" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="221" StartY="119" EndX="221" EndY="119" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Cyclops -->
+			<!-- Spot 33 -->
+			<Spawn Index="772" Distance="4" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="772" Distance="4" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Ghost -->
+			<Spawn Index="768" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="771" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="3" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="4" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="6" StartX="246" StartY="116" EndX="246" EndY="116" Dir="-1" Count="1" Element="5" /> <!-- Deep Dungeon Cyclops -->
+
 		</Spot>
 	</Map>
 	<Map Number="118" Name="Deep Dungeon 3">
