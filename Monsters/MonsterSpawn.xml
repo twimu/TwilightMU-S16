@@ -7529,77 +7529,74 @@
 		<Spot Type="4" Description="Single Point Elemental Monsters">
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="767" Distance="3" StartX="43" StartY="162" EndX="57" EndY="166" Dir="-1" Count="3" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
-			<Spawn Index="767" Distance="12" StartX="166" StartY="156" EndX="180" EndY="170" Dir="-1" Count="8" Element="4" />
-			<Spawn Index="767" Distance="10" StartX="166" StartY="173" EndX="176" EndY="181" Dir="8" Count="2" Element="4" />
-			<Spawn Index="767" Distance="7" StartX="105" StartY="241" EndX="114" EndY="250" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="94" StartY="166" EndX="102" EndY="175" Dir="8" Count="4" Element="2" />
-			<Spawn Index="767" Distance="8" StartX="124" StartY="239" EndX="131" EndY="249" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="10" StartX="147" StartY="163" EndX="158" EndY="173" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="767" Distance="6" StartX="205" StartY="139" EndX="218" EndY="145" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="767" Distance="12" StartX="206" StartY="169" EndX="210" EndY="194" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="767" Distance="12" StartX="102" StartY="190" EndX="105" EndY="213" Dir="1" Count="3" Element="2" />
-			<Spawn Index="767" Distance="3" StartX="55" StartY="128" EndX="61" EndY="134" Dir="2" Count="2" Element="1" />
-			<Spawn Index="767" Distance="8" StartX="148" StartY="176" EndX="154" EndY="182" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="6" StartX="109" StartY="151" EndX="115" EndY="160" Dir="2" Count="2" Element="2" />
-			<Spawn Index="767" Distance="12" StartX="209" StartY="209" EndX="219" EndY="219" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="767" Distance="3" StartX="24" StartY="134" EndX="33" EndY="139" Dir="2" Count="2" Element="1" />
-			<Spawn Index="767" Distance="10" StartX="3" StartY="140" EndX="7" EndY="152" Dir="2" Count="4" Element="1" />
-			<Spawn Index="767" Distance="7" StartX="15" StartY="211" EndX="26" EndY="219" Dir="2" Count="3" Element="2" />
-			<Spawn Index="767" Distance="6" StartX="123" StartY="164" EndX="128" EndY="176" Dir="6" Count="2" Element="2" />
-			<Spawn Index="767" Distance="8" StartX="148" StartY="206" EndX="168" EndY="210" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="230" StartY="196" EndX="242" EndY="205" Dir="6" Count="3" Element="4" />
-			<Spawn Index="767" Distance="6" StartX="157" StartY="127" EndX="167" EndY="135" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="767" Distance="8" StartX="15" StartY="224" EndX="26" EndY="238" Dir="8" Count="4" Element="2" />
-			<Spawn Index="767" Distance="8" StartX="136" StartY="240" EndX="144" EndY="249" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="142" StartY="185" EndX="157" EndY="191" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="181" StartY="234" EndX="192" EndY="243" Dir="8" Count="2" Element="4" />
-			<Spawn Index="767" Distance="6" StartX="180" StartY="125" EndX="192" EndY="134" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="767" Distance="3" StartX="5" StartY="183" EndX="15" EndY="189" Dir="2" Count="3" Element="1" />
-			<Spawn Index="767" Distance="8" StartX="76" StartY="216" EndX="85" EndY="224" Dir="8" Count="3" Element="2" />
-			<Spawn Index="767" Distance="8" StartX="144" StartY="223" EndX="151" EndY="231" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="115" StartY="234" EndX="119" EndY="243" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="10" StartX="221" StartY="226" EndX="227" EndY="241" Dir="8" Count="2" Element="5" />
-			<Spawn Index="767" Distance="8" StartX="30" StartY="232" EndX="38" EndY="245" Dir="1" Count="4" Element="2" />
-			<Spawn Index="767" Distance="10" StartX="157" StartY="218" EndX="163" EndY="236" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="767" Distance="12" StartX="165" StartY="143" EndX="188" EndY="147" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="767" Distance="3" StartX="37" StartY="182" EndX="48" EndY="191" Dir="2" Count="4" Element="1" />
-			<Spawn Index="767" Distance="12" StartX="235" StartY="222" EndX="245" EndY="232" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="767" Distance="8" StartX="227" StartY="160" EndX="246" EndY="172" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="767" Distance="10" StartX="187" StartY="171" EndX="193" EndY="183" Dir="8" Count="3" Element="4" />
-			<Spawn Index="767" Distance="3" StartX="36" StartY="152" EndX="42" EndY="162" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="767" Distance="8" StartX="62" StartY="236" EndX="76" EndY="244" Dir="8" Count="4" Element="2" />
-			<Spawn Index="767" Distance="8" StartX="113" StartY="216" EndX="121" EndY="224" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="136" StartY="215" EndX="141" EndY="229" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="767" Distance="8" StartX="186" StartY="191" EndX="198" EndY="197" Dir="6" Count="2" Element="4" />
-			<Spawn Index="771" Distance="3" StartX="11" StartY="154" EndX="16" EndY="163" Dir="-1" Count="3" Element="1" /> <!-- Deep Dungeon Cyclops -->
-			<Spawn Index="771" Distance="3" StartX="21" StartY="175" EndX="25" EndY="188" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="771" Distance="12" StartX="79" StartY="180" EndX="98" EndY="190" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="771" Distance="12" StartX="54" StartY="224" EndX="63" EndY="236" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="771" Distance="12" StartX="88" StartY="235" EndX="103" EndY="248" Dir="-1" Count="6" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="161" StartY="191" EndX="169" EndY="201" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="207" StartY="227" EndX="218" EndY="239" Dir="8" Count="3" Element="4" />
-			<Spawn Index="771" Distance="8" StartX="230" StartY="236" EndX="245" EndY="242" Dir="6" Count="2" Element="4" />
-			<Spawn Index="771" Distance="3" StartX="57" StartY="144" EndX="65" EndY="153" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="771" Distance="12" StartX="50" StartY="213" EndX="64" EndY="219" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="12" StartX="194" StartY="144" EndX="205" EndY="166" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="771" Distance="12" StartX="150" StartY="236" EndX="170" EndY="247" Dir="-1" Count="6" Element="3" />
-			<Spawn Index="771" Distance="3" StartX="84" StartY="146" EndX="91" EndY="154" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="771" Distance="3" StartX="48" StartY="182" EndX="54" EndY="192" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="771" Distance="8" StartX="29" StartY="217" EndX="42" EndY="227" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="10" StartX="179" StartY="200" EndX="185" EndY="223" Dir="8" Count="4" Element="4" />
-			<Spawn Index="771" Distance="3" StartX="40" StartY="137" EndX="65" EndY="142" Dir="-1" Count="7" Element="1" />
-			<Spawn Index="771" Distance="8" StartX="74" StartY="208" EndX="85" EndY="215" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="771" Distance="6" StartX="229" StartY="175" EndX="245" EndY="185" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="771" Distance="8" StartX="241" StartY="138" EndX="249" EndY="154" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="771" Distance="8" StartX="94" StartY="128" EndX="103" EndY="133" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="8" StartX="121" StartY="185" EndX="127" EndY="194" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="771" Distance="8" StartX="225" StartY="138" EndX="235" EndY="146" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="8" StartX="203" StartY="124" EndX="214" EndY="134" Dir="-1" Count="2" Element="5" />
-			<Spawn Index="771" Distance="3" StartX="69" StartY="143" EndX="81" EndY="162" Dir="-1" Count="7" Element="1" />
-			<Spawn Index="771" Distance="15" StartX="64" StartY="182" EndX="75" EndY="200" Dir="-1" Count="6" Element="2" />
-			<Spawn Index="771" Distance="12" StartX="36" StartY="212" EndX="48" EndY="216" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="771" Distance="8" StartX="233" StartY="209" EndX="247" EndY="217" Dir="6" Count="3" Element="4" />
+			<Spawn Index="767" Distance="5" StartX="239" StartY="225" EndX="239" EndY="225" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="240" StartY="198" EndX="240" EndY="198" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="240" StartY="179" EndX="240" EndY="179" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="239" StartY="165" EndX="239" EndY="165" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="246" StartY="146" EndX="246" EndY="146" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="231" StartY="141" EndX="231" EndY="141" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="213" StartY="234" EndX="213" EndY="234" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="214" StartY="213" EndX="214" EndY="213" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="207" StartY="129" EndX="207" EndY="129" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="186" StartY="237" EndX="186" EndY="237" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="190" StartY="176" EndX="190" EndY="176" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="186" StartY="129" EndX="186" EndY="129" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="163" StartY="240" EndX="163" EndY="240" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="172" StartY="177" EndX="172" EndY="177" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="140" StartY="243" EndX="140" EndY="243" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="148" StartY="227" EndX="148" EndY="227" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="152" StartY="167" EndX="152" EndY="167" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="118" StartY="219" EndX="118" EndY="219" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="125" StartY="187" EndX="125" EndY="187" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="126" StartY="168" EndX="126" EndY="168" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="112" StartY="156" EndX="112" EndY="156" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="96" StartY="240" EndX="96" EndY="240" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="99" StartY="170" EndX="99" EndY="170" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="99" StartY="131" EndX="99" EndY="131" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="89" StartY="146" EndX="89" EndY="146" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="81" StartY="215" EndX="81" EndY="215" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="68" StartY="241" EndX="68" EndY="241" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="62" StartY="148" EndX="62" EndY="148" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="60" StartY="130" EndX="60" EndY="130" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="37" StartY="237" EndX="37" EndY="237" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="47" StartY="186" EndX="47" EndY="186" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="22" StartY="230" EndX="22" EndY="230" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="11" StartY="173" EndX="11" EndY="173" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="767" Distance="5" StartX="11" StartY="141" EndX="11" EndY="141" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Skeleton Warrior -->
+			<Spawn Index="771" Distance="5" StartX="239" StartY="225" EndX="239" EndY="225" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="5" StartX="240" StartY="198" EndX="240" EndY="198" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops -->
+			<Spawn Index="771" Distance="5" StartX="240" StartY="179" EndX="240" EndY="179" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="239" StartY="165" EndX="239" EndY="165" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="246" StartY="146" EndX="246" EndY="146" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="231" StartY="141" EndX="231" EndY="141" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="213" StartY="234" EndX="213" EndY="234" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="214" StartY="213" EndX="214" EndY="213" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="207" StartY="129" EndX="207" EndY="129" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="186" StartY="237" EndX="186" EndY="237" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="190" StartY="176" EndX="190" EndY="176" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="186" StartY="129" EndX="186" EndY="129" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="163" StartY="240" EndX="163" EndY="240" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="172" StartY="177" EndX="172" EndY="177" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="140" StartY="243" EndX="140" EndY="243" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="148" StartY="227" EndX="148" EndY="227" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="152" StartY="167" EndX="152" EndY="167" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="118" StartY="219" EndX="118" EndY="219" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="125" StartY="187" EndX="125" EndY="187" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="126" StartY="168" EndX="126" EndY="168" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="112" StartY="156" EndX="112" EndY="156" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="96" StartY="240" EndX="96" EndY="240" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="99" StartY="170" EndX="99" EndY="170" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="99" StartY="131" EndX="99" EndY="131" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="89" StartY="146" EndX="89" EndY="146" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="81" StartY="215" EndX="81" EndY="215" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="68" StartY="241" EndX="68" EndY="241" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="62" StartY="148" EndX="62" EndY="148" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="60" StartY="130" EndX="60" EndY="130" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="37" StartY="237" EndX="37" EndY="237" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="47" StartY="186" EndX="47" EndY="186" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="22" StartY="230" EndX="22" EndY="230" Dir="-1" Count="5" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="11" StartY="173" EndX="11" EndY="173" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
+			<Spawn Index="771" Distance="5" StartX="11" StartY="141" EndX="11" EndY="141" Dir="-1" Count="4" Element="1" /> <!-- Deep Dungeon Cyclops  -->
 		</Spot>
 	</Map>
 	<Map Number="117" Name="Deep Dungeon 2">
