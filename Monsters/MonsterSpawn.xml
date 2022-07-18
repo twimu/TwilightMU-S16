@@ -8151,352 +8151,1003 @@
 	</Map>
 	<Map Number="118" Name="Deep Dungeon 3">
 		<Spot Type="4" Description="Single Point Elemental Monsters">
-			<Spawn Index="768" Distance="4" StartX="19" StartY="51" Dir="-1" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
-			<Spawn Index="768" Distance="4" StartX="37" StartY="41" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="62" StartY="72" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="68" StartY="103" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="108" StartY="137" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="33" StartY="52" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="40" StartY="34" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="56" StartY="62" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="66" StartY="81" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="95" StartY="116" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="14" StartY="96" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="50" StartY="40" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="77" StartY="80" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="40" StartY="96" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="55" StartY="46" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="64" StartY="96" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="90" StartY="108" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="24" StartY="91" Dir="-1" Element="4" />
-			<Spawn Index="768" Distance="4" StartX="24" StartY="73" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="14" StartY="58" Dir="-1" Element="1" />
-			<Spawn Index="768" Distance="4" StartX="15" StartY="41" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="60" StartY="117" Dir="-1" Element="2" /> <!-- Deep Dungeon Hell Spider -->
-			<Spawn Index="774" Distance="4" StartX="100" StartY="127" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="24" StartY="138" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="23" StartY="151" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="20" StartY="162" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="55" StartY="175" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="59" StartY="166" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="87" StartY="160" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="108" StartY="162" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="6" StartX="7" StartY="222" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="9" StartY="237" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="50" StartY="201" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="65" StartY="220" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="154" StartY="169" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="132" StartY="187" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="100" StartY="227" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="84" StartY="238" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="187" StartY="186" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="189" StartY="199" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="195" StartY="208" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="178" StartY="228" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="159" StartY="229" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="152" StartY="248" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="85" StartY="136" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="106" StartY="128" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="18" StartY="131" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="11" StartY="119" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="32" StartY="187" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="27" StartY="182" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="64" StartY="135" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="57" StartY="135" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="104" StartY="149" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="94" StartY="148" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="89" StartY="186" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="97" StartY="191" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="6" StartX="14" StartY="244" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="23" StartY="243" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="126" StartY="145" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="131" StartY="163" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="79" StartY="228" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="87" StartY="228" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="133" StartY="200" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="167" StartY="169" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="163" StartY="184" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="175" StartY="186" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="150" StartY="186" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="170" StartY="156" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="98" StartY="100" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="90" StartY="98" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="76" StartY="118" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="22" StartY="119" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="29" StartY="173" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="47" StartY="181" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="64" StartY="162" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="36" StartY="141" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="36" StartY="148" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="81" StartY="180" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="83" StartY="189" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="6" StartX="32" StartY="245" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="40" StartY="232" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="51" StartY="224" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="119" StartY="145" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="119" StartY="187" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="113" StartY="188" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="124" StartY="228" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="125" StartY="199" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="141" StartY="230" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="136" StartY="212" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="48" StartY="117" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="17" StartY="183" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="54" StartY="189" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="45" StartY="135" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="35" StartY="152" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="83" StartY="148" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="82" StartY="155" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="110" StartY="174" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="6" StartX="11" StartY="215" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="38" StartY="216" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="43" StartY="210" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="144" StartY="158" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="146" StartY="174" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="100" StartY="239" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="6" StartX="117" StartY="235" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="189" StartY="210" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="196" StartY="192" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="141" StartY="241" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="127" StartY="244" Dir="-1" Element="4" />
 		</Spot>
-		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="768" Distance="6" StartX="60" StartY="50" EndX="69" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
-			<Spawn Index="768" Distance="10" StartX="9" StartY="38" EndX="18" EndY="63" Dir="-1" Count="5" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="42" StartY="125" EndX="58" EndY="132" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="84" StartY="171" EndX="93" EndY="178" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="43" StartY="235" EndX="52" EndY="249" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="97" StartY="229" EndX="110" EndY="246" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="167" StartY="216" EndX="186" EndY="219" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="116" StartY="209" EndX="127" EndY="226" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="47" StartY="99" EndX="53" EndY="111" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="2" StartY="98" EndX="10" EndY="104" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="9" StartY="182" EndX="13" EndY="194" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="35" StartY="195" EndX="54" EndY="218" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="6" StartY="207" EndX="16" EndY="218" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="84" StartY="242" EndX="97" EndY="249" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="8" StartX="173" StartY="193" EndX="182" EndY="207" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="161" StartY="238" EndX="172" EndY="245" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="130" StartY="224" EndX="138" EndY="233" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="30" StartY="101" EndX="38" EndY="109" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="79" StartY="97" EndX="87" EndY="106" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="73" StartY="143" EndX="78" EndY="155" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="59" StartY="171" EndX="66" EndY="180" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="21" StartY="222" EndX="36" EndY="234" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="768" Distance="8" StartX="56" StartY="193" EndX="65" EndY="206" Dir="-1" Count="4" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="133" StartY="151" EndX="147" EndY="164" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="768" Distance="6" StartX="148" StartY="227" EndX="171" EndY="231" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="175" StartY="177" EndX="180" EndY="182" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="147" StartY="196" EndX="158" EndY="204" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="102" StartY="110" EndX="109" EndY="118" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="768" Distance="6" StartX="63" StartY="104" EndX="69" EndY="113" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="15" StartY="187" EndX="25" EndY="199" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="768" Distance="6" StartX="59" StartY="183" EndX="70" EndY="189" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="768" Distance="12" StartX="54" StartY="215" EndX="67" EndY="233" Dir="-1" Count="6" Element="3" />
-			<Spawn Index="768" Distance="6" StartX="106" StartY="187" EndX="121" EndY="201" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="163" StartY="196" EndX="166" EndY="212" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="165" StartY="172" EndX="172" EndY="182" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="768" Distance="6" StartX="45" StartY="26" EndX="54" EndY="32" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="38" StartY="62" EndX="54" EndY="67" Dir="-1" Count="3" Element="1" /> <!-- Deep Dungeon Hell Hound -->
-			<Spawn Index="773" Distance="6" StartX="37" StartY="46" EndX="46" EndY="57" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="773" Distance="8" StartX="33" StartY="115" EndX="41" EndY="122" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="71" StartY="70" EndX="78" EndY="75" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="4" StartX="80" StartY="114" EndX="88" EndY="124" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="6" StartY="159" EndX="17" EndY="167" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="1" StartY="135" EndX="13" EndY="145" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="5" StartY="107" EndX="10" EndY="120" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="86" StartY="183" EndX="98" EndY="192" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="773" Distance="6" StartX="107" StartY="165" EndX="119" EndY="177" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="773" Distance="8" StartX="198" StartY="179" EndX="208" EndY="187" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="8" StartX="201" StartY="213" EndX="211" EndY="223" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="6" StartX="51" StartY="75" EndX="59" EndY="82" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="8" StartX="22" StartY="95" EndX="27" EndY="108" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="773" Distance="8" StartX="35" StartY="85" EndX="46" EndY="92" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="773" Distance="3" StartX="22" StartY="76" EndX="26" EndY="85" Dir="-1" Count="1" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="63" StartY="90" EndX="69" EndY="100" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="85" StartY="151" EndX="96" EndY="158" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="71" StartY="183" EndX="81" EndY="191" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="77" StartY="128" EndX="85" EndY="135" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="773" Distance="6" StartX="26" StartY="195" EndX="33" EndY="204" Dir="-1" Count="2" Element="3" />
-			<Spawn Index="773" Distance="6" StartX="122" StartY="155" EndX="129" EndY="166" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="773" Distance="6" StartX="130" StartY="168" EndX="138" EndY="178" Dir="-1" Count="2" Element="4" />
-			<Spawn Index="773" Distance="8" StartX="182" StartY="223" EndX="191" EndY="233" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="6" StartX="31" StartY="26" EndX="35" EndY="31" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="13" StartY="83" EndX="16" EndY="95" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="3" StartX="31" StartY="54" EndX="33" EndY="59" Dir="-1" Count="1" Element="1" />
-			<Spawn Index="773" Distance="3" StartX="26" StartY="60" EndX="35" EndY="63" Dir="-1" Count="1" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="41" StartY="187" EndX="57" EndY="193" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="98" StartY="172" EndX="107" EndY="187" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="90" StartY="139" EndX="100" EndY="143" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="99" StartY="161" EndX="105" EndY="169" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="65" StartY="241" EndX="75" EndY="250" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="6" StartX="97" StartY="216" EndX="108" EndY="231" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="6" StartX="49" StartY="46" EndX="53" EndY="59" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="21" StartY="30" EndX="28" EndY="39" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="773" Distance="10" StartX="61" StartY="64" EndX="70" EndY="83" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="773" Distance="3" StartX="31" StartY="46" EndX="33" EndY="50" Dir="-1" Count="1" Element="1" />
-			<Spawn Index="773" Distance="6" StartX="14" StartY="171" EndX="23" EndY="179" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="41" StartY="150" EndX="48" EndY="160" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="63" StartY="141" EndX="69" EndY="164" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="28" StartY="172" EndX="42" EndY="185" Dir="-1" Count="4" Element="2" />
-			<Spawn Index="773" Distance="6" StartX="35" StartY="197" EndX="52" EndY="217" Dir="-1" Count="4" Element="3" />
-			<Spawn Index="773" Distance="6" StartX="73" StartY="210" EndX="81" EndY="221" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="773" Distance="8" StartX="159" StartY="153" EndX="168" EndY="165" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="773" Distance="8" StartX="181" StartY="166" EndX="192" EndY="174" Dir="-1" Count="3" Element="4" />
+		<Spot Type="3" Description="Elemental Monster Spawn">\
+		<!--Low Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="54" StartY="78" EndX="54" EndY="78" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="76" StartY="73" EndX="76" EndY="73" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="49" StartY="28" EndX="49" EndY="28" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="84" StartY="119" EndX="84" EndY="119" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="34" StartY="104" EndX="34" EndY="104" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="7" StartY="100" EndX="7" EndY="100" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="154" EndX="89" EndY="154" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="61" StartY="198" EndX="61" EndY="198" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 10-->
+			<Spawn Index="774" Distance="4" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="103" StartY="182" EndX="103" EndY="182" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 11-->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="89" StartY="174" EndX="89" EndY="174" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 12-->
+			<Spawn Index="774" Distance="4" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 13-->
+			<Spawn Index="774" Distance="4" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Low Spot 14-->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="204" StartY="181" EndX="204" EndY="181" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="105" StartY="144" EndX="105" EndY="144" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="20" StartY="191" EndX="20" EndY="191" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="12" StartY="211" EndX="12" EndY="211" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="133" StartY="227" EndX="133" EndY="227" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Mid Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="206" StartY="217" EndX="206" EndY="217" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="65" StartY="54" EndX="65" EndY="54" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="43" StartY="51" EndX="43" EndY="51" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="9" StartY="139" EndX="9" EndY="139" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="18" StartY="173" EndX="18" EndY="173" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="71" StartY="243" EndX="71" EndY="243" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="165" StartY="240" EndX="165" EndY="240" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
+		<!--Hot Spot 10-->
+			<Spawn Index="774" Distance="4" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="768" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="768" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Chief Skeleton Archer -->
+			<Spawn Index="773" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Hound -->
+			<Spawn Index="773" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="4" Element="4" /> <!-- Deep Dungeon Hell Hound -->
 		</Spot>
 	</Map>
 	<Map Number="119" Name="Deep Dungeon 4">
 		<Spot Type="4" Description="Single Point Elemental Monsters">
-			<Spawn Index="774" Distance="4" StartX="46" StartY="3" Dir="-1" Element="1" /> <!-- Deep Dungeon Hell Spider -->
-			<Spawn Index="774" Distance="4" StartX="82" StartY="4" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="87" StartY="51" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="112" StartY="52" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="147" StartY="120" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="132" StartY="31" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="164" StartY="25" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="155" StartY="65" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="157" StartY="48" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="149" StartY="83" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="214" StartY="9" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="213" StartY="23" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="196" StartY="53" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="222" StartY="52" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="139" StartY="33" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="6" StartX="139" StartY="20" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="167" StartY="120" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="167" StartY="111" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="233" StartY="129" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="234" StartY="112" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="62" StartY="8" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="95" StartY="13" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="109" StartY="76" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="147" StartY="89" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="133" StartY="59" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="133" StartY="17" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="161" StartY="4" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="164" StartY="40" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="190" StartY="71" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="201" StartY="7" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="238" StartY="6" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="226" StartY="6" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="237" StartY="51" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="207" StartY="84" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="6" StartX="149" StartY="19" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="248" StartY="78" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="203" StartY="136" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="194" StartY="144" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="218" StartY="161" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="202" StartY="167" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="223" StartY="191" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="244" StartY="201" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="38" StartY="17" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="76" StartY="21" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="99" StartY="51" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="115" StartY="72" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="150" StartY="97" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="142" StartY="13" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="182" StartY="52" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="160" StartY="87" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="190" StartY="5" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="180" StartY="5" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="194" StartY="65" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="193" StartY="87" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="206" StartY="98" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="192" StartY="106" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="247" StartY="99" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="237" StartY="106" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="212" StartY="121" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="211" StartY="137" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="200" StartY="111" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="230" StartY="156" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="244" StartY="112" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="243" StartY="122" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="191" StartY="153" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="8" StartX="217" StartY="127" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="26" StartY="6" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="68" StartY="20" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="95" StartY="36" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="99" StartY="67" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="137" StartY="87" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="134" StartY="108" Dir="-1" Element="1" />
-			<Spawn Index="774" Distance="4" StartX="135" StartY="54" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="151" StartY="11" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="171" StartY="34" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="173" StartY="18" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="174" StartY="81" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="182" StartY="75" Dir="-1" Element="2" />
-			<Spawn Index="774" Distance="4" StartX="220" StartY="34" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="234" StartY="35" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="174" StartY="106" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="159" StartY="106" Dir="-1" Element="3" />
-			<Spawn Index="774" Distance="4" StartX="225" StartY="99" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="216" StartY="107" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="178" StartY="143" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="177" StartY="137" Dir="-1" Element="4" />
-			<Spawn Index="774" Distance="4" StartX="247" StartY="163" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="243" StartY="134" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="250" StartY="127" Dir="-1" Element="5" />
-			<Spawn Index="774" Distance="4" StartX="220" StartY="179" Dir="-1" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn">
-			<Spawn Index="769" Distance="4" StartX="11" StartY="5" EndX="25" EndY="9" Dir="-1" Count="3" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
-			<Spawn Index="769" Distance="6" StartX="135" StartY="2" EndX="148" EndY="10" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="6" StartX="199" StartY="23" EndX="209" EndY="40" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="769" Distance="4" StartX="157" StartY="135" EndX="168" EndY="146" Dir="-1" Count="5" Element="4" />
-			<Spawn Index="769" Distance="8" StartX="177" StartY="148" EndX="192" EndY="159" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="4" StartX="97" StartY="21" EndX="104" EndY="30" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="769" Distance="6" StartX="180" StartY="57" EndX="189" EndY="66" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="6" StartX="218" StartY="39" EndX="231" EndY="49" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="769" Distance="8" StartX="238" StartY="143" EndX="249" EndY="169" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="8" StartX="240" StartY="230" EndX="250" EndY="247" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="8" StartX="99" StartY="1" EndX="128" EndY="7" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="769" Distance="6" StartX="197" StartY="2" EndX="208" EndY="13" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="769" Distance="4" StartX="195" StartY="116" EndX="207" EndY="128" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="769" Distance="8" StartX="227" StartY="132" EndX="237" EndY="146" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="8" StartX="62" StartY="35" EndX="72" EndY="45" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="769" Distance="6" StartX="159" StartY="12" EndX="170" EndY="22" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="769" Distance="4" StartX="211" StartY="14" EndX="219" EndY="26" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="769" Distance="8" StartX="217" StartY="115" EndX="227" EndY="129" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="6" StartX="144" StartY="23" EndX="157" EndY="45" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="6" StartX="120" StartY="58" EndX="133" EndY="67" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="6" StartX="192" StartY="43" EndX="197" EndY="69" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="769" Distance="4" StartX="197" StartY="138" EndX="221" EndY="154" Dir="-1" Count="5" Element="4" />
-			<Spawn Index="769" Distance="8" StartX="111" StartY="87" EndX="123" EndY="97" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="769" Distance="6" StartX="140" StartY="48" EndX="154" EndY="66" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="6" StartX="225" StartY="12" EndX="242" EndY="28" Dir="-1" Count="6" Element="3" />
-			<Spawn Index="769" Distance="4" StartX="208" StartY="110" EndX="214" EndY="138" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="769" Distance="8" StartX="216" StartY="231" EndX="233" EndY="238" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="8" StartX="112" StartY="11" EndX="123" EndY="18" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="769" Distance="6" StartX="165" StartY="85" EndX="170" EndY="105" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="769" Distance="8" StartX="217" StartY="179" EndX="224" EndY="204" Dir="-1" Count="3" Element="5" />
-			<Spawn Index="769" Distance="4" StartX="20" StartY="11" EndX="30" EndY="19" Dir="-1" Count="3" Element="1" />
-			<Spawn Index="775" Distance="8" StartX="87" StartY="26" EndX="98" EndY="42" Dir="-1" Count="3" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="4" StartX="175" StartY="12" EndX="185" EndY="21" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="775" Distance="6" StartX="177" StartY="90" EndX="189" EndY="101" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="775" Distance="4" StartX="174" StartY="113" EndX="189" EndY="123" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="775" Distance="4" StartX="176" StartY="128" EndX="191" EndY="140" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="775" Distance="8" StartX="111" StartY="32" EndX="125" EndY="41" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="4" StartX="174" StartY="30" EndX="182" EndY="43" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="775" Distance="6" StartX="157" StartY="60" EndX="170" EndY="70" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="775" Distance="4" StartX="242" StartY="65" EndX="250" EndY="86" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="775" Distance="4" StartX="232" StartY="89" EndX="243" EndY="101" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="775" Distance="8" StartX="93" StartY="74" EndX="104" EndY="85" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="8" StartX="106" StartY="60" EndX="113" EndY="72" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="6" StartX="242" StartY="35" EndX="249" EndY="55" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="775" Distance="4" StartX="196" StartY="149" EndX="220" EndY="171" Dir="-1" Count="5" Element="5" />
-			<Spawn Index="775" Distance="8" StartX="115" StartY="75" EndX="132" EndY="84" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="8" StartX="73" StartY="2" EndX="94" EndY="7" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="8" StartX="201" StartY="240" EndX="225" EndY="252" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="775" Distance="8" StartX="82" StartY="45" EndX="90" EndY="58" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="4" StartX="75" StartY="32" EndX="79" EndY="45" Dir="-1" Count="2" Element="2" />
-			<Spawn Index="775" Distance="6" StartX="147" StartY="24" EndX="156" EndY="44" Dir="-1" Count="3" Element="2" />
-			<Spawn Index="775" Distance="6" StartX="201" StartY="61" EndX="209" EndY="73" Dir="-1" Count="3" Element="3" />
-			<Spawn Index="775" Distance="8" StartX="44" StartY="2" EndX="65" EndY="16" Dir="-1" Count="4" Element="1" />
-			<Spawn Index="775" Distance="6" StartX="224" StartY="11" EndX="244" EndY="29" Dir="-1" Count="6" Element="3" />
-			<Spawn Index="775" Distance="8" StartX="233" StartY="178" EndX="247" EndY="195" Dir="-1" Count="4" Element="5" />
-			<Spawn Index="775" Distance="8" StartX="93" StartY="61" EndX="103" EndY="72" Dir="-1" Count="2" Element="1" />
-			<Spawn Index="775" Distance="4" StartX="206" StartY="79" EndX="217" EndY="90" Dir="-1" Count="3" Element="4" />
-			<Spawn Index="775" Distance="8" StartX="227" StartY="202" EndX="241" EndY="223" Dir="-1" Count="4" Element="5" />
+		<!--Low Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="79" StartY="13" EndX="79" EndY="13" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="78" StartY="49" EndX="78" EndY="49" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="99" StartY="65" EndX="99" EndY="65" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="117" StartY="14" EndX="117" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="116" StartY="36" EndX="116" EndY="36" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="129" StartY="62" EndX="129" EndY="62" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="205" StartY="31" EndX="205" EndY="31" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="161" EndX="185" EndY="161" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 10-->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="69" EndX="246" EndY="69" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 11-->
+			<Spawn Index="774" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="232" StartY="136" EndX="232" EndY="136" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 12-->
+			<Spawn Index="774" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="244" StartY="164" EndX="244" EndY="164" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 13-->
+			<Spawn Index="774" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="184" StartY="132" EndX="184" EndY="132" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 14-->
+			<Spawn Index="774" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="223" StartY="233" EndX="223" EndY="233" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Low Spot 15-->
+			<Spawn Index="774" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="209" StartY="244" EndX="209" EndY="244" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="24" StartY="14" EndX="24" EndY="14" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="68" StartY="40" EndX="68" EndY="40" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="164" StartY="64" EndX="164" EndY="64" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="179" StartY="35" EndX="179" EndY="35" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="246" StartY="39" EndX="246" EndY="39" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="224" StartY="43" EndX="224" EndY="43" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="182" StartY="116" EndX="182" EndY="116" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="204" StartY="57" EndX="204" EndY="57" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="163" StartY="140" EndX="163" EndY="140" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Mid Spot 10-->
+			<Spawn Index="774" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="222" StartY="119" EndX="222" EndY="119" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 1-->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="7" StartY="15" EndX="7" EndY="15" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 2-->
+			<Spawn Index="774" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="102" StartY="25" EndX="102" EndY="25" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 3-->
+			<Spawn Index="774" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="152" StartY="29" EndX="152" EndY="29" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 4-->
+			<Spawn Index="774" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="181" StartY="16" EndX="181" EndY="16" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 5-->
+			<Spawn Index="774" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="183" StartY="95" EndX="183" EndY="95" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 6-->
+			<Spawn Index="774" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="234" StartY="19" EndX="234" EndY="19" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 7-->
+			<Spawn Index="774" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="200" StartY="121" EndX="200" EndY="121" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 8-->
+			<Spawn Index="774" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="237" StartY="93" EndX="237" EndY="93" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 9-->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="185" StartY="152" EndX="185" EndY="152" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+		<!--Hot Spot 10-->
+			<Spawn Index="774" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="774" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Hell Spider -->
+			<Spawn Index="769" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="769" Distance="4" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Elite Skeleton Warrior -->
+			<Spawn Index="775" Distance="8" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="8" StartX="241" StartY="183" EndX="241" EndY="183" Dir="-1" Count="3" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
 		</Spot>
 	</Map>
 	<Map Number="120" Name="Deep Dungeon 5">
