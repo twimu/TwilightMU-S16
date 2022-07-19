@@ -8960,85 +8960,85 @@
 			<Spawn Index="777" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
 			<Spawn Index="777" Distance="6" StartX="61" StartY="176" EndX="61" EndY="176" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Low Spot 4-->
-			<Spawn Index="775" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="153" StartY="200" EndX="153" EndY="200" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="174" StartY="209" EndX="174" EndY="209" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Low Spot 5-->
-			<Spawn Index="775" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="125" StartY="160" EndX="125" EndY="160" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="125" StartY="160" EndX="120" EndY="160" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="130" StartY="155" EndX="130" EndY="155" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Mid Spot 1-->
-			<Spawn Index="775" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="83" StartY="101" EndX="83" EndY="101" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="68" StartY="79" EndX="68" EndY="79" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Mid Spot 2-->
-			<Spawn Index="775" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="44" StartY="157" EndX="44" EndY="157" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="94" StartY="144" EndX="94" EndY="144" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Mid Spot 3-->
-			<Spawn Index="775" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="121" StartY="215" EndX="121" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="126" StartY="215" EndX="126" EndY="215" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Mid Spot 4-->
 			<Spawn Index="775" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
 			<Spawn Index="775" Distance="6" StartX="188" StartY="170" EndX="188" EndY="170" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
@@ -9072,53 +9072,69 @@
 			<Spawn Index="777" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
 			<Spawn Index="777" Distance="6" StartX="41" StartY="89" EndX="41" EndY="89" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Hot Spot 2-->
-			<Spawn Index="775" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="27" StartY="226" EndX="27" EndY="226" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="22" StartY="219" EndX="22" EndY="219" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Hot Spot 3-->
-			<Spawn Index="775" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="177" StartY="199" EndX="177" EndY="199" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="173" StartY="208" EndX="173" EndY="208" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		<!--Hot Spot 4-->
-			<Spawn Index="775" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="775" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
-			<Spawn Index="776" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="776" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
-			<Spawn Index="777" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
-			<Spawn Index="777" Distance="6" StartX="164" StartY="158" EndX="164" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="775" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="168" StartY="158" EndX="168" EndY="158" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
+		<!--Hot Spot 5-->
+			<Spawn Index="775" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="775" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Thunder Lich -->
+			<Spawn Index="776" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="1" Element="1" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="1" Element="2" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="776" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Poison Bull Fighter -->
+			<Spawn Index="777" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="1" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="2" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="3" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="4" /> <!-- Deep Dungeon Dark Knight -->
+			<Spawn Index="777" Distance="6" StartX="151" StartY="76" EndX="151" EndY="76" Dir="-1" Count="2" Element="5" /> <!-- Deep Dungeon Dark Knight -->
 		</Spot>
 	</Map>
 	<Map Number="122" Name="Swamp Of Darkness">
@@ -9399,9 +9415,9 @@
 			<Spawn Index="815" Distance="3" StartX="225" StartY="45" EndX="225" EndY="45" Dir="-1" Count="6" Element="1" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="1" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="1" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="1" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="1" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="1" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="1" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="124" Name="Kubera Mine Water">
@@ -9455,9 +9471,9 @@
 			<Spawn Index="815" Distance="3" StartX="225" StartY="45" EndX="225" EndY="45" Dir="-1" Count="6" Element="2" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="2" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="2" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="2" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="2" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="2" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="2" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="125" Name="Kubera Mine Earth">
@@ -9511,9 +9527,9 @@
 			<Spawn Index="815" Distance="3" StartX="225" StartY="45" EndX="225" EndY="45" Dir="-1" Count="6" Element="3" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="3" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="3" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="3" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="3" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="3" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="3" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="126" Name="Kubera Mine Wind">
@@ -9567,9 +9583,9 @@
 			<Spawn Index="815" Distance="3" StartX="225" StartY="45" EndX="225" EndY="45" Dir="-1" Count="6" Element="4" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="4" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="4" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="4" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="4" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="4" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="4" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="127" Name="Kubera Mine Darkness">
@@ -9623,9 +9639,9 @@
 			<Spawn Index="815" Distance="3" StartX="225" StartY="45" EndX="225" EndY="45" Dir="-1" Count="6" Element="5" />
 		</Spot>
 		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Auto Quest -->
-			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="5" /> <!-- Dead Porter -->
-			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="5" /> <!-- Dead Digger -->
-			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="5" Element="5" /> <!-- Dead Shoveler -->
+			<Spawn Index="816" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="5" /> <!-- Dead Porter -->
+			<Spawn Index="814" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="5" /> <!-- Dead Digger -->
+			<Spawn Index="815" Distance="4" StartX="121" StartY="90" EndX="132" EndY="98" Dir="-1" Count="10" Element="5" /> <!-- Dead Shoveler -->
 		</Spot>
 	</Map>
 	<Map Number="128" Name="Abyss of Atlans 1">
