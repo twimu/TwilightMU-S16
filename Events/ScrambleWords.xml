@@ -76,958 +76,958 @@
 
 	<WordsList>
 		<Difficulty Level="1">
-			<Word Data="apply" Hint="" />
-			<Word Data="awful" Hint="" />
-			<Word Data="above" Hint="" />
-			<Word Data="apple" Hint="" />
-			<Word Data="award" Hint="" />
-			<Word Data="angry" Hint="" />
-			<Word Data="album" Hint="" />
-			<Word Data="avoid" Hint="" />
-			<Word Data="ahead" Hint="" />
-			<Word Data="allow" Hint="" />
-			<Word Data="alive" Hint="" />
-			<Word Data="aware" Hint="" />
-			<Word Data="after" Hint="" />
-			<Word Data="adopt" Hint="" />
-			<Word Data="admit" Hint="" />
-			<Word Data="adapt" Hint="" />
-			<Word Data="among" Hint="" />
-			<Word Data="apart" Hint="" />
-			<Word Data="abuse" Hint="" />
-			<Word Data="actor" Hint="" />
-			<Word Data="about" Hint="" />
-			<Word Data="along" Hint="" />
-			<Word Data="again" Hint="" />
-			<Word Data="aside" Hint="" />
-			<Word Data="argue" Hint="" />
-			<Word Data="agent" Hint="" />
-			<Word Data="agree" Hint="" />
-			<Word Data="angle" Hint="" />
-			<Word Data="anger" Hint="" />
-			<Word Data="arise" Hint="" />
-			<Word Data="asset" Hint="" />
-			<Word Data="alone" Hint="" />
-			<Word Data="alter" Hint="" />
-			<Word Data="block" Hint="" />
-			<Word Data="bunch" Hint="" />
-			<Word Data="bench" Hint="" />
-			<Word Data="beach" Hint="" />
-			<Word Data="break" Hint="" />
-			<Word Data="badly" Hint="" />
-			<Word Data="brown" Hint="" />
-			<Word Data="brush" Hint="" />
-			<Word Data="buyer" Hint="" />
-			<Word Data="brief" Hint="" />
-			<Word Data="below" Hint="" />
-			<Word Data="birth" Hint="" />
-			<Word Data="blame" Hint="" />
-			<Word Data="basic" Hint="" />
-			<Word Data="bible" Hint="" />
-			<Word Data="bring" Hint="" />
-			<Word Data="broad" Hint="" />
-			<Word Data="begin" Hint="" />
-			<Word Data="build" Hint="" />
-			<Word Data="being" Hint="" />
-			<Word Data="blade" Hint="" />
-			<Word Data="bread" Hint="" />
-			<Word Data="brand" Hint="" />
-			<Word Data="board" Hint="" />
-			<Word Data="blind" Hint="" />
-			<Word Data="blood" Hint="" />
-			<Word Data="brain" Hint="" />
-			<Word Data="basis" Hint="" />
-			<Word Data="crazy" Hint="" />
-			<Word Data="check" Hint="" />
-			<Word Data="cheek" Hint="" />
-			<Word Data="clock" Hint="" />
-			<Word Data="chief" Hint="" />
-			<Word Data="crack" Hint="" />
-			<Word Data="coach" Hint="" />
-			<Word Data="couch" Hint="" />
-			<Word Data="cheap" Hint="" />
-			<Word Data="cycle" Hint="" />
-			<Word Data="catch" Hint="" />
-			<Word Data="child" Hint="" />
-			<Word Data="crowd" Hint="" />
-			<Word Data="climb" Hint="" />
-			<Word Data="chain" Hint="" />
-			<Word Data="cover" Hint="" />
-			<Word Data="crash" Hint="" />
-			<Word Data="craft" Hint="" />
-			<Word Data="civil" Hint="" />
-			<Word Data="chart" Hint="" />
-			<Word Data="chase" Hint="" />
-			<Word Data="chair" Hint="" />
-			<Word Data="chest" Hint="" />
-			<Word Data="carry" Hint="" />
-			<Word Data="claim" Hint="" />
-			<Word Data="cream" Hint="" />
-			<Word Data="crime" Hint="" />
-			<Word Data="cable" Hint="" />
-			<Word Data="cabin" Hint="" />
-			<Word Data="cloud" Hint="" />
-			<Word Data="could" Hint="" />
-			<Word Data="cause" Hint="" />
-			<Word Data="cross" Hint="" />
-			<Word Data="clear" Hint="" />
-			<Word Data="count" Hint="" />
-			<Word Data="color" Hint="" />
-			<Word Data="coast" Hint="" />
-			<Word Data="close" Hint="" />
-			<Word Data="class" Hint="" />
-			<Word Data="clean" Hint="" />
-			<Word Data="court" Hint="" />
-			<Word Data="dozen" Hint="" />
-			<Word Data="depth" Hint="" />
-			<Word Data="drink" Hint="" />
-			<Word Data="draft" Hint="" />
-			<Word Data="daily" Hint="" />
-			<Word Data="dirty" Hint="" />
-			<Word Data="delay" Hint="" />
-			<Word Data="death" Hint="" />
-			<Word Data="drive" Hint="" />
-			<Word Data="doubt" Hint="" />
-			<Word Data="drama" Hint="" />
-			<Word Data="dream" Hint="" />
-			<Word Data="dance" Hint="" />
-			<Word Data="dress" Hint="" />
-			<Word Data="enjoy" Hint="" />
-			<Word Data="equal" Hint="" />
-			<Word Data="exact" Hint="" />
-			<Word Data="extra" Hint="" />
-			<Word Data="exist" Hint="" />
-			<Word Data="empty" Hint="" />
-			<Word Data="every" Hint="" />
-			<Word Data="enemy" Hint="" />
-			<Word Data="eight" Hint="" />
-			<Word Data="entry" Hint="" />
-			<Word Data="earth" Hint="" />
-			<Word Data="early" Hint="" />
-			<Word Data="essay" Hint="" />
-			<Word Data="event" Hint="" />
-			<Word Data="elect" Hint="" />
-			<Word Data="eager" Hint="" />
-			<Word Data="error" Hint="" />
-			<Word Data="elite" Hint="" />
-			<Word Data="enter" Hint="" />
-			<Word Data="fifty" Hint="" />
-			<Word Data="fight" Hint="" />
-			<Word Data="faith" Hint="" />
-			<Word Data="fully" Hint="" />
-			<Word Data="fresh" Hint="" />
-			<Word Data="forth" Hint="" />
-			<Word Data="flesh" Hint="" />
-			<Word Data="funny" Hint="" />
-			<Word Data="fewer" Hint="" />
-			<Word Data="favor" Hint="" />
-			<Word Data="frame" Hint="" />
-			<Word Data="force" Hint="" />
-			<Word Data="focus" Hint="" />
-			<Word Data="fence" Hint="" />
-			<Word Data="fiber" Hint="" />
-			<Word Data="flame" Hint="" />
-			<Word Data="field" Hint="" />
-			<Word Data="found" Hint="" />
-			<Word Data="final" Hint="" />
-			<Word Data="first" Hint="" />
-			<Word Data="floor" Hint="" />
-			<Word Data="fault" Hint="" />
-			<Word Data="front" Hint="" />
-			<Word Data="fruit" Hint="" />
-			<Word Data="false" Hint="" />
-			<Word Data="float" Hint="" />
-			<Word Data="ghost" Hint="" />
-			<Word Data="given" Hint="" />
-			<Word Data="glove" Hint="" />
-			<Word Data="grave" Hint="" />
-			<Word Data="group" Hint="" />
-			<Word Data="guard" Hint="" />
-			<Word Data="guide" Hint="" />
-			<Word Data="grand" Hint="" />
-			<Word Data="grade" Hint="" />
-			<Word Data="grant" Hint="" />
-			<Word Data="guest" Hint="" />
-			<Word Data="guess" Hint="" />
-			<Word Data="giant" Hint="" />
-			<Word Data="glass" Hint="" />
-			<Word Data="green" Hint="" />
-			<Word Data="great" Hint="" />
-			<Word Data="grain" Hint="" />
-			<Word Data="grass" Hint="" />
-			<Word Data="happy" Hint="" />
-			<Word Data="heavy" Hint="" />
-			<Word Data="honey" Hint="" />
-			<Word Data="habit" Hint="" />
-			<Word Data="human" Hint="" />
-			<Word Data="humor" Hint="" />
-			<Word Data="hello" Hint="" />
-			<Word Data="horse" Hint="" />
-			<Word Data="hotel" Hint="" />
-			<Word Data="house" Hint="" />
-			<Word Data="heart" Hint="" />
-			<Word Data="honor" Hint="" />
-			<Word Data="index" Hint="" />
-			<Word Data="imply" Hint="" />
-			<Word Data="image" Hint="" />
-			<Word Data="ideal" Hint="" />
-			<Word Data="inner" Hint="" />
-			<Word Data="issue" Hint="" />
-			<Word Data="judge" Hint="" />
-			<Word Data="juice" Hint="" />
-			<Word Data="joint" Hint="" />
-			<Word Data="knock" Hint="" />
-			<Word Data="knife" Hint="" />
-			<Word Data="lucky" Hint="" />
-			<Word Data="lunch" Hint="" />
-			<Word Data="light" Hint="" />
-			<Word Data="laugh" Hint="" />
-			<Word Data="leave" Hint="" />
-			<Word Data="layer" Hint="" />
-			<Word Data="lover" Hint="" />
-			<Word Data="lower" Hint="" />
-			<Word Data="level" Hint="" />
-			<Word Data="local" Hint="" />
-			<Word Data="limit" Hint="" />
-			<Word Data="lemon" Hint="" />
-			<Word Data="labor" Hint="" />
-			<Word Data="label" Hint="" />
-			<Word Data="legal" Hint="" />
-			<Word Data="large" Hint="" />
-			<Word Data="least" Hint="" />
-			<Word Data="learn" Hint="" />
-			<Word Data="loose" Hint="" />
-			<Word Data="later" Hint="" />
-			<Word Data="major" Hint="" />
-			<Word Data="match" Hint="" />
-			<Word Data="maybe" Hint="" />
-			<Word Data="maker" Hint="" />
-			<Word Data="might" Hint="" />
-			<Word Data="month" Hint="" />
-			<Word Data="mouth" Hint="" />
-			<Word Data="movie" Hint="" />
-			<Word Data="mayor" Hint="" />
-			<Word Data="marry" Hint="" />
-			<Word Data="money" Hint="" />
-			<Word Data="music" Hint="" />
-			<Word Data="model" Hint="" />
-			<Word Data="media" Hint="" />
-			<Word Data="metal" Hint="" />
-			<Word Data="mouse" Hint="" />
-			<Word Data="mount" Hint="" />
-			<Word Data="motor" Hint="" />
-			<Word Data="moral" Hint="" />
-			<Word Data="meter" Hint="" />
-			<Word Data="minor" Hint="" />
-			<Word Data="newly" Hint="" />
-			<Word Data="naked" Hint="" />
-			<Word Data="night" Hint="" />
-			<Word Data="nerve" Hint="" />
-			<Word Data="never" Hint="" />
-			<Word Data="north" Hint="" />
-			<Word Data="novel" Hint="" />
-			<Word Data="noise" Hint="" />
-			<Word Data="nurse" Hint="" />
-			<Word Data="offer" Hint="" />
-			<Word Data="occur" Hint="" />
-			<Word Data="ought" Hint="" />
-			<Word Data="often" Hint="" />
-			<Word Data="other" Hint="" />
-			<Word Data="owner" Hint="" />
-			<Word Data="ocean" Hint="" />
-			<Word Data="order" Hint="" />
-			<Word Data="onion" Hint="" />
-			<Word Data="porch" Hint="" />
-			<Word Data="pitch" Hint="" />
-			<Word Data="patch" Hint="" />
-			<Word Data="prove" Hint="" />
-			<Word Data="power" Hint="" />
-			<Word Data="photo" Hint="" />
-			<Word Data="phone" Hint="" />
-			<Word Data="phase" Hint="" />
-			<Word Data="proof" Hint="" />
-			<Word Data="party" Hint="" />
-			<Word Data="peace" Hint="" />
-			<Word Data="price" Hint="" />
-			<Word Data="prime" Hint="" />
-			<Word Data="place" Hint="" />
-			<Word Data="paper" Hint="" />
-			<Word Data="piece" Hint="" />
-			<Word Data="pride" Hint="" />
-			<Word Data="proud" Hint="" />
-			<Word Data="pound" Hint="" />
-			<Word Data="print" Hint="" />
-			<Word Data="prior" Hint="" />
-			<Word Data="press" Hint="" />
-			<Word Data="point" Hint="" />
-			<Word Data="plate" Hint="" />
-			<Word Data="plant" Hint="" />
-			<Word Data="plane" Hint="" />
-			<Word Data="pilot" Hint="" />
-			<Word Data="piano" Hint="" />
-			<Word Data="pause" Hint="" />
-			<Word Data="panel" Hint="" />
-			<Word Data="paint" Hint="" />
-			<Word Data="quick" Hint="" />
-			<Word Data="quiet" Hint="" />
-			<Word Data="quite" Hint="" />
-			<Word Data="quote" Hint="" />
-			<Word Data="relax" Hint="" />
-			<Word Data="reply" Hint="" />
-			<Word Data="reach" Hint="" />
-			<Word Data="rough" Hint="" />
-			<Word Data="ready" Hint="" />
-			<Word Data="right" Hint="" />
-			<Word Data="rapid" Hint="" />
-			<Word Data="river" Hint="" />
-			<Word Data="refer" Hint="" />
-			<Word Data="react" Hint="" />
-			<Word Data="round" Hint="" />
-			<Word Data="radio" Hint="" />
-			<Word Data="range" Hint="" />
-			<Word Data="ratio" Hint="" />
-			<Word Data="raise" Hint="" />
-			<Word Data="route" Hint="" />
-			<Word Data="rural" Hint="" />
-			<Word Data="shock" Hint="" />
-			<Word Data="seize" Hint="" />
-			<Word Data="shake" Hint="" />
-			<Word Data="stick" Hint="" />
-			<Word Data="stock" Hint="" />
-			<Word Data="stuff" Hint="" />
-			<Word Data="shelf" Hint="" />
-			<Word Data="staff" Hint="" />
-			<Word Data="speak" Hint="" />
-			<Word Data="smoke" Hint="" />
-			<Word Data="shift" Hint="" />
-			<Word Data="sharp" Hint="" />
-			<Word Data="shape" Hint="" />
-			<Word Data="sweep" Hint="" />
-			<Word Data="shade" Hint="" />
-			<Word Data="sight" Hint="" />
-			<Word Data="shrug" Hint="" />
-			<Word Data="space" Hint="" />
-			<Word Data="scope" Hint="" />
-			<Word Data="skill" Hint="" />
-			<Word Data="stake" Hint="" />
-			<Word Data="study" Hint="" />
-			<Word Data="swing" Hint="" />
-			<Word Data="sweet" Hint="" />
-			<Word Data="story" Hint="" />
-			<Word Data="spend" Hint="" />
-			<Word Data="solve" Hint="" />
-			<Word Data="sorry" Hint="" />
-			<Word Data="south" Hint="" />
-			<Word Data="swear" Hint="" />
-			<Word Data="speed" Hint="" />
-			<Word Data="style" Hint="" />
-			<Word Data="slave" Hint="" />
-			<Word Data="short" Hint="" />
-			<Word Data="sheet" Hint="" />
-			<Word Data="share" Hint="" />
-			<Word Data="shine" Hint="" />
-			<Word Data="shirt" Hint="" />
-			<Word Data="shoot" Hint="" />
-			<Word Data="shall" Hint="" />
-			<Word Data="shore" Hint="" />
-			<Word Data="seven" Hint="" />
-			<Word Data="shell" Hint="" />
-			<Word Data="serve" Hint="" />
-			<Word Data="shout" Hint="" />
-			<Word Data="sauce" Hint="" />
-			<Word Data="split" Hint="" />
-			<Word Data="scale" Hint="" />
-			<Word Data="super" Hint="" />
-			<Word Data="scene" Hint="" />
-			<Word Data="score" Hint="" />
-			<Word Data="strip" Hint="" />
-			<Word Data="storm" Hint="" />
-			<Word Data="sport" Hint="" />
-			<Word Data="smell" Hint="" />
-			<Word Data="sleep" Hint="" />
-			<Word Data="smart" Hint="" />
-			<Word Data="small" Hint="" />
-			<Word Data="slice" Hint="" />
-			<Word Data="smile" Hint="" />
-			<Word Data="since" Hint="" />
-			<Word Data="stand" Hint="" />
-			<Word Data="sugar" Hint="" />
-			<Word Data="sound" Hint="" />
-			<Word Data="slide" Hint="" />
-			<Word Data="stage" Hint="" />
-			<Word Data="solid" Hint="" />
-			<Word Data="salad" Hint="" />
-			<Word Data="sales" Hint="" />
-			<Word Data="sense" Hint="" />
-			<Word Data="solar" Hint="" />
-			<Word Data="stair" Hint="" />
-			<Word Data="stare" Hint="" />
-			<Word Data="state" Hint="" />
-			<Word Data="steal" Hint="" />
-			<Word Data="steel" Hint="" />
-			<Word Data="still" Hint="" />
-			<Word Data="stone" Hint="" />
-			<Word Data="store" Hint="" />
-			<Word Data="start" Hint="" />
-			<Word Data="thick" Hint="" />
-			<Word Data="think" Hint="" />
-			<Word Data="thank" Hint="" />
-			<Word Data="track" Hint="" />
-			<Word Data="throw" Hint="" />
-			<Word Data="trick" Hint="" />
-			<Word Data="truck" Hint="" />
-			<Word Data="theme" Hint="" />
-			<Word Data="touch" Hint="" />
-			<Word Data="teach" Hint="" />
-			<Word Data="twice" Hint="" />
-			<Word Data="tough" Hint="" />
-			<Word Data="tight" Hint="" />
-			<Word Data="today" Hint="" />
-			<Word Data="third" Hint="" />
-			<Word Data="thing" Hint="" />
-			<Word Data="topic" Hint="" />
-			<Word Data="tower" Hint="" />
-			<Word Data="truly" Hint="" />
-			<Word Data="truth" Hint="" />
-			<Word Data="their" Hint="" />
-			<Word Data="tooth" Hint="" />
-			<Word Data="there" Hint="" />
-			<Word Data="three" Hint="" />
-			<Word Data="these" Hint="" />
-			<Word Data="those" Hint="" />
-			<Word Data="terms" Hint="" />
-			<Word Data="troop" Hint="" />
-			<Word Data="tribe" Hint="" />
-			<Word Data="table" Hint="" />
-			<Word Data="trace" Hint="" />
-			<Word Data="tired" Hint="" />
-			<Word Data="trend" Hint="" />
-			<Word Data="trade" Hint="" />
-			<Word Data="taste" Hint="" />
-			<Word Data="trust" Hint="" />
-			<Word Data="total" Hint="" />
-			<Word Data="title" Hint="" />
-			<Word Data="train" Hint="" />
-			<Word Data="trial" Hint="" />
-			<Word Data="trail" Hint="" />
-			<Word Data="treat" Hint="" />
-			<Word Data="upper" Hint="" />
-			<Word Data="uncle" Hint="" />
-			<Word Data="urban" Hint="" />
-			<Word Data="under" Hint="" />
-			<Word Data="union" Hint="" />
-			<Word Data="until" Hint="" />
-			<Word Data="usual" Hint="" />
-			<Word Data="voice" Hint="" />
-			<Word Data="video" Hint="" />
-			<Word Data="value" Hint="" />
-			<Word Data="virus" Hint="" />
-			<Word Data="visit" Hint="" />
-			<Word Data="vital" Hint="" />
-			<Word Data="voter" Hint="" />
-			<Word Data="which" Hint="" />
-			<Word Data="watch" Hint="" />
-			<Word Data="weigh" Hint="" />
-			<Word Data="works" Hint="" />
-			<Word Data="whose" Hint="" />
-			<Word Data="worth" Hint="" />
-			<Word Data="whole" Hint="" />
-			<Word Data="white" Hint="" />
-			<Word Data="while" Hint="" />
-			<Word Data="where" Hint="" />
-			<Word Data="wheel" Hint="" />
-			<Word Data="worry" Hint="" />
-			<Word Data="woman" Hint="" />
-			<Word Data="would" Hint="" />
-			<Word Data="wound" Hint="" />
-			<Word Data="world" Hint="" />
-			<Word Data="wrong" Hint="" />
-			<Word Data="water" Hint="" />
-			<Word Data="write" Hint="" />
-			<Word Data="waste" Hint="" />
-			<Word Data="youth" Hint="" />
-			<Word Data="yield" Hint="" />
-			<Word Data="young" Hint="" />
-			<Word Data="yours" Hint="" />
+			<Word Data="apply" Hint="the method you can" />
+			<Word Data="awful" Hint="it's so" />
+			<Word Data="above" Hint="at a higher level or layer" />
+			<Word Data="apple" Hint="Adam & Eva" />
+			<Word Data="award" Hint="Grammy" />
+			<Word Data="angry" Hint="Flying birds" />
+			<Word Data="album" Hint="Photography" />
+			<Word Data="avoid" Hint="Traffic" />
+			<Word Data="ahead" Hint="Please go..." />
+			<Word Data="allow" Hint="give (someone) permission to do something" />
+			<Word Data="alive" Hint="I'm still..." />
+			<Word Data="aware" Hint="having knowledge or perception of a situation or fact" />
+			<Word Data="after" Hint="before and..." />
+			<Word Data="adopt" Hint="legally take (another's child) and bring it up as one's own" />
+			<Word Data="admit" Hint="confess to be true or to be the case, typically with reluctance." />
+			<Word Data="adapt" Hint="make (something) suitable for a new use or purpose; modify" />
+			<Word Data="among" Hint="surrounded by, in the company of" />
+			<Word Data="apart" Hint="at a specified distance from each other in time or space" />
+			<Word Data="abuse" Hint="use (something) to bad effect or for a bad purpose, misuse" />
+			<Word Data="actor" Hint="a person whose profession is acting on the stage" />
+			<Word Data="about" Hint="on the subject of, concerning" />
+			<Word Data="along" Hint="moving in a constant direction on" />
+			<Word Data="again" Hint="Upss i did it..." />
+			<Word Data="aside" Hint="to one side; out of the way" />
+			<Word Data="argue" Hint="action, or theory, typically with the aim of persuading others to share one's view" />
+			<Word Data="agent" Hint="007" />
+			<Word Data="agree" Hint="I'm totaly..." />
+			<Word Data="angle" Hint="a particular way of approaching or considering an issue or problem" />
+			<Word Data="anger" Hint="a strong feeling of annoyance, displeasure, or hostility" />
+			<Word Data="arise" Hint="emerge, become apparent" />
+			<Word Data="asset" Hint="a useful or valuable thing, person, or quality" />
+			<Word Data="alone" Hint="having no one else present." />
+			<Word Data="alter" Hint="change or cause to change" />
+			<Word Data="block" Hint="Blacklist" />
+			<Word Data="bunch" Hint="a number of things" />
+			<Word Data="bench" Hint="a long seat for several people" />
+			<Word Data="beach" Hint="a pebbly or sandy shore" />
+			<Word Data="break" Hint="take a..." />
+			<Word Data="badly" Hint="terribly" />
+			<Word Data="brown" Hint="color" />
+			<Word Data="brush" Hint="tooth" />
+			<Word Data="buyer" Hint="seller" />
+			<Word Data="brief" Hint="of short duration" />
+			<Word Data="below" Hint="at a lower level or layer than" />
+			<Word Data="birth" Hint="new start" />
+			<Word Data="blame" Hint="assign responsibility for a fault or wrong" />
+			<Word Data="basic" Hint="starting point" />
+			<Word Data="bible" Hint="the Christian scriptures" />
+			<Word Data="bring" Hint="take to a place" />
+			<Word Data="broad" Hint="wide" />
+			<Word Data="begin" Hint="start" />
+			<Word Data="build" Hint="construct" />
+			<Word Data="being" Hint="existence" />
+			<Word Data="blade" Hint="edge" />
+			<Word Data="bread" Hint="food" />
+			<Word Data="brand" Hint="adidas" />
+			<Word Data="board" Hint="skate" />
+			<Word Data="blind" Hint="unable to see" />
+			<Word Data="blood" Hint="vampire" />
+			<Word Data="brain" Hint="mind" />
+			<Word Data="basis" Hint="start" />
+			<Word Data="crazy" Hint="psycho" />
+			<Word Data="check" Hint="verification" />
+			<Word Data="cheek" Hint="either side of the face" />
+			<Word Data="clock" Hint="Sand" />
+			<Word Data="chief" Hint="head" />
+			<Word Data="crack" Hint="gap" />
+			<Word Data="coach" Hint="trainer" />
+			<Word Data="couch" Hint="sofa" />
+			<Word Data="cheap" Hint="low in price" />
+			<Word Data="cycle" Hint="repeated in the same order" />
+			<Word Data="catch" Hint="...if you can" />
+			<Word Data="child" Hint="young human" />
+			<Word Data="crowd" Hint="a large number of people" />
+			<Word Data="climb" Hint="come up" />
+			<Word Data="chain" Hint="metal links" />
+			<Word Data="cover" Hint="order to protect" />
+			<Word Data="crash" Hint="accident" />
+			<Word Data="craft" Hint="making things" />
+			<Word Data="civil" Hint="courteous and polite" />
+			<Word Data="chart" Hint="diagram" />
+			<Word Data="chase" Hint="catch up" />
+			<Word Data="chair" Hint="sit" />
+			<Word Data="chest" Hint="a large box" />
+			<Word Data="carry" Hint="support" />
+			<Word Data="claim" Hint="take" />
+			<Word Data="cream" Hint="ice" />
+			<Word Data="crime" Hint="punishable by law" />
+			<Word Data="cable" Hint="LAN" />
+			<Word Data="cabin" Hint="phone" />
+			<Word Data="cloud" Hint="weather" />
+			<Word Data="could" Hint="word" />
+			<Word Data="cause" Hint="reason" />
+			<Word Data="cross" Hint="finger" />
+			<Word Data="clear" Hint="obviously" />
+			<Word Data="count" Hint="number" />
+			<Word Data="color" Hint="red" />
+			<Word Data="coast" Hint="seaside" />
+			<Word Data="close" Hint="nearly" />
+			<Word Data="class" Hint="Blade Knigh" />
+			<Word Data="clean" Hint="pure" />
+			<Word Data="court" Hint="tribunal" />
+			<Word Data="dozen" Hint="twelve" />
+			<Word Data="depth" Hint="hole" />
+			<Word Data="drink" Hint="alcohol" />
+			<Word Data="draft" Hint="drawing" />
+			<Word Data="daily" Hint="every day" />
+			<Word Data="dirty" Hint="nasty" />
+			<Word Data="delay" Hint="postpone" />
+			<Word Data="death" Hint="end of life" />
+			<Word Data="drive" Hint="... a car" />
+			<Word Data="doubt" Hint="not trusting" />
+			<Word Data="drama" Hint="ganre in threater and movies" />
+			<Word Data="dream" Hint="what you do while sleeping" />
+			<Word Data="dance" Hint="what you do at a party" />
+			<Word Data="dress" Hint="a women's garment" />
+			<Word Data="enjoy" Hint="another name for 'like' " />
+			<Word Data="equal" Hint="comparable" />
+			<Word Data="exact" Hint="accurate/correct" />
+			<Word Data="extra" Hint="more of" />
+			<Word Data="exist" Hint="endure/survive" />
+			<Word Data="empty" Hint="opposite of full" />
+			<Word Data="every" Hint="other word for 'all' " />
+			<Word Data="enemy" Hint="opposite of ally" />
+			<Word Data="eight" Hint="number with first letter E" />
+			<Word Data="entry" Hint="access" />
+			<Word Data="earth" Hint="name of a planet" />
+			<Word Data="early" Hint="a time of the day" />
+			<Word Data="essay" Hint="type of literature text" />
+			<Word Data="event" Hint="ceremony" />
+			<Word Data="elect" Hint="accept/admit" />
+			<Word Data="eager" Hint="impatient" />
+			<Word Data="error" Hint="wrong" />
+			<Word Data="elite" Hint="a type of society" />
+			<Word Data="enter" Hint="geting inside" />
+			<Word Data="fifty" Hint="1/2 or 100" />
+			<Word Data="fight" Hint="something you do in Mortal Kombat" />
+			<Word Data="faith" Hint="believing in something" />
+			<Word Data="fully" Hint="another word for whole" />
+			<Word Data="fresh" Hint="the best fruits are...." />
+			<Word Data="forth" Hint="a place in competition" />
+			<Word Data="flesh" Hint="what people and animals are made of" />
+			<Word Data="funny" Hint="comedies are ..." />
+			<Word Data="fewer" Hint="less" />
+			<Word Data="favor" Hint="when you help someone" />
+			<Word Data="frame" Hint="something you put a picture in" />
+			<Word Data="force" Hint="brutal strength" />
+			<Word Data="focus" Hint="a center of activity, attraction, or attention" />
+			<Word Data="fence" Hint="something thats a border of a property" />
+			<Word Data="fiber" Hint="a slender and greatly elongated natural or synthetic filament" />
+			<Word Data="flame" Hint="fire" />
+			<Word Data="field" Hint="an open land area free of woods and buildings" />
+			<Word Data="found" Hint=" past tense and past participle of find " />
+			<Word Data="final" Hint="not to be altered or undone" />
+			<Word Data="first" Hint="preceding all others in time, order, or importance" />
+			<Word Data="floor" Hint="the level base of a room" />
+			<Word Data="fault" Hint="guilt" />
+			<Word Data="front" Hint="external and often feigned appearance" />
+			<Word Data="fruit" Hint="product of some trees" />
+			<Word Data="false" Hint="something thats fake" />
+			<Word Data="float" Hint="something that can't sink in water ...?" />
+			<Word Data="ghost" Hint="a disembodied soul, that we see" />
+			<Word Data="given" Hint="granted" />
+			<Word Data="glove" Hint="something you can put on both your hands" />
+			<Word Data="grave" Hint="somewhere people get burried" />
+			<Word Data="group" Hint=" two or more figures forming a complete unit" />
+			<Word Data="guard" Hint="security or someone that looks after it" />
+			<Word Data="guide" Hint="someone that guides you" />
+			<Word Data="grand" Hint="something " />
+			<Word Data="grade" Hint="a level of study in school" />
+			<Word Data="grant" Hint="having more importance than others" />
+			<Word Data="guest" Hint="someone that came to your house" />
+			<Word Data="guess" Hint="to form an opinion of from little or no evidence " />
+			<Word Data="giant" Hint="unrealistic big human" />
+			<Word Data="glass" Hint="something you pour water into" />
+			<Word Data="green" Hint="a color" />
+			<Word Data="great" Hint="notably large in size" />
+			<Word Data="grain" Hint="wheat is ....?" />
+			<Word Data="grass" Hint="green plant that covers the ground" />
+			<Word Data="happy" Hint="an emotional state" />
+			<Word Data="heavy" Hint="mass" />
+			<Word Data="honey" Hint="something that bees produce" />
+			<Word Data="habit" Hint="something you build after a long time doing it" />
+			<Word Data="human" Hint="a bipedal primate mammal " />
+			<Word Data="humor" Hint="that quality which appeals to a sense of the ludicrous or absurdly incongruous" />
+			<Word Data="hello" Hint="greeting" />
+			<Word Data="horse" Hint="large home animal used before cars " />
+			<Word Data="hotel" Hint="somewhere you stay for the night when not at home" />
+			<Word Data="house" Hint="something you live in" />
+			<Word Data="heart" Hint="something thats broken when left in a relationship" />
+			<Word Data="honor" Hint="an exalted title or rank" />
+			<Word Data="index" Hint="a list" />
+			<Word Data="imply" Hint="to express indirectly" />
+			<Word Data="image" Hint="picture of something" />
+			<Word Data="ideal" Hint="perfection" />
+			<Word Data="inner" Hint="inside" />
+			<Word Data="issue" Hint="problem" />
+			<Word Data="judge" Hint="a public official authorized to decide questions brought before a court" />
+			<Word Data="juice" Hint="liquid made out of edibles" />
+			<Word Data="joint" Hint="the point of contact between elements of an animal skeleton with the parts that surround and support it" />
+			<Word Data="knock" Hint="something you do at a door, to let others know you are at it" />
+			<Word Data="knife" Hint="something you can slice food with" />
+			<Word Data="lucky" Hint="fortunate" />
+			<Word Data="lunch" Hint="meal of a day" />
+			<Word Data="light" Hint="the sensation aroused by stimulation of the visual receptors" />
+			<Word Data="laugh" Hint="something you do when you hear a funny story" />
+			<Word Data="leave" Hint="something you do when you feel unneeded" />
+			<Word Data="layer" Hint="ne thickness, course, or fold laid or lying over or under another" />
+			<Word Data="lover" Hint="someone that loves" />
+			<Word Data="lower" Hint="another level before" />
+			<Word Data="level" Hint="horizontal conditioncharacterized by or relating to position in space " />
+			<Word Data="local" Hint="characterized by or relating to position in space " />
+			<Word Data="limit" Hint="something that bounds, restrains, or confines" />
+			<Word Data="lemon" Hint="yellow fruit" />
+			<Word Data="labor" Hint="work" />
+			<Word Data="label" Hint="written or printed matter of information" />
+			<Word Data="legal" Hint="deriving authority from or founded on law" />
+			<Word Data="large" Hint="exceeding most other things of like kind especially in quantity or size" />
+			<Word Data="least" Hint="lowest in importance or position" />
+			<Word Data="learn" Hint="something you do at school while having a lesson" />
+			<Word Data="loose" Hint="when you drop something" />
+			<Word Data="later" Hint="delayed in time" />
+			<Word Data="major" Hint="greater in dignity, rank, importance, or interest" />
+			<Word Data="match" Hint="a person or thing equal or similar to another" />
+			<Word Data="maybe" Hint="anpther word for 'perhaps' " />
+			<Word Data="maker" Hint="manufacturer" />
+			<Word Data="might" Hint="used to express permission, liberty, probability, or possibility in the past" />
+			<Word Data="month" Hint="parts of an year" />
+			<Word Data="mouth" Hint="the natural opening through which food passes" />
+			<Word Data="movie" Hint="a recording of moving images that tells a story" />
+			<Word Data="mayor" Hint="an official head of a city" />
+			<Word Data="marry" Hint="to take as spouse" />
+			<Word Data="money" Hint="generally accepted way of payment" />
+			<Word Data="music" Hint="vocal, instrumental, or mechanical sounds" />
+			<Word Data="model" Hint="a type or design of product" />
+			<Word Data="media" Hint="the main means of mass communication" />
+			<Word Data="metal" Hint="the substance out of which a sword is made" />
+			<Word Data="mouse" Hint="a rodent" />
+			<Word Data="mount" Hint="to increase in amount or extent" />
+			<Word Data="motor" Hint="one that imparts motion" />
+			<Word Data="moral" Hint="of or relating to principles of right and wrong in behavior" />
+			<Word Data="meter" Hint="measure in length" />
+			<Word Data="minor" Hint="inferior in importance, size, or degree " />
+			<Word Data="newly" Hint=" lately, recently" />
+			<Word Data="naked" Hint="when you take your clothes off you become ....?" />
+			<Word Data="night" Hint="opposite of day" />
+			<Word Data="nerve" Hint="any of the filamentous bands of nervous tissue" />
+			<Word Data="never" Hint="not ever : at no time" />
+			<Word Data="north" Hint="a direction used in maps" />
+			<Word Data="novel" Hint="literature ganre" />
+			<Word Data="noise" Hint="sound" />
+			<Word Data="nurse" Hint="someone that helps a doctor" />
+			<Word Data="offer" Hint="to present as an act of worship or devotion" />
+			<Word Data="occur" Hint="to be found or met with" />
+			<Word Data="ought" Hint="moral obligation" />
+			<Word Data="often" Hint="frequently" />
+			<Word Data="other" Hint="being the one (as of two or more) remaining or not included" />
+			<Word Data="owner" Hint="a person who owns something" />
+			<Word Data="ocean" Hint="whole body of salt water" />
+			<Word Data="order" Hint="a rank, class, or special group in a community or society" />
+			<Word Data="onion" Hint="a vegetable that makes us cry when cutting it" />
+			<Word Data="porch" Hint="front of a house" />
+			<Word Data="pitch" Hint="any of various bituminous substances" />
+			<Word Data="patch" Hint="batch of pumpkins" />
+			<Word Data="prove" Hint="to establish the existence, truth, or validity" />
+			<Word Data="power" Hint="ability to act or produce an effect" />
+			<Word Data="photo" Hint="image made with a camera" />
+			<Word Data="phone" Hint="something you make a call with" />
+			<Word Data="phase" Hint="a particular appearance or state in a regularly recurring cycle of changes" />
+			<Word Data="proof" Hint="evidence" />
+			<Word Data="party" Hint="something you throw at a birthday" />
+			<Word Data="peace" Hint="a state of tranquility or quiet" />
+			<Word Data="price" Hint="the amount of money  set for the sale of something" />
+			<Word Data="prime" Hint="the earliest stage" />
+			<Word Data="place" Hint=" an indefinite region or expanse" />
+			<Word Data="paper" Hint="something you write on" />
+			<Word Data="piece" Hint="part of something" />
+			<Word Data="pride" Hint="the quality or state of being proud" />
+			<Word Data="proud" Hint="feeling or showing pride" />
+			<Word Data="pound" Hint="the basic monetary unit of the United Kingdom" />
+			<Word Data="print" Hint="something a printer does" />
+			<Word Data="prior" Hint="earlier in time or order" />
+			<Word Data="press" Hint="applying pressure" />
+			<Word Data="point" Hint="an exact moment" />
+			<Word Data="plate" Hint="a dish you put food in" />
+			<Word Data="plant" Hint="something that you grow in a pot" />
+			<Word Data="plane" Hint="something you fly on when traveling" />
+			<Word Data="pilot" Hint="someone that dirves a plane" />
+			<Word Data="piano" Hint="a musical instrument" />
+			<Word Data="pause" Hint="something you can do while playing a song" />
+			<Word Data="panel" Hint="a schedule containing names of persons summoned as jurors" />
+			<Word Data="paint" Hint="something you use to make a wall colorful" />
+			<Word Data="quick" Hint="rapid" />
+			<Word Data="quiet" Hint="silent" />
+			<Word Data="quite" Hint="wholly, completely" />
+			<Word Data="quote" Hint="citate" />
+			<Word Data="relax" Hint="a state when the mind is relaxed" />
+			<Word Data="reply" Hint="answer" />
+			<Word Data="reach" Hint="to stretch out and take something" />
+			<Word Data="rough" Hint=" difficult" />
+			<Word Data="ready" Hint="prepared" />
+			<Word Data="right" Hint="righteous, upright" />
+			<Word Data="rapid" Hint="fast" />
+			<Word Data="river" Hint="flowing water in the nature" />
+			<Word Data="refer" Hint="to think of, regard, or classify within a general category or group" />
+			<Word Data="react" Hint="to exert a reciprocal or counteracting force or influence" />
+			<Word Data="round" Hint="circluar " />
+			<Word Data="radio" Hint="a radio receiving set" />
+			<Word Data="range" Hint="a sequence, series, or scale between limits" />
+			<Word Data="ratio" Hint=" the indicated quotient of two mathematical expressions" />
+			<Word Data="raise" Hint="lift up" />
+			<Word Data="route" Hint="a traveled way" />
+			<Word Data="rural" Hint="of or relating to the country, country people or life, or agriculture" />
+			<Word Data="shock" Hint="a sudden or violent mental or emotional disturbance" />
+			<Word Data="seize" Hint="to vest ownership of a freehold estate in" />
+			<Word Data="shake" Hint="stir" />
+			<Word Data="stick" Hint="something you throw so a dog can bring it back" />
+			<Word Data="stock" Hint="water after boiling vegetables in it" />
+			<Word Data="stuff" Hint="filling" />
+			<Word Data="shelf" Hint="one of several similar pieces in a closet, bookcase, or similar structure" />
+			<Word Data="staff" Hint=" a long stick carried in the hand for support in walking" />
+			<Word Data="speak" Hint="making words come out" />
+			<Word Data="smoke" Hint="something a fire makes" />
+			<Word Data="shift" Hint="change" />
+			<Word Data="sharp" Hint="adapted to cutting or piercing" />
+			<Word Data="shape" Hint="form, create" />
+			<Word Data="sweep" Hint="when you use a broom you ...?" />
+			<Word Data="shade" Hint="something blocking the sun creates a ?" />
+			<Word Data="sight" Hint="a thing regarded as worth seeing " />
+			<Word Data="shrug" Hint="moving your shoulders in an act of saying 'idk' " />
+			<Word Data="space" Hint="everything in the universe" />
+			<Word Data="scope" Hint="intention, object" />
+			<Word Data="skill" Hint="the ability to use one's knowledge effectively" />
+			<Word Data="stake" Hint="a post to which a person is bound for execution by burning" />
+			<Word Data="study" Hint="process of learning" />
+			<Word Data="swing" Hint="to cause to move vigorously through a wide arc or circle" />
+			<Word Data="sweet" Hint="opposite of sour" />
+			<Word Data="story" Hint="an account of incidents or events" />
+			<Word Data="spend" Hint="waste" />
+			<Word Data="solve" Hint="resolve" />
+			<Word Data="sorry" Hint="appologise" />
+			<Word Data="south" Hint="derection" />
+			<Word Data="swear" Hint="to utter or take solemnly " />
+			<Word Data="speed" Hint="rate of motion" />
+			<Word Data="style" Hint="way of fashion" />
+			<Word Data="slave" Hint="someone who works for free" />
+			<Word Data="short" Hint="having little height" />
+			<Word Data="sheet" Hint="a large rectangular piece of cotton" />
+			<Word Data="share" Hint="the full or proper portion or part" />
+			<Word Data="shine" Hint="to direct the light " />
+			<Word Data="shirt" Hint="top garment" />
+			<Word Data="shoot" Hint="to hit, wound, damage or kill with a weapon" />
+			<Word Data="shall" Hint="plan to, intend to, or expect to" />
+			<Word Data="shore" Hint="the land along the edge of a sea, lake, broad river, etc." />
+			<Word Data="seven" Hint="a symbol for this number VII" />
+			<Word Data="shell" Hint="the protection of a snail" />
+			<Word Data="serve" Hint="to wait on table, as a waiter" />
+			<Word Data="shout" Hint="to call or cry out loudly and vigorously" />
+			<Word Data="sauce" Hint="any preparation, usually liquid or semiliquid, eaten as a gravy" />
+			<Word Data="split" Hint="cut in two" />
+			<Word Data="scale" Hint="something you use to measure weight" />
+			<Word Data="super" Hint="the best" />
+			<Word Data="scene" Hint="the place where some action or event occurs" />
+			<Word Data="score" Hint="grade" />
+			<Word Data="strip" Hint="to deprive of covering" />
+			<Word Data="storm" Hint="weather condition" />
+			<Word Data="sport" Hint="an athletic activity" />
+			<Word Data="smell" Hint="to perceive the odor or scent" />
+			<Word Data="sleep" Hint="during the night we do this" />
+			<Word Data="smart" Hint="intelligent" />
+			<Word Data="small" Hint="of limited size" />
+			<Word Data="slice" Hint="piece" />
+			<Word Data="smile" Hint="facial expression" />
+			<Word Data="since" Hint="from then till now" />
+			<Word Data="stand" Hint="upright position on the feet" />
+			<Word Data="sugar" Hint="something sweet" />
+			<Word Data="sound" Hint="can be verbal or musical" />
+			<Word Data="slide" Hint="something at a kid's playground" />
+			<Word Data="stage" Hint="a single step or degree in a process" />
+			<Word Data="solid" Hint="bodies or figures of three dimensions" />
+			<Word Data="salad" Hint="cold dish" />
+			<Word Data="sales" Hint="plural of sale" />
+			<Word Data="sense" Hint="any of the faculties" />
+			<Word Data="solar" Hint="of or relating to the sun" />
+			<Word Data="stair" Hint="one of a flight or series of steps" />
+			<Word Data="stare" Hint="to gaze fixedly and intently" />
+			<Word Data="state" Hint="the condition of a person or thing" />
+			<Word Data="steal" Hint="to take something that's not yours" />
+			<Word Data="steel" Hint="ion" />
+			<Word Data="still" Hint="staying in position" />
+			<Word Data="stone" Hint="something hard that you can find on the ground" />
+			<Word Data="store" Hint="supermarket" />
+			<Word Data="start" Hint="begining" />
+			<Word Data="thick" Hint="fat" />
+			<Word Data="think" Hint="using your mind" />
+			<Word Data="thank" Hint="being gratefull" />
+			<Word Data="track" Hint="a structure consisting of a pair of parallel lines" />
+			<Word Data="throw" Hint="to propel or cast in any way" />
+			<Word Data="trick" Hint="a crafty or underhanded device, maneuver, stratagem" />
+			<Word Data="truck" Hint="a large viechle" />
+			<Word Data="theme" Hint="a subject of discourse, discussion" />
+			<Word Data="touch" Hint="to come into or be in contact" />
+			<Word Data="teach" Hint="to impart knowledge of or skill" />
+			<Word Data="twice" Hint="two times" />
+			<Word Data="tough" Hint="hard to do" />
+			<Word Data="tight" Hint="narrow" />
+			<Word Data="today" Hint="this day" />
+			<Word Data="third" Hint="number three in a competition" />
+			<Word Data="thing" Hint="something" />
+			<Word Data="topic" Hint="theme of a talk" />
+			<Word Data="tower" Hint="such a structure used as a stronghold, fortress;" />
+			<Word Data="truly" Hint="honestly" />
+			<Word Data="truth" Hint="honesty" />
+			<Word Data="their" Hint="a form of the possessive case" />
+			<Word Data="tooth" Hint="something you chew with" />
+			<Word Data="there" Hint="place" />
+			<Word Data="three" Hint="III" />
+			<Word Data="these" Hint="plural of this" />
+			<Word Data="those" Hint="plural of that. " />
+			<Word Data="terms" Hint="conditions of an agreement" />
+			<Word Data="troop" Hint="military unit" />
+			<Word Data="tribe" Hint="a local division of an aboriginal people " />
+			<Word Data="table" Hint="place you eat food on" />
+			<Word Data="trace" Hint="way ot fracking down" />
+			<Word Data="tired" Hint="being exhausted" />
+			<Word Data="trend" Hint="something fashionable" />
+			<Word Data="trade" Hint="sale" />
+			<Word Data="taste" Hint="sensation of the tongue" />
+			<Word Data="trust" Hint="need for water" />
+			<Word Data="total" Hint="constituting or comprising the whole" />
+			<Word Data="title" Hint="a descriptive heading or caption" />
+			<Word Data="train" Hint="veichle for transport" />
+			<Word Data="trial" Hint="the examination before a judicial tribunal" />
+			<Word Data="trail" Hint="to drag or let drag along the ground " />
+			<Word Data="treat" Hint="to act or behave toward" />
+			<Word Data="upper" Hint="higher, as in place" />
+			<Word Data="uncle" Hint="brother of your father" />
+			<Word Data="urban" Hint="of, relating to, or designating a city" />
+			<Word Data="under" Hint="beneath" />
+			<Word Data="union" Hint="the act of uniting two or more things" />
+			<Word Data="until" Hint="up to a point" />
+			<Word Data="usual" Hint="commonly met with or observed in experience; ordinary" />
+			<Word Data="voice" Hint="sound by talking" />
+			<Word Data="video" Hint="series of pictures" />
+			<Word Data="value" Hint="price" />
+			<Word Data="virus" Hint="can infest people or software" />
+			<Word Data="visit" Hint="to go to someone at a place" />
+			<Word Data="vital" Hint="necessary to life" />
+			<Word Data="voter" Hint="a person who votes" />
+			<Word Data="which" Hint="what one of?" />
+			<Word Data="watch" Hint="the lookout, look attentively, or observe" />
+			<Word Data="weigh" Hint="ascertain the force that gravitation " />
+			<Word Data="works" Hint="the sum total of a writer's or artist's achievements" />
+			<Word Data="whose" Hint="the possessive case of who" />
+			<Word Data="worth" Hint="good or important enough to justify" />
+			<Word Data="whole" Hint="comprising the full quantity, amount, extent, number.." />
+			<Word Data="white" Hint="to express or communicate with a pen" />
+			<Word Data="while" Hint="a period or interval of time" />
+			<Word Data="where" Hint="in or at what place, part, point.." />
+			<Word Data="wheel" Hint="a circular frame or disk arranged to vehicles" />
+			<Word Data="worry" Hint="to torment oneself with or suffer" />
+			<Word Data="woman" Hint="female" />
+			<Word Data="would" Hint="a simple past tense and past participle of will" />
+			<Word Data="wound" Hint="an injury" />
+			<Word Data="world" Hint="our surrounding" />
+			<Word Data="wrong" Hint="not being right" />
+			<Word Data="water" Hint="liquid we drink" />
+			<Word Data="write" Hint="to express or communicate in writing" />
+			<Word Data="waste" Hint="to fail or neglect to use" />
+			<Word Data="youth" Hint="the condition of being young " />
+			<Word Data="yield" Hint="to give forth or produce by a natural process " />
+			<Word Data="young" Hint="being youthfull" />
+			<Word Data="yours" Hint="that which belongs to you" />
 		</Difficulty>
 		<Difficulty Level="2">
-			<Word Data="anyway" Hint="" />
-			<Word Data="affect" Hint="" />
-			<Word Data="adjust" Hint="" />
-			<Word Data="afford" Hint="" />
-			<Word Data="attack" Hint="" />
-			<Word Data="advice" Hint="" />
-			<Word Data="affair" Hint="" />
-			<Word Data="agency" Hint="" />
-			<Word Data="always" Hint="" />
-			<Word Data="accept" Hint="" />
-			<Word Data="attach" Hint="" />
-			<Word Data="active" Hint="" />
-			<Word Data="afraid" Hint="" />
-			<Word Data="appear" Hint="" />
-			<Word Data="advise" Hint="" />
-			<Word Data="absorb" Hint="" />
-			<Word Data="access" Hint="" />
-			<Word Data="accuse" Hint="" />
-			<Word Data="appeal" Hint="" />
-			<Word Data="aspect" Hint="" />
-			<Word Data="arrive" Hint="" />
-			<Word Data="author" Hint="" />
-			<Word Data="anyone" Hint="" />
-			<Word Data="answer" Hint="" />
-			<Word Data="admire" Hint="" />
-			<Word Data="abroad" Hint="" />
-			<Word Data="assume" Hint="" />
-			<Word Data="action" Hint="" />
-			<Word Data="actual" Hint="" />
-			<Word Data="across" Hint="" />
-			<Word Data="asleep" Hint="" />
-			<Word Data="agenda" Hint="" />
-			<Word Data="amount" Hint="" />
-			<Word Data="animal" Hint="" />
-			<Word Data="almost" Hint="" />
-			<Word Data="attend" Hint="" />
-			<Word Data="around" Hint="" />
-			<Word Data="assign" Hint="" />
-			<Word Data="artist" Hint="" />
-			<Word Data="assure" Hint="" />
-			<Word Data="assist" Hint="" />
-			<Word Data="assess" Hint="" />
-			<Word Data="assert" Hint="" />
-			<Word Data="arrest" Hint="" />
-			<Word Data="annual" Hint="" />
-			<Word Data="branch" Hint="" />
-			<Word Data="beyond" Hint="" />
-			<Word Data="behind" Hint="" />
-			<Word Data="become" Hint="" />
-			<Word Data="bright" Hint="" />
-			<Word Data="basket" Hint="" />
-			<Word Data="broken" Hint="" />
-			<Word Data="breath" Hint="" />
-			<Word Data="bother" Hint="" />
-			<Word Data="borrow" Hint="" />
-			<Word Data="barely" Hint="" />
-			<Word Data="beauty" Hint="" />
-			<Word Data="before" Hint="" />
-			<Word Data="belief" Hint="" />
-			<Word Data="bridge" Hint="" />
-			<Word Data="bottom" Hint="" />
-			<Word Data="budget" Hint="" />
-			<Word Data="belong" Hint="" />
-			<Word Data="border" Hint="" />
-			<Word Data="burden" Hint="" />
-			<Word Data="beside" Hint="" />
-			<Word Data="butter" Hint="" />
-			<Word Data="bullet" Hint="" />
-			<Word Data="barrel" Hint="" />
-			<Word Data="battle" Hint="" />
-			<Word Data="better" Hint="" />
-			<Word Data="breast" Hint="" />
-			<Word Data="bottle" Hint="" />
-			<Word Data="button" Hint="" />
-			<Word Data="church" Hint="" />
-			<Word Data="coffee" Hint="" />
-			<Word Data="comedy" Hint="" />
-			<Word Data="chance" Hint="" />
-			<Word Data="choice" Hint="" />
-			<Word Data="common" Hint="" />
-			<Word Data="commit" Hint="" />
-			<Word Data="change" Hint="" />
-			<Word Data="charge" Hint="" />
-			<Word Data="campus" Hint="" />
-			<Word Data="cookie" Hint="" />
-			<Word Data="choose" Hint="" />
-			<Word Data="cheese" Hint="" />
-			<Word Data="county" Hint="" />
-			<Word Data="couple" Hint="" />
-			<Word Data="critic" Hint="" />
-			<Word Data="column" Hint="" />
-			<Word Data="camera" Hint="" />
-			<Word Data="custom" Hint="" />
-			<Word Data="cancer" Hint="" />
-			<Word Data="carbon" Hint="" />
-			<Word Data="circle" Hint="" />
-			<Word Data="clinic" Hint="" />
-			<Word Data="credit" Hint="" />
-			<Word Data="center" Hint="" />
-			<Word Data="crisis" Hint="" />
-			<Word Data="create" Hint="" />
-			<Word Data="cousin" Hint="" />
-			<Word Data="course" Hint="" />
-			<Word Data="client" Hint="" />
-			<Word Data="career" Hint="" />
-			<Word Data="corner" Hint="" />
-			<Word Data="closer" Hint="" />
-			<Word Data="differ" Hint="" />
-			<Word Data="deputy" Hint="" />
-			<Word Data="device" Hint="" />
-			<Word Data="deeply" Hint="" />
-			<Word Data="divide" Hint="" />
-			<Word Data="defend" Hint="" />
-			<Word Data="depict" Hint="" />
-			<Word Data="depend" Hint="" />
-			<Word Data="damage" Hint="" />
-			<Word Data="derive" Hint="" />
-			<Word Data="demand" Hint="" />
-			<Word Data="devote" Hint="" />
-			<Word Data="define" Hint="" />
-			<Word Data="defeat" Hint="" />
-			<Word Data="decide" Hint="" />
-			<Word Data="decade" Hint="" />
-			<Word Data="driver" Hint="" />
-			<Word Data="detect" Hint="" />
-			<Word Data="double" Hint="" />
-			<Word Data="direct" Hint="" />
-			<Word Data="debate" Hint="" />
-			<Word Data="doctor" Hint="" />
-			<Word Data="dining" Hint="" />
-			<Word Data="design" Hint="" />
-			<Word Data="during" Hint="" />
-			<Word Data="degree" Hint="" />
-			<Word Data="danger" Hint="" />
-			<Word Data="detail" Hint="" />
-			<Word Data="desire" Hint="" />
-			<Word Data="dinner" Hint="" />
-			<Word Data="dealer" Hint="" />
-			<Word Data="desert" Hint="" />
-			<Word Data="except" Hint="" />
-			<Word Data="expect" Hint="" />
-			<Word Data="exceed" Hint="" />
-			<Word Data="expand" Hint="" />
-			<Word Data="expose" Hint="" />
-			<Word Data="expert" Hint="" />
-			<Word Data="extend" Hint="" />
-			<Word Data="effect" Hint="" />
-			<Word Data="employ" Hint="" />
-			<Word Data="extent" Hint="" />
-			<Word Data="effort" Hint="" />
-			<Word Data="evolve" Hint="" />
-			<Word Data="ethnic" Hint="" />
-			<Word Data="ethics" Hint="" />
-			<Word Data="enough" Hint="" />
-			<Word Data="escape" Hint="" />
-			<Word Data="energy" Hint="" />
-			<Word Data="easily" Hint="" />
-			<Word Data="either" Hint="" />
-			<Word Data="emerge" Hint="" />
-			<Word Data="enable" Hint="" />
-			<Word Data="engage" Hint="" />
-			<Word Data="editor" Hint="" />
-			<Word Data="engine" Hint="" />
-			<Word Data="estate" Hint="" />
-			<Word Data="ensure" Hint="" />
-			<Word Data="entire" Hint="" />
-			<Word Data="freeze" Hint="" />
-			<Word Data="family" Hint="" />
-			<Word Data="fabric" Hint="" />
-			<Word Data="flight" Hint="" />
-			<Word Data="fourth" Hint="" />
-			<Word Data="follow" Hint="" />
-			<Word Data="flower" Hint="" />
-			<Word Data="flavor" Hint="" />
-			<Word Data="finish" Hint="" />
-			<Word Data="fairly" Hint="" />
-			<Word Data="fellow" Hint="" />
-			<Word Data="father" Hint="" />
-			<Word Data="factor" Hint="" />
-			<Word Data="former" Hint="" />
-			<Word Data="formal" Hint="" />
-			<Word Data="famous" Hint="" />
-			<Word Data="farmer" Hint="" />
-			<Word Data="female" Hint="" />
-			<Word Data="friend" Hint="" />
-			<Word Data="forget" Hint="" />
-			<Word Data="finger" Hint="" />
-			<Word Data="figure" Hint="" />
-			<Word Data="forest" Hint="" />
-			<Word Data="future" Hint="" />
-			<Word Data="galaxy" Hint="" />
-			<Word Data="growth" Hint="" />
-			<Word Data="gifted" Hint="" />
-			<Word Data="guilty" Hint="" />
-			<Word Data="gather" Hint="" />
-			<Word Data="gently" Hint="" />
-			<Word Data="global" Hint="" />
-			<Word Data="glance" Hint="" />
-			<Word Data="garlic" Hint="" />
-			<Word Data="garden" Hint="" />
-			<Word Data="gender" Hint="" />
-			<Word Data="golden" Hint="" />
-			<Word Data="ground" Hint="" />
-			<Word Data="garage" Hint="" />
-			<Word Data="highly" Hint="" />
-			<Word Data="height" Hint="" />
-			<Word Data="happen" Hint="" />
-			<Word Data="hardly" Hint="" />
-			<Word Data="hungry" Hint="" />
-			<Word Data="health" Hint="" />
-			<Word Data="heaven" Hint="" />
-			<Word Data="handle" Hint="" />
-			<Word Data="honest" Hint="" />
-			<Word Data="horror" Hint="" />
-			<Word Data="hunter" Hint="" />
-			<Word Data="injury" Hint="" />
-			<Word Data="impact" Hint="" />
-			<Word Data="inform" Hint="" />
-			<Word Data="impose" Hint="" />
-			<Word Data="income" Hint="" />
-			<Word Data="invite" Hint="" />
-			<Word Data="invest" Hint="" />
-			<Word Data="itself" Hint="" />
-			<Word Data="infant" Hint="" />
-			<Word Data="indeed" Hint="" />
-			<Word Data="inside" Hint="" />
-			<Word Data="intend" Hint="" />
-			<Word Data="island" Hint="" />
-			<Word Data="ignore" Hint="" />
-			<Word Data="insist" Hint="" />
-			<Word Data="jacket" Hint="" />
-			<Word Data="junior" Hint="" />
-			<Word Data="likely" Hint="" />
-			<Word Data="lovely" Hint="" />
-			<Word Data="lawyer" Hint="" />
-			<Word Data="legacy" Hint="" />
-			<Word Data="launch" Hint="" />
-			<Word Data="living" Hint="" />
-			<Word Data="length" Hint="" />
-			<Word Data="locate" Hint="" />
-			<Word Data="legend" Hint="" />
-			<Word Data="league" Hint="" />
-			<Word Data="leader" Hint="" />
-			<Word Data="little" Hint="" />
-			<Word Data="listen" Hint="" />
-			<Word Data="letter" Hint="" />
-			<Word Data="lesson" Hint="" />
-			<Word Data="latter" Hint="" />
-			<Word Data="myself" Hint="" />
-			<Word Data="makeup" Hint="" />
-			<Word Data="memory" Hint="" />
-			<Word Data="method" Hint="" />
-			<Word Data="market" Hint="" />
-			<Word Data="member" Hint="" />
-			<Word Data="mainly" Hint="" />
-			<Word Data="mostly" Hint="" />
-			<Word Data="merely" Hint="" />
-			<Word Data="mother" Hint="" />
-			<Word Data="medium" Hint="" />
-			<Word Data="museum" Hint="" />
-			<Word Data="muscle" Hint="" />
-			<Word Data="moment" Hint="" />
-			<Word Data="middle" Hint="" />
-			<Word Data="murder" Hint="" />
-			<Word Data="manage" Hint="" />
-			<Word Data="modest" Hint="" />
-			<Word Data="modern" Hint="" />
-			<Word Data="margin" Hint="" />
-			<Word Data="manner" Hint="" />
-			<Word Data="mirror" Hint="" />
-			<Word Data="motion" Hint="" />
-			<Word Data="master" Hint="" />
-			<Word Data="matter" Hint="" />
-			<Word Data="mental" Hint="" />
-			<Word Data="mutual" Hint="" />
-			<Word Data="minute" Hint="" />
-			<Word Data="nobody" Hint="" />
-			<Word Data="nearby" Hint="" />
-			<Word Data="number" Hint="" />
-			<Word Data="nearly" Hint="" />
-			<Word Data="native" Hint="" />
-			<Word Data="narrow" Hint="" />
-			<Word Data="normal" Hint="" />
-			<Word Data="notice" Hint="" />
-			<Word Data="nature" Hint="" />
-			<Word Data="nation" Hint="" />
-			<Word Data="notion" Hint="" />
-			<Word Data="object" Hint="" />
-			<Word Data="occupy" Hint="" />
-			<Word Data="office" Hint="" />
-			<Word Data="oppose" Hint="" />
-			<Word Data="others" Hint="" />
-			<Word Data="obtain" Hint="" />
-			<Word Data="option" Hint="" />
-			<Word Data="orange" Hint="" />
-			<Word Data="origin" Hint="" />
-			<Word Data="online" Hint="" />
-			<Word Data="pocket" Hint="" />
-			<Word Data="policy" Hint="" />
-			<Word Data="public" Hint="" />
-			<Word Data="prompt" Hint="" />
-			<Word Data="powder" Hint="" />
-			<Word Data="pepper" Hint="" />
-			<Word Data="prayer" Hint="" />
-			<Word Data="profit" Hint="" />
-			<Word Data="poetry" Hint="" />
-			<Word Data="prefer" Hint="" />
-			<Word Data="plenty" Hint="" />
-			<Word Data="pretty" Hint="" />
-			<Word Data="player" Hint="" />
-			<Word Data="partly" Hint="" />
-			<Word Data="phrase" Hint="" />
-			<Word Data="people" Hint="" />
-			<Word Data="police" Hint="" />
-			<Word Data="permit" Hint="" />
-			<Word Data="proper" Hint="" />
-			<Word Data="period" Hint="" />
-			<Word Data="prison" Hint="" />
-			<Word Data="priest" Hint="" />
-			<Word Data="potato" Hint="" />
-			<Word Data="parent" Hint="" />
-			<Word Data="please" Hint="" />
-			<Word Data="planet" Hint="" />
-			<Word Data="person" Hint="" />
-			<Word Data="pursue" Hint="" />
-			<Word Data="rhythm" Hint="" />
-			<Word Data="reject" Hint="" />
-			<Word Data="review" Hint="" />
-			<Word Data="remove" Hint="" />
-			<Word Data="reform" Hint="" />
-			<Word Data="recipe" Hint="" />
-			<Word Data="rather" Hint="" />
-			<Word Data="rarely" Hint="" />
-			<Word Data="remind" Hint="" />
-			<Word Data="regime" Hint="" />
-			<Word Data="refuse" Hint="" />
-			<Word Data="reduce" Hint="" />
-			<Word Data="record" Hint="" />
-			<Word Data="really" Hint="" />
-			<Word Data="reveal" Hint="" />
-			<Word Data="relief" Hint="" />
-			<Word Data="repeat" Hint="" />
-			<Word Data="remote" Hint="" />
-			<Word Data="report" Hint="" />
-			<Word Data="remain" Hint="" />
-			<Word Data="racial" Hint="" />
-			<Word Data="regard" Hint="" />
-			<Word Data="recent" Hint="" />
-			<Word Data="recall" Hint="" />
-			<Word Data="region" Hint="" />
-			<Word Data="rating" Hint="" />
-			<Word Data="reader" Hint="" />
-			<Word Data="return" Hint="" />
-			<Word Data="retire" Hint="" />
-			<Word Data="retain" Hint="" />
-			<Word Data="result" Hint="" />
-			<Word Data="resort" Hint="" />
-			<Word Data="resist" Hint="" />
-			<Word Data="reason" Hint="" />
-			<Word Data="relate" Hint="" />
-			<Word Data="square" Hint="" />
-			<Word Data="switch" Hint="" />
-			<Word Data="scheme" Hint="" />
-			<Word Data="simply" Hint="" />
-			<Word Data="shadow" Hint="" />
-			<Word Data="speech" Hint="" />
-			<Word Data="symbol" Hint="" />
-			<Word Data="supply" Hint="" />
-			<Word Data="slowly" Hint="" />
-			<Word Data="suffer" Hint="" />
-			<Word Data="shower" Hint="" />
-			<Word Data="safety" Hint="" />
-			<Word Data="survey" Hint="" />
-			<Word Data="search" Hint="" />
-			<Word Data="system" Hint="" />
-			<Word Data="school" Hint="" />
-			<Word Data="smooth" Hint="" />
-			<Word Data="simple" Hint="" />
-			<Word Data="steady" Hint="" />
-			<Word Data="slight" Hint="" />
-			<Word Data="should" Hint="" />
-			<Word Data="soccer" Hint="" />
-			<Word Data="stroke" Hint="" />
-			<Word Data="strike" Hint="" />
-			<Word Data="submit" Hint="" />
-			<Word Data="scream" Hint="" />
-			<Word Data="summer" Hint="" />
-			<Word Data="summit" Hint="" />
-			<Word Data="sample" Hint="" />
-			<Word Data="script" Hint="" />
-			<Word Data="saving" Hint="" />
-			<Word Data="spread" Hint="" />
-			<Word Data="surely" Hint="" />
-			<Word Data="stupid" Hint="" />
-			<Word Data="sacred" Hint="" />
-			<Word Data="spring" Hint="" />
-			<Word Data="scared" Hint="" />
-			<Word Data="second" Hint="" />
-			<Word Data="salary" Hint="" />
-			<Word Data="severe" Hint="" />
-			<Word Data="stream" Hint="" />
-			<Word Data="spirit" Hint="" />
-			<Word Data="secure" Hint="" />
-			<Word Data="sector" Hint="" />
-			<Word Data="sudden" Hint="" />
-			<Word Data="secret" Hint="" />
-			<Word Data="source" Hint="" />
-			<Word Data="stable" Hint="" />
-			<Word Data="screen" Hint="" />
-			<Word Data="social" Hint="" />
-			<Word Data="select" Hint="" />
-			<Word Data="single" Hint="" />
-			<Word Data="studio" Hint="" />
-			<Word Data="strong" Hint="" />
-			<Word Data="signal" Hint="" />
-			<Word Data="singer" Hint="" />
-			<Word Data="string" Hint="" />
-			<Word Data="sister" Hint="" />
-			<Word Data="stress" Hint="" />
-			<Word Data="settle" Hint="" />
-			<Word Data="silent" Hint="" />
-			<Word Data="status" Hint="" />
-			<Word Data="season" Hint="" />
-			<Word Data="senior" Hint="" />
-			<Word Data="series" Hint="" />
-			<Word Data="street" Hint="" />
-			<Word Data="thanks" Hint="" />
-			<Word Data="though" Hint="" />
-			<Word Data="twenty" Hint="" />
-			<Word Data="twelve" Hint="" />
-			<Word Data="ticket" Hint="" />
-			<Word Data="theory" Hint="" />
-			<Word Data="thirty" Hint="" />
-			<Word Data="toward" Hint="" />
-			<Word Data="tactic" Hint="" />
-			<Word Data="threat" Hint="" />
-			<Word Data="treaty" Hint="" />
-			<Word Data="travel" Hint="" />
-			<Word Data="throat" Hint="" />
-			<Word Data="tomato" Hint="" />
-			<Word Data="tongue" Hint="" />
-			<Word Data="target" Hint="" />
-			<Word Data="tissue" Hint="" />
-			<Word Data="tennis" Hint="" />
-			<Word Data="terror" Hint="" />
-			<Word Data="tunnel" Hint="" />
-			<Word Data="talent" Hint="" />
-			<Word Data="unique" Hint="" />
-			<Word Data="unlike" Hint="" />
-			<Word Data="useful" Hint="" />
-			<Word Data="unable" Hint="" />
-			<Word Data="united" Hint="" />
-			<Word Data="unless" Hint="" />
-			<Word Data="victim" Hint="" />
-			<Word Data="valley" Hint="" />
-			<Word Data="viewer" Hint="" />
-			<Word Data="volume" Hint="" />
-			<Word Data="versus" Hint="" />
-			<Word Data="vessel" Hint="" />
-			<Word Data="virtue" Hint="" />
-			<Word Data="vision" Hint="" />
-			<Word Data="visual" Hint="" />
-			<Word Data="weekly" Hint="" />
-			<Word Data="window" Hint="" />
-			<Word Data="weight" Hint="" />
-			<Word Data="widely" Hint="" />
-			<Word Data="worker" Hint="" />
-			<Word Data="wealth" Hint="" />
-			<Word Data="within" Hint="" />
-			<Word Data="wisdom" Hint="" />
-			<Word Data="wooden" Hint="" />
-			<Word Data="wander" Hint="" />
-			<Word Data="wonder" Hint="" />
-			<Word Data="winter" Hint="" />
-			<Word Data="winner" Hint="" />
-			<Word Data="writer" Hint="" />
-			<Word Data="yellow" Hint="" />
+			<Word Data="anyway" Hint="in any case; anyhow; nonetheless; regardless;" />
+			<Word Data="affect" Hint="to act on; produce an effect or change in" />
+			<Word Data="adjust" Hint="to change (something) so that it fits" />
+			<Word Data="afford" Hint="to be able to do or bear without consequence" />
+			<Word Data="attack" Hint="to set upon in a forceful, violent or aggressive way" />
+			<Word Data="advice" Hint="an opinion or recommendation offered as a guide" />
+			<Word Data="affair" Hint="a personal concern; a special function, business " />
+			<Word Data="agency" Hint="an organization or bureau that provides a service" />
+			<Word Data="always" Hint="every time; on every occasion; without exception;" />
+			<Word Data="accept" Hint="to take or receive" />
+			<Word Data="attach" Hint="to fasten or affix; join; connect;" />
+			<Word Data="active" Hint="engaged in action, energetic work; " />
+			<Word Data="afraid" Hint="feeling fear; filled with apprehension;" />
+			<Word Data="appear" Hint="to come into sight; become visible: " />
+			<Word Data="advise" Hint="to recommend as desirable, wise, prudent, etc.:"  />
+			<Word Data="absorb" Hint="to suck up or drink in (a liquid); soak up: " />
+			<Word Data="access" Hint="the ability to approach, enter, speak with, or use" />
+			<Word Data="accuse" Hint="to charge with the fault, offense, or crime" />
+			<Word Data="appeal" Hint="request for aid, support, sympathy, mercy;" />
+			<Word Data="aspect" Hint="appearance to the eye or mind; look: " />
+			<Word Data="arrive" Hint="to come to a certain point in the course of travel; reach one's destination: " />
+			<Word Data="author" Hint="a person who writes a novel, poem, essay, etc;" />
+			<Word Data="anyone" Hint="any person at all; anybody: " />
+			<Word Data="answer" Hint="reply to a question, request, letter, etc.: " />
+			<Word Data="admire" Hint="to regard with wonder, pleasure, or approval." />
+			<Word Data="abroad" Hint="in or to a foreign country or countries: " />
+			<Word Data="assume" Hint="to take for granted or without proof: " />
+			<Word Data="action" Hint="the process or state of acting or of being active: " />
+			<Word Data="actual" Hint="existing in act or fact; real: " />
+			<Word Data="across" Hint="from one side to the other of: " />
+			<Word Data="asleep" Hint="in or into a state of sleep: " />
+			<Word Data="agenda" Hint="a list, plan or the like, of things to be done: " />
+			<Word Data="amount" Hint="the sum total of two or more quantities or sums; aggregate." />
+			<Word Data="animal" Hint="any member of the kingdom Animalia" />
+			<Word Data="almost" Hint="very nearly; all but: " />
+			<Word Data="attend" Hint="to be present at: " />
+			<Word Data="around" Hint="n a circle;to surround a person, thing, etc.: " />
+			<Word Data="assign" Hint="to give or allocate; allot: " />
+			<Word Data="artist" Hint="a person who practices one of the fine arts" />
+			<Word Data="assure" Hint="inform or tell positively; state with confidence to: " />
+			<Word Data="assist" Hint="to give support or aid to; help: " />
+			<Word Data="assess" Hint="to estimate the value as a basis for taxation." />
+			<Word Data="assert" Hint="to state with assurance; state strongly; affirm; " />
+			<Word Data="arrest" Hint="to seize by legal authority or warrant; take into custody: " />
+			<Word Data="annual" Hint="of, for, or pertaining to a year; yearly: " />
+			<Word Data="branch" Hint=" axis of a tree, " />
+			<Word Data="beyond" Hint="on, at, or to the farther side of: " />
+			<Word Data="behind" Hint="at or toward the rear of: " />
+			<Word Data="become" Hint="to come, change, or grow to be " />
+			<Word Data="bright" Hint="radiating or reflecting light; luminous; shining: " />
+			<Word Data="basket" Hint="a container made of twigs" />
+			<Word Data="broken" Hint="reduced to fragments; fragmented." />
+			<Word Data="breath" Hint="the air inhaled and exhaled in respiration" />
+			<Word Data="bother" Hint="a male offspring having both parents in common" />
+			<Word Data="borrow" Hint="to take or obtain with the promise to return it" />
+			<Word Data="barely" Hint="only just; scarcely; no more than; almost not: " />
+			<Word Data="beauty" Hint="the quality present in a thing or person that gives intense pleasure" />
+			<Word Data="before" Hint="previous to; earlier or sooner than: " />
+			<Word Data="belief" Hint="something believed; an opinion or conviction: " />
+			<Word Data="bridge" Hint="a structure spanning and providing passage over a river" />
+			<Word Data="bottom" Hint="the lowest or deepest part of anything, as distinguished from the top: " />
+			<Word Data="budget" Hint="an estimate of expected income and expense for a given period" />
+			<Word Data="belong" Hint="to be in the relation of a member, adherent, inhabitant, etc. " />
+			<Word Data="border" Hint="the part or edge of a surface or area that forms its outer boundary" />
+			<Word Data="burden" Hint="that which is carried; load: " />
+			<Word Data="beside" Hint="by or at the side of; near: " />
+			<Word Data="butter" Hint="the fatty portion of milk" />
+			<Word Data="bullet" Hint="a small metal projectile, part of a cartridge, for firing from small arms" />
+			<Word Data="barrel" Hint="a cylindrical wooden container with slightly bulging sides" />
+			<Word Data="battle" Hint="a hostile encounter" />
+			<Word Data="better" Hint="of superior quality or excellence" />
+			<Word Data="breast" Hint="or the front part of the body from the neck to the abdomen; chest" />
+			<Word Data="bottle" Hint="a portable container for holding liquids" />
+			<Word Data="button" Hint="a small disk, knob, or the like for sewing" />
+			<Word Data="church" Hint="a building for public Christian worship" />
+			<Word Data="coffee" Hint="a beverage made by coffee beans" />
+			<Word Data="comedy" Hint="a play, movie, etc., of light and humor" />
+			<Word Data="chance" Hint="absence of events that can be predicted or controlled: " />
+			<Word Data="choice" Hint="an act or instance of choosing; selection: " />
+			<Word Data="common" Hint="belonging equally to, or shared alike" />
+			<Word Data="commit" Hint="to do; perform; perpetrate:" />
+			<Word Data="change" Hint="to transform or convert " />
+			<Word Data="charge" Hint="to impose or ask as a price or fee: " />
+			<Word Data="campus" Hint="the grounds of a college, university, or school." />
+			<Word Data="cookie" Hint="a small, usually round and flat cake" />
+			<Word Data="choose" Hint="to select from a number of possibilities" />
+			<Word Data="cheese" Hint="product of dairy" />
+			<Word Data="county" Hint="the largest administrative division of a U.S. state: " />
+			<Word Data="couple" Hint="two of the same sort considered together; pair." />
+			<Word Data="critic" Hint="a person who judges, evaluates, or criticizes: " />
+			<Word Data="column" Hint="a decorative pillar" />
+			<Word Data="camera" Hint="a device for capturing a photographic image" />
+			<Word Data="custom" Hint="a habitual practice; the usual way of acting in given circumstances" />
+			<Word Data="cancer" Hint="the fourth sign of the zodiac" />
+			<Word Data="carbon" Hint="In chemistry symbol 'C'" />
+			<Word Data="circle" Hint="a closed plane" />
+			<Word Data="clinic" Hint="a place, as in connection with a medical school or a hospital" />
+			<Word Data="credit" Hint="commendation or honor given for some action, quality, etc.: " />
+			<Word Data="center" Hint="the middle point, as the point within a circle or sphere" />
+			<Word Data="crisis" Hint="a stage of events at which the trend of all future events" />
+			<Word Data="create" Hint="to evolve from one's own thought or imagination" />
+			<Word Data="cousin" Hint="close relative" />
+			<Word Data="course" Hint="a direction or route taken or to be taken" />
+			<Word Data="client" Hint="a customer" />
+			<Word Data="career" Hint="one's lifework: " />
+			<Word Data="corner" Hint="the place at which two converging lines or surfaces meet" />
+			<Word Data="closer" Hint="a person or thing that closes: " />
+			<Word Data="differ" Hint="to be unlike, dissimilar, or distinct" />
+			<Word Data="deputy" Hint="person appointed or authorized to act as for another or others." />
+			<Word Data="device" Hint="an invention or contrivance, especially a mechanical or electrical one." />
+			<Word Data="deeply" Hint="at or to a considerable extent downward;" />
+			<Word Data="divide" Hint="to separate into parts, groups, sections, etc." />
+			<Word Data="defend" Hint="to ward off attack from; guard against assault or injury" />
+			<Word Data="depict" Hint="to represent by painting or other visual image " />
+			<Word Data="depend" Hint="to rely; place trust (usually followed by on or upon): " />
+			<Word Data="damage" Hint="injury or harm that reduces value or usefulness: " />
+			<Word Data="derive" Hint="to receive or obtain from a source or origin " />
+			<Word Data="demand" Hint="to ask for with proper authority; claim as a right: " />
+			<Word Data="devote" Hint="to concentrate on a particular pursuit, purpose, cause, etc.: " />
+			<Word Data="define" Hint="to state or set forth the meaning of (a word, phrase, etc.): " />
+			<Word Data="defeat" Hint="to overcome in a contest, election, battle, etc.; prevail over; vanquish: " />
+			<Word Data="decide" Hint="to solve or conclude by giving victory to one side: " />
+			<Word Data="decade" Hint="a period of ten years: " />
+			<Word Data="driver" Hint="a person or thing that drives." />
+			<Word Data="detect" Hint="to discover or catch in the performance of some act: " />
+			<Word Data="double" Hint="twice as large, heavy, strong, etc.; twofold in size, amount, number, extent, etc.: " />
+			<Word Data="direct" Hint="to manage or guide by advice, helpful information, instruction, etc.: " />
+			<Word Data="debate" Hint="a discussion, as of a public question in an assembly, involving opposing viewpoints: " />
+			<Word Data="doctor" Hint="a person licensed to practice medicine, as a physician, surgeon, dentist, or veterinarian." />
+			<Word Data="dining" Hint="to eat the principal meal of the day; have dinner. " />
+			<Word Data="design" Hint="to plan and fashion artistically or skillfully." />
+			<Word Data="during" Hint="throughout the duration, continuance, or existence of: " />
+			<Word Data="degree" Hint="any of a series of steps or stages, as in a process or course of action; a point in any scale." />
+			<Word Data="danger" Hint="liability or exposure to harm or injury; risk; peril." />
+			<Word Data="detail" Hint="an individual or minute part; an item or particular." />
+			<Word Data="desire" Hint="to wish or long for; crave; want. " />
+			<Word Data="dinner" Hint="the main meal of the day, eaten in the evening or at midday." />
+			<Word Data="dealer" Hint="trader or merchant, especially a wholesaler: " />
+			<Word Data="desert" Hint="a region that is only sand " />
+			<Word Data="except" Hint="with the exclusion of; excluding; save; but: " />
+			<Word Data="expect" Hint="to look forward to; regard as likely to happen; " />
+			<Word Data="exceed" Hint="to go beyond in quantity, degree, rate, etc.: " />
+			<Word Data="expand" Hint="to increase in extent, size, volume, scope, etc.: " />
+			<Word Data="expose" Hint="to lay open to danger, attack, harm, etc.: " />
+			<Word Data="expert" Hint="a person who has special skill or knowledge; specialist;" />
+			<Word Data="extend" Hint="to stretch out; draw out to the full length: " />
+			<Word Data="effect" Hint="something that is produced by an agency or cause; result; consequence: " />
+			<Word Data="employ" Hint="to hire or engage the services of, provide employment for;" />
+			<Word Data="extent" Hint="the space which a thing extends; length, area, volume;" />
+			<Word Data="effort" Hint="exertion of physical or mental power: " />
+			<Word Data="evolve" Hint="to develop gradually: " />
+			<Word Data="ethnic" Hint="moral principles or values of a particular culture or group: " />
+			<Word Data="ethics" Hint="a system of moral principles: " />
+			<Word Data="enough" Hint="adequate for the want or need; sufficient for the purpose or to satisfy desire: " />
+			<Word Data="escape" Hint="to slip or get away" />
+			<Word Data="energy" Hint="the capacity for vigorous activity; available power: " />
+			<Word Data="easily" Hint="in an easy manner; with ease; without trouble: " />
+			<Word Data="either" Hint="one or the other of two: " />
+			<Word Data="emerge" Hint="to come forth into view or notice, as from concealment or obscurity: " />
+			<Word Data="enable" Hint="to make able; give power, means, competence, or ability to: " />
+			<Word Data="engage" Hint="to occupy the attention or efforts of (a person or persons): " />
+			<Word Data="editor" Hint="a person having managerial responsibility" />
+			<Word Data="engine" Hint="a machine for converting thermal energy into mechanical energy" />
+			<Word Data="estate" Hint="property or possessions." />
+			<Word Data="ensure" Hint="to secure or guarantee: " />
+			<Word Data="entire" Hint="having all the parts or elements; whole; complete: " />
+			<Word Data="freeze" Hint="to become hardened into ice" />
+			<Word Data="family" Hint="a group of one or more parents and their children living together as a unit." />
+			<Word Data="fabric" Hint="cloth or other material produced by weaving or knitting fibers." />
+			<Word Data="flight" Hint="the action or process of flying through the air." />
+			<Word Data="fourth" Hint="4th." />
+			<Word Data="follow" Hint="go or come after (a person or thing proceeding ahead) " />
+			<Word Data="flower" Hint="a plant" />
+			<Word Data="flavor" Hint="taste of a food or drink." />
+			<Word Data="finish" Hint="complete." />
+			<Word Data="fairly" Hint="with justice." />
+			<Word Data="fellow" Hint="a man or boy." />
+			<Word Data="father" Hint="a man in relation to his child or children." />
+			<Word Data="factor" Hint="influence that contributes to a result or outcome." />
+			<Word Data="former" Hint="having previously filled a particular role or been a particular thing." />
+			<Word Data="formal" Hint="done in accordance with rules of convention or etiquette. " />
+			<Word Data="famous" Hint="known about by many people." />
+			<Word Data="farmer" Hint="a person who owns or manages a farm." />
+			<Word Data="female" Hint="sex." />
+			<Word Data="friend" Hint="typically exclusive of sexual or family relations." />
+			<Word Data="forget" Hint="fail to remember. " />
+			<Word Data="finger" Hint="part of either hand" />
+			<Word Data="figure" Hint="be a significant and noticeable part of something." />
+			<Word Data="forest" Hint="a large area covered chiefly with trees" />
+			<Word Data="future" Hint="time regarded as still to come." />
+			<Word Data="galaxy" Hint="a system of millions or billions of stars. " />
+			<Word Data="growth" Hint="the process of increasing in physical size." />
+			<Word Data="gifted" Hint="having exceptional talent or natural ability." />
+			<Word Data="guilty" Hint="culpable of or responsible for a specified wrongdoing." />
+			<Word Data="gather" Hint="come together; assemble or accumulate." />
+			<Word Data="gently" Hint="with a mild, kind, or tender manner." />
+			<Word Data="global" Hint="worldwide." />
+			<Word Data="glance" Hint="take a brief or hurried look." />
+			<Word Data="garlic" Hint="the plant" />
+			<Word Data="garden" Hint="a small piece of ground" />
+			<Word Data="gender" Hint="sex" />
+			<Word Data="golden" Hint="aureate" />
+			<Word Data="ground" Hint="the solid surface of the earth." />
+			<Word Data="garage" Hint="a building for housing a motor vehicle or vehicles." />
+			<Word Data="highly" Hint="to a high degree or level." />
+			<Word Data="height" Hint="the measurement from base to top " />
+			<Word Data="happen" Hint="take place; occur." />
+			<Word Data="hardly" Hint="scarcely" />
+			<Word Data="hungry" Hint="feeling or displaying the need for food." />
+			<Word Data="health" Hint="the state of being free from illness or injury." />
+			<Word Data="heaven" Hint="depicted as being above the sky." />
+			<Word Data="handle" Hint="feel or manipulate with the hands." />
+			<Word Data="honest" Hint="free of deceit and untruthfulness; sincere." />
+			<Word Data="horror" Hint="an intense feeling of fear, shock, or disgust." />
+			<Word Data="hunter" Hint="a person or animal that hunts." />
+			<Word Data="injury" Hint="damage to a person's feelings." />
+			<Word Data="impact" Hint="the action of one object coming forcibly into contact with another." />
+			<Word Data="inform" Hint="give an essential or formative principle or quality to." />
+			<Word Data="impose" Hint="force " />
+			<Word Data="income" Hint="gain" />
+			<Word Data="invite" Hint="make a polite, formal, or friendly request to someone" />
+			<Word Data="invest" Hint="develop a commercial venture." />
+			<Word Data="itself" Hint="used to emphasize a particular thing or animal mentioned." />
+			<Word Data="infant" Hint="a very young child or baby." />
+			<Word Data="indeed" Hint="really" />
+			<Word Data="inside" Hint="the inner side or surface of something." />
+			<Word Data="intend" Hint="plan." />
+			<Word Data="island" Hint="a piece of land surrounded by water." />
+			<Word Data="ignore" Hint="disregard intentionally." />
+			<Word Data="insist" Hint="demand something forcefully, not accepting refusal." />
+			<Word Data="jacket" Hint="typically having sleeves and a fastening down the front." />
+			<Word Data="junior" Hint="younger people." />
+			<Word Data="likely" Hint="probable." />
+			<Word Data="lovely" Hint="exquisitely beautiful." />
+			<Word Data="lawyer" Hint="an attorney or a counselor." />
+			<Word Data="legacy" Hint="an amount of money or property left to someone in a will." />
+			<Word Data="launch" Hint="start or set in motion" />
+			<Word Data="living" Hint="an income sufficient to live on or the means of earning it." />
+			<Word Data="length" Hint="dimensions " />
+			<Word Data="locate" Hint="place or position of." />
+			<Word Data="legend" Hint="a traditional story sometimes popularly regarded as historical but unauthenticated." />
+			<Word Data="league" Hint="championship. " />
+			<Word Data="leader" Hint="manager. " />
+			<Word Data="little" Hint="small in size" />
+			<Word Data="listen" Hint="give one's attention to a sound." />
+			<Word Data="letter" Hint="a written" />
+			<Word Data="lesson" Hint="an amount of teaching given at one time" />
+			<Word Data="latter" Hint="last" />
+			<Word Data="myself" Hint="my normal or customary self: " />
+			<Word Data="makeup" Hint="facial cosmetics, as eye shadow or lipstick." />
+			<Word Data="memory" Hint="the mental capacity recalling or recognizing previous experiences." />
+			<Word Data="method" Hint="a procedure, technique, or way of doing something, especially in accordance with a definite plan: " />
+			<Word Data="market" Hint="an open place or a covered building where buyers and sellers convene for the sale of goods" />
+			<Word Data="member" Hint="a person, animal, plant, group, etc., that is part of a society, party, community, taxon, or other body." />
+			<Word Data="mainly" Hint="chiefly; principally; for the most part; in the main; to the greatest extent: " />
+			<Word Data="mostly" Hint="for the most part; in the main: " />
+			<Word Data="merely" Hint="only as specified and nothing more; simply: " />
+			<Word Data="mother" Hint="a female parent." />
+			<Word Data="medium" Hint="a middle state or condition; mean." />
+			<Word Data="museum" Hint="a building or place where works of art, scientific specimens, or other objects of permanent value are kept and displayed." />
+			<Word Data="muscle" Hint="a tissue composed of cells or fibers, the contraction of which produces movement in the body." />
+			<Word Data="moment" Hint="an indefinitely short period of time; instant: " />
+			<Word Data="middle" Hint="equally distant from the extremes or outer limits; central: " />
+			<Word Data="murder" Hint="The killing of another human being under conditions specifically covered in law." />
+			<Word Data="manage" Hint="to bring about or succeed in accomplishing, sometimes despite difficulty or hardship: " />
+			<Word Data="modest" Hint="free from ostentation or showy extravagance: " />
+			<Word Data="modern" Hint="of or relating to present and recent time; not ancient or remote: " />
+			<Word Data="margin" Hint="the space around the printed or written matter on a page." />
+			<Word Data="manner" Hint="a way of doing, being done, or happening; mode of action, occurrence, etc.: " />
+			<Word Data="mirror" Hint="a reflecting surface, originally of polished metal but now usually of glass with a silvery, metallic, or amalgam backing." />
+			<Word Data="motion" Hint="the action or process of moving or of changing place or position; movement." />
+			<Word Data="master" Hint="a person with the ability or power to use, control, or dispose of something: " />
+			<Word Data="matter" Hint="the substance or substances of which any physical object consists or is composed: " />
+			<Word Data="mental" Hint="of or relating to the mind: " />
+			<Word Data="mutual" Hint="possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal: " />
+			<Word Data="minute" Hint="the sixtieth part (1/60) of an hour; sixty seconds." />
+			<Word Data="nobody" Hint="no person; not anyone; no one: " />
+			<Word Data="nearby" Hint="close at hand; not far off; adjacent; neighboring: " />
+			<Word Data="number" Hint="a numeral or group of numerals." />
+			<Word Data="nearly" Hint="all but; almost: " />
+			<Word Data="native" Hint="being the place or environment in which a person was born or a thing came into being: " />
+			<Word Data="narrow" Hint="of little breadth or width; not broad or wide; not as wide as usual or expected: " />
+			<Word Data="normal" Hint="conforming to the standard or the common type; usual; not abnormal; regular; natural. " />
+			<Word Data="notice" Hint="an announcement or intimation of something impending; warning: " />
+			<Word Data="nature" Hint="the material world, especially as surrounding humankind and existing independently of human activities." />
+			<Word Data="nation" Hint="the territory or country itself: " />
+			<Word Data="notion" Hint="an opinion, view, or belief: " />
+			<Word Data="object" Hint="anything that is visible or tangible and is relatively stable in form." />
+			<Word Data="occupy" Hint="to take or fill up (space, time, etc.): " />
+			<Word Data="office" Hint="a business or professional organization: " />
+			<Word Data="oppose" Hint="to act against or provide resistance to; combat: " />
+			<Word Data="others" Hint="additional or further: " />
+			<Word Data="obtain" Hint="to come into possession of; get, acquire, or procure, as through an effort or by a request: " />
+			<Word Data="option" Hint="the power or right of choosing." />
+			<Word Data="orange" Hint="a globose, reddish-yellow, bitter or sweet, edible citrus fruit." />
+			<Word Data="origin" Hint="something from which anything arises or is derived; source; fountainhead: " />
+			<Word Data="online" Hint="operating under the direct control of, or connected to, a main computer." />
+			<Word Data="pocket" Hint="a shaped piece of fabric attached inside or outside a garment" />
+			<Word Data="policy" Hint="a definite course of action adopted for the sake of expediency, facility, etc.: " />
+			<Word Data="public" Hint="of, relating to, or affecting a population or a community as a whole: " />
+			<Word Data="prompt" Hint="done, performed, delivered, etc., at once or without delay: " />
+			<Word Data="powder" Hint="any solid substance reduced to a state of fine, loose particles by crushing, grinding, disintegration, etc." />
+			<Word Data="pepper" Hint="any plant of the genus Piper.Compare pepper family. " />
+			<Word Data="prayer" Hint="a devout petition to God or an object of worship." />
+			<Word Data="profit" Hint="the monetary surplus left to a producer or employer after deducting wages, rent, cost of raw materials, etc.: " />
+			<Word Data="poetry" Hint="prose with poetic qualities." />
+			<Word Data="prefer" Hint="to set or hold before or above other persons or things in estimation; like better; choose rather than: " />
+			<Word Data="plenty" Hint="a full or abundant supply or amount: " />
+			<Word Data="pretty" Hint="pleasing or attractive to the eye, as by delicacy or gracefulness: " />
+			<Word Data="player" Hint="a person or thing that plays. " />
+			<Word Data="partly" Hint="in part; to some extent or degree; not wholly; partially: " />
+			<Word Data="phrase" Hint="a sequence of two or more words arranged in a grammatical construction and acting as a unit in a sentence." />
+			<Word Data="people" Hint="persons indefinitely or collectively; persons in general: " />
+			<Word Data="police" Hint="Also called police force. an organized civil force for maintaining order, preventing and detecting crime, and enforcing the laws." />
+			<Word Data="permit" Hint="to allow to do something: " />
+			<Word Data="proper" Hint="adapted or appropriate to the purpose or circumstances; fit; suitable: " />
+			<Word Data="period" Hint="any specified division or portion of time: " />
+			<Word Data="prison" Hint="any place of confinement or involuntary restraint." />
+			<Word Data="priest" Hint="a person whose office it is to perform religious rites, and especially to make sacrificial offerings." />
+			<Word Data="potato" Hint="vegetable that grows in the earth" />
+			<Word Data="parent" Hint="a father or a mother." />
+			<Word Data="please" Hint="to act to the pleasure or satisfaction of: " />
+			<Word Data="planet" Hint="a similar body revolving about a star other than the sun." />
+			<Word Data="person" Hint="a human being, whether an adult or child: " />
+			<Word Data="pursue" Hint="to follow in order to overtake, capture, kill, etc.; chase. " />
+			<Word Data="rhythm" Hint="movement or procedure with uniform or patterned recurrence of a beat, accent, or the like." />
+			<Word Data="reject" Hint="to refuse to have, take, recognize, etc.: " />
+			<Word Data="review" Hint="a critical article or report, as in a periodical, on a book, play, recital, or the like; critique; evaluation." />
+			<Word Data="remove" Hint="to move from a place or position; take away or off: " />
+			<Word Data="reform" Hint="the improvement or amendment of what is wrong, corrupt, unsatisfactory, etc.: " />
+			<Word Data="recipe" Hint="a set of instructions for making or preparing something, especially a food dish: " />
+			<Word Data="rather" Hint="in a measure; to a certain extent; somewhat: " />
+			<Word Data="rarely" Hint="on rare occasions; infrequently; seldom: " />
+			<Word Data="remind" Hint="to cause (a person) to remember; cause (a person) to think (of someone or something): " />
+			<Word Data="regime" Hint="a mode or system of rule or government: " />
+			<Word Data="refuse" Hint="to decline to accept (something offered): " />
+			<Word Data="reduce" Hint="to bring down to a smaller extent, size, amount, number, etc.: " />
+			<Word Data="record" Hint="to set down in writing or the like, as for the purpose of preserving evidence." />
+			<Word Data="really" Hint="in reality; actually: " />
+			<Word Data="reveal" Hint="to make known; disclose; divulge: " />
+			<Word Data="relief" Hint="alleviation, ease, or deliverance through the removal of pain, distress, oppression, etc." />
+			<Word Data="repeat" Hint="to say or utter again (something already said): " />
+			<Word Data="remote" Hint="far apart; far distant in space; situated at some distance away: " />
+			<Word Data="report" Hint="an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.: " />
+			<Word Data="remain" Hint="to continue in the same state; continue to be as specified: " />
+			<Word Data="racial" Hint="of or relating to the social construct ofrace: " />
+			<Word Data="regard" Hint="to look upon or think of with a particular feeling: " />
+			<Word Data="recent" Hint="of late occurrence, appearance, or origin; lately happening, done, made, etc.: " />
+			<Word Data="recall" Hint="to bring back from memory; recollect; remember: " />
+			<Word Data="region" Hint="an extensive, continuous part of a surface, space, or body: " />
+			<Word Data="rating" Hint="classification according to grade or rank." />
+			<Word Data="reader" Hint="a person who reads. " />
+			<Word Data="return" Hint="to go or come back, as to a former place, position, or state: " />
+			<Word Data="retire" Hint="to withdraw from one's career, occupation, or office, usually because of age: " />
+			<Word Data="retain" Hint="to keep possession of." />
+			<Word Data="result" Hint="to spring, arise, or proceed as a consequence of actions, circumstances, premises, etc.; be the outcome." />
+			<Word Data="resort" Hint="to have recourse for use, help, or accomplishing something, often as a final available option or resource: " />
+			<Word Data="resist" Hint="to withstand, strive against, or oppose: " />
+			<Word Data="reason" Hint="a basis or cause, as for some belief, action, fact, event, etc.: " />
+			<Word Data="relate" Hint="to tell; give an account of (an event, circumstance, etc.)." />
+			<Word Data="square" Hint="a rectangle having all four sides of equal length." />
+			<Word Data="switch" Hint="a slender, flexible shoot, rod, etc., used especially in whipping or disciplining." />
+			<Word Data="scheme" Hint="a plan, design, or program of action to be followed; project. " />
+			<Word Data="simply" Hint="in a simple manner; clearly and easily." />
+			<Word Data="shadow" Hint="a dark figure or image cast on the ground or some surface by a body intercepting light." />
+			<Word Data="speech" Hint="he faculty or power of speaking; oral communication; ability to express one's thoughts and emotions by speech sounds and gesture: " />
+			<Word Data="symbol" Hint="something used for or regarded as representing something else; a material object representing something, often something immaterial; emblem, token, or sign." />
+			<Word Data="supply" Hint="to furnish or provide (a person, establishment, place, etc.) with what is lacking or requisite: " />
+			<Word Data="slowly" Hint="in a slow manner; at a slow speed: " />
+			<Word Data="suffer" Hint="to undergo or feel pain or distress: " />
+			<Word Data="shower" Hint="a brief fall of rain or, sometimes, of hail or snow." />
+			<Word Data="safety" Hint="the state of being safe; freedom from the occurrence or risk of injury, danger, or loss." />
+			<Word Data="survey" Hint="to take a general or comprehensive view of or appraise, as a situation, area of study, etc." />
+			<Word Data="search" Hint="to go or look through (a place, area, etc.) carefully in order to find something missing or lost: " />
+			<Word Data="system" Hint="an assemblage or combination of things or parts forming a complex or unitary whole: " />
+			<Word Data="school" Hint="an institution where instruction is given, especially to persons under college age: " />
+			<Word Data="smooth" Hint="free from projections or unevenness of surface; not rough: " />
+			<Word Data="simple" Hint="easy to understand, deal with, use, etc.: " />
+			<Word Data="steady" Hint="firmly placed or fixed; stable in position or equilibrium: " />
+			<Word Data="slight" Hint="small in amount, degree, etc.: " />
+			<Word Data="should" Hint="simple past tense of shall. " />
+			<Word Data="soccer" Hint="a form of football played between two teams of 11 players" />
+			<Word Data="stroke" Hint="the act or an instance of striking, as with the fist, a weapon, or a hammer; a blow. " />
+			<Word Data="strike" Hint="to deal a blow or stroke to (a person or thing), as with the fist, a weapon, or a hammer; hit." />
+			<Word Data="submit" Hint="to give over or yield to the power or authority of another (often used reflexively)." />
+			<Word Data="scream" Hint="to utter a loud, sharp, piercing cry." />
+			<Word Data="summer" Hint="a period of hot, usually sunny weather: " />
+			<Word Data="summit" Hint="the highest point of attainment or aspiration: " />
+			<Word Data="sample" Hint="Statistics. a subset of a population: " />
+			<Word Data="script" Hint="the text of a manuscript or document." />
+			<Word Data="saving" Hint="tending or serving to save; rescuing; preserving." />
+			<Word Data="spread" Hint="to draw, stretch, or open out, especially over a flat surface, as something rolled or folded (often followed by out)." />
+			<Word Data="surely" Hint="firmly; unerringly; without missing, slipping, etc." />
+			<Word Data="stupid" Hint="lacking ordinary quickness and keenness of mind; dull. " />
+			<Word Data="sacred" Hint="devoted or dedicated to a deity or to some religious purpose; consecrated. " />
+			<Word Data="spring" Hint="to be released from a constrained position, as by resilient or elastic force or from the action of a spring: " />
+			<Word Data="scared" Hint="filled with fear, terror, or dread, often suddenly; frightened; alarmed:" />
+			<Word Data="second" Hint="next after the first; being the ordinal number for two." />
+			<Word Data="salary" Hint="a fixed compensation periodically paid to a person for regular work or services." />
+			<Word Data="severe" Hint="harsh; unnecessarily extreme: " />
+			<Word Data="stream" Hint="a steady current in water, as in a river or the ocean: " />
+			<Word Data="spirit" Hint="the incorporeal part of humans: " />
+			<Word Data="secure" Hint="free from or not exposed to danger or harm; safe." />
+			<Word Data="sector" Hint="a distinct part, especially of society or of a nation's economy: " />
+			<Word Data="sudden" Hint="happening, coming, made, or done quickly, without warning, or unexpectedly: " />
+			<Word Data="secret" Hint="done, made, or conducted without the knowledge of others: " />
+			<Word Data="source" Hint="any thing or place from which something comes, arises, or is obtained; origin: " />
+			<Word Data="stable" Hint="a building for the lodging and feeding of horses, cattle, etc." />
+			<Word Data="screen" Hint="a movable or fixed device, usually consisting of a covered frame, that provides shelter, serves as a partition, etc." />
+			<Word Data="social" Hint="relating to, devoted to, or characterized by friendly companionship or relations: " />
+			<Word Data="select" Hint="to choose in preference to another or others; pick out." />
+			<Word Data="single" Hint="only one in number; one only; unique; sole: " />
+			<Word Data="studio" Hint="the workroom or atelier of an artist, as a painter or sculptor." />
+			<Word Data="strong" Hint="having, showing, or able to exert great bodily or muscular power; physically vigorous or robust: " />
+			<Word Data="signal" Hint="anything agreed upon or understood as the occasion for concerted action." />
+			<Word Data="singer" Hint="a person who sings, especially a trained or professional vocalist." />
+			<Word Data="string" Hint="a slender cord or thick thread used for binding or tying; line. " />
+			<Word Data="sister" Hint="a female offspring having both parents in common with another offspring; female sibling." />
+			<Word Data="stress" Hint="importance attached to a thing: " />
+			<Word Data="settle" Hint="to appoint, fix, or resolve definitely and conclusively; agree upon (as time, price, or conditions)." />
+			<Word Data="silent" Hint="making no sound; quiet; still: " />
+			<Word Data="status" Hint="the position of an individual in relation to another or others, especially in regard to social or professional standing: " />
+			<Word Data="season" Hint="a period of the year characterized by particular conditions of weather, temperature, etc.: " />
+			<Word Data="senior" Hint="of earlier appointment or admission, as to an office, status, or rank: " />
+			<Word Data="series" Hint="a set, as of coins or stamps." />
+			<Word Data="street" Hint="such a thoroughfare together with adjacent buildings, lots, etc.: " />
+			<Word Data="thanks" Hint="an expression of appreciation or gratitude or an acknowledgment of services or favours given" />
+			<Word Data="though" Hint="even if; granting that (often preceded by even)." />
+			<Word Data="twenty" Hint="a cardinal number, 10 times 2." />
+			<Word Data="twelve" Hint="a cardinal number, 10 plus 2." />
+			<Word Data="ticket" Hint="a summons issued for a traffic or parking violation." />
+			<Word Data="theory" Hint="contemplation or speculation: " />
+			<Word Data="thirty" Hint="a cardinal number, 10 times 3." />
+			<Word Data="toward" Hint="in the direction or vicinity of" />
+			<Word Data="tactic" Hint="a system or a detail of tactics." />
+			<Word Data="threat" Hint="a person or thing that threatens: " />
+			<Word Data="treaty" Hint="any agreement or compact." />
+			<Word Data="travel" Hint="to move or go from one place or point to another." />
+			<Word Data="throat" Hint="the front of the neck below the chin and above the collarbone." />
+			<Word Data="tomato" Hint="red/pink vegetable" />
+			<Word Data="tongue" Hint="usually movable organ in the floor of the mouth in humans and most vertebrates, functioning in eating, in tasting, and, in humans, in speaking." />
+			<Word Data="target" Hint="an object, usually marked with concentric circles, to be aimed at in shooting practice or contests." />
+			<Word Data="tissue" Hint="any of several kinds of soft gauzy papers used for various purposes: " />
+			<Word Data="tennis" Hint="a game played on a rectangular court by two players or two pairs of players equipped with rackets" />
+			<Word Data="terror" Hint="any period of frightful violence or bloodshed " />
+			<Word Data="tunnel" Hint="an underground passage." />
+			<Word Data="talent" Hint="a special natural ability or aptitude: " />
+			<Word Data="unique" Hint="having no like or equal; unparalleled; incomparable: " />
+			<Word Data="unlike" Hint="different, dissimilar, or unequal; not alike: " />
+			<Word Data="useful" Hint="being of use or service; serving some purpose; advantageous, helpful, or of good effect: " />
+			<Word Data="unable" Hint="lacking the necessary power, competence, etc., to accomplish some specified act: " />
+			<Word Data="united" Hint="made into or caused to act as a single entity: " />
+			<Word Data="unless" Hint="except under the circumstances that: " />
+			<Word Data="victim" Hint="a person who suffers from a destructive or injurious action or agency: " />
+			<Word Data="valley" Hint="a low point or interval in any process, representation, or situation." />
+			<Word Data="viewer" Hint="a person or thing that views. " />
+			<Word Data="volume" Hint="one book of a related set or series." />
+			<Word Data="versus" Hint="as compared to or as one of two choices; in contrast with: " />
+			<Word Data="vessel" Hint="a craft for traveling on water, now usually one larger than an ordinary rowboat; a ship or boat." />
+			<Word Data="virtue" Hint="chastity; virginity: " />
+			<Word Data="vision" Hint="the act or power of sensing with the eyes; sight." />
+			<Word Data="visual" Hint="of or relating to seeing or sight: " />
+			<Word Data="weekly" Hint="done, happening, appearing, etc., once a week, or every week: " />
+			<Word Data="window" Hint="the frame, sashes, and panes of glass, or the like, intended to fit such an opening: " />
+			<Word Data="weight" Hint="the amount or quantity of heaviness or mass; amount a thing weighs." />
+			<Word Data="widely" Hint="over a wide space or area: " />
+			<Word Data="worker" Hint="a person or thing that works." />
+			<Word Data="wealth" Hint="an abundance or profusion of anything; plentiful amount: " />
+			<Word Data="within" Hint="in or into the interior or inner part; inside." />
+			<Word Data="wisdom" Hint="scholarly knowledge or learning: " />
+			<Word Data="wooden" Hint="consisting or made of wood;" />
+			<Word Data="wander" Hint="to ramble without a definite purpose or objective; roam, rove, or stray: " />
+			<Word Data="wonder" Hint="to think or speculate curiously: " />
+			<Word Data="winter" Hint="a cold season" />
+			<Word Data="winner" Hint="a person or thing that is marked by consistently or thoroughly excellent quality, performance, etc." />
+			<Word Data="writer" Hint="someone that writes" />
+			<Word Data="yellow" Hint="bright summerlike colour" />
 		</Difficulty>
 	</WordsList>
 </ScrambleWords>

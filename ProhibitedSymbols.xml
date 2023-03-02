@@ -48,7 +48,7 @@
 
 <ProhibitedSymbols Mode="0" AllowSpace="0" CodePage="1252">
 	<Symbols> <!-- This section works in DISALLOW mode -->
-		<Restrict Symbol="%" Chat="1" CharName="1" GuildName="1" />
+		<Restrict Symbol="%" Chat="0" CharName="1" GuildName="1" />
 		<Restrict Symbol="'" Chat="0" CharName="1" GuildName="1" />
 		<Restrict Symbol="." Chat="0" CharName="1" GuildName="1" />
 		<Restrict Symbol=";" Chat="0" CharName="1" GuildName="1" />

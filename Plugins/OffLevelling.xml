@@ -61,8 +61,8 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->	
 
-<OffLevellingSystem Enable="0">
-	<General VipType="0" CoinType="0" CoinValue="100" HitInterval="1000" ChargeInterval="3600" ImmortalToPlayers="1" ImmortalToMonsters="1" MaxDuration="24" MaxVipDuration="48" AutoRepairItems="1" DisconnectAfterDeath="1" ReBuffInterval="10" HealInterval="2" HealHPBelow="0.99" DisableMovement="0" DisableInfoAbovePlayer="0" />
+<OffLevellingSystem Enable="1">
+	<General VipType="0" CoinType="0" CoinValue="1000000" HitInterval="1000" ChargeInterval="3600" ImmortalToPlayers="1" ImmortalToMonsters="1" MaxDuration="24" MaxVipDuration="48" AutoRepairItems="1" DisconnectAfterDeath="1" ReBuffInterval="10" HealInterval="2" HealHPBelow="0.99" DisableMovement="0" DisableInfoAbovePlayer="0" />
 	<Timing StartHour="0" StartMinute="0" EndHour="23" EndMinute="59" />
 		
 	<PickItems Enable="1" PickUpZen="1" PickUpAllExc="1" PickUpAllSocket="1" PickUpAllAncient="1">

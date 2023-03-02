@@ -31,7 +31,7 @@
 	<News ID="0">
 		<Line Number="0" Text="Welcome to" />
 		<Line Number="1" Text="Twilight Mu Online" />
-		<Line Number="2" Text="~! Server !~" />
+		<Line Number="2" Text="Season16 x100 Server" />
 	</News>
 	
 	<News ID="1">
@@ -43,6 +43,6 @@
 	<News ID="2">
 		<Line Number="0" Text="Dont forget to" />
 		<Line Number="1" Text="Vote for us!" />
-		<Line Number="2" Text="and take your rewards." />
+		<Line Number="2" Text="And take your rewards." />
 	</News>
 </NewsSystem>
