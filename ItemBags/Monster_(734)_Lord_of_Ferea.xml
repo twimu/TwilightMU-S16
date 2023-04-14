@@ -15,7 +15,7 @@
 <BagConfig Name="Monster_(734)_Lord_of_Ferea" ItemRate="10000" SetItemRate="0" MasterySetItemInclude="0" MoneyDrop="10000000" IsPentagramForBeginnersDrop="0" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="0" DropRate="0" ItemCat="0" ItemIndex="0" />
 <AddCoin Enable="0" CoinType="0" CoinValue="0" />
-<Ruud GainRate="0" MinValue="1" MaxValue="10" />
+<Ruud GainRate="0" MinValue="1" MaxValue="100" />
 
 <DropAllow DW="1" DK="0" ELF="0" MG="0" DL="0" SU="0" RF="0" GL="0" RW="0" SLA="0" GC="0" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="2000" Count="3">
@@ -129,6 +129,16 @@
 		<Item Cat="12" Index="306" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Runedil's Goldentune Harp -->
 		<Item Cat="12" Index="307" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Lemuria's Orb -->
 		<Item Cat="12" Index="308" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Norrwen's Bloodstring Lyra -->
+	</Drop>
+	<Drop Rate="6000" Count="1">
+		<Item Cat="14" Index="400" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Ruud BOX 10 -->
+	</Drop>
+	<Drop Rate="4000" Count="1">
+		<Item Cat="14" Index="401" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Ruud BOX 50 -->
+	</Drop>
+	<Drop Rate="3500" Count="1">
+		<Item Cat="14" Index="402" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Ruud BOX 100 -->
+		<Item Cat="13" Index="52" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- Condor Flame -->
 	</Drop>
 </DropAllow>
 </ItemBag>

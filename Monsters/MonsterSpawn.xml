@@ -3908,9 +3908,39 @@
 			<Spawn Index="105" Distance="30" StartX="137" StartY="104" Dir="8" />
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn"> <!-- Auto Quest -->
-			<Spawn Index="359" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="3" /> <!-- Twin Tale -->
-			<Spawn Index="358" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="3" /> <!-- Persona -->
-			<Spawn Index="360" Distance="5" StartX="153" StartY="138" EndX="153" EndY="138" Dir="-1" Count="3" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="110" StartY="79" EndX="110" EndY="79" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="110" StartY="79" EndX="99" EndY="79" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="110" StartY="79" EndX="99" EndY="79" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="110" StartY="79" EndX="99" EndY="79" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="127" StartY="97" EndX="127" EndY="97" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="127" StartY="97" EndX="127" EndY="97" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="127" StartY="97" EndX="127" EndY="97" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="126" StartY="71" EndX="126" EndY="71" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="126" StartY="71" EndX="126" EndY="71" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="126" StartY="71" EndX="126" EndY="71" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="165" StartY="97" EndX="165" EndY="97" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="165" StartY="97" EndX="165" EndY="97" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="165" StartY="97" EndX="165" EndY="97" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="127" StartY="171" EndX="127" EndY="171" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="127" StartY="171" EndX="127" EndY="171" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="127" StartY="171" EndX="127" EndY="171" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="196" StartY="127" EndX="196" EndY="127" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="196" StartY="127" EndX="196" EndY="127" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="196" StartY="127" EndX="196" EndY="127" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="150" StartY="158" EndX="150" EndY="158" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="150" StartY="158" EndX="150" EndY="158" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="150" StartY="158" EndX="150" EndY="158" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="136" StartY="148" EndX="136" EndY="148" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="136" StartY="148" EndX="136" EndY="148" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="136" StartY="148" EndX="136" EndY="148" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="120" StartY="128" EndX="120" EndY="128" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="120" StartY="128" EndX="120" EndY="128" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="120" StartY="128" EndX="120" EndY="128" Dir="-1" Count="5" /> <!-- Dreadfear -->
+			<Spawn Index="359" Distance="5" StartX="109" StartY="152" EndX="109" EndY="152" Dir="-1" Count="5" /> <!-- Twin Tale -->
+			<Spawn Index="358" Distance="5" StartX="109" StartY="152" EndX="109" EndY="152" Dir="-1" Count="5" /> <!-- Persona -->
+			<Spawn Index="360" Distance="5" StartX="109" StartY="152" EndX="109" EndY="152" Dir="-1" Count="6" /> <!-- Dreadfear -->
 		</Spot>	
 	</Map>
 	<Map Number="39" Name="Kanturu Refinery Tower">
@@ -9988,6 +10018,95 @@
 			<Spawn Index="833" Distance="4" StartX="202" StartY="40" Dir="-1" Element="2" />
 			<Spawn Index="833" Distance="4" StartX="198" StartY="28" Dir="-1" Element="2" />
 		</Spot>
+		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Spots -->
+			<Spawn Index="832" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="3" Element="1" /> <!-- Spot 1-->
+			<Spawn Index="832" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="3" Element="2" /> <!-- Spot 1  -->
+			<Spawn Index="832" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="3" Element="3" /> <!-- Spot 1  -->
+			<Spawn Index="832" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="3" Element="4" /> <!-- Spot 1  -->
+			<Spawn Index="832" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="3" Element="5" /> <!-- Spot 1  -->
+			<Spawn Index="833" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="2" Element="1" /> <!-- Spot 1  -->
+			<Spawn Index="833" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="2" Element="2" /> <!-- Spot 1  -->
+			<Spawn Index="833" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="2" Element="3" /> <!-- Spot 1  -->
+			<Spawn Index="833" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="2" Element="4" /> <!-- Spot 1  -->
+			<Spawn Index="833" Distance="4" StartX="99" StartY="148" EndX="99" EndY="148" Dir="-1" Count="2" Element="5" /> <!-- Spot 1  -->
+			
+			<Spawn Index="832" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="3" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="832" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="3" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="832" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="3" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="832" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="3" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="832" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="3" Element="5" /> <!-- Spot 2 -->
+			<Spawn Index="833" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="2" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="833" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="2" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="833" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="2" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="833" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="2" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="833" Distance="4" StartX="149" StartY="173" EndX="149" EndY="173" Dir="-1" Count="2" Element="5" /> <!-- Spot 2 -->
+			
+			<Spawn Index="832" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="3" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="3" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="3" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="3" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="3" Element="5" /> <!-- Spot 3 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="2" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="2" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="2" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="2" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="90" EndX="131" EndY="90" Dir="-1" Count="2" Element="5" /> <!-- Spot 3 -->
+			
+			<Spawn Index="832" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="3" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="832" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="3" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="832" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="3" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="832" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="3" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="832" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="3" Element="5" /> <!-- Spot 4 -->
+			<Spawn Index="833" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="2" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="833" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="2" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="833" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="2" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="833" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="2" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="833" Distance="4" StartX="176" StartY="116" EndX="176" EndY="116" Dir="-1" Count="2" Element="5" /> <!-- Spot 4 -->
+
+			<Spawn Index="832" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="3" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="832" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="3" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="832" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="3" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="832" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="3" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="832" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="3" Element="5" /> <!-- Spot 5 -->
+			<Spawn Index="833" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="2" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="833" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="2" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="833" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="2" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="833" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="2" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="833" Distance="4" StartX="95" StartY="37" EndX="95" EndY="37" Dir="-1" Count="2" Element="5" /> <!-- Spot 5 -->
+
+			<Spawn Index="832" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="3" Element="1" /> <!-- Spot 6 -->
+			<Spawn Index="832" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="3" Element="2" /> <!-- Spot 6 -->
+			<Spawn Index="832" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="3" Element="3" /> <!-- Spot 6 -->
+			<Spawn Index="832" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="3" Element="4" /> <!-- Spot 6 -->
+			<Spawn Index="832" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="3" Element="5" /> <!-- Spot 6 -->
+			<Spawn Index="833" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="2" Element="1" /> <!-- Spot 6 -->
+			<Spawn Index="833" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="2" Element="2" /> <!-- Spot 6 -->
+			<Spawn Index="833" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="2" Element="3" /> <!-- Spot 6 -->
+			<Spawn Index="833" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="2" Element="4" /> <!-- Spot 6 -->
+			<Spawn Index="833" Distance="4" StartX="104" StartY="73" EndX="104" EndY="73" Dir="-1" Count="2" Element="5" /> <!-- Spot 6 -->
+
+			<Spawn Index="832" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="3" Element="1" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="3" Element="2" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="3" Element="3" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="3" Element="4" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="3" Element="5" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="2" Element="1" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="2" Element="2" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="2" Element="3" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="2" Element="4" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="131" StartY="185" EndX="131" EndY="185" Dir="-1" Count="2" Element="5" /> <!-- Spot 7 -->
+
+			<Spawn Index="832" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="3" Element="1" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="3" Element="2" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="3" Element="3" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="3" Element="4" /> <!-- Spot 7 -->
+			<Spawn Index="832" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="3" Element="5" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="2" Element="1" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="2" Element="2" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="2" Element="3" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="2" Element="4" /> <!-- Spot 7 -->
+			<Spawn Index="833" Distance="4" StartX="103" StartY="131" EndX="103" EndY="131" Dir="-1" Count="2" Element="5" /> <!-- Spot 7 -->
+		</Spot>
 	</Map>
 	<Map Number="129" Name="Abyss of Atlans 2">
 		<Spot Type="4" Description="Single Point Elemental Monsters">
@@ -10285,6 +10404,63 @@
 			<Spawn Index="835" Distance="4" StartX="137" StartY="100" Dir="-1" Element="4" />
 			<Spawn Index="835" Distance="4" StartX="131" StartY="80" Dir="-1" Element="4" />
 			<Spawn Index="835" Distance="4" StartX="158" StartY="82" Dir="-1" Element="4" />
+		</Spot>
+		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Spots -->
+			<Spawn Index="834" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="3" Element="1" /> <!-- Spot 1 -->
+			<Spawn Index="834" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="3" Element="2" /> <!-- Spot 1 -->
+			<Spawn Index="834" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="3" Element="3" /> <!-- Spot 1 -->
+			<Spawn Index="834" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="3" Element="4" /> <!-- Spot 1 -->
+			<Spawn Index="834" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="3" Element="5" /> <!-- Spot 1 -->
+			<Spawn Index="835" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="2" Element="1" /> <!-- Spot 1 -->
+			<Spawn Index="835" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="2" Element="2" /> <!-- Spot 1 -->
+			<Spawn Index="835" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="2" Element="3" /> <!-- Spot 1 -->
+			<Spawn Index="835" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="2" Element="4" /> <!-- Spot 1 -->
+			<Spawn Index="835" Distance="4" StartX="99" StartY="121" EndX="99" EndY="121" Dir="-1" Count="2" Element="5" /> <!-- Spot 1 -->
+
+			<Spawn Index="834" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="3" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="834" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="3" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="834" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="3" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="834" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="3" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="834" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="3" Element="5" /> <!-- Spot 2 -->
+			<Spawn Index="835" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="2" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="835" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="2" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="835" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="2" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="835" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="2" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="835" Distance="4" StartX="103" StartY="96" EndX="103" EndY="96" Dir="-1" Count="2" Element="5" /> <!-- Spot 2 -->
+
+			<Spawn Index="834" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="3" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="834" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="3" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="834" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="3" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="834" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="3" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="834" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="3" Element="5" /> <!-- Spot 3 -->
+			<Spawn Index="835" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="2" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="835" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="2" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="835" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="2" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="835" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="2" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="835" Distance="4" StartX="164" StartY="110" EndX="164" EndY="110" Dir="-1" Count="2" Element="5" /> <!-- Spot 3 -->
+
+			<Spawn Index="834" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="3" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="834" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="3" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="834" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="3" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="834" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="3" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="834" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="3" Element="5" /> <!-- Spot 4 -->
+			<Spawn Index="835" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="2" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="835" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="2" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="835" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="2" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="835" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="2" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="835" Distance="4" StartX="160" StartY="140" EndX="160" EndY="140" Dir="-1" Count="2" Element="5" /> <!-- Spot 4 -->
+
+			<Spawn Index="834" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="3" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="834" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="3" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="834" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="3" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="834" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="3" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="834" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="3" Element="5" /> <!-- Spot 5 -->
+			<Spawn Index="835" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="2" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="835" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="2" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="835" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="2" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="835" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="2" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="835" Distance="4" StartX="150" StartY="150" EndX="150" EndY="150" Dir="-1" Count="2" Element="5" /> <!-- Spot 5 -->
+
 		</Spot>
 	</Map>
 	<Map Number="130" Name="Abyss of Atlans 3">
@@ -10741,6 +10917,63 @@
 			<Spawn Index="840" Distance="3" StartX="220" StartY="102" Dir="4" Element="4" />
 			<Spawn Index="840" Distance="3" StartX="39" StartY="93" Dir="2" Element="5" />
 			<Spawn Index="840" Distance="3" StartX="80" StartY="218" Dir="2" Element="3" />
+		</Spot>
+		<Spot Type="3" Description="Elemental Monster Spawn"> <!-- Spots -->
+			<Spawn Index="836" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="3" Element="1" /> <!-- Spot 1 -->
+			<Spawn Index="836" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="3" Element="2" /> <!-- Spot 1 -->
+			<Spawn Index="836" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="3" Element="3" /> <!-- Spot 1 -->
+			<Spawn Index="836" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="3" Element="4" /> <!-- Spot 1 -->
+			<Spawn Index="836" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="3" Element="5" /> <!-- Spot 1 -->
+			<Spawn Index="837" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="2" Element="1" /> <!-- Spot 1 -->
+			<Spawn Index="837" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="2" Element="2" /> <!-- Spot 1 -->
+			<Spawn Index="837" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="2" Element="3" /> <!-- Spot 1 -->
+			<Spawn Index="837" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="2" Element="4" /> <!-- Spot 1 -->
+			<Spawn Index="837" Distance="4" StartX="163" StartY="117" EndX="163" EndY="117" Dir="-1" Count="2" Element="5" /> <!-- Spot 1 -->
+
+			<Spawn Index="836" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="3" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="836" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="3" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="836" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="3" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="836" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="3" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="836" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="3" Element="5" /> <!-- Spot 2 -->
+			<Spawn Index="837" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="2" Element="1" /> <!-- Spot 2 -->
+			<Spawn Index="837" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="2" Element="2" /> <!-- Spot 2 -->
+			<Spawn Index="837" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="2" Element="3" /> <!-- Spot 2 -->
+			<Spawn Index="837" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="2" Element="4" /> <!-- Spot 2 -->
+			<Spawn Index="837" Distance="4" StartX="155" StartY="155" EndX="155" EndY="155" Dir="-1" Count="2" Element="5" /> <!-- Spot 2 -->
+
+			<Spawn Index="836" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="3" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="836" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="3" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="836" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="3" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="836" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="3" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="836" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="3" Element="5" /> <!-- Spot 3 -->
+			<Spawn Index="837" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="2" Element="1" /> <!-- Spot 3 -->
+			<Spawn Index="837" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="2" Element="2" /> <!-- Spot 3 -->
+			<Spawn Index="837" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="2" Element="3" /> <!-- Spot 3 -->
+			<Spawn Index="837" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="2" Element="4" /> <!-- Spot 3 -->
+			<Spawn Index="837" Distance="4" StartX="116" StartY="155" EndX="116" EndY="155" Dir="-1" Count="2" Element="5" /> <!-- Spot 3 -->
+
+			<Spawn Index="836" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="3" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="836" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="3" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="836" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="3" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="836" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="3" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="836" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="3" Element="5" /> <!-- Spot 4 -->
+			<Spawn Index="837" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="2" Element="1" /> <!-- Spot 4 -->
+			<Spawn Index="837" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="2" Element="2" /> <!-- Spot 4 -->
+			<Spawn Index="837" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="2" Element="3" /> <!-- Spot 4 -->
+			<Spawn Index="837" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="2" Element="4" /> <!-- Spot 4 -->
+			<Spawn Index="837" Distance="4" StartX="93" StartY="118" EndX="93" EndY="118" Dir="-1" Count="2" Element="5" /> <!-- Spot 4 -->
+
+			<Spawn Index="836" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="3" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="836" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="3" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="836" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="3" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="836" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="3" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="836" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="3" Element="5" /> <!-- Spot 5 -->
+			<Spawn Index="837" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="2" Element="1" /> <!-- Spot 5 -->
+			<Spawn Index="837" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="2" Element="2" /> <!-- Spot 5 -->
+			<Spawn Index="837" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="2" Element="3" /> <!-- Spot 5 -->
+			<Spawn Index="837" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="2" Element="4" /> <!-- Spot 5 -->
+			<Spawn Index="837" Distance="4" StartX="132" StartY="85" EndX="132" EndY="85" Dir="-1" Count="2" Element="5" /> <!-- Spot 5 -->
+
 		</Spot>
 	</Map>
 	<Map Number="131" Name="Scorched Canyon">
