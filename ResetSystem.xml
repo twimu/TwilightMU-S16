@@ -84,36 +84,46 @@
 //
 -->
 
-<ResetSystem Enable="0">
-<Requirements MinLevel="400" Cost="5000000" MultiplyCostPerResets="1" MaxCost="150000000" MaxReset="100" />
-<Settings RemoveEquipment="1" RemoveFromParty="1" EnableMuHelper="0" ClearBuffs="1" ResetStats="0" SaveOldStatPoint="0" ResetMasterLevel="0" MoveToCharSelectWindow="0" StayOnPosition="0" MaxResetPoints="0" />
+<ResetSystem Enable="1">
+<Requirements MinLevel="400" Cost="1000000" MultiplyCostPerResets="0" MaxCost="15000000" MaxReset="99999" />
+<Settings RemoveEquipment="0" RemoveFromParty="0" EnableMuHelper="0" ClearBuffs="1" ResetStats="1" SaveOldStatPoint="0" ResetMasterLevel="0" MoveToCharSelectWindow="1" StayOnPosition="0" MaxResetPoints="0" />
 
 	<DynamicResetRangeList> <!-- First rule that matches player requirements will be applied, therefore order of entries matters -->
-		<Range MinReset="0" MaxReset="10" MilestoneID="0" RewardSetID="0" />
-		<Range MinReset="11" MaxReset="20" MilestoneID="0" RewardSetID="0" />
-		<Range MinReset="21" MaxReset="30" MilestoneID="1" RewardSetID="1" />
-		<Range MinReset="31" MaxReset="40" MilestoneID="1" RewardSetID="1" />
-		<Range MinReset="41" MaxReset="50" MilestoneID="2" RewardSetID="2" />
-		<Range MinReset="51" MaxReset="60" MilestoneID="2" RewardSetID="2" />
-		<Range MinReset="61" MaxReset="70" MilestoneID="3" RewardSetID="3" />
-		<Range MinReset="71" MaxReset="80" MilestoneID="3" RewardSetID="3" />
-		<Range MinReset="81" MaxReset="90" MilestoneID="4" RewardSetID="4" />
-		<Range MinReset="91" MaxReset="MAX" MilestoneID="4" RewardSetID="4" />
+		<Range MinReset="0" MaxReset="100" MilestoneID="0" RewardSetID="0" />
+		<Range MinReset="101" MaxReset="200" MilestoneID="1" RewardSetID="1" />
+		<Range MinReset="201" MaxReset="300" MilestoneID="2" RewardSetID="2" />
+		<Range MinReset="301" MaxReset="400" MilestoneID="3" RewardSetID="3" />
+		<Range MinReset="401" MaxReset="500" MilestoneID="4" RewardSetID="4" />
+		<Range MinReset="501" MaxReset="600" MilestoneID="5" RewardSetID="5" />
+		<Range MinReset="601" MaxReset="700" MilestoneID="6" RewardSetID="6" />
+		<Range MinReset="701" MaxReset="800" MilestoneID="7" RewardSetID="7" />
+		<Range MinReset="801" MaxReset="900" MilestoneID="8" RewardSetID="8" />
+		<Range MinReset="901" MaxReset="MAX" MilestoneID="9" RewardSetID="9" />
 	</DynamicResetRangeList>
 	
 	<RegResetsRewardList> <!-- Item issued to Gremory Case -->
-		<Reward Id="0" WCoin="100" GP="300" Zen="10000" Ruud="70" LevelUpPoints="100" MultiplyPointByReset="1" ContributePoints="5" ItemBagID="300" />
-		<Reward Id="1" WCoin="150" GP="400" Zen="15000" Ruud="130" LevelUpPoints="150" MultiplyPointByReset="1" ContributePoints="10" ItemBagID="300" />
-		<Reward Id="2" WCoin="200" GP="500" Zen="20000" Ruud="180" LevelUpPoints="200" MultiplyPointByReset="1" ContributePoints="15" ItemBagID="300" />
-		<Reward Id="3" WCoin="250" GP="600" Zen="25000" Ruud="230" LevelUpPoints="250" MultiplyPointByReset="1" ContributePoints="20" ItemBagID="300" />
-		<Reward Id="4" WCoin="300" GP="700" Zen="30000" Ruud="280" LevelUpPoints="300" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="300" />
+		<Reward Id="0" WCoin="15" GP="25" Zen="0" Ruud="25" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="5" ItemBagID="-1" />
+		<Reward Id="1" WCoin="20" GP="30" Zen="0" Ruud="30" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="10" ItemBagID="-1" />
+		<Reward Id="2" WCoin="25" GP="35" Zen="0" Ruud="35" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="15" ItemBagID="-1" />
+		<Reward Id="3" WCoin="30" GP="40" Zen="0" Ruud="40" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="20" ItemBagID="-1" />
+		<Reward Id="4" WCoin="35" GP="45" Zen="0" Ruud="45" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
+		<Reward Id="5" WCoin="40" GP="50" Zen="0" Ruud="50" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
+		<Reward Id="6" WCoin="45" GP="55" Zen="0" Ruud="55" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
+		<Reward Id="7" WCoin="50" GP="60" Zen="0" Ruud="60" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
+		<Reward Id="8" WCoin="55" GP="65" Zen="0" Ruud="65" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
+		<Reward Id="9" WCoin="60" GP="70" Zen="0" Ruud="70" LevelUpPoints="400" MultiplyPointByReset="1" ContributePoints="25" ItemBagID="-1" />
 	</RegResetsRewardList>
 	
 	<MilestonesRewardList> <!-- Item issued to Gremory Case -->
-		<Reward Id="0" WCoin="200" GP="600" Zen="20000" Ruud="120" LevelUpPoints="200" ContributePoints="100" ItemBagID="301" />
-		<Reward Id="1" WCoin="300" GP="800" Zen="30000" Ruud="190" LevelUpPoints="270" ContributePoints="120" ItemBagID="301" />
-		<Reward Id="2" WCoin="400" GP="1000" Zen="40000" Ruud="260" LevelUpPoints="340" ContributePoints="150" ItemBagID="301" />
-		<Reward Id="3" WCoin="500" GP="1200" Zen="50000" Ruud="330" LevelUpPoints="410" ContributePoints="170" ItemBagID="301" />
-		<Reward Id="4" WCoin="600" GP="1400" Zen="60000" Ruud="400" LevelUpPoints="480" ContributePoints="200" ItemBagID="301" />
+		<Reward Id="0" WCoin="150" GP="250" Zen="0" Ruud="250" LevelUpPoints="-32400" ContributePoints="5" ItemBagID="301" />
+		<Reward Id="1" WCoin="200" GP="300" Zen="0" Ruud="300" LevelUpPoints="-32000" ContributePoints="10" ItemBagID="301" />
+		<Reward Id="2" WCoin="250" GP="350" Zen="0" Ruud="350" LevelUpPoints="-32000" ContributePoints="15" ItemBagID="301" />
+		<Reward Id="3" WCoin="300" GP="400" Zen="0" Ruud="400" LevelUpPoints="-32000" ContributePoints="20" ItemBagID="301" />
+		<Reward Id="4" WCoin="350" GP="450" Zen="0" Ruud="450" LevelUpPoints="-32000" ContributePoints="25" ItemBagID="301" />
+		<Reward Id="5" WCoin="400" GP="500" Zen="0" Ruud="500" LevelUpPoints="-32000" ContributePoints="30" ItemBagID="301" />
+		<Reward Id="6" WCoin="450" GP="550" Zen="0" Ruud="550" LevelUpPoints="-32000" ContributePoints="35" ItemBagID="301" />
+		<Reward Id="7" WCoin="500" GP="600" Zen="0" Ruud="600" LevelUpPoints="-32000" ContributePoints="40" ItemBagID="301" />
+		<Reward Id="8" WCoin="550" GP="650" Zen="0" Ruud="650" LevelUpPoints="-32000" ContributePoints="45" ItemBagID="301" />
+		<Reward Id="9" WCoin="600" GP="700" Zen="0" Ruud="700" LevelUpPoints="-32000" ContributePoints="50" ItemBagID="301" />
 	</MilestonesRewardList>
 </ResetSystem>

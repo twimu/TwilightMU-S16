@@ -124,6 +124,17 @@
 		<Tag Id="6" MapNumber="34" NPCIndex="240" X="113" Y="56" DisplayType="5" SyncType="1" Name="Safety Guardian" />
 		<!--Kalima 7-->
 		<Tag Id="0" MapNumber="36" NPCIndex="259" X="7" Y="19" DisplayType="4" SyncType="1" Name="Oracle Layla" />
+		<!--Kanturu Ruins-->
+		<Tag Id="2" MapNumber="38" NPCIndex="0" X="108" Y="79" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="3" MapNumber="38" NPCIndex="0" X="138" Y="99" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="5" MapNumber="38" NPCIndex="0" X="118" Y="127" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="6" MapNumber="38" NPCIndex="0" X="108" Y="146" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="8" MapNumber="38" NPCIndex="0" X="125" Y="96" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="38" NPCIndex="0" X="126" Y="70" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="38" NPCIndex="0" X="194" Y="128" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="11" MapNumber="38" NPCIndex="0" X="149" Y="158" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="38" NPCIndex="0" X="137" Y="147" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="13" MapNumber="38" NPCIndex="0" X="166" Y="95" DisplayType="1" SyncType="1" Name="Spot" />
 		<!--Balgass Barracks-->
 		<Tag Id="0" MapNumber="41" NPCIndex="408" X="119" Y="168" DisplayType="2" SyncType="1" Name="Gatekeeper" />
 		<!--Illusion Temple 1-->
