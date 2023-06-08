@@ -294,6 +294,24 @@
 		<Tag Id="4" MapNumber="91" NPCIndex="240" X="50" Y="184" DisplayType="5" SyncType="1" Name="Safety Guardian" />
 		<!--Arka War-->
 		<Tag Id="0" MapNumber="92" NPCIndex="604" X="56" Y="202" DisplayType="2" SyncType="1" Name="Jin" />
+		<!--Debenter-->
+		<Tag Id="1" MapNumber="95" NPCIndex="0" X="35" Y="58" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="2" MapNumber="95" NPCIndex="0" X="36" Y="22" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="3" MapNumber="95" NPCIndex="0" X="59" Y="16" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="4" MapNumber="95" NPCIndex="0" X="84" Y="31" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="5" MapNumber="95" NPCIndex="0" X="89" Y="59" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="6" MapNumber="95" NPCIndex="0" X="118" Y="14" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="7" MapNumber="95" NPCIndex="0" X="116" Y="88" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="8" MapNumber="95" NPCIndex="0" X="150" Y="68" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="95" NPCIndex="0" X="148" Y="43" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="95" NPCIndex="0" X="175" Y="16" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="11" MapNumber="95" NPCIndex="0" X="180" Y="46" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="95" NPCIndex="0" X="170" Y="101" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="13" MapNumber="95" NPCIndex="0" X="204" Y="10" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="14" MapNumber="95" NPCIndex="0" X="206" Y="54" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="15" MapNumber="95" NPCIndex="0" X="192" Y="98" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="16" MapNumber="95" NPCIndex="0" X="240" Y="50" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="17" MapNumber="95" NPCIndex="0" X="235" Y="84" DisplayType="1" SyncType="1" Name="Spot" />
 		<!--Illussion Temple League 1-->
 		<Tag Id="0" MapNumber="98" NPCIndex="658" X="169" Y="84" DisplayType="6" SyncType="0" Name="" />
 		<Tag Id="1" MapNumber="98" NPCIndex="659" X="136" Y="100" DisplayType="6" SyncType="0" Name="" />
@@ -318,6 +336,13 @@
 		<Tag Id="8" MapNumber="99" NPCIndex="666" X="202" Y="66" DisplayType="6" SyncType="0" Name="" />
 		<Tag Id="9" MapNumber="99" NPCIndex="667" X="134" Y="121" DisplayType="6" SyncType="0" Name="" />
 		<Tag Id="10" MapNumber="99" NPCIndex="668" X="207" Y="47" DisplayType="6" SyncType="0" Name="" />
+		<!--Urk Montain 1-->
+		<Tag Id="5" MapNumber="100" NPCIndex="0" X="32" Y="42" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="6" MapNumber="100" NPCIndex="0" X="99" Y="12" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="7" MapNumber="100" NPCIndex="0" X="201" Y="50" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="8" MapNumber="100" NPCIndex="0" X="108" Y="200" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="100" NPCIndex="0" X="183" Y="195" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="100" NPCIndex="0" X="213" Y="215" DisplayType="1" SyncType="1" Name="Spot" />
 		<!--Ferea-->
 		<Tag Id="26" MapNumber="112" NPCIndex="0" X="164" Y="135" DisplayType="1" SyncType="1" Name="Spot" />
 		<Tag Id="0" MapNumber="112" NPCIndex="0" X="232" Y="195" DisplayType="1" SyncType="1" Name="Spot" />
@@ -601,6 +626,29 @@
 		<Tag Id="10" MapNumber="120" NPCIndex="0" X="23" Y="219" DisplayType="1" SyncType="1" Name="Spot" />
 		<Tag Id="11" MapNumber="120" NPCIndex="0" X="168" Y="158" DisplayType="1" SyncType="1" Name="Spot" />
 		<Tag Id="12" MapNumber="120" NPCIndex="0" X="151" Y="75" DisplayType="1" SyncType="1" Name="Spot" />
+		<!--Swamp Of Darkness-->
+		<Tag Id="11" MapNumber="122" NPCIndex="0" X="91" Y="145" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="122" NPCIndex="0" X="54" Y="162" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="13" MapNumber="122" NPCIndex="0" X="84" Y="124" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="14" MapNumber="122" NPCIndex="0" X="99" Y="192" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="15" MapNumber="122" NPCIndex="0" X="127" Y="191" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="16" MapNumber="122" NPCIndex="0" X="124" Y="221" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="17" MapNumber="122" NPCIndex="0" X="129" Y="164" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="18" MapNumber="122" NPCIndex="0" X="149" Y="184" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="19" MapNumber="122" NPCIndex="0" X="225" Y="194" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="20" MapNumber="122" NPCIndex="0" X="216" Y="223" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="21" MapNumber="122" NPCIndex="0" X="176" Y="90" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="22" MapNumber="122" NPCIndex="0" X="230" Y="71" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="23" MapNumber="122" NPCIndex="0" X="235" Y="44" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="24" MapNumber="122" NPCIndex="0" X="239" Y="115" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="25" MapNumber="122" NPCIndex="0" X="221" Y="24" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="26" MapNumber="122" NPCIndex="0" X="143" Y="53" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="27" MapNumber="122" NPCIndex="0" X="152" Y="19" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="28" MapNumber="122" NPCIndex="0" X="126" Y="15" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="29" MapNumber="122" NPCIndex="0" X="103" Y="75" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="30" MapNumber="122" NPCIndex="0" X="78" Y="85" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="31" MapNumber="122" NPCIndex="0" X="90" Y="57" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="32" MapNumber="122" NPCIndex="0" X="51" Y="51" DisplayType="1" SyncType="1" Name="Spot" />
 		<!--Kubera Mine Area 1-->
 		<Tag Id="31" MapNumber="123" NPCIndex="0" X="237" Y="16" DisplayType="1" SyncType="1" Name="Spot" />
 		<Tag Id="32" MapNumber="123" NPCIndex="0" X="225" Y="45" DisplayType="1" SyncType="1" Name="Spot" />
@@ -688,12 +736,111 @@
 		<Tag Id="2" MapNumber="131" NPCIndex="840" X="38" Y="198" DisplayType="1" SyncType="1" Name="Darkness Elite Zone" />
 		<Tag Id="3" MapNumber="131" NPCIndex="840" X="42" Y="117" DisplayType="1" SyncType="1" Name="Wind Elite Zone" />
 		<Tag Id="4" MapNumber="131" NPCIndex="840" X="62" Y="30" DisplayType="1" SyncType="1" Name="Water Elite Zone" />
+		<Tag Id="5" MapNumber="131" NPCIndex="840" X="150" Y="226" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="6" MapNumber="131" NPCIndex="840" X="156" Y="188" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="7" MapNumber="131" NPCIndex="840" X="174" Y="234" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="8" MapNumber="131" NPCIndex="840" X="186" Y="193" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="131" NPCIndex="840" X="70" Y="63" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="131" NPCIndex="840" X="48" Y="78" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="11" MapNumber="131" NPCIndex="840" X="112" Y="56" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="131" NPCIndex="840" X="107" Y="12" DisplayType="1" SyncType="1" Name="Spot" />
+		<!--Red Smoke Icarus-->
+		<Tag Id="5" MapNumber="132" NPCIndex="0" X="170" Y="150" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="6" MapNumber="132" NPCIndex="0" X="199" Y="123" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="7" MapNumber="132" NPCIndex="0" X="190" Y="171" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="8" MapNumber="132" NPCIndex="0" X="209" Y="158" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="132" NPCIndex="0" X="242" Y="143" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="132" NPCIndex="0" X="230" Y="115" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="11" MapNumber="132" NPCIndex="0" X="124" Y="41" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="132" NPCIndex="0" X="149" Y="39" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="13" MapNumber="132" NPCIndex="0" X="154" Y="100" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="14" MapNumber="132" NPCIndex="0" X="199" Y="36" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="15" MapNumber="132" NPCIndex="0" X="195" Y="79" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="16" MapNumber="132" NPCIndex="0" X="221" Y="55" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="17" MapNumber="132" NPCIndex="0" X="58" Y="116" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="18" MapNumber="132" NPCIndex="0" X="95" Y="77" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="19" MapNumber="132" NPCIndex="0" X="49" Y="88" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="20" MapNumber="132" NPCIndex="0" X="125" Y="21" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="21" MapNumber="132" NPCIndex="0" X="79" Y="24" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="22" MapNumber="132" NPCIndex="0" X="55" Y="154" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="23" MapNumber="132" NPCIndex="0" X="103" Y="154" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="24" MapNumber="132" NPCIndex="0" X="62" Y="187" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="25" MapNumber="132" NPCIndex="0" X="107" Y="193" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="26" MapNumber="132" NPCIndex="0" X="84" Y="237" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="27" MapNumber="132" NPCIndex="0" X="56" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="28" MapNumber="132" NPCIndex="0" X="153" Y="166" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="29" MapNumber="132" NPCIndex="0" X="126" Y="190" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="30" MapNumber="132" NPCIndex="0" X="209" Y="188" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="31" MapNumber="132" NPCIndex="0" X="227" Y="205" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="32" MapNumber="132" NPCIndex="0" X="218" Y="226" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="33" MapNumber="132" NPCIndex="0" X="178" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
 		<!--Arenil Temple-->
 		<Tag Id="0" MapNumber="133" NPCIndex="838" X="47" Y="202" DisplayType="1" SyncType="1" Name="Fire - Elite Zone" />
 		<Tag Id="1" MapNumber="133" NPCIndex="838" X="152" Y="130" DisplayType="1" SyncType="1" Name="Water - Elite Zone" />
 		<Tag Id="2" MapNumber="133" NPCIndex="838" X="211" Y="26" DisplayType="1" SyncType="1" Name="Earth - Elite Zone" />
 		<Tag Id="3" MapNumber="133" NPCIndex="838" X="170" Y="216" DisplayType="1" SyncType="1" Name="Wind - Elite Zone" />
 		<Tag Id="4" MapNumber="133" NPCIndex="838" X="60" Y="35" DisplayType="1" SyncType="1" Name="Darkness - Elite Zone" />
+		<Tag Id="8" MapNumber="133" NPCIndex="0" X="98" Y="39" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="9" MapNumber="133" NPCIndex="0" X="97" Y="60" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="10" MapNumber="133" NPCIndex="0" X="73" Y="33" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="11" MapNumber="133" NPCIndex="0" X="81" Y="14" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="12" MapNumber="133" NPCIndex="0" X="97" Y="17" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="13" MapNumber="133" NPCIndex="0" X="43" Y="38" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="14" MapNumber="133" NPCIndex="0" X="64" Y="16" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="15" MapNumber="133" NPCIndex="0" X="39" Y="21" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="16" MapNumber="133" NPCIndex="0" X="40" Y="79" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="17" MapNumber="133" NPCIndex="0" X="44" Y="96" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="18" MapNumber="133" NPCIndex="0" X="57" Y="79" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="19" MapNumber="133" NPCIndex="0" X="85" Y="91" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="20" MapNumber="133" NPCIndex="0" X="122" Y="105" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="21" MapNumber="133" NPCIndex="0" X="114" Y="84" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="22" MapNumber="133" NPCIndex="0" X="58" Y="57" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="23" MapNumber="133" NPCIndex="0" X="159" Y="34" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="25" MapNumber="133" NPCIndex="0" X="172" Y="14" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="26" MapNumber="133" NPCIndex="0" X="166" Y="51" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="27" MapNumber="133" NPCIndex="0" X="189" Y="30" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="28" MapNumber="133" NPCIndex="0" X="194" Y="43" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="29" MapNumber="133" NPCIndex="0" X="180" Y="50" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="30" MapNumber="133" NPCIndex="0" X="182" Y="71" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="31" MapNumber="133" NPCIndex="0" X="161" Y="71" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="32" MapNumber="133" NPCIndex="0" X="205" Y="88" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="33" MapNumber="133" NPCIndex="0" X="231" Y="92" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="34" MapNumber="133" NPCIndex="0" X="218" Y="53" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="35" MapNumber="133" NPCIndex="0" X="238" Y="45" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="36" MapNumber="133" NPCIndex="0" X="218" Y="37" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="37" MapNumber="133" NPCIndex="0" X="202" Y="15" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="38" MapNumber="133" NPCIndex="0" X="148" Y="119" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="39" MapNumber="133" NPCIndex="0" X="168" Y="153" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="40" MapNumber="133" NPCIndex="0" X="212" Y="134" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="41" MapNumber="133" NPCIndex="0" X="194" Y="112" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="42" MapNumber="133" NPCIndex="0" X="181" Y="108" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="43" MapNumber="133" NPCIndex="0" X="125" Y="120" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="44" MapNumber="133" NPCIndex="0" X="90" Y="119" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="45" MapNumber="133" NPCIndex="0" X="72" Y="141" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="46" MapNumber="133" NPCIndex="0" X="71" Y="122" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="47" MapNumber="133" NPCIndex="0" X="55" Y="142" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="48" MapNumber="133" NPCIndex="0" X="54" Y="125" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="49" MapNumber="133" NPCIndex="0" X="159" Y="173" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="50" MapNumber="133" NPCIndex="0" X="193" Y="173" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="51" MapNumber="133" NPCIndex="0" X="235" Y="186" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="52" MapNumber="133" NPCIndex="0" X="228" Y="227" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="53" MapNumber="133" NPCIndex="0" X="213" Y="230" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="54" MapNumber="133" NPCIndex="0" X="196" Y="230" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="55" MapNumber="133" NPCIndex="0" X="202" Y="206" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="56" MapNumber="133" NPCIndex="0" X="201" Y="188" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="57" MapNumber="133" NPCIndex="0" X="192" Y="191" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="58" MapNumber="133" NPCIndex="0" X="179" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="59" MapNumber="133" NPCIndex="0" X="141" Y="241" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="60" MapNumber="133" NPCIndex="0" X="150" Y="218" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="61" MapNumber="133" NPCIndex="0" X="92" Y="175" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="62" MapNumber="133" NPCIndex="0" X="88" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="63" MapNumber="133" NPCIndex="0" X="58" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="64" MapNumber="133" NPCIndex="0" X="59" Y="209" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="65" MapNumber="133" NPCIndex="0" X="36" Y="210" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="66" MapNumber="133" NPCIndex="0" X="34" Y="229" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="67" MapNumber="133" NPCIndex="0" X="49" Y="161" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="68" MapNumber="133" NPCIndex="0" X="63" Y="182" DisplayType="1" SyncType="1" Name="Spot" />
+		<Tag Id="69" MapNumber="133" NPCIndex="0" X="105" Y="157" DisplayType="1" SyncType="1" Name="Spot" />
 	</TypeOne>
 	<TypeTwo>
 		<!--Lorencia-->
